@@ -44,13 +44,13 @@ if ($requestPath === '/content.php') {
     }
 
 
-        // return '/content.php';
-        // return true;
+//         // return '/content.php';
+//         // return true;
 
 }
 
 $title = $siteTitle;
-$menu = menu("perlite/".$rootDir);
+$menu = menu('perlite/'.$rootDir);
 $jsonGraphData = getfullGraph($rootDir);
 
 
@@ -141,7 +141,6 @@ $vite = new Manifest(
 
                     <a href="<?php echo $uriPath ?>"><img src="<?php echo $uriPath ?>logo.svg" height="25" class="logo"
                             alt="Perlite Logo"></a>
-                    <img src="../public/vite.svg">
                     <div class="sidebar-toggle-button mod-left sidebar" aria-label="" aria-label-position="right">
 
 

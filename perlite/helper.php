@@ -197,13 +197,15 @@ function menu($dir, $folder = '')
 
 	// iterate the folders 
 	foreach ($files as $file) {
+		
 		if (is_dir($file)) {
 
 			// check if we want to hide the folder
 			if (isValidFolder($file)) {
-
+				// echo($file);
 				// split Folder Infos
 				$folder = getFolderInfos($file)[0];
+				// echo($folder);
 				$folderClean = getFolderInfos($file)[1];
 				$folderName = getFolderInfos($file)[2];
 				$folderId = str_replace(' ', '_', $folderClean);
@@ -232,8 +234,9 @@ function menu($dir, $folder = '')
 
 	// iterate the files 
 	foreach ($files as $file) {
-		if (isMDFile($file)) {
 
+		if (isMDFile($file)) {
+			$file = str_replace("perlite/", "", $file);
 			$path = getFileInfos($file)[0];
 			$mdFile = getFileInfos($file)[1];
 

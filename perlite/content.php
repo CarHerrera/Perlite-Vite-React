@@ -72,7 +72,7 @@ function parseContent($requestFile)
 	$cleanFile = '';
 
 	// call menu again to refresh the array
-	menu($rootDir);
+	menu('perlite/'.$rootDir);
 	$path = '';
 
 
