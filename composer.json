@@ -1,0 +1,39 @@
+{
+    "name": "carlos/perltie-vite-demo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Carlos",
+            "email": "herrera4345@gmail.com"
+        }
+    ],
+    "scripts": {
+        "_comment": [
+            "if you copy from this file, please note that the built-in `php -S` server is for development/testing only",
+            "in a real-world scenario, use a proper web-server, such as Nginx, Caddy, Apache, etc."
+        ],
+        "build": [
+            "npm run build"
+        ],
+        "start": [
+            "npx concurrently \"composer start:server\" \"composer start:vite\" --names \"PHP,Vite\" --kill-others"
+        ],
+        "start:server": "@php -S localhost:8001 -t public perlite/index.php",
+        "start:vite": "npm run dev",
+        "preview": [
+            "composer build",
+            "APP_ENV=production composer start:server"
+        ],
+        "post-install-cmd": "npm ci"
+    },
+    "scripts-descriptions": {
+        "start": "Run PHP server and Vite for development",
+        "preview": "Build production assets and run the PHP server",
+        "build": "Build deployment-ready assets for production"
+    },
+    "config": {
+       "preferred-install": "dist",
+       "process-timeout": 0
+    },
+    "require": {}
+}
