@@ -669,9 +669,7 @@ $tags = $vite->createTags('main.tsx');
                                                     <div class="markdown-preview-pusher"
                                                         style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
                                                     <div class="inline-title" tabindex="-1" enterkeyhint="done"></div>
-                                                    <div id="mdContent">
-                                                    </div>
-                                                    <div id="app"> <?php echo dirname(__DIR__)  ?> </div>
+                                                    <div id="mdContent"></div>
                                                     <div class="graph-controls is-close">
                                                         <div class="clickable-icon graph-controls-button mod-close"
                                                             aria-label="Close"><svg xmlns="http://www.w3.org/2000/svg"
@@ -728,7 +726,7 @@ $tags = $vite->createTags('main.tsx');
                                                 </div>
                                             </div>
                                         </div>
-                                        <!-- <div id="app" style="display:none"></div> -->
+                                        <div id="app" style="display:none"></div>
                                     </div>
                                 </div>
                             </div>
@@ -1117,6 +1115,6 @@ $tags = $vite->createTags('main.tsx');
 
     </div>
     <script src="<?php echo $uriPath ?>.js/perlite.js"></script>
+    <?= $tags->js ?>
 </body>
-<?= $tags->js ?>
 </html>

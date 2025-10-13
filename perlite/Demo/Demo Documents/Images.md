@@ -20,7 +20,7 @@ Right aligned image with a custom size
 
 webp Image
 
-![[docs/aufbau.webp]]
+![[aufbau.webp]]
 
 internal image + link to external source
 

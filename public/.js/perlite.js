@@ -108,7 +108,7 @@ function scrollToAnchor(aid) {
  * @param {String} anchor
  */
 function getContent(str, home = false, popHover = false, anchor = "") {
-
+  console.log(str);
   // reset content if request is empty
   if (str.length == 0) {
     document.getElementById("mdContent").innerHTML = "";
@@ -117,7 +117,30 @@ function getContent(str, home = false, popHover = false, anchor = "") {
   } else {
 
     requestPath = uriPath + "content.php?mdfile=" + str;
-
+    let excal = false;
+    let draw = document.querySelector("#app");
+    let middle = document.querySelector("#middlePane");
+    if(str.includes("excalidraw")){
+      console.log(str.includes("excalidraw"));
+      middle.style.display = "none";
+      draw.style.display = "block";
+      excal = true;
+      req = "/excal.php?mdfile=" + str;
+      localStorage.setItem("drawing", req);
+      window.dispatchEvent(new Event('storage'));
+    } else {
+      let draw = document.querySelector("#app");
+      localStorage.setItem("drawing", "f");
+      window.dispatchEvent(new Event('storage'));
+      draw.style.display = "none";
+      middle.style.display = "block";
+      
+    }
+    if(excal) { 
+      target = slugURL(str)
+      window.history.pushState({}, "", location.protocol + '//' + location.host + uriPath + target + anchor);
+      return;
+    }
     if (home) {
       if ($("div.no-mobile").css("display") == "none") {
         return
@@ -1089,7 +1112,7 @@ $(document).ready(function () {
 
   // load settings from storage
   // ----------------------------------------
-
+  localStorage.setItem("drawing", "");
   // text size
   if (localStorage.getItem('Font_size')) {
     $('body').css('--font-text-size', localStorage.getItem('Font_size') + 'px');

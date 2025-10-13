@@ -37,5 +37,5 @@ export default defineConfig({
 
     }
   },
-  plugins: [react({ reactRefreshHost: `http://localhost:8000/${DIST_DIR}` })],
+  plugins: [react()],
 })
