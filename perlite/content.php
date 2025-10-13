@@ -66,7 +66,12 @@ function parseContent($requestFile)
 	global $relPathes;
 
 
-	$Parsedown = new PerliteParsedown();
+	if(str_contains($requestFile, "Excalidraw")){
+		$Parsedown = new PerliteParsedown(1);
+	} else {
+		$Parsedown = new PerliteParsedown(0);
+	}
+	
 	$Parsedown->setSafeMode($htmlSafeMode);
 	$Parsedown->setBreaksEnabled($lineBreaks);
 	$cleanFile = '';

@@ -12,9 +12,10 @@ use Parsedown;
 
 class PerliteParsedown extends Parsedown
 {
-
-    public function __construct()
+    public $excal;
+    public function __construct($exc)
     {
+        $this->excal = $exc;
         $this->BlockTypes['!'] = array('YouTube');
     }
 
@@ -52,8 +53,13 @@ class PerliteParsedown extends Parsedown
         }
 
         # iterate through lines to identify blocks
-        $markup = $this->lines($lines);
-
+        if ($this->excal == 1){
+            $markup = '';
+            return $markup;
+        } else {
+            $markup = $this->lines($lines);
+        }
+        
         # add front matter
         $markup = $parsedYamlBlockText . $markup;
         # trim line breaks
@@ -143,8 +149,35 @@ class PerliteParsedown extends Parsedown
                 }
                 $yamlText .= '</div></div></div>';
             }
+	# Check for properties
+	    if (count($parsed) > 0){
+		foreach ($parsed as $property => $value){
 
+            if ($property == "tags" || $property == "aliases"){
+                continue;
+            }
+			$yamlText .= '<div class="metadata-property" tabindex="0" data-property-key="tags" data-property-type="multitext">';
+			$yamlText .=   
+				'<div class="metadata-property-key">                		
+					<span class="metadata-text">'. $property .'</span>
+           			</div>';
+			if(str_contains($value, 'youtu')){
+				$yamlText .= 
+					'<div class="metadata-property-value">
+			                	<div class="multi-select-container">	
+							<div class="multi-select-pill multi-select-pill-content">
+								<a target="_blank" href="'. $value .'">'.$value.'</a></div>';				
+			} else {
+				$yamlText .= 
+					'<div class="metadata-property-value">
+			                	<div class="multi-select-container">	
+							<div class="multi-select-pill multi-select-pill-content">' . $value . '</div>';				
+			}
 
+			$yamlText .= '</div></div></div>';
+		}
+
+	    }
             $yamlText .= '</div></div></div></div></div>';
             return $yamlText;
         }

@@ -1,14 +1,15 @@
 import { defineConfig } from 'vite'
-import * as path from 'path';
 import react from '@vitejs/plugin-react'
+// import  '@vitejs/plugin-react/preamble'
+import * as path from 'path';
 
 // https://vite.dev/config/
 const CLIENT_DIR = "client"; // Directory where the client-side code (entry points and assets) are located
 const PUBLIC_DIR = "public"; // Directory from which the server serves static files
 const DIST_DIR = "dist"; // Directory where the built files are output (relative to PUBLIC_DIR)
-
+// console.log(__dirname);
 export default defineConfig({
-    root: path.resolve(__dirname, CLIENT_DIR), // root directory for the client-side source code
+  root: path.resolve(__dirname, CLIENT_DIR), // root directory for the client-side source code
   base: `/${DIST_DIR}/`, // in dev, Vite serves files from here - in production, the server serves production files from here
   build: {
     outDir: path.resolve(__dirname, PUBLIC_DIR, DIST_DIR),
@@ -36,5 +37,5 @@ export default defineConfig({
 
     }
   },
-  plugins: [react()],
+  plugins: [react({ reactRefreshHost: `http://localhost:8000/${DIST_DIR}` })],
 })

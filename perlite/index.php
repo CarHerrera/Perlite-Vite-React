@@ -58,8 +58,10 @@ $jsonGraphData = getfullGraph($rootDir);
 $vite = new Manifest(
     manifest_path: dirname(__DIR__) . '/public/dist/.vite/manifest.json',
     base_path: '/dist/',
-    dev: getenv('APP_ENV') !== 'production'
+    dev: true
 );
+
+$tags = $vite->createTags('main.tsx');
 ?>
 <!DOCTYPE html>
 <html>
@@ -93,8 +95,15 @@ $vite = new Manifest(
     <script src="<?php echo $uriPath ?>.js/vis-network.min.js"></script>
     <!-- <script src=".js/mermaid.min.js"></script> -->
     <script src="https://cdn.jsdelivr.net/npm/mermaid@11.6.0/dist/mermaid.min.js"></script>
-
-
+    <?= $tags->preload ?>
+    <?= $tags->css ?>
+    <script type="module">
+        import RefreshRuntime from 'http://localhost:8000/dist/@react-refresh'
+        RefreshRuntime.injectIntoGlobalHook(window)
+        window.$RefreshReg$ = () => {}
+        window.$RefreshSig$ = () => (type) => type
+        window.__vite_plugin_react_preamble_installed__ = true
+    </script>
 </head>
 
 <body
@@ -652,7 +661,7 @@ $vite = new Manifest(
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="markdown-reading-view" style="width: 100%; height: 100%; ">
+                                        <div id="middlePane" class="markdown-reading-view" style="width: 100%; height: 100%; ">
                                             <div class="markdown-preview-view markdown-rendered node-insert-event allow-fold-headings show-indentation-guide allow-fold-lists"
                                                 style="tab-size: 4;">
                                                 <div class="markdown-preview-sizer markdown-preview-section"
@@ -660,7 +669,9 @@ $vite = new Manifest(
                                                     <div class="markdown-preview-pusher"
                                                         style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
                                                     <div class="inline-title" tabindex="-1" enterkeyhint="done"></div>
-                                                    <div id="mdContent"></div>
+                                                    <div id="mdContent">
+                                                    </div>
+                                                    <div id="app"> <?php echo dirname(__DIR__)  ?> </div>
                                                     <div class="graph-controls is-close">
                                                         <div class="clickable-icon graph-controls-button mod-close"
                                                             aria-label="Close"><svg xmlns="http://www.w3.org/2000/svg"
@@ -717,6 +728,7 @@ $vite = new Manifest(
                                                 </div>
                                             </div>
                                         </div>
+                                        <!-- <div id="app" style="display:none"></div> -->
                                     </div>
                                 </div>
                             </div>
@@ -1106,5 +1118,5 @@ $vite = new Manifest(
     </div>
     <script src="<?php echo $uriPath ?>.js/perlite.js"></script>
 </body>
-
+<?= $tags->js ?>
 </html>
