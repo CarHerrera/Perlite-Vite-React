@@ -10,7 +10,7 @@ const DIST_DIR = "dist"; // Directory where the built files are output (relative
 // console.log(__dirname);
 export default defineConfig({
   root: path.resolve(__dirname, CLIENT_DIR), // root directory for the client-side source code
-  base: `/${DIST_DIR}/`, // in dev, Vite serves files from here - in production, the server serves production files from here
+  base: `/PerliteVite/${DIST_DIR}/`, // in dev, Vite serves files from here - in production, the server serves production files from here
   build: {
     outDir: path.resolve(__dirname, PUBLIC_DIR, DIST_DIR),
     emptyOutDir: true, // Vite doesn't clear the output directory by default

@@ -15,10 +15,12 @@
     }
 
     
-    $fileBase = __DIR__ . "/" . $vaultName;
+    $fileBase = __DIR__ . "/" . $rootDir;
+    
+    $jason = array();
     if(isset($_GET['mdfile'])){
 
-        $cont = file_get_contents($fileBase .  $_GET['mdfile'] . ".md");
+      $cont = file_get_contents($fileBase .  $_GET['mdfile'] . ".md");
         $test = explode("```", $cont);
         $fileMatches = [];
         $files = [];
@@ -33,8 +35,12 @@
             "files" => $files
         );
     } else {
-        $jason = "";
+//        $jason = array(
+//	    "jsonOutput" => "",
+//	    "files" => [],
+//	)
+	$jason = array();
     }
-    
+    header('Content-Type: application/json');  
     echo (json_encode($jason));
 ?>

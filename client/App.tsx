@@ -1,17 +1,21 @@
 import { Excalidraw } from "@excalidraw/excalidraw";
 import "@excalidraw/excalidraw/index.css";
-import { DataURL, ExcalidrawImperativeAPI } from "@excalidraw/excalidraw/types";
 import { useEffect, useState, useSyncExternalStore } from "react";
 import { convertToExcalidrawElements } from "@excalidraw/excalidraw";
 import { ValueOf } from "@excalidraw/excalidraw/utility-types";
 import { FileId } from "@excalidraw/excalidraw/element/types";
-// import { DataURL, ExcalidrawImperativeAPI } from "@excalidraw/excalidraw/types";
+import { DataURL, ExcalidrawImperativeAPI } from "@excalidraw/excalidraw/types";
+//import {ExcalidrawImperativeAPI} from "@excalidraw/excalidraw/types";
 interface phpOutput{
   fileId: FileId,
   filePath: RequestInfo,
   extension: ValueOf<{
     readonly png: "image/png";
   }>
+}
+interface jsonOutput {
+    jsonOutput: string,
+    files: Array<String>
 }
 
 function App() {
@@ -24,19 +28,26 @@ function App() {
   }
   const [excalidrawAPI, setExcalidrawAPI] = useState<ExcalidrawImperativeAPI>();
   const getDrwaing = useSyncExternalStore(subscribe, getSnapshot);
-  console.log(getDrwaing);
+//  console.log(getDrwaing);
+  console.log(excalidrawAPI);
   useEffect( () => {
-    const drawCheck  = localStorage.getItem("drawing");
-    console.log(drawCheck);
+    const drawCheck  = getDrwaing;
+//  console.log(drawCheck);
     if (drawCheck != "f" && drawCheck != null){
       fetch(drawCheck)
-            .then(response => {
-              return response.json();
+            .then(response => {	
+              let x = response.json();
+//		console.log(x);
+		return x;
             })
             .then(data => {
-              const excalJson = JSON.parse(data['jsonOutput']);
-              const files = data['files'];
-              console.log(excalJson);
+//	      console.log(JSON.stringify(data));
+//	      console.log(JSON.parse(data['jsonOutput']));
+	      const output:jsonOutput = JSON.parse(JSON.stringify(data));
+		console.log(output);
+              const excalJson = output['jsonOutput'];
+//	      console.log(excalJson);
+              const files = output['files'];
               const eles = convertToExcalidrawElements(excalJson['elements']);
               const appState = excalJson['appState'];
               files.forEach((f:phpOutput)  =>{
@@ -63,6 +74,7 @@ function App() {
                 if(excalidrawAPI != null) {
                   excalidrawAPI.updateScene({elements: eles, appState:appState});
                 }
+
             })
           .catch(error => console.error('Error:', error));
     }

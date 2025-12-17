@@ -11,7 +11,7 @@
 
 // define perlite location on webserver
 //var uriPath = '/perlite/'
-var uriPath = '/'
+var uriPath = '/PerliteVite/'
 
 
 // define home file
@@ -125,7 +125,7 @@ function getContent(str, home = false, popHover = false, anchor = "") {
       middle.style.display = "none";
       draw.style.display = "block";
       excal = true;
-      req = "/excal.php?mdfile=" + str;
+      req = uriPath + "excal.php?mdfile=" + str;
       localStorage.setItem("drawing", req);
       window.dispatchEvent(new Event('storage'));
     } else {

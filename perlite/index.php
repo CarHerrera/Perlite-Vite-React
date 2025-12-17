@@ -10,7 +10,7 @@ require_once 'helper.php';
 
 $requestPath = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 if ($requestPath === '/content.php') {
-    require_once __DIR__ . '/content.php';
+    require_once __DIR__ . '/content.php'; 
     exit; // Exit after serving content to prevent the rest of the file from running.
 } else if ($requestPath === '/excal.php') {
     require_once __DIR__ . '/excal.php';
@@ -50,15 +50,15 @@ if ($requestPath === '/content.php') {
 }
 
 $title = $siteTitle;
-$menu = menu('perlite/'.$rootDir);
+$menu = menu($rootDir);
 $jsonGraphData = getfullGraph($rootDir);
 
 
 
 $vite = new Manifest(
     manifest_path: dirname(__DIR__) . '/public/dist/.vite/manifest.json',
-    base_path: '/dist/',
-    dev: true
+    base_path: '/PerliteVite/dist/',
+    dev: false
 );
 
 $tags = $vite->createTags('main.tsx');
@@ -98,7 +98,7 @@ $tags = $vite->createTags('main.tsx');
     <?= $tags->preload ?>
     <?= $tags->css ?>
     <script type="module">
-        import RefreshRuntime from 'http://localhost:8000/dist/@react-refresh'
+        import RefreshRuntime from 'https://herrerashub.com/PerliteVite/dist/@react-refresh'
         RefreshRuntime.injectIntoGlobalHook(window)
         window.$RefreshReg$ = () => {}
         window.$RefreshSig$ = () => (type) => type
