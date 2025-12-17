@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { Excalidraw } from "@excalidraw/excalidraw";
 import "@excalidraw/excalidraw/index.css";
 import { useEffect, useState, useSyncExternalStore } from "react";
@@ -15,7 +16,7 @@ interface phpOutput{
 }
 interface jsonOutput {
     jsonOutput: string,
-    files: Array<String>
+    files: Array<phpOutput>
 }
 
 function App() {
@@ -45,7 +46,7 @@ function App() {
 //	      console.log(JSON.parse(data['jsonOutput']));
 	      const output:jsonOutput = JSON.parse(JSON.stringify(data));
 		console.log(output);
-              const excalJson = output['jsonOutput'];
+              const excalJson = JSON.parse(output['jsonOutput']);
 //	      console.log(excalJson);
               const files = output['files'];
               const eles = convertToExcalidrawElements(excalJson['elements']);
