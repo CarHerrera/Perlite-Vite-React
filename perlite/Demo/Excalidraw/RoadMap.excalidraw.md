@@ -15,7 +15,7 @@ WELCOME ^aXcNV4Jv
 This is my implementation of Excalidraw into Perlite ^RADO2cCK
 
 In Progress:
-- Image Support
+- Image Support (In Progress)
 - Collaboration
 - Fix Wikilinks
 - Add Bases support
@@ -26,6 +26,9 @@ In Progress:
 
 ## Element Links
 0fhuyo2i: [[README]]
+
+## Embedded Files
+79c522b298b4a10b71fc1f2199688eaf55e923d5: [[perlite.svg]]
 
 %%
 ## Drawing
@@ -95,11 +98,11 @@ In Progress:
 				"type": 3
 			},
 			"seed": 106139042,
-			"version": 141,
-			"versionNonce": 1648784290,
+			"version": 143,
+			"versionNonce": 52338671,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1760388037290,
+			"updated": 1766439349643,
 			"link": null,
 			"locked": false
 		},
@@ -146,7 +149,7 @@ In Progress:
 			"type": "text",
 			"x": 863.8898448514337,
 			"y": 6265.192556309752,
-			"width": 286.0771179199219,
+			"width": 417.76165771484375,
 			"height": 245,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -161,21 +164,21 @@ In Progress:
 			"index": "aD",
 			"roundness": null,
 			"seed": 1102996606,
-			"version": 189,
-			"versionNonce": 1336194814,
+			"version": 204,
+			"versionNonce": 765709377,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1760388037258,
+			"updated": 1766439356415,
 			"link": "[[README]]",
 			"locked": false,
-			"text": "In Progress:\n- Image Support\n- Collaboration\n- Fix Wikilinks\n- Add Bases support\n\n",
-			"rawText": "In Progress:\n- Image Support\n- Collaboration\n- Fix Wikilinks\n- Add Bases support\n\n",
+			"text": "In Progress:\n- Image Support (In Progress)\n- Collaboration\n- Fix Wikilinks\n- Add Bases support\n\n",
+			"rawText": "In Progress:\n- Image Support (In Progress)\n- Collaboration\n- Fix Wikilinks\n- Add Bases support\n\n",
 			"fontSize": 28,
 			"fontFamily": 5,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "In Progress:\n- Image Support\n- Collaboration\n- Fix Wikilinks\n- Add Bases support\n\n",
+			"originalText": "In Progress:\n- Image Support (In Progress)\n- Collaboration\n- Fix Wikilinks\n- Add Bases support\n\n",
 			"autoResize": true,
 			"lineHeight": 1.25
 		},
@@ -216,6 +219,41 @@ In Progress:
 			"originalText": "📍[[README]]",
 			"autoResize": true,
 			"lineHeight": 1.25
+		},
+		{
+			"id": "VtmK1hid",
+			"type": "image",
+			"x": 1608.1008643857097,
+			"y": 6154.0258591641705,
+			"width": 163,
+			"height": 132,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 9884,
+			"version": 175,
+			"versionNonce": 632446287,
+			"updated": 1766439531838,
+			"isDeleted": false,
+			"groupIds": [],
+			"boundElements": [],
+			"link": null,
+			"locked": false,
+			"frameId": null,
+			"fileId": "79c522b298b4a10b71fc1f2199688eaf55e923d5",
+			"scale": [
+				1,
+				1
+			],
+			"crop": null,
+			"index": "aG",
+			"status": "pending"
 		}
 	],
 	"appState": {
@@ -235,10 +273,10 @@ In Progress:
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": -453.52607088078383,
-		"scrollY": -5788.392955533906,
+		"scrollX": -504.13108915652776,
+		"scrollY": -5892.037996443399,
 		"zoom": {
-			"value": 1.220868
+			"value": 1.223901
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

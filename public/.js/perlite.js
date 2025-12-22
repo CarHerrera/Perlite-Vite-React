@@ -120,12 +120,12 @@ function getContent(str, home = false, popHover = false, anchor = "") {
     let excal = false;
     let draw = document.querySelector("#app");
     let middle = document.querySelector("#middlePane");
-    if(str.includes("excalidraw")){
+    if(str.includes("excalidraw") || str.includes("Excalidraw")){
       console.log(str.includes("excalidraw"));
       middle.style.display = "none";
       draw.style.display = "block";
       excal = true;
-      req = "/excal.php?mdfile=" + str;
+      req = uriPath + "excal.php?mdfile=" + str;
       localStorage.setItem("drawing", req);
       window.dispatchEvent(new Event('storage'));
     } else {

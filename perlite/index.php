@@ -670,6 +670,9 @@ $tags = $vite->createTags('main.tsx');
                                                         style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
                                                     <div class="inline-title" tabindex="-1" enterkeyhint="done"></div>
                                                     <div id="mdContent"></div>
+                                                    <!-- <div>
+                                                        <?php phpinfo(); ?>
+                                                    </div> -->
                                                     <div class="graph-controls is-close">
                                                         <div class="clickable-icon graph-controls-button mod-close"
                                                             aria-label="Close"><svg xmlns="http://www.w3.org/2000/svg"

@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/RoadMap.excalidraw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "RoadMap.excalidraw"
             }
           },
           {
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +209,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94b888d34f75ef7d",
+  "active": "a6611db8265de940",
   "lastOpenFiles": [
     "Excalidraw/RoadMap.excalidraw.md",
     "Excalidraw/Empty Drawing.excalidraw.md",
+    "Excalidraw/perlite.svg",
     "README.md",
     "PERLITE README.md",
     "Demo Documents/docs/sample3.m4a",

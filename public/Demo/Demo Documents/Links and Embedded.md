@@ -36,7 +36,7 @@ Youtube embedded:
 
 ## Audio
 
-![[docs/sample3.m4a]]
+![[sample3.m4a]]
 
 ## PDF
 
