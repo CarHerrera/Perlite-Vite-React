@@ -31,7 +31,7 @@
             if($fileMatches[3][$i] == 'svg'){
                 $end = '+xml';
             }
-            if (str_starts_with($fileMatches[2][$i], "../")){
+            if (str_starts_with($fileMatches[2][$i], "/")){
                 $files[] = new FileInfo($fileMatches[1][$i],$uriPath . $rootDir . $fileMatches[2][$i] . ".". $fileMatches[3][$i], 'image/' .$fileMatches[3][$i] . $end);
             } else {
                 
