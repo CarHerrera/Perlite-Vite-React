@@ -98,7 +98,8 @@ $tags = $vite->createTags('main.tsx');
     <?= $tags->preload ?>
     <?= $tags->css ?>
     <script type="module">
-        import RefreshRuntime from 'http://localhost:8000/dist/@react-refresh'
+        import RefreshRuntime from 'https://stunning-space-acorn-6rq6vj4pxp4fwwx-8000.app.github.dev/dist/@react-refresh'
+        // import RefreshRuntime from 'http://localhost:8000/dist/@react-refresh'
         RefreshRuntime.injectIntoGlobalHook(window)
         window.$RefreshReg$ = () => {}
         window.$RefreshSig$ = () => (type) => type
@@ -670,9 +671,6 @@ $tags = $vite->createTags('main.tsx');
                                                         style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
                                                     <div class="inline-title" tabindex="-1" enterkeyhint="done"></div>
                                                     <div id="mdContent"></div>
-                                                    <!-- <div>
-                                                        <?php phpinfo(); ?>
-                                                    </div> -->
                                                     <div class="graph-controls is-close">
                                                         <div class="clickable-icon graph-controls-button mod-close"
                                                             aria-label="Close"><svg xmlns="http://www.w3.org/2000/svg"

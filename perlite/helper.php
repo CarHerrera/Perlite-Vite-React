@@ -197,7 +197,6 @@ function menu($dir, $folder = '')
 
 	// iterate the folders 
 	foreach ($files as $file) {
-		
 		if (is_dir($file)) {
 
 			// check if we want to hide the folder
@@ -235,7 +234,7 @@ function menu($dir, $folder = '')
 	// iterate the files 
 	foreach ($files as $file) {
 
-		if (isMDFile($file)) {
+		if (isMDFile($file) || isBase($file)) {
 			$file = str_replace("perlite/", "", $file);
 			$path = getFileInfos($file)[0];
 			$mdFile = getFileInfos($file)[1];
@@ -262,6 +261,7 @@ function menu($dir, $folder = '')
 
 	return $html;
 }
+
 
 function doSearch($dir, $searchfor)
 {
@@ -315,7 +315,7 @@ function search($dir, $searchfor, $folder = '')
 
 				// check if we search for an tag, if yes first parse the document to get the front matter tags
 				if (substr($searchfor, 0, 1) === '#') {
-					$Parsedown = new PerliteParsedown();
+					$Parsedown = new PerliteParsedown(0);
 					$Parsedown->setSafeMode(true);
 					$contents = $Parsedown->text($contents);
 					$contents = strip_tags($contents);
@@ -373,6 +373,17 @@ function isMDFile($file)
 	return false;
 }
 
+// Check if file is a .base
+function isBase($file){
+	$fileinfo = pathinfo($file);
+
+
+	if (isset($fileinfo['extension']) and strtolower($fileinfo['extension']) == 'base') {
+		return true;
+	}
+
+	return false;
+}
 function getFileInfos($file)
 {
 

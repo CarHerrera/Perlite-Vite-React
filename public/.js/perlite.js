@@ -121,7 +121,6 @@ function getContent(str, home = false, popHover = false, anchor = "") {
     let draw = document.querySelector("#app");
     let middle = document.querySelector("#middlePane");
     if(str.includes("excalidraw") || str.includes("Excalidraw")){
-      console.log(str.includes("excalidraw"));
       middle.style.display = "none";
       draw.style.display = "block";
       excal = true;

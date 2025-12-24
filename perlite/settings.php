@@ -22,12 +22,12 @@ $siteName = "Perlite Demo";
 $siteHomepage = "";  // empty for $siteURL
 $siteGithub = "https://github.com/secure-77";  // empty for no Github
 $siteTwitter = "@secure_sec77";
-
+$notesPath = "notes.db";
 $tempPath = "";  // blanc so it gets it automatically
 
 $lineBreaks = true;
 
-$allowedFileLinkTypes = ['pdf', 'mp4'];
+$allowedFileLinkTypes = ['pdf', 'mp4', 'base'];
 
 $disablePopHovers = "false";
 $showTOC = "true";
@@ -37,7 +37,7 @@ $index = "README";
 
 $font_size = "15";
 
-$htmlSafeMode = true;
+$htmlSafeMode = false;
 
 
 ?>

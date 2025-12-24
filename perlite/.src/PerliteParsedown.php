@@ -153,7 +153,7 @@ class PerliteParsedown extends Parsedown
 	    if (count($parsed) > 0){
 		foreach ($parsed as $property => $value){
 
-            if ($property == "tags" || $property == "aliases"){
+            if ($property == "tags" || $property == "aliases" || $property == "image"){
                 continue;
             }
 			$yamlText .= '<div class="metadata-property" tabindex="0" data-property-key="tags" data-property-type="multitext">';

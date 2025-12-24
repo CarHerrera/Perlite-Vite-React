@@ -82,7 +82,13 @@ function parseContent($requestFile)
 
 
 	// get and parse the content, return if no content is there
-	$content = getContent($requestFile);
+	if(str_contains($requestFile, "base")){
+		$content = getContent($requestFile, 1);
+		echo $content;
+		return;
+	} else {
+		$content = getContent($requestFile);
+	}
 	if ($content === '') {
 		return;
 	}
@@ -374,23 +380,185 @@ function translateLink($pattern, $content, $path, $sameFolder)
 
 
 // read content from file
-function getContent($requestFile)
+function getContent($requestFile, $isBase =-1)
 {
 	global $avFiles;
 	global $path;
 	global $cleanFile;
 	global $rootDir;
 	$content = '';
-
+	
 	// check if file is in array
 	if (in_array($requestFile, $avFiles, true)) {
 		$cleanFile = $requestFile;
 		$n = strrpos($requestFile, "/");
 		$path = substr($requestFile, 0, $n);
-		$content .= file_get_contents($rootDir . $requestFile . '.md', true);
+		if($isBase == -1){
+			$content .= file_get_contents($rootDir . $requestFile . '.md', true);
+		} else {
+			// $content .= file_get_contents($rootDir . $requestFile , true);
+			$content .= getBases($rootDir . $requestFile);
+		}
+	
 	}
 
 	return $content;
 }
 
+function getBases($baseFile){
+	global $notesPath;
+	global $rootDir;
+	global $cleanFile;
+	$contents = file_get_contents($baseFile, true);
+	$tempPath = __DIR__ . "/" . $rootDir . "/" . $notesPath;
+	$db = new SQLite3($tempPath);
+	$t = $db->query("SELECT * FROM notes");
+	// while($row = $t->fetchArray()){
+	// 	var_dump($row);
+	// }
+	$baseProperties = yaml_parse($contents);
+	$result = handleYamlViews($baseProperties, $db);
+	// foreach($baseProperties as $key => $value){
+	// 	// process each key-value pair as needed
+
+	// }
+	// $cleanFile =
+	$wordCount = str_word_count($contents);
+	$charCount = strlen($contents);
+	$html = '<div class="bases-view">
+		    	<div class="bases-header">	
+					<div class="bases-toolbar">
+						<div class="bases-toolbar-item bases-toolbar-views">
+							<span class="text-button-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-table"><path d="M12 3v18"></path><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M3 9h18"></path><path d="M3 15h18"></path></svg></span>
+							<span class="text-button-label">View 2</span>
+							<span class="text-button-icon mod-aux"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-chevrons-up-down"><path d="m7 15 5 5 5-5"></path><path d="m7 9 5-5 5 5"></path></svg></span>
+						</div>
+						<div class="bases-toolbar-item bases-toolbar-res">Results</div>
+						<div class="bases-toolbar-item">Sort</div>
+						<div class="bases-toolbar-item">Filter</div>
+					</div>
+					
+				</div>
+				<div class="bases-result-container">' . $result .
+			'</div></div>';
+	$content = '
+	<div style="display: none">
+		<div class="mdTitleHide">' . substr($cleanFile, 0, -5) . '</div>
+		<div class="wordCount">' . $wordCount . '</div>
+		<div class="charCount">' . $charCount . '</div>
+	</div>' . $html;
+	return $content;
+}
+
+function handleYamlViews($yamlObject, $db){
+	global $uriPath;
+	global $rootDir;
+	$and = [];
+	$html = "";
+	$views = $yamlObject['views'][0];
+	// Check if there is a global filter
+	if(array_key_exists('filters', $yamlObject)){
+		// Check the array 
+		if(array_key_exists('and', $yamlObject['filters'])){
+			// process each filter
+			foreach($yamlObject['filters']['and'] as $filter){
+				$matches = [];
+				switch($filter){
+					case (preg_match("/file.hasProperty\(\"([\w]+)\"\)/", $filter, $matches) ? true: false):
+						array_push($and, $matches[1] ." IS NOT NULL");
+					break;
+					case (preg_match("/(\w+) == \"(\w+)\"/", $filter, $matches)? true: false):
+						array_push($and, $matches[1] . " = '" . $matches[2] . "'");
+					break;
+					case (preg_match("/!(\w+)\.isEmpty\(\)/", $filter, $matches) ? true: false):
+						array_push($and, $matches[1] ." IS NOT NULL");
+					break;
+				}
+			}
+		}
+		$columns = [];
+		$sort = "";
+		if(array_key_exists('sort', $views)){
+			$sort .= 'ORDER BY ' . $views['sort'][0]['property'] .  " " . $views['sort'][0]['direction'];
+		}
+		if(array_key_exists('order', $views)){
+			
+			foreach($views['order'] as $column){
+				if ($column == "file.name"){
+					array_push($columns, "title");
+				} else if ($column == "cover"){
+					continue;
+				} else {
+					array_push($columns, $column);
+				}
+				
+			}
+		}
+		$order = count($columns) > 0 ? implode(", ", $columns) : "*";
+		$andStatment = implode(" AND ", $and);
+		$query ="SELECT " .$order ." FROM notes WHERE " . $andStatment . " " .$sort;
+		$res = $db->query($query);
+		while ($row = $res->fetchArray()) {
+			$matches = [];
+			$filePath = $uriPath . $rootDir . "/" . explode('/',$row['title'])[1];
+			$urlEncoded = urlencode(substr($row['title'], 1, -3));
+			if ($row['image'] != null ){
+				$tmp = preg_match("/\[\[\.?\.?(\/?(.*))\]\]/", $row['image'], $matches);
+				$img = $filePath . $matches[1];
+				$html .= '<div class="bases-item" onClick="getContent(\'' . $urlEncoded . '\')">
+					<img class="bases-img" src="' . $img . '">
+					<div class="bases-title">' . $row['title'].'</div>
+				</div>';
+			} else {
+				$html .= '<div class="bases-item" onClick="getContent(\'' . $urlEncoded . '\')">
+					<div class="bases-cover"></div>
+					<div class="bases-title">' . $row['title'].'</div>
+				</div>';
+			}
+    		
+		}
+	}
+	
+	
+	
+	if(array_key_exists('filters', $views)){
+		if(array_key_exists('and', $views['filters'])){
+			// process each filter
+			foreach($views['filters']['and'] as $filter){
+				$matches = [];
+				switch($filter){
+					case (preg_match("/file.hasProperty\(\"([\w]+)\"\)/", $filter, $matches) ? true: false):
+						array_push($and, $matches[1] ." IS NOT NULL");
+					break;
+					case (preg_match("/(\w+) == \"(\w+)\"/", $filter, $matches)? true: false):
+						array_push($and, $matches[1] . " = '" . $matches[2] . "'");
+					break;
+				}
+			}
+		}
+		$andStatment = implode(" AND ", $and);
+		$res = $db->query("SELECT * FROM notes WHERE " . $andStatment);
+
+		while ($row = $res->fetchArray()) {
+			$matches = [];
+			$filePath = $uriPath . $rootDir . "/" . explode('/',$row['title'])[1];
+			$urlEncoded = urlencode(substr($row['title'], 1, -3));
+			if ($row['image'] != null ){
+				$tmp = preg_match("/\[\[\.?\.?(\/?(.*))\]\]/", $row['image'], $matches);
+				$img = $filePath . $matches[1];
+				$html .= '<div class="bases-item" onClick="getContent(\'' . $urlEncoded . '\')">
+					<img class="bases-img" src="' . $img . '">
+					<div class="bases-title">' . $row['title'].'</div>
+				</div>';
+			} else {
+				$html .= '<div class="bases-item" onClick="getContent(\'' . $urlEncoded . '\')">
+					<div class="bases-cover"></div>
+					<div class="bases-title">' . $row['title'].'</div>
+				</div>';
+			}
+    		
+		}
+	}
+	return $html;
+}
 ?>
