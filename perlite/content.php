@@ -485,7 +485,7 @@ function handleYamlViews($yamlObject, $db){
 			
 			foreach($views['order'] as $column){
 				if ($column == "file.name"){
-					array_push($columns, "title");
+					continue;
 				} else if ($column == "cover"){
 					continue;
 				} else {
@@ -494,9 +494,8 @@ function handleYamlViews($yamlObject, $db){
 				
 			}
 		}
-		$order = count($columns) > 0 ? implode(", ", $columns) : "*";
 		$andStatment = implode(" AND ", $and);
-		$query ="SELECT " .$order ." FROM notes WHERE " . $andStatment . " " .$sort;
+		$query ="SELECT * FROM notes WHERE " . $andStatment . " " .$sort;
 		$res = $db->query($query);
 		while ($row = $res->fetchArray()) {
 			$matches = [];
@@ -507,14 +506,24 @@ function handleYamlViews($yamlObject, $db){
 				$img = $filePath . $matches[1];
 				$html .= '<div class="bases-item" onClick="getContent(\'' . $urlEncoded . '\')">
 					<img class="bases-img" src="' . $img . '">
-					<div class="bases-title">' . $row['title'].'</div>
-				</div>';
+					';
 			} else {
 				$html .= '<div class="bases-item" onClick="getContent(\'' . $urlEncoded . '\')">
 					<div class="bases-cover"></div>
-					<div class="bases-title">' . $row['title'].'</div>
-				</div>';
+					';
 			}
+			$html .= '<div class="bases-title">' . $row['title'].'</div>';
+
+    		foreach($columns as $col){
+				if ($col == "image"){
+					continue;
+				}
+				$html .= '
+				<div class="bases-prop-header">' . $col .'</div>
+				<div class="bases-prop-value">' . $row[$col] .'</div>
+				';
+			}
+			$html .= "</div>";
     		
 		}
 	}
@@ -530,10 +539,27 @@ function handleYamlViews($yamlObject, $db){
 					case (preg_match("/file.hasProperty\(\"([\w]+)\"\)/", $filter, $matches) ? true: false):
 						array_push($and, $matches[1] ." IS NOT NULL");
 					break;
-					case (preg_match("/(\w+) == \"(\w+)\"/", $filter, $matches)? true: false):
+					case (preg_match("/(\w+) == \"([\w ]+)\"/", $filter, $matches)? true: false):
 						array_push($and, $matches[1] . " = '" . $matches[2] . "'");
 					break;
+					case (preg_match("/!(\w+)\.isEmpty\(\)/", $filter, $matches) ? true: false):
+						array_push($and, $matches[1] ." IS NOT NULL");
+					break;
 				}
+			}
+		}
+		$columns = [];
+		if(array_key_exists('order', $views)){
+			
+			foreach($views['order'] as $column){
+				if ($column == "file.name"){
+					continue;
+				} else if ($column == "cover"){
+					continue;
+				} else {
+					array_push($columns, $column);
+				}
+				
 			}
 		}
 		$andStatment = implode(" AND ", $and);
@@ -548,15 +574,24 @@ function handleYamlViews($yamlObject, $db){
 				$img = $filePath . $matches[1];
 				$html .= '<div class="bases-item" onClick="getContent(\'' . $urlEncoded . '\')">
 					<img class="bases-img" src="' . $img . '">
-					<div class="bases-title">' . $row['title'].'</div>
-				</div>';
+					';
 			} else {
 				$html .= '<div class="bases-item" onClick="getContent(\'' . $urlEncoded . '\')">
 					<div class="bases-cover"></div>
-					<div class="bases-title">' . $row['title'].'</div>
-				</div>';
+					';
 			}
-    		
+			$html .= '<div class="bases-title">' . $row['title'].'</div>';
+
+    		foreach($columns as $col){
+				if ($col == "image"){
+					continue;
+				}
+				$html .= '
+				<div class="bases-prop-header">' . $col .'</div>
+				<div class="bases-prop-value">' . $row[$col] .'</div>
+				';
+			}
+			$html .= "</div>";
 		}
 	}
 	return $html;

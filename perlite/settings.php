@@ -7,7 +7,7 @@
  */
 
  
-$rootDir = "Demo";
+$rootDir = "Whendeez";
 $hideFolders = "docs,trash";
 $hiddenFileAccess = false;
 $relPathes = false;
