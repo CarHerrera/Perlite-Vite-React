@@ -47,6 +47,10 @@
   border-style: solid;
   border-color: lightgray; */
 }
+.bases-item:hover{
+  /* color: purple; */
+  background: var(--text-highlight-bg);
+}
 .bases-img{
   background: #242424;
   width: 100%;

@@ -433,13 +433,13 @@ function getBases($baseFile){
 							<span class="text-button-label">View 2</span>
 							<span class="text-button-icon mod-aux"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-chevrons-up-down"><path d="m7 15 5 5 5-5"></path><path d="m7 9 5-5 5 5"></path></svg></span>
 						</div>
-						<div class="bases-toolbar-item bases-toolbar-res">Results</div>
+						<div class="bases-toolbar-item bases-toolbar-res">Results: '. $result['count'] .'</div>
 						<div class="bases-toolbar-item">Sort</div>
 						<div class="bases-toolbar-item">Filter</div>
 					</div>
 					
 				</div>
-				<div class="bases-result-container">' . $result .
+				<div class="bases-result-container">' . $result["html"] .
 			'</div></div>';
 	$content = '
 	<div style="display: none">
@@ -456,6 +456,7 @@ function handleYamlViews($yamlObject, $db){
 	$and = [];
 	$html = "";
 	$views = $yamlObject['views'][0];
+	$count = 0;
 	// Check if there is a global filter
 	if(array_key_exists('filters', $yamlObject)){
 		// Check the array 
@@ -498,6 +499,7 @@ function handleYamlViews($yamlObject, $db){
 		$query ="SELECT * FROM notes WHERE " . $andStatment . " " .$sort;
 		$res = $db->query($query);
 		while ($row = $res->fetchArray()) {
+			$count += 1; 
 			$matches = [];
 			$filePath = $uriPath . $rootDir . "/" . explode('/',$row['title'])[1];
 			$urlEncoded = urlencode(substr($row['title'], 1, -3));
@@ -566,6 +568,7 @@ function handleYamlViews($yamlObject, $db){
 		$res = $db->query("SELECT * FROM notes WHERE " . $andStatment);
 
 		while ($row = $res->fetchArray()) {
+			$count +=1;
 			$matches = [];
 			$filePath = $uriPath . $rootDir . "/" . explode('/',$row['title'])[1];
 			$urlEncoded = urlencode(substr($row['title'], 1, -3));
@@ -594,6 +597,9 @@ function handleYamlViews($yamlObject, $db){
 			$html .= "</div>";
 		}
 	}
-	return $html;
+	return array(
+		"html" => $html,
+		"count" => $count,
+	);
 }
 ?>
