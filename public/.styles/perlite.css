@@ -1,6 +1,6 @@
 .grenLineUp{
   width:100%;
-  height: 33vh;
+  height: 50vh;
 }
 /* Bases */
 .bases-toolbar .bases-toolbar-item{
@@ -36,8 +36,9 @@
 
 .bases-item{
   padding: 2px;
-  width:300px;
-  min-height: 25vh;
+  width: 350px;
+  /* base minimum card height; image will be 75% of this */
+  min-height: 340px;
   display:flex;
   flex-direction: column;
   background: #242424;
@@ -54,17 +55,25 @@
 .bases-img{
   background: #242424;
   width: 100%;
-  /* height: 50%; */
+  height: 350px !important;
   background-size:cover;
   object-fit: cover;
+  display: block !important;
+  flex-shrink: 0;
 }
 .bases-cover{
   background: #242424;
   width: 100%;
   background-size:cover;
   object-fit: cover;
-  /* flex-grow: 1; */
-  height: 300px;
+  height: 350px;
+  flex-shrink: 0;
+}
+.bases-properties{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  overflow: auto;
 }
 .bases-title{
   background: #242424;

@@ -508,13 +508,14 @@ function handleYamlViews($yamlObject, $db){
 				$img = $filePath . $matches[1];
 				$html .= '<div class="bases-item" onClick="getContent(\'' . $urlEncoded . '\')">
 					<img class="bases-img" src="' . $img . '">
-					';
+					<div class="bases-properties">';
 			} else {
 				$html .= '<div class="bases-item" onClick="getContent(\'' . $urlEncoded . '\')">
 					<div class="bases-cover"></div>
-					';
+					<div class="bases-properties">';
 			}
-			$html .= '<div class="bases-title">' . $row['title'].'</div>';
+			$title = end(explode('/',$row['title']));
+			$html .= '<div class="bases-title">' . substr($title,0, -3) .'</div>';
 
     		foreach($columns as $col){
 				if ($col == "image"){
@@ -525,7 +526,7 @@ function handleYamlViews($yamlObject, $db){
 				<div class="bases-prop-value">' . $row[$col] .'</div>
 				';
 			}
-			$html .= "</div>";
+			$html .= "</div></div>";
     		
 		}
 	}
@@ -577,24 +578,29 @@ function handleYamlViews($yamlObject, $db){
 				$img = $filePath . $matches[1];
 				$html .= '<div class="bases-item" onClick="getContent(\'' . $urlEncoded . '\')">
 					<img class="bases-img" src="' . $img . '">
-					';
+					<div class="bases-properties">';
 			} else {
 				$html .= '<div class="bases-item" onClick="getContent(\'' . $urlEncoded . '\')">
 					<div class="bases-cover"></div>
-					';
+					<div class="bases-properties">';
 			}
-			$html .= '<div class="bases-title">' . $row['title'].'</div>';
+			$title = end(explode('/',$row['title']));
+			$html .= '<div class="bases-title">' . substr($title,0, -3) .'</div>';
 
     		foreach($columns as $col){
 				if ($col == "image"){
 					continue;
 				}
 				$html .= '
-				<div class="bases-prop-header">' . $col .'</div>
-				<div class="bases-prop-value">' . $row[$col] .'</div>
-				';
+				<div class="bases-prop-header">' . $col .'</div>';
+				if ($row[$col] == null || $row[$col] == ''){
+					$html .= '<div class="bases-prop-value">&nbsp;</div>';
+				} else {
+					$html .= '<div class="bases-prop-value">' . $row[$col] .'</div>';
+				}
+				
 			}
-			$html .= "</div>";
+			$html .= "</div></div>";
 		}
 	}
 	return array(

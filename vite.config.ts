@@ -19,7 +19,7 @@ export default defineConfig({
       input: path.resolve(CLIENT_DIR, 'main.tsx'), // Entry point for the application
     }
   },
-
+  envDir: path.resolve(__dirname),
   server: {
     host: 'localhost',
     port: 8000,

@@ -108,7 +108,7 @@ function scrollToAnchor(aid) {
  * @param {String} anchor
  */
 function getContent(str, home = false, popHover = false, anchor = "") {
-  console.log(str);
+  // console.log(str);
   // reset content if request is empty
   if (str.length == 0) {
     document.getElementById("mdContent").innerHTML = "";
