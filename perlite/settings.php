@@ -5,9 +5,11 @@
  * Author: sec77 (https://secure77.de)
  * Licensed under MIT (https://github.com/secure-77/Perlite/blob/main/LICENSE)
  */
-
+require_once __DIR__ . '/vendor/autoload.php';
+// $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+// $dotenv->load();
  
-$rootDir = "Whendeez";
+$rootDir = "Demo";
 $hideFolders = "docs,trash";
 $hiddenFileAccess = false;
 $relPathes = false;
@@ -19,7 +21,7 @@ $siteURL = "https://perlite.secure77.de";
 $siteLogo = "perlite.svg";  // empty for no logo/customSection
 $siteDescription = "A web based markdown viewer optimized for Obsidian Notes";
 $siteName = "Perlite Demo";
-$siteHomepage = "";  // empty for $siteURL
+$siteHomepage = "README";  // empty for $siteURL
 $siteGithub = "https://github.com/secure-77";  // empty for no Github
 $siteTwitter = "@secure_sec77";
 $notesPath = "notes.db";

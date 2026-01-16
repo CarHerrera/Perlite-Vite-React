@@ -121,6 +121,17 @@ class Manifest
     }
 
     /**
+     * Register MIME types for preloading stylesheets.
+     */
+    public function preloadStyles(): void
+    {
+        $this->preload_types = [
+            ...$this->preload_types,
+            'css' => ['type' => 'text/css', 'as' => 'style'],
+        ];
+    }
+
+    /**
      * Create preload, CSS and JS tags for the specified entry point script(s).
      *
      * Entry points are defined in Vite's `build.rollupOptions` using RollUp's `input` setting.
@@ -208,6 +219,16 @@ class Manifest
 
             // Preload assets:
 
+            ['extension' => $extension] = pathinfo($chunk->file);
+
+            if (isset($this->preload_types[$extension])) {
+                $preload = $this->preload_types[$extension];
+                $type = $preload['type'];
+                $as = $preload['as'];
+
+                $tags[] = "<link rel=\"preload\" as=\"{$as}\" type=\"{$type}\" href=\"{$this->base_path}{$chunk->file}\" />";
+            }
+
             foreach ($chunk->assets as $asset) {
                 $type = substr($asset, strrpos($asset, '.') + 1);
 
@@ -235,6 +256,10 @@ class Manifest
             foreach ($chunk->css as $css) {
                 $tags[] = "<link rel=\"stylesheet\" href=\"{$this->base_path}{$css}\" />";
             }
+
+            if (str_ends_with($chunk->file, '.css') && $chunk->isEntry) {
+                $tags[] = "<link rel=\"stylesheet\" href=\"{$this->base_path}{$chunk->file}\" />";
+            }
         }
 
         return implode("\n", $tags);
@@ -248,7 +273,7 @@ class Manifest
         $tags = [];
 
         foreach ($chunks as $chunk) {
-            if ($chunk->isEntry) {
+            if (str_ends_with($chunk->file, '.js') && $chunk->isEntry) {
                 $tags[] = "<script type=\"module\" src=\"{$this->base_path}{$chunk->file}\"></script>";
             }
         }
@@ -267,7 +292,8 @@ class Manifest
                 throw new RuntimeException("Entry not found in manifest: {$entry}");
             }
 
-            if (! $chunk->isEntry) {
+            // only check .js and .css files, because images dont get the "isEntry" information in the manifest
+            if ((str_ends_with($chunk->file, '.js') || str_ends_with($chunk->file, '.css')) && ! $chunk->isEntry) {
                 throw new RuntimeException("Chunk is not an entry point: {$entry}");
             }
 

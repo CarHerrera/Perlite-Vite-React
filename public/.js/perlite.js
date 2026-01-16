@@ -110,6 +110,18 @@ function scrollToAnchor(aid) {
 function getContent(str, home = false, popHover = false, anchor = "") {
   // console.log(str);
   // reset content if request is empty
+  // console.log(unslugURL(str));
+  if(!home){
+    let welcomeCheck = str.includes('Welcome');
+    if (welcomeCheck){
+      localStorage.setItem("page", 'home');
+      window.dispatchEvent(new Event('storage'));
+    } else {
+        localStorage.setItem("page", unslugURL(str));
+        window.dispatchEvent(new Event('storage'));
+    }
+  }
+  
   if (str.length == 0) {
     document.getElementById("mdContent").innerHTML = "";
     document.getElementsByClassName("modal-body")[0].innerHTML = "";
@@ -120,9 +132,11 @@ function getContent(str, home = false, popHover = false, anchor = "") {
     let excal = false;
     let draw = document.querySelector("#app");
     let middle = document.querySelector("#middlePane");
+    let header = document.querySelector(".view-header");
     if(str.includes("excalidraw") || str.includes("Excalidraw")){
       middle.style.display = "none";
       draw.style.display = "block";
+      // header.style.display = "none";
       excal = true;
       req = uriPath + "excal.php?mdfile=" + str;
       localStorage.setItem("drawing", req);
@@ -133,6 +147,7 @@ function getContent(str, home = false, popHover = false, anchor = "") {
       window.dispatchEvent(new Event('storage'));
       draw.style.display = "none";
       middle.style.display = "block";
+      // header.style.display = "block";
       
     }
     if(excal) { 
@@ -147,7 +162,7 @@ function getContent(str, home = false, popHover = false, anchor = "") {
       requestPath = uriPath + "content.php?home";
 
     }
-
+    
     mdContent = $("#mdContent")[0]
 
 
@@ -158,7 +173,7 @@ function getContent(str, home = false, popHover = false, anchor = "") {
 
           // set content
           $("#mdContent").html(result);
-
+          
           // set word and char count
           $("#wordCount").text($(".wordCount").text() + ' words');
           $("#charCount").text($(".charCount").text() + ' characters');
@@ -1248,6 +1263,8 @@ $(document).ready(function () {
   } else {
 
     // load index page
+    localStorage.setItem("page", 'home');
+    window.dispatchEvent(new Event('storage'));
     getContent("home", true);
   }
   // on search submit

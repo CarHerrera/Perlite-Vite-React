@@ -1,0 +1,16 @@
+---
+Released: 2021-03-04
+Seasons: 3.0
+Rating: TV-MA
+Genre: Reality-TV
+Duration: 45.0
+Metascore: 74.0
+Metascore Count: 10
+User Score: 0
+User Count: 1
+Director: Joe Rosenzweig
+Creator: Mary-Ellis Bunim,Jonathan Murray
+image: 
+---
+
+The original New York cast from the show's first season in 1992 are reunited in the new Paramount+ series.

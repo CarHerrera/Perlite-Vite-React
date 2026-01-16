@@ -1,10 +1,27 @@
-.grenLineUp{
-  width:100%;
-  height: 50vh;
+#TheBase{
+  overflow-y: auto;
+  height: 100%;
+}
+.arrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  margin-bottom: 2px;
+}
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
 }
 /* Bases */
 .bases-toolbar .bases-toolbar-item{
   display: flex;
+
   overflow:hidden;
 }
 .bases-toolbar .bases-toolbar-views{
@@ -20,17 +37,24 @@
 .bases-toolbar{
   display: flex;
   align-items: center;
-    gap: 4px;
+  gap: 4px;
+  margin-inline: 8px;
+
 }
 .bases-view{
   position: relative;
   width: 100%;
+  overflow-y: auto;
+  
 }
 .bases-result-container {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
+  padding-inline: 10px;
   gap: 12px;
+  flex-grow: 1;
+  padding-bottom: 30px;
   /* border-radius: 30px; */
 }
 

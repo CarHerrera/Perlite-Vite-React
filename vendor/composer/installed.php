@@ -3,7 +3,7 @@
         'name' => 'carlos/perltie-vite-demo',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '06fa17d4b673c57151412182cb15831e1f03e5f2',
+        'reference' => 'd7832b82161ba4e08c80f07f080541ac88fa6b89',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'carlos/perltie-vite-demo' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '06fa17d4b673c57151412182cb15831e1f03e5f2',
+            'reference' => 'd7832b82161ba4e08c80f07f080541ac88fa6b89',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

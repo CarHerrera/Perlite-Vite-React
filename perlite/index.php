@@ -7,13 +7,17 @@
 use mindplay\vite\Manifest;
 require_once __DIR__ . '/vendor/autoload.php';
 require_once 'helper.php';
-
+// $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+// $dotenv->load();
 $requestPath = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 if ($requestPath === '/content.php') {
     require_once __DIR__ . '/content.php';
     exit; // Exit after serving content to prevent the rest of the file from running.
 } else if ($requestPath === '/excal.php') {
     require_once __DIR__ . '/excal.php';
+    exit;
+} else if ($requestPath === '/bases.php') {
+    require_once __DIR__ . '/bases.php';
     exit;
 } else if ($_SERVER['REQUEST_URI'] !== '/') {
     // var_dump($_SERVER['REQUEST_URI']);
@@ -57,7 +61,7 @@ $jsonGraphData = getfullGraph($rootDir);
 
 $vite = new Manifest(
     manifest_path: dirname(__DIR__) . '/public/dist/.vite/manifest.json',
-    base_path: '/dist/',
+    base_path: $uriPath . 'dist/',
     dev: true
 );
 
@@ -98,8 +102,8 @@ $tags = $vite->createTags('main.tsx');
     <?= $tags->preload ?>
     <?= $tags->css ?>
     <script type="module">
-        import RefreshRuntime from 'https://stunning-space-acorn-6rq6vj4pxp4fwwx-8000.app.github.dev/dist/@react-refresh'
-        // import RefreshRuntime from 'http://localhost:8000/dist/@react-refresh'
+        // import RefreshRuntime from 'https://stunning-space-acorn-6rq6vj4pxp4fwwx-8000.app.github.dev/dist/@react-refresh'
+        import RefreshRuntime from 'http://localhost:8000/dist/@react-refresh'
         RefreshRuntime.injectIntoGlobalHook(window)
         window.$RefreshReg$ = () => {}
         window.$RefreshSig$ = () => (type) => type
@@ -416,7 +420,8 @@ $tags = $vite->createTags('main.tsx');
                         <div class="workspace-tab-container">
                             <div class="workspace-leaf mod-active">
                                 <hr class="workspace-leaf-resize-handle">
-                                <div class="workspace-leaf-content" data-type="markdown" data-mode="source">
+                                <div id="TheBase"></div>
+                                <div id="middlePane" class="workspace-leaf-content" data-type="markdown" data-mode="source">
                                     <div class="view-header">
 
                                         <div class="view-actions mobile-display" style="display: flex">
@@ -662,7 +667,7 @@ $tags = $vite->createTags('main.tsx');
                                                 </div>
                                             </div>
                                         </div>
-                                        <div id="middlePane" class="markdown-reading-view" style="width: 100%; height: 100%; ">
+                                        <div id="contentPane" class="markdown-reading-view" style="width: 100%; height: 100%; ">
                                             <div class="markdown-preview-view markdown-rendered node-insert-event allow-fold-headings show-indentation-guide allow-fold-lists"
                                                 style="tab-size: 4;">
                                                 <div class="markdown-preview-sizer markdown-preview-section"
@@ -727,9 +732,10 @@ $tags = $vite->createTags('main.tsx');
                                                 </div>
                                             </div>
                                         </div>
-                                        <div id="app" style="display:none"></div>
+                                        
                                     </div>
                                 </div>
+                                <div id="app" style="display:none"></div>
                             </div>
                         </div>
                     </div>

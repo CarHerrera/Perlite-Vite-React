@@ -1,0 +1,16 @@
+---
+Released: 2013-09-23
+Seasons: 8.0
+Rating: TV-14
+Genre: Comedy,Drama,Romance
+Duration: 30.0
+Metascore: 69.0
+Metascore Count: 34
+User Score: 74
+User Count: 315
+Director: nan
+Creator: Gemma Baker,Eddie Gorodetsky,Chuck Lorre
+image: 
+---
+
+Christy (Anna Faris), a single mom, looks to start a new sober life in Napa Valley with the help of her mother (Allison Janney).

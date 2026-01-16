@@ -1,0 +1,20 @@
+
+views:
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - Released
+      - Genre
+      - Rating
+      - Seaons
+      - Metascore
+      - Director
+    sort:
+      - property: Rating
+        direction: DESC
+    columnSize:
+      file.name: 193
+      note.Map: 435
+    image: note.image
+    imageFit: ""

@@ -1,4 +1,4 @@
-# PHP-Vite
+# `mindplay\php-vite`
 
 [![PHP Version](https://img.shields.io/badge/php-8.1%2B-blue.svg)](https://packagist.org/packages/mindplay/php-vite)
 [![Build Status](https://github.com/mindplay-dk/php-vite/actions/workflows/ci.yml/badge.svg)](https://github.com/mindplay-dk/php-vite/actions/workflows/ci.yml)
@@ -20,6 +20,8 @@ In the following steps, we'll cover usage of the library API only.
 #### 1. Load the `manifest.json` file created by Vite:
 
 ```php
+use mindplay\vite\Manifest;
+
 $vite = new Manifest(
     manifest_path: $your_root_dir . '/public/dist/.vite/manifest.json',
     base_path: '/dist/',

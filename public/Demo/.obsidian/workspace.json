@@ -37,11 +37,13 @@
             "id": "6cf643b7b70bd679",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/RoadMap.excalidraw.md"
+                "file": "Excalidraw/RoadMap.excalidraw.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "RoadMap.excalidraw"
             }
           },
@@ -58,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,11 +209,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94b888d34f75ef7d",
+  "active": "a6611db8265de940",
   "lastOpenFiles": [
     "Excalidraw/RoadMap.excalidraw.md",
     "Excalidraw/Empty Drawing.excalidraw.md",
-    "Demo Documents/perlite.svg",
+    "Excalidraw/perlite.svg",
     "README.md",
     "PERLITE README.md",
     "Demo Documents/docs/sample3.m4a",

@@ -1,5 +1,4 @@
 <?php
-
 /*!
  * Perlite v1.6 (https://github.com/secure-77/Perlite)
  * Author: sec77 (https://secure77.de)
@@ -77,14 +76,13 @@ function parseContent($requestFile)
 	$cleanFile = '';
 
 	// call menu again to refresh the array
-	menu('perlite/'.$rootDir);
+	menu('perlite/' .  $rootDir);
 	$path = '';
 
 
 	// get and parse the content, return if no content is there
 	if(str_contains($requestFile, "base")){
-		$content = getContent($requestFile, 1);
-		echo $content;
+		// $content = getContent($requestFile, 1);
 		return;
 	} else {
 		$content = getContent($requestFile);
@@ -412,10 +410,7 @@ function getBases($baseFile){
 	$contents = file_get_contents($baseFile, true);
 	$tempPath = __DIR__ . "/" . $rootDir . "/" . $notesPath;
 	$db = new SQLite3($tempPath);
-	$t = $db->query("SELECT * FROM notes");
-	// while($row = $t->fetchArray()){
-	// 	var_dump($row);
-	// }
+
 	$baseProperties = yaml_parse($contents);
 	$result = handleYamlViews($baseProperties, $db);
 	// foreach($baseProperties as $key => $value){

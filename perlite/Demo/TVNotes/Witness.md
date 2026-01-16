@@ -1,0 +1,16 @@
+---
+Released: 2012-11-05
+Seasons: 1.0
+Rating: TV-MA
+Genre: Documentary,Crime
+Duration: 60.0
+Metascore: 79.0
+Metascore Count: 11
+User Score: 73
+User Count: 4
+Director: David Frankham,Abdallah Omeish
+Creator: nan
+image: 
+---
+
+The HBO docuseries profiles three photojournalists as they work in Juarez, Mexico; South Sudan; Libya; and Rio de Janeiro.

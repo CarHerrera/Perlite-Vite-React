@@ -24,12 +24,9 @@ function CustomScene() {
   }
   const [excalidrawAPI, setExcalidrawAPI] = useState<ExcalidrawImperativeAPI>();
   const getDrwaing = useSyncExternalStore(subscribe, getSnapshot);
-  // console.log(getDrwaing);
   useEffect( () => {
-    const drawCheck  = localStorage.getItem("drawing");
-    console.log(drawCheck);
-    if (drawCheck != "f" && drawCheck != null){
-      fetch(drawCheck)
+    if (getDrwaing != "f" && getDrwaing != null){
+      fetch(getDrwaing)
             .then(response => {
               return response.json();
             })
@@ -66,7 +63,7 @@ function CustomScene() {
             })
           .catch(error => console.error('Error:', error));
     }
-  });
+  }, [getDrwaing]);
   return (
     <>
       <div style={{height:"97vh", width:"100%"}}>
