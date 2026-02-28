@@ -10,7 +10,8 @@ User Score: 56
 User Count: 5
 Director: Natalia Leite
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/4jffJMsY4oQMJNP4iuaPMazWbRC.jpg
 ---
 
 Eleanor Bennett (Chipo Chung) leaves her two estranged children (Ashley Thomas & Adrienne Warren) a flash drive revealing secrets from her past in this adaptation of Charmaine Wilkerson's novel of the same name.
+Image poster gotten from themoviedb.org

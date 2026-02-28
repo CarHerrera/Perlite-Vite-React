@@ -14,3 +14,4 @@ image:
 ---
 
 NASA's Bob Gilruth (Patrick Fischler) and Chris Kraft (Eric Ladin) select seven men: John Glenn (Patrick J. Adams), Alan Shepard (Jake McDorman), Captain Gordo Cooper (Colin O’Donoghue), Wally Schirra (Aaron Staton), Scott Carpenter (James Lafferty), Deke Slayton (Micah Stock), and Gus Grissom (Michael Trotter), to become the first American astronauts in space in this series based on the Tom Wolfe book of the same name (that also became a film with the same name).
+Image poster gotten from themoviedb.org

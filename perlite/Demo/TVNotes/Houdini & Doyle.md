@@ -10,7 +10,8 @@ User Score: 56
 User Count: 27
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/yEyowhS6l1vwvvu92mcdrdUogXn.jpg
 ---
 
 Harry Houdini (Michael Weston), Arthur Conan Doyle (Stephen Mangan) and Constable Adelaide Stratton (Rebecca Liddiard) team up to solve strange supernatural crimes together.
+Image poster gotten from themoviedb.org

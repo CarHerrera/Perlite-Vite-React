@@ -10,7 +10,8 @@ User Score: 65
 User Count: 85
 Director: nan
 Creator: Park Chan-wook,Don McKellar
-image: 
+image: https://image.tmdb.org/t/p/w500/zAxObqiOEooIuQtH338b8zOaFEu.jpg
 ---
 
 North Vietnam spy The Captain (Hoa Xuande) ends up living in a South Vietnamese refugee community in Los Angeles and finds his loyalty tested in the limited series based on Viet Thanh Nguyen's novel of the same name.
+Image poster gotten from themoviedb.org

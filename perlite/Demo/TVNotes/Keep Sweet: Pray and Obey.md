@@ -10,7 +10,8 @@ User Score: 77
 User Count: 18
 Director: Rachel Dretzin,Grace McNally
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/4Nmb8R9fO9ezzTDZKE5hwkPhu7M.jpg
 ---
 
 The four-part documentary series directed by Rachel Dretzin features never-before-scene footage and interviews with survivors as it examines the polygamous sect of the Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS) led by Warren Jeffs.
+Image poster gotten from themoviedb.org

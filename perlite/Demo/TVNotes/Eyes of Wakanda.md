@@ -10,7 +10,8 @@ User Score: 47
 User Count: 59
 Director: John Fang
 Creator: Stan Lee,Jack Kirby
-image: 
+image: https://image.tmdb.org/t/p/w500/bG23nZW96LxmWkJjsagRZI9hF6t.jpg
 ---
 
 The animated four-part series focuses on various Wakandan warriors throughout history who traveled the world to retrieve Vibranium artifacts.
+Image poster gotten from themoviedb.org

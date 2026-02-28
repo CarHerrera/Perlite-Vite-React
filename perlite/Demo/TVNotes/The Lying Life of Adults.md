@@ -10,7 +10,8 @@ User Score: 94
 User Count: 8
 Director: Edoardo De Angelis
 Creator: Edoardo De Angelis
-image: 
+image: https://image.tmdb.org/t/p/w500/cDy24NY2QIXYUxRzelvhkWGbkPH.jpg
 ---
 
 The Italian-language series adaptation of Elena Ferrante's novel of the same name is centered on the coming-of-age of Giovanna (Giordana Marengo) in 1990s Naples.
+Image poster gotten from themoviedb.org

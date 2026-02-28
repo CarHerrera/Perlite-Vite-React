@@ -10,7 +10,8 @@ User Score: 67
 User Count: 67
 Director: Justin Molotnikov,Declan O'Dwyer,Alice Troughton,Lawrence Gough,Julian Murphy,Jeremy Webb
 Creator: Howard Overman,Johnny Capps,Julian Murphy
-image: 
+image: https://image.tmdb.org/t/p/w500/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg
 ---
 
 More than two millennia ago, Plato wrote about the legendary island of Atlantis, its rise and downfall. This show, produced by BBC and the same team who worked on another hit, Merlin, mixes fantasy and adventure. It follows the young Greek hero Jason as he arrives on the mysterious island of Atlantis. There, he encounters new friends and foes, magic and monsters.
+Image poster gotten from themoviedb.org

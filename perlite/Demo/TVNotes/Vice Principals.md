@@ -10,7 +10,8 @@ User Score: 77
 User Count: 115
 Director: nan
 Creator: Jody Hill,Danny McBride
-image: 
+image: https://image.tmdb.org/t/p/w500/hbAH3WlLpeAxJ06xpF4Uwg9j7kr.jpg
 ---
 
 The dark comedy created by Danny McBride and Jody Hill focuses on two vice principals (Danny McBride and Walton Goggins) seeking the top spot at a high school.
+Image poster gotten from themoviedb.org

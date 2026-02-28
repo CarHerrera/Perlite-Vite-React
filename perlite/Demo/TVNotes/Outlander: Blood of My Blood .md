@@ -10,7 +10,8 @@ User Score: 60
 User Count: 10
 Director: nan
 Creator: Diana Gabaldon
-image: 
+image: https://image.tmdb.org/t/p/w500/z5iW51VQe9GCGhMMeKdmQL3jgCg.jpg
 ---
 
 The Outlander prequel series explores the relationships of two couples: Claire's parents, Julia Moriston (Hermione Corfield) and Henry Beauchamp (Jeremy Irvine) during World War I, and Jamie's parents, Ellen MacKenzie (Harriet Slater) and Brian Fraser (Jamie Roy) in 18th century Scotland.
+Image poster gotten from themoviedb.org

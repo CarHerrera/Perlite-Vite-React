@@ -10,7 +10,8 @@ User Score: 42
 User Count: 237
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg
 ---
 
 The royal family of Inhumans, led by their king, Black Bolt (Anson Mount), are split up by a military coup and end up in Hawaii.
+Image poster gotten from themoviedb.org

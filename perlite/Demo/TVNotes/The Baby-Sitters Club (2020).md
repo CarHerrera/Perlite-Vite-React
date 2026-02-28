@@ -14,3 +14,4 @@ image:
 ---
 
 Stoneybrook, Connecticut middle schooler Kristy Thomas (Sophie Grace) and her friends: Mary-Anne Spier (Malia Baker), Claudia Kishi (Momona Tamada), Stacey McGill (Shay Rudolph), and Dawn Schafer (Xochitl Gomez) start a babysitting business in this series based on the popular children's book series by Ann M. Martin.
+Image poster gotten from themoviedb.org

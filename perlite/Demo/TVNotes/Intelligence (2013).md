@@ -14,3 +14,4 @@ image:
 ---
 
 Gabriel Black (Josh Holloway), an agent with US Cyber Command, has a microchip implanted in his brain that allows him to see the full electromagnetic spectrum.
+Image poster gotten from themoviedb.org

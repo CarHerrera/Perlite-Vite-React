@@ -10,7 +10,8 @@ User Score: 43
 User Count: 4
 Director: Baz Luhrmann
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/pk26xg01tf6UiVUO04Az428Ihip.jpg
 ---
 
 Lady Sarah Ashley (Nicole Kidman) faces the challenges of running a cattle ranch she inherited and the threat of World War II with the help of a local drover (Hugh Jackman) in the six-episode series created from all the footage Baz Luhrmann shot for his 2008 film, Australia.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 73
 User Count: 55
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/53CNogAzbbwepLxQS5jIfGG35MQ.jpg
 ---
 
 The documentry series follows what happens to a Welsh football (soccer) club and the town it represents when Ryan Renolds and Rob McElhenney becomes owners of the Wrexham Red Dragons in 2020.
+Image poster gotten from themoviedb.org

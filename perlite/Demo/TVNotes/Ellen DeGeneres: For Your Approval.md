@@ -14,3 +14,4 @@ image:
 ---
 
 The final stand-up comedy special from Ellen DeGeneres was filmed at Minneapolis' Orpheum Theatre in August 2024.
+Image poster gotten from themoviedb.org

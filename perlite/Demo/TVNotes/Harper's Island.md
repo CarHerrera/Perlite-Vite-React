@@ -10,7 +10,8 @@ User Score: 74
 User Count: 38
 Director: Rick Bota,Sanford Bookstaver,Steve Boyum
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ihpf4yvi9GWATXj7IApblIHRMP4.jpg
 ---
 
 Harper's island is a murder mystery show where a group of people go a secluded island for a wedding- and for death. It turns into a struggle for survival, where every episode someone is killed and every person is a suspect. At the end of the 13 episodes, all questions are answered and only a few survive.  
+Image poster gotten from themoviedb.org

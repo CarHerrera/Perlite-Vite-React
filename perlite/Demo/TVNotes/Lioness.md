@@ -10,9 +10,10 @@ User Score: 61
 User Count: 148
 Director: nan
 Creator: Taylor Sheridan
-image: 
+image: https://image.tmdb.org/t/p/w500/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg
 ---
 
 The Taylor Sheridan series inspired by the real-life CIA program centers on Marine Cruz Manuelos (Laysla De Oliveira), who is recruited to join the Lioness Engagement Team to go undercover in a terrorist organization.
 
 [The name was shortened from Special Ops: Lioness to Lioness beginning with the second season]
+Image poster gotten from themoviedb.org

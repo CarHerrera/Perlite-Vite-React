@@ -10,7 +10,8 @@ User Score: 69
 User Count: 214
 Director: nan
 Creator: Michelle King,Robert King
-image: 
+image: https://image.tmdb.org/t/p/w500/auRAAVxlyT6YACql96UdtnpFHy3.jpg
 ---
 
 David Acosta priest-in-training (Mike Colter) recruits Kristen Bouchard, a forensic psychologist (Katja Herbers) and Ben, a carpenter (Aasif Mandvi) to help him evaluate if the phenomena reported to the church has scientific explanations or are actually supernatural in this series from from Robert and Michelle King.
+Image poster gotten from themoviedb.org

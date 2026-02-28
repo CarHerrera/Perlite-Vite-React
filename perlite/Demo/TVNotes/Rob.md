@@ -10,7 +10,8 @@ User Score: 32
 User Count: 39
 Director: Andrew D. Weyman,James Widdoes
 Creator: Lew Morton,Rob Schneider
-image: 
+image: https://image.tmdb.org/t/p/w500/iRD5fwcKNqCuu7q6LqwCZP2iHpc.jpg
 ---
 
 Lifelong bachelor Rob (Rob Schneider) marries into a tight-knit Mexican-American family.
+Image poster gotten from themoviedb.org

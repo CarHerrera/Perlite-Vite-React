@@ -10,7 +10,8 @@ User Score: 68
 User Count: 67
 Director: Michael Patrick King,Adam Davidson,Michael Spiller,Adam Shankman,Dennie Gordon
 Creator: Michael Patrick King,RuPaul
-image: 
+image: https://image.tmdb.org/t/p/w500/f4rxVYDVCTeHAyZf1W8tlUMvd1.jpg
 ---
 
 The comedy series follows the adventures of a drag queen named Ruby Red (RuPaul Charles) and AJ (Izzy Gaspersz), the 11-year-old who stowawayed in Ruby's RV.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 54
 User Count: 38
 Director: nan
 Creator: Jon Robin Baitz,Joseph Baken,Ryan Murphy
-image: 
+image: https://image.tmdb.org/t/p/w500/vu7X19nHIJ9HOXhES3DIhO9N99c.jpg
 ---
 
 Detective Lois Tryon (Niecy Nash-Betts) teams up with Sister Megan (Micaela Diamond) to investigate a series of horrifying crimes in Ryan Murphy's latest horror series.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Newly hired CIA lawyer Owen Hendricks (Noah Centineo) discovers a former asset (Laura Haddock) is threatening to expose the agency's secrets unless they clear her for a serious crime in this spy thriller from Alexi Hawley. 
+Image poster gotten from themoviedb.org

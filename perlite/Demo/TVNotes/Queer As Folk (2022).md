@@ -14,3 +14,4 @@ image:
 ---
 
 The reimagining of the Russell T. Davies' Queer as Folk from Stephen Dunn is set in New Orleans where a group of friends are changed by a violent attack on their community.
+Image poster gotten from themoviedb.org

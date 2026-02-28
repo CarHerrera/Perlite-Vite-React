@@ -14,3 +14,4 @@ image:
 ---
 
 The documentary directed by Greg Barker and based on a book by journalist Peter Bergen, explores the nearly 20-year hunt for Osama bin Laden by the CIA with interviews with the analysts and operatives. 
+Image poster gotten from themoviedb.org

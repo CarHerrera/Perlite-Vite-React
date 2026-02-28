@@ -14,3 +14,4 @@ image:
 ---
 
 Based on a true story, Dean (Bobby Cannavale) and Nora Brannock (Naomi Watts) discover their dream house has a very unwelcoming neighborhood, including  letters about someone watching them in this thriller series created by Ryan Murphy and Ian Brennan.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 0
 User Count: 4
 Director: Lee Rose
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/4bUEQjQN4djFA2Qb02nPHp990MZ.jpg
 ---
 
 The WB series Related, comes from the creative forces behind Friends and Sex and the City. The series tells the story of the lives of the four Sorelli sisters and their complicated lives as a family unit as well as their career and relationship tribulations as young adult women in New York City.
@@ -22,3 +22,4 @@ Next on the sister scale is Marjee who is a bit flighty as a party coordinator a
 With all of this happening the sisters must also cope with each other. The Sorelli sisters may have difficult times with one another as they are all different, but in the end they stay as close as anyone in a family can get.
 
 From Warner Bros. Television Production Inc., and Class IV Productions. With writer/co-executive producer Liz Tuccillo (Sex and the City) and executive producers Marta Kauffman, Steve Pearlman, Andrew Plotkin and director/executive producer Mimi Leder (ER, Pay It Forward). 
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Set in 1977, Jonah Heidelbaum (Logan Lerman) seeks out the killer of his grandmother and finds himself involved with Meyer Offerman's (Al Pacino) group of Nazi hunters in New York City in this drama series created by David Weil and executive produced by Jordan Peele.
+Image poster gotten from themoviedb.org

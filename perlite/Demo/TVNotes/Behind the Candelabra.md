@@ -14,3 +14,4 @@ image:
 ---
 
 The life of the Las Vegas showman Liberace (Michael Douglas) and his younger lover Scott Thorson (Matt Damon) is depicted in this biopic directed by Steven Soderbergh.
+Image poster gotten from themoviedb.org

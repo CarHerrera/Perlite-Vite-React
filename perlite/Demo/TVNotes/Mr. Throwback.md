@@ -10,7 +10,8 @@ User Score: 58
 User Count: 9
 Director: David Wain
 Creator: David Caspe,Daniel Libman,Matthew Libman,Adam Pally
-image: 
+image: https://image.tmdb.org/t/p/w500/wfCktBzGQ0OrOU0TS4GmjBMCot.jpg
 ---
 
 Danny Grossman (Adam Pally), a sports memorabilia dealer, is reunited with his grade school teammate Steph Curry (playing himself) while a documentary crew films everything in the comedy series.
+Image poster gotten from themoviedb.org

@@ -18,3 +18,4 @@ The Ryan Murphy and Ian Brennan anthology series begins with 10 episodes on Jeff
 Monsters: The Lyle and Erik Menendez Story is the second installment explores the lives of the brothers (Nicholas Alexander Chavez and Cooper Koch) who were convicted of killing their parents (Javier Bardem and Chloë Sevigny).
 
 Monster: The Ed Gein Story is the third installment about the 1950s killer (Charlie Hunnam) who influenced such films as Psycho, The Texas Chain Saw Massacre and The Silence of the Lambs.
+Image poster gotten from themoviedb.org

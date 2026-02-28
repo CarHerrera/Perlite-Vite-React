@@ -10,8 +10,9 @@ User Score: 43
 User Count: 6
 Director: Will Speck,Josh Gordon
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/uzapDOiR6cKbN2Dvs4VKSiGJ85t.jpg
 ---
 
 Cavemen revolves around Joel, his younger brother Andy and best friend Nick. Joel is engaged to Kate. Even though he has some problems with her conservative parents accepting him, he is happy with his life and pursuing the American Dream. The pilot is based on the Geico commercials that claim their service is so easy, "Even a caveman can do it".  
 The show is a production of ABC Television Studio and Management 360. The show has been given an initial order of 13 episodes by American Broadcasting Company (ABC), but only 6 aired before the show was canceled.
+Image poster gotten from themoviedb.org

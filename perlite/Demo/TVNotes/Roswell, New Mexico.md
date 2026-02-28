@@ -10,7 +10,8 @@ User Score: 68
 User Count: 47
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gU19YwCQXCoeQ3PcIPTOHwY5l7k.jpg
 ---
 
 The second adaptation based on the Roswell High book series by Melinda Metz finds biomedical researcher Liz Ortecho (Jeanine Mason) returning to her hometown after 10 years. She soon learns her teenage crush Max (Nathan Parsons) is now a police officer and he's an alien. Liz agrees to keep the secret that also includes Max's sister Isobel (Lily Cowles) and friend Michael (Michael Vlamis).
+Image poster gotten from themoviedb.org

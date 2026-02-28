@@ -10,7 +10,8 @@ User Score: 82
 User Count: 18
 Director: Tony Goldwyn,Allison Anders
 Creator: Tony Goldwyn,Richard LaGravenese
-image: 
+image: https://image.tmdb.org/t/p/w500/yVlzsIJfX0pabYsW1MQEq0Ofjxj.jpg
 ---
 
 Christine Rosa (Marin Ireland), working with The Innocence Initiative, clashes with district attorney, Adam Page (Damon Gupton) over a 11-year-old murder case in this legal drama created by Tony Goldwyn and Richard LaGravenese.
+Image poster gotten from themoviedb.org

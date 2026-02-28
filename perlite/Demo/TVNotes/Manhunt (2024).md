@@ -14,3 +14,4 @@ image:
 ---
 
 The seven-part limited series about Edwin Stanton's (Tobias Menzies) search for Abraham Lincoln's assassin John Wilkes Booth is based on James L. Swanson's nonfiction book.
+Image poster gotten from themoviedb.org

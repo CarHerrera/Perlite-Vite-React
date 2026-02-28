@@ -10,9 +10,10 @@ User Score: 51
 User Count: 17
 Director: Steve Barron
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/1ViwT4iIsQpxvrVgIoAidOp5J33.jpg
 ---
 
 Judith Potts (Judith Potts), Suzie Harris (Jo Martin) and Becks Starling (Cara Horgan) investigate murders in an English town where they live in the British adaptation of Robert Thorogood's novel of the same name. 
 
 [Premiered originally in the UK on U&Drama on 6 Mar 2024 and in the US as a part of PBS' Masterpiece series on 27 Oct 2024]
+Image poster gotten from themoviedb.org

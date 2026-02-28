@@ -10,7 +10,8 @@ User Score: 55
 User Count: 39
 Director: Marcos Siega
 Creator: Kevin Williamson
-image: 
+image: https://image.tmdb.org/t/p/w500/806nRtr42FxowSJTWk88IZpWHrS.jpg
 ---
 
 Based on the novel and movie of the same name where H.G. Wells (Freddie Stroma) time travels to modern day Manhattan in catch  Jack the Ripper (Josh Bowman). 
+Image poster gotten from themoviedb.org

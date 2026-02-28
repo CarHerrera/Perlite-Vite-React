@@ -10,7 +10,8 @@ User Score: 71
 User Count: 33
 Director: Valerie LaPointe,Mike Jones,Austin Madison
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/j9jz5wZlQoq65YuYPNauB72uvFJ.jpg
 ---
 
 The Inside Out spinoff series is set between the films and centers on the studio that creates Riley’s dreams.
+Image poster gotten from themoviedb.org

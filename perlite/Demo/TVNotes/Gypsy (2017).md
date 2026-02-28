@@ -14,3 +14,4 @@ image:
 ---
 
 New York City therapist Jean Holloway (Naomi Watts) becomes involved with her patients and their lives in this psychological thriller series written and created by Lisa Rubin.
+Image poster gotten from themoviedb.org

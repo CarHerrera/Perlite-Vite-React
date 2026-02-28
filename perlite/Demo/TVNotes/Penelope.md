@@ -10,7 +10,8 @@ User Score: 63
 User Count: 19
 Director: Mel Eslyn
 Creator: Mark Duplass,Mel Eslyn
-image: 
+image: https://image.tmdb.org/t/p/w500/97y29UZBzw4V5G4xMZahOyAzAhq.jpg
 ---
 
 16-year-old Penelope (Megan Stott) leaves her family to explore the forests of Washington state in the coming-of-age series created by Mark Duplass and Mel Eslyn.
+Image poster gotten from themoviedb.org

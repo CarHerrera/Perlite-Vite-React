@@ -10,7 +10,7 @@ User Score: 74
 User Count: 10
 Director: nan
 Creator: Steven Bochco,Terry Louise Fisher
-image: 
+image: https://image.tmdb.org/t/p/w500/hs1TBk6KlPBlnb7ybpqgK6IzcCx.jpg
 ---
 
 On this critically acclaimed drama about a top Los Angeles law firm, some of the best battles take place outside of the courtroom. In the bedroom, in the courtroom, or at McKenzie, Brackman, Chaney & Kuzak's staff meetings, the firm's ambitious, competitive attorneys confront conflict between their own desires, their obligations as attorneys, and their principles as human beings.
@@ -67,3 +67,4 @@ The show was a ratings leader throughout its run:
 "L.A. Law" ON CABLE
 
 "L.A. Law" reruns air on A&E occasionally. 
+Image poster gotten from themoviedb.org

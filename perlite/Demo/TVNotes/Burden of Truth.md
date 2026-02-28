@@ -10,7 +10,8 @@ User Score: 48
 User Count: 19
 Director: nan
 Creator: Brad Simpson
-image: 
+image: https://image.tmdb.org/t/p/w500/2YLg5PQ27kgRp6uncqUhKHoXXUC.jpg
 ---
 
 Corporate attorney Joanna Hanley (Kristin Kreuk) returns to to her hometown of Millwood to represent her client but after winning the case, she decides to stay.
+Image poster gotten from themoviedb.org

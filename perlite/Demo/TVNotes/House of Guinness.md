@@ -10,7 +10,8 @@ User Score: 66
 User Count: 38
 Director: Tom Shankland,Mounia Akl
 Creator: Steven Knight
-image: 
+image: https://image.tmdb.org/t/p/w500/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg
 ---
 
 In 1860s Ireland, Arthur Guinness (Anthony Boyle), Benjamin Guinness (Fionn O'Shea), Edward Guinness (Louis Partridge), and Anne Plunket (Emily Fairn) face many challenges with running the family business after their father dies in the Steven Knight drama series.
+Image poster gotten from themoviedb.org

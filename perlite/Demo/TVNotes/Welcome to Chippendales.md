@@ -10,7 +10,8 @@ User Score: 56
 User Count: 23
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/cowPil7lc6c4giarDYWP0ZbK8hs.jpg
 ---
 
 The limited darkly comedic crime drama series created by Robert Siegel chronicles how Indian immigrant Somen "Steve" Banerjee (Kumail Nanjiani) created The Chippendales and the deadly actions he took against potential competitors.
+Image poster gotten from themoviedb.org

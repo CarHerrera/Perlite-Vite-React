@@ -10,7 +10,8 @@ User Score: 72
 User Count: 67
 Director: Norma Bailey
 Creator: David O'Leary
-image: 
+image: https://image.tmdb.org/t/p/w500/rqrzjT5nc7mTD5IKVMLRhLeyzgD.jpg
 ---
 
 College professor Dr. J. Allen Hynek (Aiden Gillen) is recruited by the US Air Force to lead the secret Project Blue Book to investigate thousands of cases of UFO sightings in this series based on the real investigations conducted by the United States Air Force from 1952-1969.
+Image poster gotten from themoviedb.org

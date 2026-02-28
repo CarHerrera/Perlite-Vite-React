@@ -10,7 +10,8 @@ User Score: 75
 User Count: 126
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/x6ZCpAPDTAHuNxBGq5nU4nqpfYA.jpg
 ---
 
 Kyle Barnes (Patrick Fugit) has been suffering from demonic possessions his entire life. With the help of Reverend Anderson (Philip Glenister), Kyle seeks answers that could end life on Earth in this TV adaptation of the comic created by Robert Kirkman and Paul Azaceta.
+Image poster gotten from themoviedb.org

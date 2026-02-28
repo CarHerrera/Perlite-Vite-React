@@ -10,7 +10,8 @@ User Score: 73
 User Count: 24
 Director: Otto Bathurst,Jim Loach
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/1N0dY2EIxNyEjSAPyrROsGt9jlR.jpg
 ---
 
 The five-part limited series centers on Dr. Jim Swire (Colin Firth) and his wife Jane (Catherine McCormack) as they seek answers and justice to what happened to their daughter and the other people killed when Pan Am Flight 103 exploded over Lockerbie on December 21, 1988.   
+Image poster gotten from themoviedb.org

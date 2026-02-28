@@ -14,3 +14,4 @@ image:
 ---
 
 A court order brings high profile attorney Allen Braddock (Kelsey Grammer) in contact with Marcus Jackson (Martin Lawrence), a recently divorced lawyer who works mainly pro-bono cases.
+Image poster gotten from themoviedb.org

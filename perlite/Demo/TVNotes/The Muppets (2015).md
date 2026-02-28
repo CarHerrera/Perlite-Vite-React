@@ -14,3 +14,4 @@ image:
 ---
 
 The Muppets return to television with a mockumentary style show that follows Kermit and the gang as they work on their late night talk show.
+Image poster gotten from themoviedb.org

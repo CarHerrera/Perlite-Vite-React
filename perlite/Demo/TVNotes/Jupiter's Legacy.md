@@ -10,7 +10,8 @@ User Score: 65
 User Count: 141
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9yxep7oJdkj3Pla9TD9gKflRApY.jpg
 ---
 
 After many decades of protecting the world, the first superheroes who had emerged in the 1930s are ready to pass on the torch to their children who struggle with the responsibility and expectations in this adaptation of the graphic novels by Mark Millar and Frank Quitely.
+Image poster gotten from themoviedb.org

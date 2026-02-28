@@ -10,7 +10,8 @@ User Score: 80
 User Count: 16
 Director: Nanfu Wang
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qDhVWwcRCXSFJuIOfLyvj1buTzY.jpg
 ---
 
 The six-part documentary series directed by Nanfu Wang examines the conviction (which was later overturned by DNA evidence in 2009) of six people who admitted to the 1985 murder of a 68-year-old grandmother in Beatrice, Nebraska.
+Image poster gotten from themoviedb.org

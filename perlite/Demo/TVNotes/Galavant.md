@@ -10,7 +10,8 @@ User Score: 76
 User Count: 173
 Director: nan
 Creator: Dan Fogelman
-image: 
+image: https://image.tmdb.org/t/p/w500/3q9a5WFsf08v8RQYVfI2DzNd7B4.jpg
 ---
 
 Galavant (Joshua Sasse) seeks to take his true love Madalena (Mallory Jansen) back from evil King Richard (Timothy Omundson) in this Dan Fogelman musical fairy-tale comedy with music from Alan Menken and Glenn Slater.
+Image poster gotten from themoviedb.org

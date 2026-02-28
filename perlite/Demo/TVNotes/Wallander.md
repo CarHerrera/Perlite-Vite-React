@@ -10,9 +10,10 @@ User Score: 73
 User Count: 57
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xK5jgSqoOfKwNG0WwrFObmIq0YJ.jpg
 ---
 
 Kenneth Branagh plays a Swedish detective called Kurt Wallander in this crime drama for the BBC.
 
 The show is an adaptation of Swedish author Henning Mankell's critically acclaimed book series, the Kurt Wallander Mysteries.
+Image poster gotten from themoviedb.org

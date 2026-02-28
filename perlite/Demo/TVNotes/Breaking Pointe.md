@@ -10,7 +10,8 @@ User Score: 59
 User Count: 9
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2bOwRDraB1m8SUEq6twgd8vYobk.jpg
 ---
 
 The world of professional ballet dancers is explored with the dancers of Ballet West in Salt Lake City.
+Image poster gotten from themoviedb.org

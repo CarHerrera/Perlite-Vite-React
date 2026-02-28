@@ -14,3 +14,4 @@ image:
 ---
 
 Tuesday Night Book Club follows the lives of a group of real suburban housewives who meet each Tuesday night to dish on everything in their lives from sex to spouses and more.
+Image poster gotten from themoviedb.org

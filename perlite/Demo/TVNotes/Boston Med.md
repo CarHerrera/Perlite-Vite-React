@@ -10,7 +10,8 @@ User Score: 68
 User Count: 10
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/uyWzD5PEocA3KQWC6kP3IuETlGa.jpg
 ---
 
 Filmed over four months at Massachusetts General, Brigham and Women's, and Children's Hospital Boston, go inside the daily lives of the doctors, nurses and patients there.  
+Image poster gotten from themoviedb.org

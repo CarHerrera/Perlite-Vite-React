@@ -14,3 +14,4 @@ image:
 ---
 
 Crisis and hostage negotiator Eric Beaumont (Luke Roberts) and his team travel around the world to help with difficult kidnap and ransom cases in this drama from David Vainola and Spotnitz was inspired by real life crisis negotiator Laurent Combalbert.
+Image poster gotten from themoviedb.org

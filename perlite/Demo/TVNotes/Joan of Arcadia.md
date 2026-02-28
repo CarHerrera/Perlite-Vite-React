@@ -10,7 +10,7 @@ User Score: 88
 User Count: 5
 Director: James Hayman,Kevin Dowling,Steve Gomer
 Creator: Barbara Hall
-image: 
+image: https://image.tmdb.org/t/p/w500/AdSIHbGVuHGrdZs5BXajiCwep75.jpg
 ---
 
 Joan of Arcadia is a drama that follows a typical family facing atypical situations, not the least of which is their teenage daughter's conversations with God. A tough but soft-hearted police detective in Arcadia, Will Girardi (Joe Mantegna) dreams of providing a safe haven for his family and community. An outbreak of serious crime in his idyllic new town has challenged Girardi's desire for order, as have the ups and downs he faces with his family. Daughter Joan (Amber Tamblyn), an average teenager, has been acting a little strange. Most don't know that it has to do with the unusual way various people keep popping up, introducing themselves as God and then giving her specific directions to do things, such as get a job, join the debate team or volunteer with children. The appearances are hard for her to believe, even more so as she never knows who's going to turn up next. One minute it's a cute boy her own age, the next it's the lunch lady or a little girl. She'd been keeping it a secret from everyone, though she has finally revealed it to her artistic and generally sensitive boyfriend, Adam (Christopher Marquette), who believes she's been experiencing hallucinations.
@@ -39,3 +39,4 @@ Awards and Nominations:
 2004 - Nominated - Emmy - Outstanding Drama Series; Outstanding Lead Actress in Drama Series: Amber Tamblyn; Outstanding Guest Actress in Drama Series: Louis Fletcher (Do The Math episode)
 2004 - Nominated - Artios Awards - Dramatic Pilot Casting: Vicki Rosenberg
 2004 - Won - The Family Television Awards - Best Drama Series and TV Actress: Amber Tamblyn 
+Image poster gotten from themoviedb.org

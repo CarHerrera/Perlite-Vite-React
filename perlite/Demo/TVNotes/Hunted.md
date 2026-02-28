@@ -10,7 +10,8 @@ User Score: 68
 User Count: 39
 Director: Daniel Percival,James Strong,Alrick Riley,S.J. Clarkson
 Creator: Frank Spotnitz
-image: 
+image: https://image.tmdb.org/t/p/w500/6cuYMFK90gVhMe311pDwtkPuNSd.jpg
 ---
 
 Samantha Hunter (Melissa Geoge) suspects someone within the private intelligence agency she works at tried to kill her and she seeks to uncover the person behind it.
+Image poster gotten from themoviedb.org

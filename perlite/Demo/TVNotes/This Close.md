@@ -10,7 +10,8 @@ User Score: 61
 User Count: 12
 Director: Andrew Ahn,Jordan Firstman,Stephen Cone,Coy Middlebrook,Bridey Elliott
 Creator: Joshua Feldman,Shoshannah Stern
-image: 
+image: https://image.tmdb.org/t/p/w500/1isl0SYrGROT7gKIllV1C27zqAo.jpg
 ---
 
 Both Kate (Shoshanna Stern) and her best friend Michael (Josh Feldman) are deaf and they juggle life and relationships in this dramedy created by Stern and Feldman.
+Image poster gotten from themoviedb.org

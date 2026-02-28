@@ -14,3 +14,4 @@ image:
 ---
 
 Psychic Maggie (Rebecca Rittenhouse) suddenly begins seeing her future after meeting a stranger in this comedy co-written by Justin Adler and Maggie Mull.
+Image poster gotten from themoviedb.org

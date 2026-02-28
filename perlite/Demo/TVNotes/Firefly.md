@@ -10,7 +10,7 @@ User Score: 88
 User Count: 557
 Director: Joss Whedon,Vern Gillum,Tim Minear,Thomas J. Wright,David Solomon,Allan Kroeker
 Creator: Joss Whedon
-image: 
+image: https://image.tmdb.org/t/p/w500/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg
 ---
 
 "Take my love, take my land, take me where I cannot stand. I don't care I'm still free, you can't take the sky from me. Take me out to the black, tell them I ain't coming back. Burn the land and boil the sea, you can't take the sky from me......There's no place I can be since I found Serenity, you can't take the sky from me."
@@ -32,3 +32,4 @@ The newcomers are:
 Simon Tam is the Doctor on Serenity and comes from a wealthy family and has a privileged upbringing. He has spent his life savings and future to save his sister, River.
 River (aka The Fugitive) was experimented on by the government. Her psychic visions (a result of the experiments) are taken at first as babble by the crew but they slowly come to realize that there's more going on than what shows on the surface.
 Book or "The Shepherd," is a wise minister who knows far more about military matters and battle tactics than a man of the cloth should, and his past is shrouded in mystery.
+Image poster gotten from themoviedb.org

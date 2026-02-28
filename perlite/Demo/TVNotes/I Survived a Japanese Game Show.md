@@ -10,7 +10,8 @@ User Score: 0
 User Count: 2
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hloe8aS6eV2iZPt5Fnyp7qAt6yc.jpg
 ---
 
 Reality goes abroad in this ABC project that sends American contestants overseas to Japan to compete in challenges in a foreign culture. Whoever adapts best to Japanese culture and each episode's challenges wins $250,000.
+Image poster gotten from themoviedb.org

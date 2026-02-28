@@ -10,7 +10,8 @@ User Score: 55
 User Count: 34
 Director: Jared Hess,Eric Appel
 Creator: Julius Sharpe
-image: 
+image: https://image.tmdb.org/t/p/w500/oQvEkVxOtRlTqjRwTGl989oEeL8.jpg
 ---
 
 Computer science professor Dan Chmbers (Adam Pally) travels back in time to the 1700s and falls in love with Paul Revere’s daughter, Deborah (Leighton Meester). Dan's adventures in the 18th century changes history and he brings his history professor friend Chris (Yassir Lester) to try and fix history.
+Image poster gotten from themoviedb.org

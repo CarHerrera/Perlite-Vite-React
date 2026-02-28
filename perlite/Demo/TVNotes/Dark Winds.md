@@ -10,7 +10,8 @@ User Score: 71
 User Count: 93
 Director: Chris Eyre
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg
 ---
 
 Set in 1971, Navajo Tribal Police Lieutenant Joe Leaphorn (Zahn McClarnon) and his new deputy, Jim Chee (Kiowa Gordon), investigate a double murder in this Graham Roland adaptation of Tony Hillerman's book series.
+Image poster gotten from themoviedb.org

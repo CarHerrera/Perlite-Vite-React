@@ -10,7 +10,8 @@ User Score: 39
 User Count: 17
 Director: Michael LaHaie
 Creator: Angie Day,Donny Deutsch
-image: 
+image: https://image.tmdb.org/t/p/w500/fLuoZ7l6HIU3Yoc7aB5UHlwfwkG.jpg
 ---
 
 Former CNBC talk show host Donny Deutsch plays a fictional version of himself in the comedy series.
+Image poster gotten from themoviedb.org

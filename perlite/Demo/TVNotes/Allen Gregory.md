@@ -10,7 +10,8 @@ User Score: 30
 User Count: 76
 Director: nan
 Creator: Jonah Hill,Andrew Mogel,Jarrad Paul
-image: 
+image: https://image.tmdb.org/t/p/w500/jDDAUkgsGOM2ZubRsP03LBSRy3y.jpg
 ---
 
 The animated comedy created by Jonah Hill, Andrew Mogel, and Jarred Paul focuses on the seven-year-old title character voiced by Hill.
+Image poster gotten from themoviedb.org

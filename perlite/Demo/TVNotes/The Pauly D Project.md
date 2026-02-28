@@ -10,7 +10,8 @@ User Score: 29
 User Count: 15
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jy6rSr18l8d2BdyIugld8A6qpq7.jpg
 ---
 
 The Jersey Shore's Pauly D seeks a record contract on his own reality show for MTV.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 72
 User Count: 96
 Director: Stephen Merchant,Julian Farino,Greg Daniels
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2jUOzE8pcwn0bDGfbX7GtTqSqsT.jpg
 ---
 
 Stephen Merchant stars in this HBO comedy about a tall and awkward Englishman searching for the woman of his dreams in Los Angeles.
+Image poster gotten from themoviedb.org

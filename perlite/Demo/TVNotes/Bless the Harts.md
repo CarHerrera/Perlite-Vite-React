@@ -10,7 +10,8 @@ User Score: 39
 User Count: 21
 Director: Albert Calleros
 Creator: Emily Spivey
-image: 
+image: https://image.tmdb.org/t/p/w500/havvMQWenLDVRMF46ncF1vVoLLU.jpg
 ---
 
 The animated comedy from Emily Spivey, Phil Lord, Christopher Miller and Seth Cohen follows Betty Hart (Maya Rudolph) and her family that includes Wayne Edwards (Ike Baerinholtz), his wife Jenny (Kristen Wiig) and their daughter Violet (Jillian Bell).
+Image poster gotten from themoviedb.org

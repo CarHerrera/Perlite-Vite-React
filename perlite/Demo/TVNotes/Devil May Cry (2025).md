@@ -14,3 +14,4 @@ image:
 ---
 
 Demon hunter Dante is at the center of the Adi Shankar animated series adaptation of the Capcom video game series of the same name.
+Image poster gotten from themoviedb.org

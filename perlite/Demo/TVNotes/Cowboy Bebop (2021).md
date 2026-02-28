@@ -14,3 +14,4 @@ image:
 ---
 
 The live-action series based on Shinichirō Watanabe's anime series follows  bounty hunters Spike Spiegel (John Cho), Jet Black (Mustafa Shakir) and Faye Valentine (Daniella Pineda) as they search the galaxy for wanted criminals.
+Image poster gotten from themoviedb.org

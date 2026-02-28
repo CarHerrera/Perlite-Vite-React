@@ -14,3 +14,4 @@ image:
 ---
 
 Based on the groundbreaking show from PBS, An American Family, producer Gavin Polone takes viewers behind-the-scenes with the family from the original show and looks into the making of the series.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 86
 User Count: 152
 Director: Nathan Fielder
 Creator: Nathan Fielder
-image: 
+image: https://image.tmdb.org/t/p/w500/mIevNYxovnH4sR22qkUmAgS5vdv.jpg
 ---
 
 Nathan Fielder helps people "rehearse" major decisions and/or discussions with the aide of actors and realistic sets in this comedy series written and directed by Fielder.
+Image poster gotten from themoviedb.org

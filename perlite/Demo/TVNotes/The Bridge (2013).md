@@ -14,3 +14,4 @@ image:
 ---
 
 Based on the Danish/Swedish drama Broen, the American version takes place on the U.S. and Mexican border where a murdered body on a bridge between El Paso and Juarez bring together El Paso detective Sonya Cross (Diane Kruger) and Chihuahua State Police detective Marco Ruiz (Demián Bichir) to solve the case.
+Image poster gotten from themoviedb.org

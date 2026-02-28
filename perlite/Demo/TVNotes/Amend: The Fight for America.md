@@ -10,7 +10,8 @@ User Score: 46
 User Count: 12
 Director: Kenny Leon,Reinaldo Marcus Green
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/zvgMH7sIBhBtXZ10td59zNDYqrt.jpg
 ---
 
 Will Smith hosts this six-part documentary series about the history of the Fourteenth Amendment of the U.S. Constitution with reading from  Mahershala Ali, Samuel L. Jackson, Diane Lane, Pedro Pascal, and Yara Shahidi.
+Image poster gotten from themoviedb.org

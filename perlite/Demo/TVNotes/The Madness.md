@@ -10,7 +10,8 @@ User Score: 44
 User Count: 41
 Director: Clement Virgo
 Creator: Stephen Belber
-image: 
+image: https://image.tmdb.org/t/p/w500/lASJAqmKLt5xkr3sZZGQUOK5l2e.jpg
 ---
 
 Media pundit Muncie Daniels (Colman Domingo) seeks to clear his name after he comes upon a murder in the Pennsylvania woods in this limited series created by Stephen Belber.
+Image poster gotten from themoviedb.org

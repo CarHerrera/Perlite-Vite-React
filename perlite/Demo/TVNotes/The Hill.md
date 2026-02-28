@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Ivy Meeropol
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg
 ---
 
 Want a peek at real politics in America? Florida Congressman Robert Wexler opens his office doors to the cameras to expose the heated matters facing his constituents today. Directed by filmmaker and former Capitol Hill speechwriter and legislative aide Ivy Meeropol, The Hill showcases Wexler’s conflicts both with the opposition and with his own political party on such charged issues as social security, prescription drugs, Medicare, Hurricane Katrina, and the war in Iraq.
+Image poster gotten from themoviedb.org

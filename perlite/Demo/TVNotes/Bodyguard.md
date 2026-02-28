@@ -10,7 +10,8 @@ User Score: 74
 User Count: 209
 Director: John Strickland,Thomas Vincent
 Creator: Jed Mercurio
-image: 
+image: https://image.tmdb.org/t/p/w500/5DUJTrHTRLHLCKWriPhdusQogAv.jpg
 ---
 
 War-veteran-turned-police Sergeant David Budd (Richard Madden) is promoted to the protection detail for controversial conservative Home Secretary Julia Montague (Keeley Hawes) in this drama series created by Jed Mercurio.
+Image poster gotten from themoviedb.org

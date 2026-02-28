@@ -10,7 +10,8 @@ User Score: 74
 User Count: 131
 Director: Peter Berg
 Creator: Mark L. Smith
-image: 
+image: https://image.tmdb.org/t/p/w500/ff0s9OHGNSZL6cVteIb7LNvTnJD.jpg
 ---
 
 In 1857, a mother (Betty Gilpin) searches for her husband with the help of a local (Taylor Kitsch) as Mormons, indigenous tribes, fur trappers and the military struggle brutally against each other across the American West in the limited series written by Mark L. Smith and directed by Peter Berg.
+Image poster gotten from themoviedb.org

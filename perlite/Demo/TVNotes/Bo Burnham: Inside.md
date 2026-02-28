@@ -14,3 +14,4 @@ image:
 ---
 
 The musical comedy special was filmed by the comedian over the past year by himself, with no crew or audience.
+Image poster gotten from themoviedb.org

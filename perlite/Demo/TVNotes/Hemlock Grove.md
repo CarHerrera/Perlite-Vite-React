@@ -10,7 +10,8 @@ User Score: 74
 User Count: 318
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/sjGOYM7GTG03aWUZIFOUiFDTeoL.jpg
 ---
 
 Based on the Brian McGreevy's novel of the same name, the death of a teenaged girl in a small Pennsylvania steel town leads to suspicions toward Peter Rumancek (Landon Liboiron), 17-year-old Gypsy and Roman Godfrey (Bill Skarsgard), the heir to the Godfrey estate.
+Image poster gotten from themoviedb.org

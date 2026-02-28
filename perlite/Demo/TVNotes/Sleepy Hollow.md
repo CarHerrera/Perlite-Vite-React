@@ -10,7 +10,8 @@ User Score: 75
 User Count: 354
 Director: nan
 Creator: Phillip Iscove,Alex Kurtzman,Roberto Orci,Len Wiseman
-image: 
+image: https://image.tmdb.org/t/p/w500/2RHj62XneYMCRPAyQrEIrKVij12.jpg
 ---
 
 Ichabod Crane (Tom Mison) wakes up 200+ years in the future and meets Sleepy Hollow police Lieutenant Abbie Mills (Nicole Beharie). Together they aim to stop the headless horseman, who is the fourth horsemen of the Apocalypse.
+Image poster gotten from themoviedb.org

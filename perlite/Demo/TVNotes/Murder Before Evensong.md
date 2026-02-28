@@ -10,9 +10,10 @@ User Score: 0
 User Count: 2
 Director: David Moore
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xn7TFZnR9U2KpJovIg5F1WZ1qs2.jpg
 ---
 
 Set in 1988, Canon Daniel Clement (Matthew Lewis), the Rector of Champton, becomes involved in a murder investigation when a dead body turns up in his church in the mystery series based on the first novel by Reverend Richard Coles.
 
 [Premiered originally in the US on Acorn TV on 29 Sep 2025 and in the UK on Channel 5 on 7 Oct 2025]
+Image poster gotten from themoviedb.org

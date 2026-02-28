@@ -10,7 +10,8 @@ User Score: 67
 User Count: 14
 Director: nan
 Creator: Rafael Casal,Daveed Diggs
-image: 
+image: https://image.tmdb.org/t/p/w500/igf2O23e4Jbc9QzI6vIPnxLhvvQ.jpg
 ---
 
 After Miles (Rafael Casal) is arrested, Ashley (Cephas Jones) has to move in   with Miles' mother (Helen Hunt) and half-sister (Jaylen Barron) in this dramedy series that is set six months after the 2018 film of the same name.
+Image poster gotten from themoviedb.org

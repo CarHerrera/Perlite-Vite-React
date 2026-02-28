@@ -10,7 +10,8 @@ User Score: 81
 User Count: 230
 Director: Hisko Hulsing
 Creator: Raphael Bob-Waksberg,Kate Purdy
-image: 
+image: https://image.tmdb.org/t/p/w500/s1TZYhSTk6Bv7qqGc0233P3KQrA.jpg
 ---
 
 The rotoscope animation  from Kate Purdy and Raphael Bob-Waksberg follows 28-year-old Alma (Rosa Salazar) as she seeks answers to her father's death after an accident nearly kills her and discovers an ability to travel through time.
+Image poster gotten from themoviedb.org

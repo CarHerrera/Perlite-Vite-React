@@ -14,3 +14,4 @@ image:
 ---
 
 Caroline (Penelope Ann Miller) and Bethany (Mia Kirshner) are two wealthy mothers who buy their children's way into prestigious universities with the help of Rick Singer (Michael Shanks) in this TV movie inspired by Operation Varsity Blues.
+Image poster gotten from themoviedb.org

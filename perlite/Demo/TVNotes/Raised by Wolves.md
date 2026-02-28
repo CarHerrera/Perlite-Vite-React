@@ -10,7 +10,8 @@ User Score: 73
 User Count: 312
 Director: nan
 Creator: Aaron Guzikowski
-image: 
+image: https://image.tmdb.org/t/p/w500/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg
 ---
 
 Two androids (Amanda Collin and Abubakar Salim) raise human children on a new planet, but their peaceful lives are changed when a ship from Earth arrives in the sci-fi drama created by Aaron Guzikowski.
+Image poster gotten from themoviedb.org

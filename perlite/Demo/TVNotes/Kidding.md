@@ -10,7 +10,8 @@ User Score: 78
 User Count: 146
 Director: nan
 Creator: Dave Holstein
-image: 
+image: https://image.tmdb.org/t/p/w500/oYqvxrvN5PVd4Kvp46LnXVl42nW.jpg
 ---
 
 Jeff (Jim Carrey) plays Mr. Pickles, a children's television personality, who slowly begins to unravel as he tries to cope with family difficulties.
+Image poster gotten from themoviedb.org

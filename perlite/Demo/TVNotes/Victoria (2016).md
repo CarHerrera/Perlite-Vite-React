@@ -14,3 +14,4 @@ image:
 ---
 
 The British TV series follows the young Queen Victoria (Jenna Coleman) from when she takes the crown at 18 to her marriage to Prince Albert (Tom Hughes).
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 68
 User Count: 50
 Director: Ed Bianchi
 Creator: Veena Sud
-image: 
+image: https://image.tmdb.org/t/p/w500/mexUP20U3sPzu8jfGeRIHzI3TUC.jpg
 ---
 
 The anthology crime drama from Veena Sud is set in Jersey City, New Jersey and based on the 2013 Russian film, The Major.
+Image poster gotten from themoviedb.org

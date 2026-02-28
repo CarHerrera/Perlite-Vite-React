@@ -10,7 +10,8 @@ User Score: 52
 User Count: 18
 Director: Jade Sandberg Wallis
 Creator: Marie Kondo
-image: 
+image: https://image.tmdb.org/t/p/w500/l74KOb99Ffx4ilSEHrm8voi4XL2.jpg
 ---
 
 Japanese home organization consultant helps people find their sparks of joy as they declutter their houses.
+Image poster gotten from themoviedb.org

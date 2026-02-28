@@ -10,7 +10,8 @@ User Score: 53
 User Count: 21
 Director: Pablo Larraín
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/nBh4EuCmk3ZWfs16KKuhYHUqWdM.jpg
 ---
 
 A series of events forces Lisey Landon (Julianne Moore) to face her memories of her marriage to her husband (Clive Owen), a famous novelist who died two years earlier in this thriller based on Stephen King's novel of the same name.
+Image poster gotten from themoviedb.org

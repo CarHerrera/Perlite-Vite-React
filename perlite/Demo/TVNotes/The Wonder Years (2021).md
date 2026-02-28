@@ -14,3 +14,4 @@ image:
 ---
 
 An adult Dean Williams (Don Cheadle) narrates the story of his coming-of-age in 1960s Alabama as a 12-year-old (Elisha "EJ" Williams) with his black middle-class family in this reboot of the 1980s family comedy of the same name.
+Image poster gotten from themoviedb.org

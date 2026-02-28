@@ -14,3 +14,4 @@ image:
 ---
 
 While God (Steve Buscemi) is busy with his hobbies, it's up to low-level angel Craig (Daniel Radcliffe) and his fellow angels in the Department of Prayer Response to deal with all of humanity's prayers in this comedy series from Simon Rich and based on his book, What in God's Name.
+Image poster gotten from themoviedb.org

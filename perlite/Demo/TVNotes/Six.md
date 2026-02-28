@@ -10,7 +10,8 @@ User Score: 62
 User Count: 62
 Director: Mikael Salomon,Kimberly Peirce
 Creator: William Broyles Jr.,David Broyles
-image: 
+image: https://image.tmdb.org/t/p/w500/3UUbbelbbHGo0AEHK7DQbJMosnJ.jpg
 ---
 
 In 2014, Navy SEAL Team Six (Edwin Hodge, Juan Pablo Raba, Kyle Schmid, Barry Sloane) are on a mission in Afghanistan to take out a Taliban leader when they discover an U.S. citizen is working with the terrorists in this military drama from William Broyles Jr. and  David Broyles.
+Image poster gotten from themoviedb.org

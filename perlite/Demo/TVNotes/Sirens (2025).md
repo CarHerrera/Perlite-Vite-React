@@ -14,3 +14,4 @@ image:
 ---
 
 Devon (Meghann Fahy) struggles to connect with her sister Simone (Milly Alcock), who has developed an uncomfortably close relationship with her new boss, Michaela Kell (Julianne Moore) in the five-part dark comedy limited series created by Molly Smith Metzler.
+Image poster gotten from themoviedb.org

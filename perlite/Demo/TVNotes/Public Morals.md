@@ -10,7 +10,8 @@ User Score: 73
 User Count: 49
 Director: Edward Burns
 Creator: Edward Burns
-image: 
+image: https://image.tmdb.org/t/p/w500/sogCeR7biHJcp4AFoVt0mWCOCcY.jpg
 ---
 
 The Ed Burns crime drama set in 1967 where Public Morals Division officer Terry Muldoon (Ed Burns) tries to keep his family safe from his work.
+Image poster gotten from themoviedb.org

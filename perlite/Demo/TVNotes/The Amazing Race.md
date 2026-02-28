@@ -10,7 +10,8 @@ User Score: 68
 User Count: 125
 Director: Bertram van Munster
 Creator: Elise Doganieri,Bertram van Munster
-image: 
+image: https://image.tmdb.org/t/p/w500/x1jq0atcQg6UkaZpco0kFL6QHuM.jpg
 ---
 
 The competitive reality series hosted by Phil Keoghan featured 11 teams of two racing around the world to win $1 million.
+Image poster gotten from themoviedb.org

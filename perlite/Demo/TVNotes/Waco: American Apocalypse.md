@@ -10,7 +10,8 @@ User Score: 49
 User Count: 12
 Director: Tiller Russell
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/eKsgrhu4qiuePmGmuVCUI84IfAD.jpg
 ---
 
 The three-part documentary series directed by Tiller Russell includes video from the FBI Crisis Negotiation Unit, previously unreleased raw news footage, interviews with journalists, ATF and FBI agents involved in the Waco siege.
+Image poster gotten from themoviedb.org

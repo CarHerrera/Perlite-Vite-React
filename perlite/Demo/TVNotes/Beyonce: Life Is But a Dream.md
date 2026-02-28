@@ -14,3 +14,4 @@ image:
 ---
 
 Beyoncé stars and co-directed this documentary that includes her decision to end management ties with her father and the birth of her daughter, Blu Ivy.
+Image poster gotten from themoviedb.org

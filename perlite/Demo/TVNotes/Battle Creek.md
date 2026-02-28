@@ -10,7 +10,8 @@ User Score: 76
 User Count: 75
 Director: Andrew Bernstein
 Creator: Vince Gilligan,David Shore
-image: 
+image: https://image.tmdb.org/t/p/w500/5oqPaAiwflr1o4PlNvkAGRC9DCX.jpg
 ---
 
 The dramady from Vince Gulligan finds FBI agent Milton Chamberlain (Josh Duhamel) setting up a field office in Battle Creek, Michigan, and clashing with Detective Russ Agnew's (Dean Winters) methods.
+Image poster gotten from themoviedb.org

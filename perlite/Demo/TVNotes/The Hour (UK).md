@@ -10,7 +10,8 @@ User Score: 79
 User Count: 88
 Director: Jamie Payne,Harry Bradbeer,Coky Giedroyc,Sandra Goldbacher,Catherine Morshead
 Creator: Abi Morgan
-image: 
+image: https://image.tmdb.org/t/p/w500/gxspHzwLcFMPQL3SqU3g1zqLlQL.jpg
 ---
 
 It's 1956 and a new topical news programme is about to be launched on the BBC. The six-part drama (written by Abi Morgan) takes you behind-the-scenes as a passionate love triangle develops in the newsroom.
+Image poster gotten from themoviedb.org

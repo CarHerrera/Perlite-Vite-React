@@ -10,7 +10,8 @@ User Score: 50
 User Count: 6
 Director: Ramaa Mosley,Marta Cunningham
 Creator: Peter Moffat
-image: 
+image: https://image.tmdb.org/t/p/w500/bTEfmPiaDpsDu5oZKNSrhnF2ci5.jpg
 ---
 
 Public Defender Franklin Roberts (Courtney B. Vance) takes up the case of Moses Johnson (Tosin Cole), a Chicago high school track star accused of being involved in the death of an officer during a drug bust in his neighborhood.
+Image poster gotten from themoviedb.org

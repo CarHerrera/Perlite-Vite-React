@@ -10,7 +10,8 @@ User Score: 75
 User Count: 15
 Director: Jace Alexander,Michael Lange,Troy Miller,Roger Kumble
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ueUpVkxUdgKS9YxLycvweDXxmk7.jpg
 ---
 
 One year after friends Sofia, Daphne, Lou, Raviva, and Miles (Michelle Ang, Sarah Habel, Jared Kusnitz, Inbar Lavi, and Diego Boneta) made a pact at graduation to meet again, sure their dreams will come true, however the reality is they all are struggling to get a foot in the door.
+Image poster gotten from themoviedb.org

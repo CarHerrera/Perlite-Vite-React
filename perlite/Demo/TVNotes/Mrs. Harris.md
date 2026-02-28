@@ -14,3 +14,4 @@ image:
 ---
 
 This HBO film tells the story of Jean Harris, the ladylike headmistress of a New York prep school who shot and killed her lover of 14 years. Did "Scarsdale Diet Doctor" Herman Tarnower drive her to murder through unfaithfulness and manipulation, or did Mrs. Harris accidentally shoot him while trying to commit suicide, as she claimed in court? This movie, strongly peppered with humor, presents each side of the story and allows viewers to come to their own conclusions.  
+Image poster gotten from themoviedb.org

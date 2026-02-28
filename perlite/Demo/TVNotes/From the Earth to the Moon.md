@@ -10,7 +10,8 @@ User Score: 68
 User Count: 5
 Director: David Frankel
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/sSnYvoVT2PYWJbF0aWdUFvLqKhR.jpg
 ---
 
 This twelve part HBO mini-series tells the story of the United States' space program, from its beginnings in 1961 to the final moon mission in 1972.  Tom Hanks served as Executive Producer and introduced each segment.
+Image poster gotten from themoviedb.org

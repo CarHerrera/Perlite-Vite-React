@@ -10,7 +10,8 @@ User Score: 63
 User Count: 36
 Director: Todd Redner
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/i8m1BIJCoDi0WUAncm9PkYJbTqY.jpg
 ---
 
 An animated comedy about best friends Gary and Joel (Justin Long & David Hornsby) who go through life without any parental input.
+Image poster gotten from themoviedb.org

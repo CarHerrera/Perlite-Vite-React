@@ -10,7 +10,8 @@ User Score: 82
 User Count: 591
 Director: nan
 Creator: Mike Kelley
-image: 
+image: https://image.tmdb.org/t/p/w500/qx7XytRgg1F03NN5BoK8jx3Cyft.jpg
 ---
 
 Emily Thorne (Emily VanCamp) returns to the Hamptons to avenge her family against those who destroyed it.
+Image poster gotten from themoviedb.org

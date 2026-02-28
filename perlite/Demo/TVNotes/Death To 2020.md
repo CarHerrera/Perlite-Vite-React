@@ -14,3 +14,4 @@ image:
 ---
 
 The Charlie Brooker mockumentary features commentary about the year 2020 from fictional experts, world leaders and everyday people including a reporter (Samuel L. Jackson), historian (Hugh Grant), a doctor (Leslie Jones), a politician (Lisa Kudrow), a scientist (Samson Kayo), a tech executive (Kumail Nanjiani), an average citizen (Diane Morgan), and the Queen (Tracey Ullman).
+Image poster gotten from themoviedb.org

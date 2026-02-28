@@ -14,3 +14,4 @@ image:
 ---
 
 Coworkers Alex (Hank Azaria) and Helen (Kathryn Hahn) both struggle with overcoming their previous relationships. After sleeping together, they decide to be just friends. Anthony Head reprises his role as Hank's boss, Stephen, in this series based on a British series with the same name.
+Image poster gotten from themoviedb.org

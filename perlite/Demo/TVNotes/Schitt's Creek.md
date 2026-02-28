@@ -10,7 +10,8 @@ User Score: 82
 User Count: 267
 Director: Paul Fox
 Creator: Dan Levy,Eugene Levy
-image: 
+image: https://image.tmdb.org/t/p/w500/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg
 ---
 
 After the IRS confiscates much of their money, video store magnate Johnny Rose (Eugene Levy), his soap star wife Moira (Catherine O'Hara), and their two kids, David (Daniel Levy) and Alexis (Annie Murphy) are forced to move to the small town of Schitt's Creek that he had bought as a joke years ago in the first original scripted show on the POP network.
+Image poster gotten from themoviedb.org

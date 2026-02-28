@@ -10,7 +10,8 @@ User Score: 76
 User Count: 294
 Director: Paul Pennolino
 Creator: John Oliver
-image: 
+image: https://image.tmdb.org/t/p/w500/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg
 ---
 
 The Daily Show's John Oliver hosts his own a half-hour satirical news show for HBO.
+Image poster gotten from themoviedb.org

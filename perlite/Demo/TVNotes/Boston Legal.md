@@ -10,7 +10,7 @@ User Score: 82
 User Count: 76
 Director: Mike Listo
 Creator: David E. Kelley
-image: 
+image: https://image.tmdb.org/t/p/w500/b0bXUCfpcsgQ6EVVmucU2G76ixT.jpg
 ---
 
 Led by an Emmy Award-winning cast, "Boston Legal" returns for its fifth and final season to tell the professional and personal stories of a group of brilliant but often emotionally challenged attorneys. Sometimes irreverent and funny, sometimes intense and moving, "Boston Legal" prides itself on being at the forefront of issue-oriented television, often addressing issues that are underreported by the media. Fast-paced and wildly comedic, the series confronts social and moral issues, while its characters continually stretch the boundaries of the law.
@@ -22,3 +22,4 @@ Oct 2004 - Mar 2005, Sunday at 10:00 PM on ABC and CH (Canada)
 Sep 2005 - Apr 2008, Tuesday at 10:00 PM on ABC and CH (Canada)
 Apr 2008 - May 2008, Wednesday at 10:00 PM on ABC and E! (Canada)
 Sep 2008, Monday at 10:00 PM on ABC and E! (Canada)
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 69
 User Count: 179
 Director: Stephen Kay
 Creator: Taylor Sheridan,Christian Wallace
-image: 
+image: https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg
 ---
 
 Based on the podcast "Boomtown", Taylor Sheridan's latest series focuses on the West Texas oil industry including those who profit from it like Monty Miller (Jon Hamm), managers like Tommy Norris (Billy Bob Thornton), and those who work on the oil rigs.
+Image poster gotten from themoviedb.org

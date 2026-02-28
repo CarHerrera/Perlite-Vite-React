@@ -14,3 +14,4 @@ image:
 ---
 
 Dick Grayson aka Robin (Brenton Thwaites), Rachel Roth aka Raven (Teagan Croft) up with Gar Logan aka Beast Boy (Ryan Potter) and  Koriand'r aka Starfire (Anna Diop) come together to defend Earth from destruction in this live-action series based on the Teen Titans characters.
+Image poster gotten from themoviedb.org

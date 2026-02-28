@@ -10,7 +10,8 @@ User Score: 77
 User Count: 242
 Director: nan
 Creator: Moira Walley-Beckett
-image: 
+image: https://image.tmdb.org/t/p/w500/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg
 ---
 
 The latest adaptation of L.M. Montgomery’s Anne of Green Gables where 13-year-old Anne (Amybeth McNulty) is sent to live with Marilla (Geraldine James) and Matthew Cuthbert (R.H. Thomson).
+Image poster gotten from themoviedb.org

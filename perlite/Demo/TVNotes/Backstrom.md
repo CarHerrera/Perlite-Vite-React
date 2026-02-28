@@ -10,7 +10,8 @@ User Score: 77
 User Count: 96
 Director: nan
 Creator: Hart Hanson
-image: 
+image: https://image.tmdb.org/t/p/w500/jX1hRlRiBilKbOciczFgOibe6rO.jpg
 ---
 
 Originally developed for CBS, the Hart Hanson comedic crime drama based on the book series by Leif G. W. Persson focuses on Portland detective Everett Backstrom (Rainn Wilson) and the Serious Crimes Unit.
+Image poster gotten from themoviedb.org

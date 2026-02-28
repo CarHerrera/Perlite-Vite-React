@@ -10,7 +10,8 @@ User Score: 75
 User Count: 15
 Director: Adam Bhala Lough
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/eyeamvQYIgDQo1vFOs8pMujPVBf.jpg
 ---
 
 The three-part documentary series features footage taken by Sam Lipman-Stern Pat Pespas while working at a New Jersey telemarketing call center.
+Image poster gotten from themoviedb.org

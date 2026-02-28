@@ -10,7 +10,8 @@ User Score: 65
 User Count: 38
 Director: John Fortenberry
 Creator: Mitchell Hurwitz
-image: 
+image: https://image.tmdb.org/t/p/w500/hQBUVWTwNki4zJ99wP5L8Aaerre.jpg
 ---
 
 Will Arnett stars as a Beverly Hills jackass who ends up falling in love with Emmy Kadubic (played by Keri Russell), a charitable tree hugger, who hates his lifestyle and moral code.
+Image poster gotten from themoviedb.org

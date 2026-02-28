@@ -10,7 +10,8 @@ User Score: 0
 User Count: 2
 Director: Jason Winer
 Creator: Liz Heldens
-image: 
+image: https://image.tmdb.org/t/p/w500/zBYWTQHvN7IljiDpcjI23ihLV8I.jpg
 ---
 
 Amateur dancers join a competitive reality series casting for a live updated version of Swan Lake in this dramedy from Liz Heldens, Jason Winer, Sue Naegle.
+Image poster gotten from themoviedb.org

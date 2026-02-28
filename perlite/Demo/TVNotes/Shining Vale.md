@@ -10,7 +10,8 @@ User Score: 57
 User Count: 12
 Director: Liz Friedlander,Catriona McKenzie,Alethea Jones
 Creator: Jeff Astrof,Sharon Horgan
-image: 
+image: https://image.tmdb.org/t/p/w500/hp2W5D5rahuFsZbm4gkgUhpHLLr.jpg
 ---
 
 Pat and Terry Phelps (Courteney Cox and Greg Kinnear) move from a small Brooklyn apartment into a Victorian mansion with a terrible history in Shining Vale, Connecticut in this horror comedy series created by Jeff Astrof and Sharon Horgan.
+Image poster gotten from themoviedb.org

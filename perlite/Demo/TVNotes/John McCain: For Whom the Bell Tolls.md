@@ -14,3 +14,4 @@ image:
 ---
 
 The Peter Kunhardt documentary about Senator John McCain's life and career features interviews, archival newsreel, home movies and personal photos.
+Image poster gotten from themoviedb.org

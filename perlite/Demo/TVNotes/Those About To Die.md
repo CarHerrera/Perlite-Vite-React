@@ -10,7 +10,8 @@ User Score: 52
 User Count: 70
 Director: nan
 Creator: Robert Rodat
-image: 
+image: https://image.tmdb.org/t/p/w500/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg
 ---
 
 In ancient Rome, Emperor Vespasian (Anthony Hopkins), his son Titus (Tom Hughes), crime boss Tenax (Iwan Rheon), trader Cala (Sara Martins) ex-general Marsus (Rupert Penry-Jones) and patrician Antonia (Gabriella Pession) are some of the people at the gladiator games in the series inspired by the non-fiction book by Daniel Mannix of the same name.
+Image poster gotten from themoviedb.org

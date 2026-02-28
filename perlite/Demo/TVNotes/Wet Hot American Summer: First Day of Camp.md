@@ -10,7 +10,8 @@ User Score: 69
 User Count: 97
 Director: David Wain
 Creator: Michael Showalter,David Wain
-image: 
+image: https://image.tmdb.org/t/p/w500/depAfoSmNgjQWfo38a4L6SnKtek.jpg
 ---
 
 The prequel to the 2001 film Wet Hot American Summer set during the first days of camp features a majority of the original cast including Michael Ian Black, Bradley Cooper, Janeane Garofalo, David Hyde Pierce, Christopher Meloni, Amy Poehler, Paul Rudd, and Molly Shannon.
+Image poster gotten from themoviedb.org

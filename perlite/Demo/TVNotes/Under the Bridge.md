@@ -10,7 +10,8 @@ User Score: 59
 User Count: 40
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/4YMpCGsAAHXWGScHsK1sbd7wprE.jpg
 ---
 
 Novelist Rebecca Godfrey (Riley Keough) and officer Cam Bentland (Lily Gladstone) seek information behind the murder of 14-year old Reena Virk (Vritika Gupta) in the limited series based on Godfrey's book about the 1997 case.
+Image poster gotten from themoviedb.org

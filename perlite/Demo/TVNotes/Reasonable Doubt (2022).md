@@ -14,3 +14,4 @@ image:
 ---
 
 Los Angeles defense attorney Jax Stewart (Emayatzy Corinealdi) is at the center of this legal drama executive produced by Kerry Washington.
+Image poster gotten from themoviedb.org

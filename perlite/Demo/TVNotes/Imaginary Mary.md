@@ -10,7 +10,8 @@ User Score: 39
 User Count: 22
 Director: Shawn Levy
 Creator: Adam F. Goldberg,David Guarascio,Patrick Osborne
-image: 
+image: https://image.tmdb.org/t/p/w500/64V9f9THcBv5vS9MtEnShQqzSgP.jpg
 ---
 
 Alice (Jenna Elfman) has met the man of her dreams in Ben (Stephen Schneider), who is a divorced father of three children, but when its time to meet the kids, her imaginary friend Mary (voiced by Rachel Dratch) reappears, voicing all her fears and doubts.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 76
 User Count: 93
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gn61HHk9KRa9RKeFCz476EqLR61.jpg
 ---
 
 Edy Ganem, Ana Ortiz, Dania Ramirez, Judy Reyes, Roselyn Sánchez are five maids working in Beverly Hills in the drama inspired by the telenovela, "Ellas son...la Alegría del Hogar."
+Image poster gotten from themoviedb.org

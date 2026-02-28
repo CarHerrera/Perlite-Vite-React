@@ -10,7 +10,8 @@ User Score: 51
 User Count: 20
 Director: W. Kamau Bell
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jaQq8yngDA1pnMRcFcxfq6Hhrop.jpg
 ---
 
 W. Kamau Bell's four-part documentary series looks into Bill Cosby’s career and his eventual disgrace in light of accusations from over 60 women of sexual assault.
+Image poster gotten from themoviedb.org

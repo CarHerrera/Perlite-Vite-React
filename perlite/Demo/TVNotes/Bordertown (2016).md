@@ -14,3 +14,4 @@ image:
 ---
 
 The animated comedy from Mark Hentemann and ​Seth MacFarlane focuses on two families living near the US/Mexico border.
+Image poster gotten from themoviedb.org

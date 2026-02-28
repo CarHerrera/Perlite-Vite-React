@@ -10,7 +10,8 @@ User Score: 67
 User Count: 23
 Director: Scott Winant,Liza Johnson
 Creator: Dana Calvo
-image: 
+image: https://image.tmdb.org/t/p/w500/nNsEg2qlCZcmonqAdhxJEq9DSka.jpg
 ---
 
 In 1969, three female researchers (Genevieve Angelson, Anna Camp, and Erin Darke) at “News of the Week” seek to be treated fairly.
+Image poster gotten from themoviedb.org

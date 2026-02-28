@@ -10,7 +10,7 @@ User Score: 0
 User Count: 0
 Director: Helaine Head,Ivan Dixon,Lesli Linka Glatter,Jan Eliasberg,Bill Duke,Roy Campanella II
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/zffSeIusOg9FprJDILaEsE3g0ky.jpg
 ---
 
 Brewster's Place is a modern day intake of the generation of people living Brewster's Place. This series was inspired the original concept " The Women of Brewster's Place" a feature 
@@ -23,3 +23,4 @@ Facts About the Actors/Actresses
 *Jason Weaver's major accomplishment was in the television series "Smart Guy" his many accomplishments in television series fell down compared to the success of "Smart Guy."
 *Oprah Winfrey filmed the series while during her talk show. Some think that doing many things helped Oprah Winfrey in filming her television series.
 *Olivia Cole's one television accomplishment was "Brewster Place."
+Image poster gotten from themoviedb.org

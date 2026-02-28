@@ -47,3 +47,4 @@ The Galactica franchise will live on, even after the final movie and DVD. A preq
 Original Broadcast History: Season One
 October 18, 2004 - January 24, 2005 - 8:00 PM SKY One (UK)
 January 14, 2005 - April 1, 2005 - Fridays @ 10:00 PM Sci Fi Channel (USA)
+Image poster gotten from themoviedb.org

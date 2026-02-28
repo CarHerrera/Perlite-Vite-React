@@ -10,7 +10,8 @@ User Score: 58
 User Count: 58
 Director: Sam Miller,Sarah O'Gorman
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/aBU2mlyZT5BzvCkXXUewH7wfhkK.jpg
 ---
 
 After the Russian revolution, Count Alexander Rostov (Ewan McGregor) builds a new life while under house arrest in the Hotel Metropol in this adaptation of the novel of the same name by Amor Towles.
+Image poster gotten from themoviedb.org

@@ -10,9 +10,10 @@ User Score: 84
 User Count: 56
 Director: nan
 Creator: Adam Price
-image: 
+image: https://image.tmdb.org/t/p/w500/3wB4R3Ac3lKSQWKpoU0zeRY8XqL.jpg
 ---
 
 The Danish political drama produced by the same people as the Danish version of The Killing follows Birgitte Nyborg (Sidse Babett Knudsen) as she becomes Prime Minister.
 
 [Premiered originally on Denmark's D1 on 26 Sep 2010; to begin airing on Netflix US on 1 Sep 2020 and a season 4 is expected in 2022]
+Image poster gotten from themoviedb.org

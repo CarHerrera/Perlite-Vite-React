@@ -10,7 +10,8 @@ User Score: 55
 User Count: 4
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/mxzTsTjaGqNQEp3dS2tSH9pX0EC.jpg
 ---
 
 When it comes to being a millionaire money isn't everything. Imported from Britain, from the same company that gave us Wife Swap, Secret Millionaire a reality show that gives money a twist. Each week a wealthy family must go undercover in impoverished neighborhoods to see what life is like for the financially destitute for ten days. Though at the end of each ten day period they reveal themselves and must give a portion of their fortune to at least one person in the community.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 85
 User Count: 119
 Director: Nash Edgerton
 Creator: Scott Ryan
-image: 
+image: https://image.tmdb.org/t/p/w500/1FkONly4j7hxi6Pz5CmuhRN1Ops.jpg
 ---
 
 Ray Shoesmith (Scott Ryan) juggles life as a father and a criminal-for-hire in this Australian drama based on Ryan's 2004 short film, “The Magician.”
+Image poster gotten from themoviedb.org

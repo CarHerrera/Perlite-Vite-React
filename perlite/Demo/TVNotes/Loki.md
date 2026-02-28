@@ -10,7 +10,8 @@ User Score: 74
 User Count: 1071
 Director: nan
 Creator: Jack Kirby,Stan Lee,Larry Lieber
-image: 
+image: https://image.tmdb.org/t/p/w500/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg
 ---
 
 Loki (Tom Hiddleston) returns as the God of Mischief after the circumstances of 2019's "Avengers: Endgame."
+Image poster gotten from themoviedb.org

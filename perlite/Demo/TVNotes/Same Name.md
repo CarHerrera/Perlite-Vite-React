@@ -14,3 +14,4 @@ image:
 ---
 
 Celebrities swap places with strangers who happen to have the same name. The first episode will feature David Hasselhoff, who goes to Lake Jackson, Texas to meet and trade places with an electrical technician. The celebrities and the strangers alike will get a peek into another world and what it's like to walk in each other's shoes. 
+Image poster gotten from themoviedb.org

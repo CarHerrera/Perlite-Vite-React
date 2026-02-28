@@ -14,3 +14,4 @@ image:
 ---
 
 A group of female divorce attorneys leave their male dominated office to form their own all-female law firm in the legal drama from Ryan Murphy.
+Image poster gotten from themoviedb.org

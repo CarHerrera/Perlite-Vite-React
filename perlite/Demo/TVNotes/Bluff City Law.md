@@ -10,7 +10,8 @@ User Score: 63
 User Count: 12
 Director: nan
 Creator: Michael Aguilar,Dean Georgaris
-image: 
+image: https://image.tmdb.org/t/p/w500/c4kMxeRENGn7YQVvllqNxIXtaK3.jpg
 ---
 
 After years of estrangement, Sydney Strait (Caitlin McGee) returns to the civil rights law firm her father (Jimmy Smits) runs after the death of her mother in this legal drama set in Memphis.
+Image poster gotten from themoviedb.org

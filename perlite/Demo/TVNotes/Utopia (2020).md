@@ -14,3 +14,4 @@ image:
 ---
 
 Becky (Ashleigh LaThrop), Ian (Dan Byrd), Samantha (Jessica Rothe), Wilson Wilson (Desmin Borges) and Grant (Javon "Wanna" Walton) are fans of the Utopia comic and discover secret messages within its pages that predict major world events. They then find the comic protagonist, Jessica Hyde (Sasha Lane), is real and together they seek to save the world in this thriller written by Gillian Flynn and based on the British show of the same name.
+Image poster gotten from themoviedb.org

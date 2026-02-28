@@ -10,7 +10,8 @@ User Score: 69
 User Count: 87
 Director: nan
 Creator: Mindy Kaling,Justin Noble
-image: 
+image: https://image.tmdb.org/t/p/w500/kTtxblsTsbpLiCr29iAqMppMzG9.jpg
 ---
 
 The comedy series from Mindy Kaling and Justin Noble follows four college roommates (Pauline Chalamet, Amrit Kaur, Renée Rapp and Alyah Chanelle Scott) as they experience on-campus life at a New England university.
+Image poster gotten from themoviedb.org

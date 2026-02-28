@@ -10,7 +10,8 @@ User Score: 48
 User Count: 32
 Director: Agnieszka Holland
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rJ9lgdZd8qGabCy4HJXSy5nJjYP.jpg
 ---
 
 Rosemary Woodhouse (Zoe Saldana) becomes suspicious of her husband and neighbors after moving into an apartment in Paris in this adaptation of Ira Levin's novel of the same name (it was also made into a feature film in 1968).
+Image poster gotten from themoviedb.org

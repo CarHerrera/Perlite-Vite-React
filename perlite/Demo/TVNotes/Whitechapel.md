@@ -10,7 +10,8 @@ User Score: 74
 User Count: 51
 Director: Jon East,S.J. Clarkson,David Evans,Daniel Nettheim,John Strickland,Richard Clark
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9IxtiDw696DsHXlvqa1lZaIdzbz.jpg
 ---
 
 A Jack the Ripper copycat murderer may be on the loose in this British detective drama. Veteran DS Ray Miles (Phil Davis) is less than thrilled when formerly deskbound DI Chandler (Rupert Penry-Jones) joins the Whitechapel station as his new boss.
+Image poster gotten from themoviedb.org

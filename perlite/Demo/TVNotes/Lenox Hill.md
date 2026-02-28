@@ -10,7 +10,8 @@ User Score: 84
 User Count: 48
 Director: Adi Barash,Ruthie Shatz
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/1MvaZ5WbRAqjhkiMGH3trRXcYgG.jpg
 ---
 
 The eight-part docuseries follows four doctors at New York's Lenox Hill Hospital over an 18-month period as they juggle their personal lives while trying to save lives.
+Image poster gotten from themoviedb.org

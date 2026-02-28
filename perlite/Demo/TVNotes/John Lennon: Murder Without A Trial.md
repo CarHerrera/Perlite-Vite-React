@@ -10,7 +10,8 @@ User Score: 64
 User Count: 5
 Director: Rob Coldstream,Nick Holt
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/n7MVyZMdoDtzZXjILcPrzBrV87W.jpg
 ---
 
 The three-part documentary series about John Lennon's murder is narrated by Kiefer Sutherland with interviews with detectives and witnesses as well as audio recordings of Lennon's killer Mark David Chapman.
+Image poster gotten from themoviedb.org

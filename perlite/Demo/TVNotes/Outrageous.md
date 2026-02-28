@@ -10,9 +10,10 @@ User Score: 75
 User Count: 11
 Director: Joss Agnew,Ellie Heydon
 Creator: Sarah Williams
-image: 
+image: https://image.tmdb.org/t/p/w500/eRIzK09lEfYFkmAEE1sUjFlnyoB.jpg
 ---
 
 Nancy Mitford (Bessie Carter) and her sisters Diana (Joanna Vanderham), Unity (Shannon Watson), Jessica (Zoe Brough), Deborah (Orla Hill) and Mitford (Isobel Jesper Jones) find romance, politics and scandal in the 1930s in the series based on Mary Lovell's biography "The Sisters: The Saga of the Mitford Family."
 
 [Premieres in the US on BritBox on 18 Jun 2025 and in the UK on U and U&DRAMA on 19 Jun 2025] 
+Image poster gotten from themoviedb.org

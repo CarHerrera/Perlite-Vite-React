@@ -10,7 +10,8 @@ User Score: 42
 User Count: 70
 Director: nan
 Creator: Erica Messer
-image: 
+image: https://image.tmdb.org/t/p/w500/xbv7ramFkJzilAu2fZTy4CV7A7r.jpg
 ---
 
 The second spin-off of Criminal Minds follows FBI's International Division Unit Chief Jack Garrett (Gary Sinise), profiler Matthew Simmons (Daniel Henney) and tech analyst Russ “Monty” Montgomery (Tyler James Williams) as they work to help Americans abroad. 
+Image poster gotten from themoviedb.org

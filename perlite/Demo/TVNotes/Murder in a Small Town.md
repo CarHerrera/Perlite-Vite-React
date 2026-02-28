@@ -10,7 +10,8 @@ User Score: 60
 User Count: 16
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/r8rdmK4vSIhNDQAtbamEFL2kLhG.jpg
 ---
 
 Karl Alberg (Rossif Sutherland) moves to a coastal Canadian town for some peace from police work but soon finds himself investigating murders cases in the crime drama series based on the novel series by L. R. Wright.
+Image poster gotten from themoviedb.org

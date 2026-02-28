@@ -10,7 +10,8 @@ User Score: 81
 User Count: 211
 Director: Bill Eagles,M.J. Bassett
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg
 ---
 
 An American works with the British military to stop terrorists dead in their tracks. 
+Image poster gotten from themoviedb.org

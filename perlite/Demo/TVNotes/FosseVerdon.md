@@ -10,7 +10,8 @@ User Score: 74
 User Count: 35
 Director: Thomas Kail
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rbHkfnaFBcMx90GRBzjCL8MPozo.jpg
 ---
 
 The eight-part limited series about the five decade long partnership between choreographer/director Bob Fosse (Sam Rockwell) and Broadway dancer/actress Gwen Verdon (Michelle Williams) was based on the biography Fosse written by Sam Wasson.
+Image poster gotten from themoviedb.org

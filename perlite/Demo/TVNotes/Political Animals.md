@@ -10,7 +10,8 @@ User Score: 73
 User Count: 51
 Director: David Petrarca
 Creator: Greg Berlanti
-image: 
+image: https://image.tmdb.org/t/p/w500/fnFNsleo5IcUAqNjiKgixkGyxd2.jpg
 ---
 
 Divorced former First Lady and current Secretary of State Elaine Barrish (Sigourney Weaver) balances crises in politics and within her own family.
+Image poster gotten from themoviedb.org

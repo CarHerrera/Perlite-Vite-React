@@ -10,7 +10,8 @@ User Score: 81
 User Count: 264
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/pcT1vivabBnBk0tZgVBO1I8aK75.jpg
 ---
 
 The series set in the same universe as 2018 film Love, Simon follows new Creekwood High student Victor (Michael Cimino) as he adjusts to a new school, deals with family issues and comes to terms with his sexual orientation.
+Image poster gotten from themoviedb.org

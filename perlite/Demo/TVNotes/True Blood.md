@@ -10,7 +10,8 @@ User Score: 74
 User Count: 1481
 Director: Michael Lehmann
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ktEp6fzL4xzCWsSVtrcH8JaQNQy.jpg
 ---
 
 Sookie Stackhouse comes to television in the Alan Ball adaptation of Charlaine Harris' Southern vampire series.
+Image poster gotten from themoviedb.org

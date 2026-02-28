@@ -10,7 +10,8 @@ User Score: 66
 User Count: 11
 Director: Dominic Brigstocke,Nick Collett
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/lzJmxI5B7pjXvN15RnqPZtlnEbX.jpg
 ---
 
 The British sketch comedy show with Tracey Ullman airs in the US on HBO.
+Image poster gotten from themoviedb.org

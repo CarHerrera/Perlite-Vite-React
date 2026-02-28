@@ -10,7 +10,8 @@ User Score: 76
 User Count: 2807
 Director: nan
 Creator: George Papp,Mort Weisinger
-image: 
+image: https://image.tmdb.org/t/p/w500/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg
 ---
 
 Arrow is a modern retelling of the DC Comic character Green Arrow. The show stars Stephen Amell in the title role.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 When the 21-year-old son of a well-known American businesswoman (Uma Thurman) is kidnapped from his New York hotel, four British citizens staying at the same hotel become suspects in this adaptation of the Israeli drama False Flag.
+Image poster gotten from themoviedb.org

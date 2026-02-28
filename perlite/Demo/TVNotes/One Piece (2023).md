@@ -14,3 +14,4 @@ image:
 ---
 
 The live-action adaptation of the Japanese manga series of the same name follows Monkey D. Luffy (Iñaki Godoy) as he leaves his small village to gather a crew to find "One Piece" - the treasure that will make him King of the Pirates.
+Image poster gotten from themoviedb.org

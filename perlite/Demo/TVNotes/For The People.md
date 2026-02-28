@@ -10,7 +10,8 @@ User Score: 51
 User Count: 25
 Director: nan
 Creator: Paul William Davies
-image: 
+image: https://image.tmdb.org/t/p/w500/a8QtXdn8d6yyoaCH2m5ZVrlJczk.jpg
 ---
 
 The legal drama set in New York City's Southern District of New York Federal Court, Allison (Jasmin Savoy Brown) and her roommate Sandra (Britt Robertson) work at the Federal Public Defender’s Office.
+Image poster gotten from themoviedb.org

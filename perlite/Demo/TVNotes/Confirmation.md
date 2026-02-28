@@ -10,7 +10,8 @@ User Score: 0
 User Count: 2
 Director: Rick Famuyiwa
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/kAEUNSz6LIsdWk9ionZUpKvnGfI.jpg
 ---
 
 The 1991 Clarence Thomas Supreme Court nomination hearings are dramatized with Kerry Washington as Anita Hill and Wendell Pierce as the future Justice.
+Image poster gotten from themoviedb.org

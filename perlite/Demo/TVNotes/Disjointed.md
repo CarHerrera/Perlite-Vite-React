@@ -10,7 +10,8 @@ User Score: 75
 User Count: 104
 Director: nan
 Creator: David Javerbaum,Chuck Lorre
-image: 
+image: https://image.tmdb.org/t/p/w500/gMVzoGfyFNew1RTn4UaMjn3iHCT.jpg
 ---
 
 The comedy series from Chuck Lorre and David Javerbaum focuses on Ruth's (Kathy Bates) Los Angeles cannabis dispensary where her employees include three "bud"tenders (Elizabeth Alderfer, Dougie Baldwin, and Elizabeth Ho) her ambitious twenty-something son (Aaron Moten), and a security guard (Tone Bell).
+Image poster gotten from themoviedb.org

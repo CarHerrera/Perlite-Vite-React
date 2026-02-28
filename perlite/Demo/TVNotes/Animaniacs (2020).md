@@ -14,3 +14,4 @@ image:
 ---
 
 Yakko, Wakko, and Dot Warner are back along with Pinky and the Brain, as the reboot of the 1990s cartoon begins its first season of 13 episodes.
+Image poster gotten from themoviedb.org

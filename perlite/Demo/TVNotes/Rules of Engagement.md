@@ -10,7 +10,8 @@ User Score: 65
 User Count: 111
 Director: Ted Wass
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tRma9RQCgwLXqkDrCPyrQwsazuJ.jpg
 ---
 
 This new comedy follows the unique friendship between a married couple, a pair of newly engaged lovebirds, and a contented bachelor as they navigate the jungles of dating.
+Image poster gotten from themoviedb.org

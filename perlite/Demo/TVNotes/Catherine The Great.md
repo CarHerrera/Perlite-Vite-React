@@ -10,7 +10,8 @@ User Score: 54
 User Count: 22
 Director: Philip Martin
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/s50flEj06i7HmZx0lVMTHD4p6MF.jpg
 ---
 
 The four-part limited series focuses on the later years of the reign of Russian empress Catherine the Great (Helen Mirren) and her relationship with Russian military leader Grigory Potemkin (Jason Clarke).
+Image poster gotten from themoviedb.org

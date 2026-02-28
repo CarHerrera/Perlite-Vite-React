@@ -10,7 +10,8 @@ User Score: 72
 User Count: 126
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rzvdKrnSRKPFI0pgqMQknDPpRC9.jpg
 ---
 
 The death of 17-year-old Joshua "J" Cody's (Finn Cole) mother causes him to  move in with his relatives that includes his grandmother Janine "Smurf" Cody (Ellen Barkin), and her sons: Baz (Scott Speedman), Pope (Shawn Hatosy), Craig (Ben Robson), and Deran (Jake Weary), in this drama based on the 2010 Australian film of the same name.
+Image poster gotten from themoviedb.org

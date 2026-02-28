@@ -14,3 +14,4 @@ image:
 ---
 
 The Ricki Stern and Annie Sundberg documentary made in association with the Boston Globe chronicles the investigations that led to the capture of the Tsarnaev brothers as well as the journey of recovery by three families who survived the 2013 Boston Marathon bombing.
+Image poster gotten from themoviedb.org

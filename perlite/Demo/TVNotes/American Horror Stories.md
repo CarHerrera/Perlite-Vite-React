@@ -10,7 +10,8 @@ User Score: 43
 User Count: 67
 Director: nan
 Creator: Brad Falchuk,Ryan Murphy
-image: 
+image: https://image.tmdb.org/t/p/w500/8b9FGJ9WhpkeGFOHYgKjPT5AXS6.jpg
 ---
 
 Each episode will feature a new horror story in this spin-off of American Horror Story.
+Image poster gotten from themoviedb.org

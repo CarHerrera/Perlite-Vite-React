@@ -10,7 +10,8 @@ User Score: 80
 User Count: 1244
 Director: nan
 Creator: Steve Lightfoot
-image: 
+image: https://image.tmdb.org/t/p/w500/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg
 ---
 
 The Daredevil spin-off follows Frank Castle/The Punisher (Jon Bernthal) as he tracks down a hacker named Micro (Ebon Moss-Bachrach) to locate those who killed his family while Homeland Security agents Dinah Madani (Amber Rose Revah) tries to locate Frank.
+Image poster gotten from themoviedb.org

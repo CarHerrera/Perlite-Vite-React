@@ -10,7 +10,8 @@ User Score: 48
 User Count: 14
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg
 ---
 
 The anthology drama series created by Chad Feehan spans the life of Bass Reeves (David Oyelowo) from enslavement to becoming first Black U.S. Marshal west of the Mississippi.
+Image poster gotten from themoviedb.org

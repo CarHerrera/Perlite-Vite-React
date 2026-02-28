@@ -10,7 +10,8 @@ User Score: 64
 User Count: 919
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg
 ---
 
 Hannah, Jessa, Marnie, and Shoshanna are four 20-something girls living in New York and trying to figure out life, love, and themselves.
+Image poster gotten from themoviedb.org

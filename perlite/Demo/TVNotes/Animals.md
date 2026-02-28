@@ -10,7 +10,8 @@ User Score: 62
 User Count: 36
 Director: Mike Luciano,Phil Matarese,Dominic Polcino,Wesley Archer
 Creator: Mike Luciano,Phil Matarese
-image: 
+image: https://image.tmdb.org/t/p/w500/n9w6Njoioimlr1mEyURF5HqeAhV.jpg
 ---
 
 The animated comedy about creatures such as pigeons and rats living in New York City was created by Phil Matarese and Mike Luciano.
+Image poster gotten from themoviedb.org

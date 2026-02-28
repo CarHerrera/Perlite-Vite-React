@@ -10,7 +10,7 @@ User Score: 85
 User Count: 77
 Director: nan
 Creator: Dick Wolf
-image: 
+image: https://image.tmdb.org/t/p/w500/zgBg8gTCELQg73awE7qAuV06c4Z.jpg
 ---
 
 "In New York City's war on crime, the worst criminal offenders are pursued by the detectives of the Major Case Squad. These are their stories."
@@ -26,3 +26,4 @@ Their commanding officer during the first five seasons, Capt. James Deakins (Jam
 The sixth season introduced Eric Bogosian as Capt. Danny Ross to replace Jamey Sheridan. There was no replacement for the A.D.A. character.
 
 René Balcer, a ten-year veteran of the original Law & Order series, developed Law & Order: Criminal Intent and served as head writer, executive producer and showrunner for the first five seasons. Warren Leight took over as showrunner and executive producer in seasons six and seven. Peter Jankowski and Norberto Barba are also executive producers.
+Image poster gotten from themoviedb.org

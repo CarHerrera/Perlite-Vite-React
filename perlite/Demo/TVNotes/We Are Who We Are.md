@@ -10,7 +10,8 @@ User Score: 71
 User Count: 63
 Director: Luca Guadagnino
 Creator: Sean Conway,Luca Guadagnino,Francesca Manieri
-image: 
+image: https://image.tmdb.org/t/p/w500/33btSKKmjmc24hK9Vj1sRWQGfyh.jpg
 ---
 
 14-year-old Fraser (Jack Dylan) adjust to moving from New York City to an Italian military base and connects with other teens around the base including 14-year-old Caitlin (Jordan Kristine Seamón) in this Luca Guadagnino coming-of-age drama series.
+Image poster gotten from themoviedb.org

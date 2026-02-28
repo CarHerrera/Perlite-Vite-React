@@ -14,3 +14,4 @@ image:
 ---
 
 Bill Cosby's first comedy special in over 30 years was recorded at the Cerritos Performing Arts Center in Cerritos, California.
+Image poster gotten from themoviedb.org

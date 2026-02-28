@@ -14,3 +14,4 @@ image:
 ---
 
 Jessica Simpson, Nicole Richie, and John Varvatos mentor 14 fashion designers who try to sell their designs to buyers for H&M, Macy's, and Saks Fifth Avenue on the reality show hosted by Elle Macpherson.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 65
 User Count: 47
 Director: Fred Savage,Todd Holland,Phill Lewis
 Creator: Dana Klein
-image: 
+image: https://image.tmdb.org/t/p/w500/amSUQrW7siuXgjINMajG3klqV1h.jpg
 ---
 
 Newly divorced Will (James Van Der Beek), engaged couple Jules (Brooklyn Decker) and Lowell (Rick Donald), single career woman Kate (Zoe Lister-Jones), and married couple Andi (Majandra Delfino) and Bobby (Kevin Connolly) are friends who think each other situation is better than their own.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 64
 User Count: 159
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/zUd4RPbfHuB1zIG2iNI5bdZcQo3.jpg
 ---
 
 The adaptation of Caleb Carr's novel set in 1895 where after a series of murders of prostitutes in New York City causes police commissioner (and future president) Theodore Roosevelt (Brian Geraghty) to ask for help from an alienist (aka criminal psychologist) Dr. Laszlo Kreizler (Daniel Brühl) and New York Times society illustrator John Moore (Luke Evans) to solve the case in secret. Roosevelt’s secretary Sara Howard (Dakota Fanning) also joins in the investigation.
+Image poster gotten from themoviedb.org

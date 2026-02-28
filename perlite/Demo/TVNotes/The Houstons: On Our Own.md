@@ -14,3 +14,4 @@ image:
 ---
 
 The reality show features Whitney's daughter, Bobbi Kristina (known as Krissy); her adopted son, Nick Gordon; her sister-in-law and manager, Pat Houston; her older brother, Gary; and her mother, Cissy.
+Image poster gotten from themoviedb.org

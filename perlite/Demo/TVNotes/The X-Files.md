@@ -10,7 +10,7 @@ User Score: 81
 User Count: 1273
 Director: Kim Manners
 Creator: Chris Carter
-image: 
+image: https://image.tmdb.org/t/p/w500/rcBx0p8h51LHceyhquYMxbspJQu.jpg
 ---
 
 The X-Files is a Peabody, Golden Globe and Emmy Award-winning American science fiction television series created by Chris Carter, which first aired on September 10, 1993, and ended on May 19, 2002. The show was a hit for the Fox Broadcasting Company network, and its main characters and slogans (e.g., "The Truth Is Out There", "Trust No One", "I Want to Believe") became pop culture touchstones. The X-Files is seen as a defining series of the 1990s, coinciding with the era's widespread mistrust of governments, interest in conspiracy theories and spirituality, and the belief in the existence of extraterrestrial life.
@@ -38,3 +38,4 @@ Golden Globe Awards
 1997 - Best Performance by an Actor in a TV Series (Drama) to David Duchovny
 - Best Performance by an Actress in a TV-Series (Drama) to Gillian Anderson - Best TV Series (Drama)
 1995 - Best TV Series (Drama)
+Image poster gotten from themoviedb.org

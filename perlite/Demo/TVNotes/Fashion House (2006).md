@@ -14,3 +14,4 @@ image:
 ---
 
 Fashion House takes viewers deep into the sullied heart of the fashion industry, a world in which jewel-encrusted dreams can come true in a heartbeat--only to be crushed by the dark forces of insatiable greed, all-consuming desire, and merciless ambition. Bo Derek stars.
+Image poster gotten from themoviedb.org

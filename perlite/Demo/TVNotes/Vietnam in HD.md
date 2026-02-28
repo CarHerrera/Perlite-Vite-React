@@ -10,7 +10,8 @@ User Score: 87
 User Count: 6
 Director: Sammy Jackson
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6MgndssWm8iuTUfsU4PELBJXnbX.jpg
 ---
 
 New, unseen footage is included in the six-part mini-series about the Vietnam War narrated by Michael C. Hall.
+Image poster gotten from themoviedb.org

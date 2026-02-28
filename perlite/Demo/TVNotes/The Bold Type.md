@@ -10,7 +10,8 @@ User Score: 64
 User Count: 83
 Director: nan
 Creator: Sarah Watson
-image: 
+image: https://image.tmdb.org/t/p/w500/cKloQpl6zE7kdFf8SUeYU2qPT9H.jpg
 ---
 
 Three friends: Jane (Katie Stevens), social media director Kat (Aisha Dee) and assistant Sutton (Meghann Fahy), juggle love and life while working at the fictional women's magazine Scarlet run by editor in chief Jacqueline (Melora Hardin).
+Image poster gotten from themoviedb.org

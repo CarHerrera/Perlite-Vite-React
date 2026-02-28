@@ -10,7 +10,7 @@ User Score: 90
 User Count: 48
 Director: Aaron Lipstadt
 Creator: Glenn Gordon Caron
-image: 
+image: https://image.tmdb.org/t/p/w500/6tOxspW2MbbAQ0s3jtfs8QATcx.jpg
 ---
 
 Patricia Arquette stars as a young wife and mother who, since childhood, has been struggling to make sense of her dreams and visions of dead people.
@@ -30,3 +30,4 @@ Seasons 4 and 5: Mondays, 10:00pm
 
 CBS Broadcast History
 Season 6: Fridays, 9:00pm
+Image poster gotten from themoviedb.org

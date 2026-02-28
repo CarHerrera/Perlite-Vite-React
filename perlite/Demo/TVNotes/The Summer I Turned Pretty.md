@@ -10,7 +10,8 @@ User Score: 65
 User Count: 85
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg
 ---
 
 16-year-old Isabel "Belly" Conklin (Lola Tung) suddenly finds she has the attention of two boys: Conrad Fisher (Christopher Briney) and Jeremiah  (Gavin Casalegno) in this adaptation of Jenny Han’s novel of the same name.
+Image poster gotten from themoviedb.org

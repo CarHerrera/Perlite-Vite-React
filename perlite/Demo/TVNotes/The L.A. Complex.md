@@ -10,7 +10,8 @@ User Score: 79
 User Count: 29
 Director: Martin Gero,Stefan Brogren
 Creator: Martin Gero
-image: 
+image: https://image.tmdb.org/t/p/w500/dD0QtR3RIjM84nIh0OqceAj972q.jpg
 ---
 
 The Lux motel in Los Angeles is home to a group of young adults seeking to survive and succeed in show business.
+Image poster gotten from themoviedb.org

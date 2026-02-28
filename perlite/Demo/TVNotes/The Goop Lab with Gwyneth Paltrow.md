@@ -10,7 +10,8 @@ User Score: 9
 User Count: 66
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/33F17SSRglzIdBH1zsGA6Rv5QT1.jpg
 ---
 
 The documentary series hosted by Gwyneth Paltrow and Goop Chief Content Officer Elise Loehnen talk about a variety of health and wellness topics with doctors, researchers and other health practitioners.
+Image poster gotten from themoviedb.org

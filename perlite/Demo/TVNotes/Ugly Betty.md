@@ -10,7 +10,8 @@ User Score: 76
 User Count: 75
 Director: nan
 Creator: Fernando Gaitán
-image: 
+image: https://image.tmdb.org/t/p/w500/prGylxnFpIWMcvHh9sUC46hmiIC.jpg
 ---
 
 Betty Suarez has always had one goal in life: to make it into the publishing business. Despite being smart, hard-working, and productive, her dream has always been shadowed by the fact that she isn't as traditionally beautiful as her cover ready colleagues. But despite it all, she is determined to do whatever it takes to fulfill that ultimate dream.Ugly Betty stars America Ferrera in the title role. The show is based on the wildly popular Colombian telenovela which has already been successfully translated in Mexico, India, Russia, Greece and Germany - all to stellar ratings.
+Image poster gotten from themoviedb.org

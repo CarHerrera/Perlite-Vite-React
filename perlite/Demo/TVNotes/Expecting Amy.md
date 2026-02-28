@@ -10,7 +10,8 @@ User Score: 35
 User Count: 22
 Director: Alexander Hammer,Ryan Cunningham
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9eFfNSYDSnLmxOPOGT5C4rxEcvH.jpg
 ---
 
 The three-part documentary series follows comedian Amy Schumer throughout her pregnancy and includes behind-the-scenes of her life on tour as well as planning out a stand-up special. 
+Image poster gotten from themoviedb.org

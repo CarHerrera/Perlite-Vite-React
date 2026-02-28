@@ -14,3 +14,4 @@ image:
 ---
 
 Kate Wyler (Keri Russell), the new US Ambassador to the United Kingdom, tries to handle international crises and her marriage to fellow diplomat Hal Wyler (Rufus Sewell) in this political drama from Debora Cahn. 
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 78
 User Count: 14
 Director: Louise Hooper,Eva Sørhaug
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qmmHl3EiFKuDLTVYHGwlV9UhtNw.jpg
 ---
 
 Guy Anatole (Nicholas Denton) is recruited to join the Talamasca, a secret organization that tracks vampire, witches and other supernatural beings in the latest entry to AMC's Anne Rice Immortal Universe.
+Image poster gotten from themoviedb.org

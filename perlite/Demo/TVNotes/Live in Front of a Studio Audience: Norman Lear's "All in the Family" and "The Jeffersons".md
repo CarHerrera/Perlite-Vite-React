@@ -14,3 +14,4 @@ image:
 ---
 
 All in the Family and its spinoff, The Jeffersons are getting a live TV staging of a classic episode from each program hosted by Normal Lear and Jimmy Kimmel. Archie Bunker will be played by Woody Harrelson and Jamie Foxx will play George Jefferson.
+Image poster gotten from themoviedb.org

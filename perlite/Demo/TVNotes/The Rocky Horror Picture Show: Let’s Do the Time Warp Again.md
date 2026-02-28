@@ -14,3 +14,4 @@ image:
 ---
 
 Janet Weiss (Victoria Justice) and Brad Majors (Ryan McCartan) end up at Dr. Frank-N-Furter's (Laverne Cox) house where she is hosting an annual Transylvanian science convention where the birth of Rocky Horror (Staz Nair) is the centerpiece. Tim Curry is the narrator of this remake of the original movie musical.
+Image poster gotten from themoviedb.org

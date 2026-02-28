@@ -10,7 +10,8 @@ User Score: 62
 User Count: 68
 Director: Stephen Frears
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xQU99bLRjTegRSGScLDVqpcx5QV.jpg
 ---
 
 The three-part BBC miniseries set in 1960-70s follows member of Parliament Jeremy Thorpe (Hugh Grant) as he seeks to permanently hide his affair with stableboy Norman Scott (Ben Whishaw) to protect his political career in Russell T Davies's adaptation of John Preston's book of the same name.
+Image poster gotten from themoviedb.org

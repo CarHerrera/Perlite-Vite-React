@@ -10,7 +10,8 @@ User Score: 75
 User Count: 54
 Director: nan
 Creator: D.J. Nash
-image: 
+image: https://image.tmdb.org/t/p/w500/Li7uDf1jUEOP4HJaKHX3iXxlad.jpg
 ---
 
 After a friend (Ron Livingston) ends his life, his friends Gary (James Roday), music teacher Eddie (David Giuntoli), Rome (Romany Malco), therapist Maggie (Allison Miller), Regina (Christina Moses), Ashley (Christina Ochoa), Delilah (Stephanie Szostak), and Sophie (Lizzy Greene) come together in this drama from D.J. Nash Gary.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 73
 User Count: 40
 Director: Ken Kwapis,Gail Mancuso,Ken Whittingham,Andrew McCarthy,Jesse Peretz
 Creator: Shalom Auslander
-image: 
+image: https://image.tmdb.org/t/p/w500/emjm7JDQMrZ8YWGmLLw9pe6vnNQ.jpg
 ---
 
 Originally set with Philip Seymour Hoffman before his death in 2014, the dark comedy from Shalom Auslander follows Thom Payne (Steve Coogan) as he reevaluates his life after facing his new 25-year-old boss.
+Image poster gotten from themoviedb.org

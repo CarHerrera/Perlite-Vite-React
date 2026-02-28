@@ -15,3 +15,4 @@ image:
 
 Physicist Ben Seong (Raymond Lee) takes an unauthorized leap into the past leaving behind the team that helped him restart the Quantum Leap accelerator project 30 years after Dr. Sam Beckett disappeared.
 
+Image poster gotten from themoviedb.org

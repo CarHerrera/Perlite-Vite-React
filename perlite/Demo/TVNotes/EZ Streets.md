@@ -10,7 +10,8 @@ User Score: 0
 User Count: 2
 Director: Paul Haggis,Ken Olin
 Creator: Paul Haggis
-image: 
+image: https://image.tmdb.org/t/p/w500/3ZY3PAgcLE7GBNQzCrpITnedgA8.jpg
 ---
 
 EZ Streets is an epic drama about a dark, gritty urban world, the people who live there and their struggle to live by the creed of the streets. The one-hour series explores the lives of Detective Cameron Quinn, gangster Jimmy Murtha, and ex-con Daniel Rooney, fiercely independent men living parallel lives on opposite sides of the law. Quinn is a cop who has to deal with corruption in order to find the truth. Murtha and Rooney are two individuals living in a very violent world with its own moral code. Rooney just got out of jail for a crime that he did not commit, but he's slowly being drawn back in by Murtha, the head of one of the city's most notorious new gangs, the EZ's. Keeping Murtha one step ahead of hard time is his attorney, Theresa Connors.
+Image poster gotten from themoviedb.org

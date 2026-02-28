@@ -10,7 +10,8 @@ User Score: 75
 User Count: 78
 Director: nan
 Creator: Kenneth Biller,Mike Sussman
-image: 
+image: https://image.tmdb.org/t/p/w500/5L6MsJVdMDbdGZ4P1lGBunOp0VZ.jpg
 ---
 
 Dr. Geoffrey Pierce (Eric McCormack), a Chicago neuroscience professor with paranoid schizophrenia teams up with his former student, FBI agent Kate Moretti (Rachael Lee Cook) to help solve some major cases together.
+Image poster gotten from themoviedb.org

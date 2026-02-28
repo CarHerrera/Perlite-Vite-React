@@ -10,7 +10,8 @@ User Score: 45
 User Count: 16
 Director: Kimberly McCullough,Erin Ehrlich
 Creator: Erin Ehrlich,Lauren Iungerich,Tim Schauer,Kuba Soltysiak
-image: 
+image: https://image.tmdb.org/t/p/w500/b3zagQAHUUePg29xjp9SYoxtsv7.jpg
 ---
 
 High school seniors Erika Vu (Lana Condor) and Gia (Zoe Colletti) are in a car accident which leaves Erika a ghost in this teen comedy series co-created by Erin Ehrlich and Lauren Lungerich.
+Image poster gotten from themoviedb.org

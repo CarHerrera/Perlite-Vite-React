@@ -14,3 +14,4 @@ image:
 ---
 
 ABC's live musical adaptation of The Little Mermaid will feature Auli'i Cravalho as Ariel, Queen Latifah as Ursula and Shaggy as Sebastian.
+Image poster gotten from themoviedb.org

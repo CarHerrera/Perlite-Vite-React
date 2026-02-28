@@ -10,7 +10,8 @@ User Score: 77
 User Count: 166
 Director: nan
 Creator: Danny McBride
-image: 
+image: https://image.tmdb.org/t/p/w500/bKb54fgtMrS54VMMl8KdDIFlG3g.jpg
 ---
 
 The world of a famous televangelist family led by Eli Gemstone (John Goodman) and his grown children: Jesse (Danny McBride), Judy (Edi Patterson) and Kelvin (Adam Devine) is explored in this comedy from McBride.
+Image poster gotten from themoviedb.org

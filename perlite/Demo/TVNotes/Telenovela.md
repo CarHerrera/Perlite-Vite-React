@@ -10,7 +10,8 @@ User Score: 74
 User Count: 37
 Director: Fred Goss,Steve Pink
 Creator: Jessica Goldstein,Robert Harling,Chrissy Pietrosh
-image: 
+image: https://image.tmdb.org/t/p/w500/gVG0Hf8naAL7AfvMjiQC34UtqDX.jpg
 ---
 
 Originally titled Hot & Bothered, the comedy where telenovela actress Ana Maria (Eva Longoria) deals with real life drama in her life as she tries to stay at the top of her world.
+Image poster gotten from themoviedb.org

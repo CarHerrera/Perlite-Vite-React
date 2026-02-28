@@ -10,7 +10,8 @@ User Score: 61
 User Count: 49
 Director: Mark Schwahn
 Creator: Mark Schwahn
-image: 
+image: https://image.tmdb.org/t/p/w500/2nexpqqf0CUedCyiVAJQz9QCrp1.jpg
 ---
 
 The first scripted drama for the E! network follows the lives of a fictional British Royal family that includes Elizabeth Hurley as Queen Helena, Vincent Regan as King Simon, William Moseley as Prince Liam, Alexandra Park as Princess Eleanor and Merritt Patterson as Ophelia, Liam's American lover.
+Image poster gotten from themoviedb.org

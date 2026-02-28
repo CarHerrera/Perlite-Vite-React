@@ -10,7 +10,8 @@ User Score: 52
 User Count: 6
 Director: Matt Piedmont
 Creator: Diallo Riddle,Bashir Salahuddin
-image: 
+image: https://image.tmdb.org/t/p/w500/8GhaQAxn6LGe3asGBIr4xqSE8FJ.jpg
 ---
 
 The musical variety sketch comedy show created and written by Diallo Riddle and Bashir Salahuddin is hosted by Sherman McDaniels.
+Image poster gotten from themoviedb.org

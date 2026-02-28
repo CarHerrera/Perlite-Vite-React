@@ -10,9 +10,10 @@ User Score: 59
 User Count: 13
 Director: Koby Adom,Abdou Cisse
 Creator: Adjani Salmon,Natasha Jatania,Maximilian Evans,Max Evans,Laura Seixas
-image: 
+image: https://image.tmdb.org/t/p/w500/pJ53JJt41HoG8RSSEUszGZISXxW.jpg
 ---
 
 Aspiring filmmaker Kwabena (Adjani Salmon) takes steps to pursue his dreams while juggling relationships, working in a dead-end job and his parents' expectations in this British comedy co-written by Ali Hughes and Salmon.
 
 [Premiere originally in the UK on BBC3 on 24 Jul 2023 and will air in the US on Showtime on 10 Sep 2023]
+Image poster gotten from themoviedb.org

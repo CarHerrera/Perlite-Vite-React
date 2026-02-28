@@ -10,7 +10,8 @@ User Score: 64
 User Count: 47
 Director: Shaun James Grant,Jim Loach,Ben A. Williams,Joelle Mae David
 Creator: Paul Rutman
-image: 
+image: https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg
 ---
 
 Detective Sergeant June Lenker (Cush Jumbo) investigates an anonymous phone call that puts a confession from a case Chief Inspector Daniel Hegarty (Peter Capaldi) worked on in doubt in this thriller series from Paul Rutman.
+Image poster gotten from themoviedb.org

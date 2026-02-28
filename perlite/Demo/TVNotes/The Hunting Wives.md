@@ -10,7 +10,8 @@ User Score: 58
 User Count: 23
 Director: Cheryl Dunye,Jennifer Getzinger,Julie Anne Robinson,Melanie Mayron
 Creator: Rebecca Perry Cutter
-image: 
+image: https://image.tmdb.org/t/p/w500/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg
 ---
 
 New resident Sophie (Brittany Snow) joins Margo Bank's (Malin Åkerman) social circle that is full of envy, desire, secrets and murder in the adaptation of the May Cobb novel of the same name.
+Image poster gotten from themoviedb.org

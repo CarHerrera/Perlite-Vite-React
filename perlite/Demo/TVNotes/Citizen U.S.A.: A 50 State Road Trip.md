@@ -14,3 +14,4 @@ image:
 ---
 
 Director Alexandra Pelosi travels across America to attend naturalization ceremonies in all 50 states. 
+Image poster gotten from themoviedb.org

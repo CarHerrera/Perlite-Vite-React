@@ -24,3 +24,4 @@ Making the hip, busy offices run smoothly is Francine (Reagan Gomez-Preston, "Th
 These modern day wingmen & wingwomen work day and night in their field, whether it be at a club or restaurant, bringing desperately seeking strangers together in order to form wonderful relationships.  Personally, they continue a personal journey to find their own special love, whether it is by simple compatibility or chance
 
 NOTE: Every episode of the series is named after another TV show, all situation comedies.
+Image poster gotten from themoviedb.org

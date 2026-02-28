@@ -10,7 +10,8 @@ User Score: 67
 User Count: 39
 Director: Alex Hardcastle,Ben Gregor,John Hardwick,Debbie Harris-Balling
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/eFknXxXZvuPNVBCkSkzMLHj4kux.jpg
 ---
 
 David Cross stars as an American executive who suddenly has to take over the company's UK office. A six episode first season has been commissioned.
+Image poster gotten from themoviedb.org

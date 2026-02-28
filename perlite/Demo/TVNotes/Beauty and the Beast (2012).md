@@ -14,3 +14,4 @@ image:
 ---
 
 A remake of the 1987 series, in this version homicide detective Catherine Chandler (Kristin Kreuk) crosses the path of Dr. Vincent Keller (Jay Ryan), who supposedly died in in Afghanistan in 2002 and has been hiding the past 10 years.
+Image poster gotten from themoviedb.org

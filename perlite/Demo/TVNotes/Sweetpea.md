@@ -10,7 +10,8 @@ User Score: 66
 User Count: 51
 Director: Ella Jones
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/feoDYCy0AUD031gLqBmA9gC4pw1.jpg
 ---
 
 Often overlooked and ignored, Rhiannon Lewis (Ella Purnell) is pushed over the edge and develops a penchant for killing in the Kirstie Swain six-part series based on C.J. Skuse's novel of the same name.
+Image poster gotten from themoviedb.org

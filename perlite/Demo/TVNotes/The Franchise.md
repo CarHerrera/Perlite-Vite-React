@@ -10,7 +10,8 @@ User Score: 66
 User Count: 29
 Director: Kevin Bray,Tom George,Liza Johnson
 Creator: Jon Brown
-image: 
+image: https://image.tmdb.org/t/p/w500/kWitzLQnweAcYFyjzVblkoByQDO.jpg
 ---
 
 Sam Mendes and Armando Iannuccci's comedy series focuses on the cast and crew who work on a superhero franchise movie.
+Image poster gotten from themoviedb.org

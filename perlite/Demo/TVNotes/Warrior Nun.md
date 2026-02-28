@@ -10,7 +10,8 @@ User Score: 86
 User Count: 416
 Director: nan
 Creator: Simon Barry
-image: 
+image: https://image.tmdb.org/t/p/w500/fLP0mA7FiERZhDP1NJUaHpm6XM8.jpg
 ---
 
 Ava (Alba Baptista), a 19-year-old woman wakes up in a morgue and learns the ring on her back means she was chosen to be a part of a secret group of demon-hunting nuns in this series inspired by Ben Dunn's comic book series, Warrior Nun Areala.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 64
 User Count: 171
 Director: nan
 Creator: Mark Roberts
-image: 
+image: https://image.tmdb.org/t/p/w500/5TeRoql7yzyeFWMEA0aiEmd21HJ.jpg
 ---
 
 A couple finds love at an Overeaters Anonymous meeting in this multicamera comedy from Chuck Lorre, the force behind Two and a Half Men and The Big Bang Theory. The project is development at CBS.
+Image poster gotten from themoviedb.org

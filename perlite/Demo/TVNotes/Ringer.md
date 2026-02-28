@@ -10,7 +10,8 @@ User Score: 67
 User Count: 97
 Director: Jerry Levine
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/t27TSKDVmGwrH8NQjyQuPvKSmo5.jpg
 ---
 
 Bridget returns home to see her twin sister, Siobhan (both roles played by Sarah Michelle Geller), after running into trouble in New York. When it appears her sister committed suicide, Bridget decides to assume her twin's identity, only to find that her sister's life is not much safer than her own.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 79
 User Count: 8
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/dxnuc2I1hr6umtubDLBTdh00zfI.jpg
 ---
 
 The animated comedy follows the lives of Mondo and his best friend Woodie as they navigate life as teenagers in Playa Del Toro, California.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 70
 User Count: 48
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/28cIK70tN2t4gPTV8CBQZED1H2G.jpg
 ---
 
 Based on James Grady's novel Six Days of the Condor and the 1975 film Three Days of the Condor, CIA analyst Joe Turner (Max Irons) must go on the run when his discovery of a plan that could jeopardize millions of lives causes the death of his colleagues.
+Image poster gotten from themoviedb.org

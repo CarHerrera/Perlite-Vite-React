@@ -14,3 +14,4 @@ image:
 ---
 
 David Jung's (Daniel Dae Kim) life in South Korea is torn apart by his past as a young spy (Reina Hardesty) is sent to assassinate him in the thriller series based on the graphic novel series created by Arash Amel.
+Image poster gotten from themoviedb.org

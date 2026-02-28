@@ -10,7 +10,8 @@ User Score: 84
 User Count: 703
 Director: Russell Mulcahy,Tim Andrew
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/f8vfN4ziStFVcTp8n6WYLftad5c.jpg
 ---
 
 MTV is slated to turn the classic 1980s cult movie Teen Wolf.
+Image poster gotten from themoviedb.org

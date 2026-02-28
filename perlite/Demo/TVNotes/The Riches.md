@@ -10,7 +10,8 @@ User Score: 58
 User Count: 17
 Director: Peter O'Fallon,Guy Ferland
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/c8eyL7xBTVZeeqb9oDEADqHlNc2.jpg
 ---
 
 The Riches follows a traveling family of con artists. Dahlia (Minnie Driver), the family's mother, has just completed a 2-year stint in prison. As well as dealing with Dahlia's drug problem, the family begins to question their marginal lifestyle. Along with their three children, they assume the identities of a normal, high-income family.The Riches is produced by FOX Television Studios in association with Maverick Television.
+Image poster gotten from themoviedb.org

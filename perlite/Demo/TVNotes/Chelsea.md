@@ -10,7 +10,8 @@ User Score: 49
 User Count: 51
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/lDbyyKRDk5FmDY98eCc97gUEZod.jpg
 ---
 
 Chelsea Handler's talk show on Netflix will air three times a week (Wednesday, Thursday and Friday).
+Image poster gotten from themoviedb.org

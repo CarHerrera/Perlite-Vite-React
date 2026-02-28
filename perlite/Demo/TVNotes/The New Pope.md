@@ -10,7 +10,8 @@ User Score: 78
 User Count: 48
 Director: Paolo Sorrentino
 Creator: Paolo Sorrentino
-image: 
+image: https://image.tmdb.org/t/p/w500/lqIcuN2ORtCkCrGErghTp5Rrhec.jpg
 ---
 
 The eight-episode sequel to The Young Pope adds Massimo Ghini, Henry Goodman, John Malkovich, Marilyn Manson, Sharon Stone, and Ulrich Thomsen.
+Image poster gotten from themoviedb.org

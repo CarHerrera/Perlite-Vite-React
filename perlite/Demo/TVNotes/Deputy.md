@@ -10,7 +10,8 @@ User Score: 45
 User Count: 35
 Director: nan
 Creator: Will Beall
-image: 
+image: https://image.tmdb.org/t/p/w500/dlnbNP169odKEYKCfzBipRrUDdk.jpg
 ---
 
 Deputy Bill Hollister (Stephen Dorff) is the new acting sheriff after the death of the Los Angeles County Sheriff in this drama from David Ayer and Will Beall.
+Image poster gotten from themoviedb.org

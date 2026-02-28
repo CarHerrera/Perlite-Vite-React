@@ -10,9 +10,10 @@ User Score: 38
 User Count: 28
 Director: Emma Cooper
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/cuQSOW4bPJHysDWjiMkKkM4IiST.jpg
 ---
 
 The three-part docuseries directed by Emma Cooper features the testimony of Johnny Depp and Amber Heard side-by-side along with footage of social media and livestreamed commentary.
 
 [Premiered originally in the UK on Channel 4 on 21 May 2023 and in the US on Netflix on 16 Aug 2023]
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 66
 User Count: 34
 Director: Rob Evans,Tim Fywell
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg
 ---
 
 Vicar Sidney Chambers (James Norton) helps Detective Inspector Keating (Robson Green) solve crimes in 1950s Grantchester.
+Image poster gotten from themoviedb.org

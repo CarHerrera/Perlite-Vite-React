@@ -10,7 +10,8 @@ User Score: 58
 User Count: 46
 Director: Coky Giedroyc,Jill Robertson
 Creator: Moira Buffini,Alison Newman
-image: 
+image: https://image.tmdb.org/t/p/w500/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg
 ---
 
 Margaret Wells (Samantha Morton) juggles life as an owner of a brothel and a mother of two daughters as a rival (Lesley Manville) seeks to shut her down in this drama set in the 1700s London.
+Image poster gotten from themoviedb.org

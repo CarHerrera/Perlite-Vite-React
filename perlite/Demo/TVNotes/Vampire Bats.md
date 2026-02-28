@@ -17,3 +17,4 @@ Dr. Maddy Rierdon, a former USDA voracious insect specialist who is now a colleg
 
 Lucy Lawless and Dylan Neal reprise their roles as Dr. Maddy Rierdon and Dan Dryer from the CBS Television movie “Locusts”.  
 
+Image poster gotten from themoviedb.org

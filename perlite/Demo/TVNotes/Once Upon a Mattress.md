@@ -14,3 +14,4 @@ image:
 ---
 
 Disney live action TV movie musical, based on the fairytale The Princess and the Pea.
+Image poster gotten from themoviedb.org

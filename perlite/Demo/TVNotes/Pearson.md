@@ -10,7 +10,8 @@ User Score: 63
 User Count: 9
 Director: Kevin Bray
 Creator: Daniel Arkin,Aaron Korsh
-image: 
+image: https://image.tmdb.org/t/p/w500/aI0KQTi3YgXZfI5gxfK6A8lP39U.jpg
 ---
 
 Jessica Pearson (Gina Torres) moves to Chicago and begins working as Chicago Mayor Bobby Novak's (Morgan Spector) fixer in this spin-off of Suits.
+Image poster gotten from themoviedb.org

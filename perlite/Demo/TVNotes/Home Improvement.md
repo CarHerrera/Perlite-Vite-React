@@ -10,7 +10,7 @@ User Score: 78
 User Count: 72
 Director: Andy Cadiff
 Creator: Matt Williams
-image: 
+image: https://image.tmdb.org/t/p/w500/sa3J2ZXeg7TiziuXGyfz99HdYDS.jpg
 ---
 
 Home Improvement is a sitcom about Tim Taylor, the accident prone host of a Detroit, Michigan television program about tools, who raises his dysfunctional family.
@@ -130,3 +130,4 @@ Awards and Nominations •Won the 2000, 1999, 1998, 1997, 1996, 1995, 1994, 1993
 Home Improvement is now airing in syndication.  Check your local listings!
 
 In Memory of Earl Hindman (1942-2003)
+Image poster gotten from themoviedb.org

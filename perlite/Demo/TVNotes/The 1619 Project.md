@@ -10,7 +10,8 @@ User Score: 21
 User Count: 34
 Director: nan
 Creator: Nikole Hannah-Jones
-image: 
+image: https://image.tmdb.org/t/p/w500/5sNYUV5l130HIryGj4RdhzDtn7A.jpg
 ---
 
 The six-part documentary series expands on Nikole Hannah-Jones and the New York Times Magazine's "The 1619 Project" and delves into slavery's impact on such topics as capitalism, democracy, music, and race.
+Image poster gotten from themoviedb.org

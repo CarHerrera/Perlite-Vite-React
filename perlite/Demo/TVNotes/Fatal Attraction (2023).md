@@ -14,3 +14,4 @@ image:
 ---
 
 Alex Forrest (Lizzy Caplan) becomes obsessed with her lover Dan Gallagher (Joshua Jackson) after he tries to end their affair in the miniseries reimagining of the 1987 film of the same name.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 46
 User Count: 10
 Director: Gotham Chopra
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2lY4K8yWfMda1QJDxY4oyT6kR6x.jpg
 ---
 
 The four-part docuseries about New Jersey rock band Bon Jovi features interviews (including former guitarist Richie Sambora) and footage of their 2022 tour as Jon Bon Jovi suffered from vocal cord issues and had surgery.
+Image poster gotten from themoviedb.org

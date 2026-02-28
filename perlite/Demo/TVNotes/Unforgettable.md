@@ -10,7 +10,8 @@ User Score: 54
 User Count: 86
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6NsNh4qDhYiGp7SiHyk0Ec3Dns6.jpg
 ---
 
 Former police detective Carnie Wells (Poppy Montgomery), who struggles with hyperthymesia--the ability to remember everything--is recruited by her ex-boyfriend to help the NYPD with one more case.
+Image poster gotten from themoviedb.org

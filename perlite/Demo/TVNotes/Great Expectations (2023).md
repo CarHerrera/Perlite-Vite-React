@@ -14,3 +14,4 @@ image:
 ---
 
 An ambitious orphan named Pip (Fionn Whitehead) meets Miss Havisham (Olivia Colman) and falls in love with her adopted daughter, Estella (Shalom Brune-Franklin) in Steven Knight's adaptation of the Charles Dickins classic novel.
+Image poster gotten from themoviedb.org

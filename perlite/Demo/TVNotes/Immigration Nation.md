@@ -10,7 +10,8 @@ User Score: 41
 User Count: 59
 Director: Christina Clusiau,Shaul Schwarz
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/lqMU6yRjho7w6advYliIK2Od4n4.jpg
 ---
 
 The six-part documentary series about America's current immigration system directed by Christina Clusiau and Shaul Schwarz features candid interviews with agents of Immigrations and Customs Enforcement (ICE), Border Patrol, Homeland Security Investigations (HSI) and detainees as well as footage of raids and the detentions centers.
+Image poster gotten from themoviedb.org

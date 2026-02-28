@@ -10,7 +10,8 @@ User Score: 60
 User Count: 27
 Director: nan
 Creator: Craig Rosenberg
-image: 
+image: https://image.tmdb.org/t/p/w500/5xPLk78TFStBi1dQAlG2mnoSK60.jpg
 ---
 
 Realtor Ava Bartlett (Kaley Cuoco), her ex-tennis star husband (Chris Messina) and a plumber take advantage of people's obsession with true crime in this dark comedy thriller created by Craig Rosenberg.
+Image poster gotten from themoviedb.org

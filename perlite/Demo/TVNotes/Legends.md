@@ -10,7 +10,8 @@ User Score: 74
 User Count: 99
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/3YtSBasjhGHOIHAZnjAU0X0U7J3.jpg
 ---
 
 Deep cover FBI agent Martin Odum (Sean Bean) returns from an assignment to learn he may not be who he thinks he is in this adaptation of Robert Littell's novel of the same name.
+Image poster gotten from themoviedb.org

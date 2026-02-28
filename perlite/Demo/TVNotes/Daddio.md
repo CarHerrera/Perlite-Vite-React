@@ -14,3 +14,4 @@ image:
 ---
 
 A lovable stay-at-home dad deals with his four children and various domestic problems while his wife works as a lawyer.
+Image poster gotten from themoviedb.org

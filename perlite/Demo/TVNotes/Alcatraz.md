@@ -10,7 +10,8 @@ User Score: 65
 User Count: 150
 Director: nan
 Creator: Steven Lilien,Elizabeth Sarnoff,Bryan Wynbrandt
-image: 
+image: https://image.tmdb.org/t/p/w500/yES1yqjp6Jl2CEVKHdfwKrIsnqd.jpg
 ---
 
 Fifty years after they vanished, some of Alcatraz's most notorious prisoners reappear and start committing crime once again. Emerson Hauser (Sam Neill), Rebecca Madsen (Sarah Jones), and Diego "Doc" Soto (Jorge Garcia) team up to investigate how this happened.
+Image poster gotten from themoviedb.org

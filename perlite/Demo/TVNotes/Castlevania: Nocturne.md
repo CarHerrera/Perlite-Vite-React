@@ -10,7 +10,8 @@ User Score: 49
 User Count: 328
 Director: Sam Deats,Adam Deats,Saren Stone,Tam Lu
 Creator: Clive Bradley
-image: 
+image: https://image.tmdb.org/t/p/w500/4XJwo95ktJ7xupw1bCMuP91kyYr.jpg
 ---
 
 Set in 1972 France, the anti-revolutionary aristocracy has aligned itself with a vampire promising to end the revolution. However, Annette, a sorceress from the Caribbean, finds the last descendent of vampire hunters, Richter Belmont to lead the resistance in the latest Castlevania animated series.
+Image poster gotten from themoviedb.org

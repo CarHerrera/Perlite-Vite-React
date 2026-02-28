@@ -10,7 +10,8 @@ User Score: 70
 User Count: 72
 Director: Hugo Blick
 Creator: Hugo Blick
-image: 
+image: https://image.tmdb.org/t/p/w500/aAFAwxj0VzBRyX5biAHUJM73qYG.jpg
 ---
 
 Set in the 1890s, Lady Cornelia Locke (Emily Blunt) seeks to avenge her son's death with the help of Eli Whipp (Chaske Spencer), a Pawnee ex-cavalry scout in this limited series written and directed by Hugo Blick.
+Image poster gotten from themoviedb.org

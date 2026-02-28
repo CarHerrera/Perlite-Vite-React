@@ -10,7 +10,8 @@ User Score: 44
 User Count: 37
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/v5cfVvAe4IawRchyKDHSFgunL9F.jpg
 ---
 
 Based on Sarai Walker’s book of the same name, the dark comedy follows Plum Kettle (Joy Nash) a ghost writer for her boss (Julianna Margulies), a fashion magazine editor, as she plans for weight-loss surgery and becomes involved with an underground feminist group.
+Image poster gotten from themoviedb.org

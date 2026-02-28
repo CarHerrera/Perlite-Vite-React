@@ -14,3 +14,4 @@ image:
 ---
 
 Ex-Marine sniper Bob Lee Swagger (Ryan Phillipe) returns to service when he learns of a plot to kill the president in this series based on the 2007 film of the same name.
+Image poster gotten from themoviedb.org

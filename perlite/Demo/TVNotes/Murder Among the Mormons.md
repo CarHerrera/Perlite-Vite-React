@@ -10,7 +10,8 @@ User Score: 69
 User Count: 14
 Director: Jared Hess,Tyler Measom
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/l38W4H1oeuJiAi5ZCVokjwMAdyh.jpg
 ---
 
 The three-part documentary series directed by Jared Hess and Tyler Measom look into the 1985 pipe bombings in Salt Lake City that killed two and seriously injured another who made his name in locating purportedly historical Mormon documents.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 55
 User Count: 27
 Director: Andrew Fleming,Peter Lauer,Zoe R. Cassavetes
 Creator: Jeffrey Richman,Darren Star
-image: 
+image: https://image.tmdb.org/t/p/w500/ckwIGJghs2AuUcjyhByRlXNMBYZ.jpg
 ---
 
 Michael (Neil Patrick Harris) finds himself single again in New York City when his husband abruptly leaves him after 17 years in this comedy series from Darren Star and Jeffrey Richman.
+Image poster gotten from themoviedb.org

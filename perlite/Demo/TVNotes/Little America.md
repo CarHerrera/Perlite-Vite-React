@@ -10,7 +10,8 @@ User Score: 58
 User Count: 57
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/8lAMdxL8uirqyavsD6H3QGQmTkA.jpg
 ---
 
 The immigrant comedy anthology series includes stories inspired by real experiences written about in Epic Magazine.
+Image poster gotten from themoviedb.org

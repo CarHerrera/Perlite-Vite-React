@@ -10,7 +10,8 @@ User Score: 58
 User Count: 4
 Director: David Blair,James Strong,Trygve Allister Diesen
 Creator: Dean Cavanagh
-image: 
+image: https://image.tmdb.org/t/p/w500/rcI50B1ytbaozGWmblkMRYBPPsm.jpg
 ---
 
 Detective Inspector Ray Lennox (Dougray Scott) returns to Edinburgh and its Serious Crimes team after recovering from a breakdown from his last case in this series based on the Irvine Welsh novel of the same name.
+Image poster gotten from themoviedb.org

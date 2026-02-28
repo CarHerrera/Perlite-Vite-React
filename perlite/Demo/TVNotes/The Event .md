@@ -10,7 +10,8 @@ User Score: 63
 User Count: 153
 Director: Jeffrey Reiner
 Creator: Nick Wauters
-image: 
+image: https://image.tmdb.org/t/p/w500/sdx0ibebbph6rNfB9cVqvjwlIWr.jpg
 ---
 
 This show will feature many points of view and will follow a common citizen contribute to a huge government conspiracy. 
+Image poster gotten from themoviedb.org

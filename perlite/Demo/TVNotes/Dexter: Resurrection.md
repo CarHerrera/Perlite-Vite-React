@@ -10,9 +10,10 @@ User Score: 86
 User Count: 187
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg
 ---
 
 Dexter Morgan (Michael C. Hall) searches for his son Harrison (Jack Alcott) in New York City, but former Miami Metro colleague Angel Batista (David Zayas) arrives with questions in the "Dexter: New Blood" follow-up series.
 
 [Premieres on streaming and on demand for Paramount+ Premium subscribers on 11 Jul 2025, then on 13 Jul 2025 on linear cable Paramount+ With Showtime]
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 0
 User Count: 0
 Director: Craig Zisk,Ken Kwapis,Michael Engler,Kevin Rodney Sullivan
 Creator: Brad Hall
-image: 
+image: https://image.tmdb.org/t/p/w500/ta9r57t1boddYj7GH0WhBpwIbNO.jpg
 ---
 
 Julia Louis-Dreyfus, best known as Elaine from Seinfeld, stars in the real-time sitcom about a Los Angeles singer/voice over actress. Each episode will represent a half-hour of Eleanor's life. Some of the innovations of the show include a clock time used on the screen to count the show's 22 minutes as the episode is shown. Created by Brad Hall (Julia Louis-Dreyfus's real life husband). Julia's real life sister also stars as her fictional sister." (NBC press release)
@@ -42,3 +42,4 @@ Season 1 show type: Single-Camera Sitcom
 Season 2 show type: Multi-Camera Sitcom
 Number of episodes: 19
 Media: 24p Tape
+Image poster gotten from themoviedb.org

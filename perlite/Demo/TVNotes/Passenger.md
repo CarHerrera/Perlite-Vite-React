@@ -10,9 +10,10 @@ User Score: 56
 User Count: 10
 Director: Nicole Charles,Lee Haven Jones
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ulFminIHylwJaORyAf7IfHjvWCn.jpg
 ---
 
 Former Met Police Detective Riya Ajunwa (Mosaku) investigates a series of strange cases in the fictional small Northern English town of Chadder Vale, in the British series written by Andrew Buchan
 
 [Premiered originally in the UK on ITV on 24 March 2024 and in the US on BritBox on 17 Oct 2024]
+Image poster gotten from themoviedb.org

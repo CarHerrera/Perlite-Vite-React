@@ -10,7 +10,8 @@ User Score: 81
 User Count: 143
 Director: Jonny Campbell,Jim O'Hanlon,Damon Thomas,Alice Troughton
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/e4tZDFurNMf1nWzBamhz1hOEsFZ.jpg
 ---
 
 17-year-old Kieran Walker (Luke Newberry) returns to his hometown of Roarton after being treated for Partially Deceased Syndrome (PDS) so he no longer has the urge to eat brains and look more alive.
+Image poster gotten from themoviedb.org

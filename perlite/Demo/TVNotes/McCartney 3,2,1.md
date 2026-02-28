@@ -10,7 +10,8 @@ User Score: 67
 User Count: 16
 Director: Zach Heinzerling
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/zgheM4XlGVYvwwpLydpykLzmk1X.jpg
 ---
 
 The six-part documentary series features Paul McCartney talking with producer Rick Rubin about music as well as his career with the Beatles, Wings and as a solo artist.
+Image poster gotten from themoviedb.org

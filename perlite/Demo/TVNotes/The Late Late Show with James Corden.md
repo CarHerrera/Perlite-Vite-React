@@ -10,7 +10,8 @@ User Score: 54
 User Count: 69
 Director: Tim Mancinelli,Glenn F. Clements
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg
 ---
 
 British actor/comedian James Corden takes over for Craig Ferguson.
+Image poster gotten from themoviedb.org

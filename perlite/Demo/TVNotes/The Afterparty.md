@@ -10,7 +10,8 @@ User Score: 70
 User Count: 48
 Director: Christopher Miller
 Creator: Christopher Miller
-image: 
+image: https://image.tmdb.org/t/p/w500/9iAxAxeX5RjB39ckhxPMDCJPpG9.jpg
 ---
 
 Each episode features one character's point-of-view of what happened when someone was murdered at a high school reunion afterparty in this comedy mystery series created by Chris Miller.
+Image poster gotten from themoviedb.org

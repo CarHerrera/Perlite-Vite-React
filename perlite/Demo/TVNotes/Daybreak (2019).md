@@ -14,3 +14,4 @@ image:
 ---
 
 17-year-old Josh (Colin Ford) searches for his girlfriend Sam (Sophie Simnett) in post-zombie apocalyptic Glendale in this dark comedy based on the graphic novel by Brian Ralph.
+Image poster gotten from themoviedb.org

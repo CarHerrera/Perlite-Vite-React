@@ -14,3 +14,4 @@ image:
 ---
 
 Bryan Cranston reprises his Tony-winning role as President Lyndon B. Johnson during his first year in office in this adaptation of the Robert Schenkkan's play of the same name.
+Image poster gotten from themoviedb.org

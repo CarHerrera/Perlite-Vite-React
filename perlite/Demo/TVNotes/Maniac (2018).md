@@ -14,3 +14,4 @@ image:
 ---
 
 Jonah Hill and Emma Stone undergo a drug trial that goes awry in this adaptation of a Norwegian comedy series of the same name.
+Image poster gotten from themoviedb.org

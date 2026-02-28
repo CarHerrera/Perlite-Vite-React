@@ -10,7 +10,8 @@ User Score: 68
 User Count: 816
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg
 ---
 
 Luther (Tom Hopper), Diego (David Castañeda), Allison (Emmy Raver-Lampman), Klaus (Robert Sheehan), Vanya (Elliot Page) and Number Five (Aidan Gallagher) are brought back together by the death of their adoptive father (Colm Feore) in this series based on the comics and graphic novels by My Chemical Romance's Gerard Way.
+Image poster gotten from themoviedb.org

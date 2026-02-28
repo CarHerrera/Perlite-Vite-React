@@ -14,3 +14,4 @@ image:
 ---
 
 At the urging of her dying mother, Nimue (Katherine Langford), who later becomes the Lady of the Lake, travels with a young mercenary named Arthur (Devon Terrell) to return a sword (Excalibur) to Merlin (Gustaf Skarsgård) in this re-imagining of the Arthurian legend based on the book by Frank Miller and Tom Wheeler.
+Image poster gotten from themoviedb.org

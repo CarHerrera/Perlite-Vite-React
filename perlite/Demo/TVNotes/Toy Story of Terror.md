@@ -14,3 +14,4 @@ image:
 ---
 
 Buzz, Woody and the other toys are accidentally left at a motel during a trip with their new owner Bonnie.
+Image poster gotten from themoviedb.org

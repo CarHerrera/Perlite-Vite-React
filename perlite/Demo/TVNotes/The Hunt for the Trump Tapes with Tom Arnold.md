@@ -10,7 +10,8 @@ User Score: 8
 User Count: 8
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/leAJKjxAZRlGwLjDK0O2XVS2yWA.jpg
 ---
 
 Former Celebrity Apprentice contestant Tom Arnold seeks out video tapes rumored to be potentially damaging to Donald Trump.
+Image poster gotten from themoviedb.org

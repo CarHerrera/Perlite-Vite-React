@@ -10,7 +10,8 @@ User Score: 49
 User Count: 50
 Director: Scott Smith,Samir Rehem
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hZekXjooNYM4ikufsQnSVVnjYDP.jpg
 ---
 
 An American version of the Britsh series, 'Skins', set in Baltimore, tells authentic stories about the up's and downs of adolescent life. Touching on love, drugs, sex, and friendship, the show reflects everyday teenage life in all its aspects.  
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 75
 User Count: 184
 Director: nan
 Creator: Joe Shuster,Jerry Siegel
-image: 
+image: https://image.tmdb.org/t/p/w500/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg
 ---
 
 Clark Kent aka Superman (Tyler Hoechlin) and Lois Lane (Elizabeth Tulloch) face new challenges as working parents raising two sons (Jordan Elsass and Alexander Garfin), who may or may not inherit Kryptonian superpowers.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Katja Blichfeld,Ben Sinclair,Sarah-Violet Bliss,Thomas De Napoli
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/yCcozhFKIecvP3JxzRk70CGEg6s.jpg
 ---
 
 The web series created by Katja Blichfeld & Ben Sinclair features a marijuana dealer (Ben Sinclair) as he drops off his orders to his clients in New York City.
+Image poster gotten from themoviedb.org

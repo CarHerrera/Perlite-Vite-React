@@ -10,7 +10,8 @@ User Score: 54
 User Count: 7
 Director: Shaun Wilson,Jennifer Leacey
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/g4cdvm4RGeIs3n5NwIYroFoaum3.jpg
 ---
 
 Set in 1988, London housewife Sammy Cooper (Sarah Kendall) returns to her hometown in Australia with her two children after the death of her husband and move in with her mother (Kerry Armstrong) and brother (Ben Mingay) in this Australian/British dramedy created by Kendall.
+Image poster gotten from themoviedb.org

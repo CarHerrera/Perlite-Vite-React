@@ -14,3 +14,4 @@ image:
 ---
 
 Superman's 24-year-old cousin Kara Zor-El (Melissa Benoist) lands on CBS with Calista Flockhart, Mehcad Brooks, Chyler Leigh, and David Harewood rounding out the cast of the superhero drama from Greg Berlanti.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Air Nomad Aang (Gordon Cormier) seeks to save the world from Fire Lord Ozai (Daniel Dae Kim) with help from his friends Sokka (Ian Ousley) and Katara (Kiawentiio) in the live-action adaptation of the Nickelodeon animated series of the same name.
+Image poster gotten from themoviedb.org

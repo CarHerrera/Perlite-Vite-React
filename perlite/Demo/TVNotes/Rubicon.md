@@ -10,7 +10,8 @@ User Score: 80
 User Count: 106
 Director: Jeremy Podeswa,Alan Taylor,Michael Slovis
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/aYvsIIHsHkIz8fv3qbQCJpkgmLO.jpg
 ---
 
 AMC launches its third original series Rubicon on August 1st. The show is based in New York City and revolves around a conspiracy at a government intelligence agency. James Badge Dale and Miranda Richardson star. 
+Image poster gotten from themoviedb.org

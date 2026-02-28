@@ -10,7 +10,8 @@ User Score: 66
 User Count: 107
 Director: nan
 Creator: Robert Levine,Jonathan E. Steinberg
-image: 
+image: https://image.tmdb.org/t/p/w500/8Ec9zCZl2Go8WhDN1JWjjgQRlEi.jpg
 ---
 
 Ex-CIA officer Dan Chase (Jeff Bridges) has been living off-grid for years when an assassin tries to kill him in this series based on Thomas Perry's novel of the same name.
+Image poster gotten from themoviedb.org

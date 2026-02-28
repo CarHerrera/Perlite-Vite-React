@@ -10,7 +10,8 @@ User Score: 48
 User Count: 22
 Director: nan
 Creator: Simone Finch
-image: 
+image: https://image.tmdb.org/t/p/w500/oZ4AIq36U3SNkoHU7uQYVnNzqXk.jpg
 ---
 
 A public breakdown forces 20-something Samantha Fink (Sofia Black-D'Elia) to  move in with her mother, Carol (Ally Sheedy) and try to sober up in this comedy created and written by Simone Finch.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 60
 User Count: 21
 Director: Marc Roskin,Colin Bucksey,David Grossman
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/kEICKGqJFjghRoKI7EsOSG3pnGs.jpg
 ---
 
 The life of Molly Parker (Tricia Helfer), one of the first women Texas Rangers is the focus in this drama executive produced by Sofia Vergara, Martin Campbell, Ben Silverman ("The Office"), and Luis Balaguer.
+Image poster gotten from themoviedb.org

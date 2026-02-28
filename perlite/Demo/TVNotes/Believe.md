@@ -10,7 +10,8 @@ User Score: 73
 User Count: 117
 Director: nan
 Creator: Alfonso Cuarón,Mark Friedman
-image: 
+image: https://image.tmdb.org/t/p/w500/1h1txgv70Rl0b4OrNIJi6korazk.jpg
 ---
 
 10-year-old Bo (Johnny Sequoyah) had been raised by a group of "True Believers" including Milton Winter (Delroy Lindo) since she was orphaned, but as her powers have grown, the danger from sinister forces causes them to turn to Tate (Jake McLaughlin), a convict, to keep her safe.
+Image poster gotten from themoviedb.org

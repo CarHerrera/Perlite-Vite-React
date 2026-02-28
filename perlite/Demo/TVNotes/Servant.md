@@ -10,7 +10,8 @@ User Score: 71
 User Count: 191
 Director: nan
 Creator: Tony Basgallop
-image: 
+image: https://image.tmdb.org/t/p/w500/plsSSobmPSSz4hm8vYMXeIVkJJP.jpg
 ---
 
 Dorothy (Lauren Ambrose) and Sean Turner (Toby Kebbell) hire a nanny (Nell Tiger Free) to help care for a lifelike baby doll after the loss of their own child in the M. Night Shyamalan thriller.
+Image poster gotten from themoviedb.org

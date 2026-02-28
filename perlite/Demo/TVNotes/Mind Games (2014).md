@@ -14,3 +14,4 @@ image:
 ---
 
 Former con man Ross (Christian Slater) and his ex-professor brother Clark Edwards (Steve Zahn) are partners in Edwards and Associates, where they help people through the use of psychological manipulation.
+Image poster gotten from themoviedb.org

@@ -15,3 +15,4 @@ image:
 
 Based on a true story, this dramatic television movie tells the tale of a well-respected politician who puts his career and reputation on the line to stand up for a woman convicted of murdering her children. 
 
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 43
 User Count: 32
 Director: Mack Williams
 Creator: Matt Lappin,Tim Luecke,Stephen Colbert,R.J. Fried,Chris Licht
-image: 
+image: https://image.tmdb.org/t/p/w500/pVmH4R0d34UHH3n9ODWbPC3ALn7.jpg
 ---
 
 The animated comedy about the 45th president and his White House was executive produced by Stephen Colbert, R.J. Fried, and Chris Licht.
+Image poster gotten from themoviedb.org

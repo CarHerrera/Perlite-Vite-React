@@ -14,3 +14,4 @@ image:
 ---
 
 Gregg Barson interviews people influenced by Jerry Lewis and includes behind-the-scenes footage and early recordings of the comedian.
+Image poster gotten from themoviedb.org

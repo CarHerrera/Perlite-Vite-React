@@ -10,7 +10,8 @@ User Score: 52
 User Count: 11
 Director: Matt Ross
 Creator: Robbie Pickering
-image: 
+image: https://image.tmdb.org/t/p/w500/6B1EgOGOR5VPR1UK4ERlot1H5yM.jpg
 ---
 
 Martha Mitchell (Julia Roberts), the wife of Nixon's Attorney General (Sean Penn) and the Nixon administrations attempts to keep her from talking about Watergate are at the center of the limited series based on the first season of the Slate podcast Slow Burn.
+Image poster gotten from themoviedb.org

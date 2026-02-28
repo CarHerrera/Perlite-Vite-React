@@ -10,7 +10,8 @@ User Score: 83
 User Count: 1525
 Director: Toby Haynes
 Creator: Tony Gilroy
-image: 
+image: https://image.tmdb.org/t/p/w500/khZqmwHQicTYoS7Flreb9EddFZC.jpg
 ---
 
 The prequel Star War series follows Cassian Andor's (Diego Luna) journey to become the Rebel leader first introduced in 2016's Rogue One.
+Image poster gotten from themoviedb.org

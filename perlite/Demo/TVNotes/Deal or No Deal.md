@@ -10,7 +10,8 @@ User Score: 57
 User Count: 21
 Director: Richard Dipirro
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/f9ktwiBfkN34AU7C8NW8XC58tBd.jpg
 ---
 
 NBC brings the high stakes international hit game show Deal or No Deal to American audiences. Actor-comedian Howie Mandel hosts the exciting game of odds and chance.
+Image poster gotten from themoviedb.org

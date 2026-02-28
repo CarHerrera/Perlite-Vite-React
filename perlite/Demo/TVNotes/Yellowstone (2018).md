@@ -14,3 +14,4 @@ image:
 ---
 
 John Dutton (Kevin Costner) deals with numerous issues involved with owning the largest ranch in the US including water usage, land/oil developers, an Indian reservation, and its neighbor, Yellowstone Park.
+Image poster gotten from themoviedb.org

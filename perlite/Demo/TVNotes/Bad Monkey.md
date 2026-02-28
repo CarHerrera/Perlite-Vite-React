@@ -10,7 +10,8 @@ User Score: 70
 User Count: 93
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/lUGG3lxIF3f2N796t4aHmxDhLK5.jpg
 ---
 
 A severed arm leads ex-police detective turned health inspector, Andrew Yancy (Vince Vaughn), to a murder case that involves corruption and environmental issues in the adaptation of Carl Hiaasen's novel of the same name.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 68
 User Count: 33
 Director: Amy Sherman-Palladino
 Creator: Daniel Palladino,Amy Sherman-Palladino
-image: 
+image: https://image.tmdb.org/t/p/w500/e56elhedMQT2gJa9Hxix9IEBUoC.jpg
 ---
 
 Geneviève (Charlotte Gainsbourg) of the Paris Opera Ballet and Jack (Luke Kirby) at the New York City Ballet exchange top dancers in an effort to lure audiences back in the drama series created by Amy Sherman-Palladino and Daniel Palladino.
+Image poster gotten from themoviedb.org

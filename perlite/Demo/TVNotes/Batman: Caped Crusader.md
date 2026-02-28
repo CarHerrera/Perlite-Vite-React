@@ -10,7 +10,8 @@ User Score: 50
 User Count: 210
 Director: nan
 Creator: Bob Kane,Bill Finger,Frank Miller
-image: 
+image: https://image.tmdb.org/t/p/w500/imuZQcnPNKNygPw28TESUq4tNsb.jpg
 ---
 
 Batman/Bruce Wayne (voiced by Hamish Linklater) faces Gotham villains such as Catwoman/Selina Kyle (voiced by Christina Ricci), Harley Quinn/Dr. Harleen Quinzel (voiced by Jamie Chung), and Harvey Dent/Two-Face (voiced by Diedrich Bader) in the animated series produced JJ. Abrams, Matt Reeves, and Bruce Timm. 
+Image poster gotten from themoviedb.org

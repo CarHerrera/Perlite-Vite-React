@@ -10,7 +10,8 @@ User Score: 62
 User Count: 29
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/1edLqHEushuMeEBBldqdROYHZbe.jpg
 ---
 
 11 competitors battle for the title of king of the nerds and a $100,000 prize on this reality show hosted by Revenge of the Nerds actors Robert Carradine and Curtis Armstrong.
+Image poster gotten from themoviedb.org

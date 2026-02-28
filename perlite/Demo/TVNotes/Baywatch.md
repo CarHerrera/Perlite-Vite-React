@@ -10,7 +10,8 @@ User Score: 63
 User Count: 21
 Director: Gregory J. Bonann
 Creator: Michael Berk,Gregory J. Bonann,Douglas Schwartz
-image: 
+image: https://image.tmdb.org/t/p/w500/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg
 ---
 
 Lifeguards (and beautiful ones at that) patrol the beaches in sunny California.
+Image poster gotten from themoviedb.org

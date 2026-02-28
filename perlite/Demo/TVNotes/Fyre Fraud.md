@@ -14,3 +14,4 @@ image:
 ---
 
 The documentary about the Fyre Festival that was not as promised was written and directed by Jenner Furst and Julia Willoughby Nason features archive footage and an interview with Billy McFarland, the creator of the festival (and jailed for fraud related to it).
+Image poster gotten from themoviedb.org

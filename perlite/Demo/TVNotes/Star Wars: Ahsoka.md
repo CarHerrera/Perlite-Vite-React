@@ -10,7 +10,8 @@ User Score: 50
 User Count: 702
 Director: nan
 Creator: Dave Filoni
-image: 
+image: https://image.tmdb.org/t/p/w500/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg
 ---
 
 The Mandalorian spin-off centers on Ahsoka Tano (Rosario Dawson) as the former Jedi knight investigates a new threat to the galaxy.
+Image poster gotten from themoviedb.org

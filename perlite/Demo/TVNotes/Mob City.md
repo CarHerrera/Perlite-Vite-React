@@ -10,7 +10,8 @@ User Score: 81
 User Count: 75
 Director: Frank Darabont,Guy Ferland
 Creator: Frank Darabont
-image: 
+image: https://image.tmdb.org/t/p/w500/e8JV85MCJQTHnbX6a7W0h2hepAK.jpg
 ---
 
 Created by Frank Darabont, the drama is based on John Buntin's book L.A. Noir: The Struggle for the Soul of America's Most Seductive City, focuses on the Los Angeles police led by Police Chief William H. Parker (Neal McDonough) and Det. Hal Morrison (Jeffrey DeMunn) as they battle the elements of Mickey Cohen's (Jeremy Luke) gang.
+Image poster gotten from themoviedb.org

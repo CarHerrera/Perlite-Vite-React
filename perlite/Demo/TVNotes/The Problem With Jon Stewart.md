@@ -10,7 +10,8 @@ User Score: 26
 User Count: 24
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/oCSvUr8oOtcWPq9wRZScwxbjKsi.jpg
 ---
 
 Each episode of the Jon Stewart-hosted series features in-depth interviews and discussions about one current event or issue.
+Image poster gotten from themoviedb.org

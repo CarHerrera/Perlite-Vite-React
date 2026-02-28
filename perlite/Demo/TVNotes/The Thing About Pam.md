@@ -10,7 +10,8 @@ User Score: 57
 User Count: 11
 Director: Logan Kibens
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/mimnqhjGdo3qlhn5tTJtjIETEJU.jpg
 ---
 
 The 2011 murder of Betsy Faria (Katy Mixon) was originally pinned on her husband (Glenn Fleshler) but a retrial soon revealed her co-worker Pam Hupp's (Renée Zellweger) involvement in this limited series based on the real-life case.
+Image poster gotten from themoviedb.org

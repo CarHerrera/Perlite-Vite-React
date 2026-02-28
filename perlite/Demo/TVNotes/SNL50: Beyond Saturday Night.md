@@ -10,7 +10,8 @@ User Score: 57
 User Count: 12
 Director: Robert Alexander,Neil Berkeley,Jason Zeldes,Marshall Curry
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/iXlBEeqiO8kc6xE4mDQ0WdmFMK8.jpg
 ---
 
 The four-part documentary series focuses on the history and legacy of Saturday Night Live including never-before-seen audition footage, interviews with alumni and behind-the-scenes footage.
+Image poster gotten from themoviedb.org

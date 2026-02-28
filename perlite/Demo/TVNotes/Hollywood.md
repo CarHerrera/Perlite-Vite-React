@@ -10,7 +10,8 @@ User Score: 68
 User Count: 136
 Director: nan
 Creator: Ian Brennan,Ryan Murphy
-image: 
+image: https://image.tmdb.org/t/p/w500/8AvVBcuCpESqdQicuX7s4WOGo1V.jpg
 ---
 
 Ryan Murphy's limited series for Netflix is set during the "Golden Age" of Hollywood.
+Image poster gotten from themoviedb.org

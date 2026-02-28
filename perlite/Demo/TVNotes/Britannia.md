@@ -10,7 +10,8 @@ User Score: 54
 User Count: 64
 Director: nan
 Creator: Jez Butterworth,Tom Butterworth,James Richardson,Terry Cafolla
-image: 
+image: https://image.tmdb.org/t/p/w500/fjdXymXAas9NSehc6GCOHQcEM05.jpg
 ---
 
 Created by Jez Butterworth, Tom Butterworth and James Richardson, Gen Aulus Plautius (David Morrissey) leads the Roman Imperial Army to conquer Britannia, only to find not only druids but other Celtic tribes who will not willing bend to Rome's will in this co-production between Sky and Amazon Prime Video.
+Image poster gotten from themoviedb.org

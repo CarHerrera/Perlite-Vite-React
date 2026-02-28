@@ -14,3 +14,4 @@ image:
 ---
 
 MacGruber (Will Forte) is finally released from jail after 10 years and with help from Vicki St. Elmo (Kristen Wiig) and Dixon Piper (Ryan Phillippe), seeks to stop Brigadier Commander Enos Queeth (Billy Zane) from destroying the world.
+Image poster gotten from themoviedb.org

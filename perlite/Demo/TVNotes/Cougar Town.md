@@ -10,9 +10,10 @@ User Score: 73
 User Count: 255
 Director: nan
 Creator: Kevin Biegel,Bill Lawrence
-image: 
+image: https://image.tmdb.org/t/p/w500/AvxlfUW8OVQ630v7Se1mesDYbfW.jpg
 ---
 
 Cougar Town focuses on a newly single 40-year-old mom Jules Cobb (Courteney Cox) and her teenage son (Dan Byrd). In a small town of Florida, the most important thing is the Cougars high shool football team, which is very appropriate since there are tons of divorcees prowling in the area looking for young men. Jules doesn't want to be one of them, but after an ugly divorce and her 40, she desperately wants more action in her life. Encouraged by her best friend Ellie Torres (Christina Miller) and her assistant Laurie Keller (Busy Phillips), Jules tries to enter back into the dating scene. To her surprise she meets Bobby Cobb (Brian Van Holt), a very young nice guy, as he discovers that she still has what it takes.
 
 The single-camera comedy comes from Scrubs creator Bill Lawrence and co-executive producer Courteney Cox. Cougar Town is produced by ABC Studios. 
+Image poster gotten from themoviedb.org

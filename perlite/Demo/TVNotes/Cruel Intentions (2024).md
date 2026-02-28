@@ -14,3 +14,4 @@ image:
 ---
 
 Caroline Merteuil (Sarah Catherine Hook) and her stepbrother Lucien Valmont (Zac Burgess) will do anything to save Greek life at Manchester College including seducing the vice president's daughter (Savannah Lee Smith) in the new adaptation of the 1999 movie of the same name.
+Image poster gotten from themoviedb.org

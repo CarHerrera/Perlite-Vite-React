@@ -10,7 +10,7 @@ User Score: 69
 User Count: 138
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gytzjthKWMji7olvAnBGohbGmWS.jpg
 ---
 
 Paul, a psychotherapist played by Gabriel Byrne, is the picture of insightful perfection when dealing with his patients, but he becomes a raging ball of issues during his own therapy sessions.
@@ -18,3 +18,4 @@ Paul, a psychotherapist played by Gabriel Byrne, is the picture of insightful pe
 In Treatment is based on a successful Israeli television series and is produced by HBO, Closest to the Hole Productions and Leverage Management.
 
 The fourth season introduces Dr. Brooke Taylor (Uzo Aduba) and her patients.
+Image poster gotten from themoviedb.org

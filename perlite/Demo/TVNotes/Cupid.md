@@ -10,7 +10,8 @@ User Score: 0
 User Count: 2
 Director: Michael Grossman,John T. Kretchmer
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vz2ZfJniosx4iGlRYVY1nWNpfZC.jpg
 ---
 
 ABC Studios and Sony Television team up with Rob Thomas to bring back his 1998 series about a man who believes he is Cupid, who has been sent to earth by Zeus to help 100 couples get together as punishment for his arrogance. However, he must make the matches without the use of magic.  Bobby Cannavale takes over the lead role created by Jeremy Piven in the 1998 series.  ABC has ordered Cupid to series for mid-season 2008/2009.
+Image poster gotten from themoviedb.org

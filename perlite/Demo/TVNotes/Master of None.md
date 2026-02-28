@@ -10,7 +10,8 @@ User Score: 78
 User Count: 968
 Director: Aziz Ansari
 Creator: Aziz Ansari,Alan Yang
-image: 
+image: https://image.tmdb.org/t/p/w500/AcJM86PhgHAfbrF4dMKBaqO3cHV.jpg
 ---
 
 30-year-old Dev (Aziz Ansari) is a New York actor who has no idea what he wants in the comedy that will includes guest appearances from Claire Danes, Noah Emmerich and Ansari's parents.
+Image poster gotten from themoviedb.org

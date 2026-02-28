@@ -14,3 +14,4 @@ image:
 ---
 
 Sarah is a single mom raising a teenager, law student Gabe has an older roommate, Ava only wants a good future for her American-born son, Nick has just returned from a war, and Ron and Patricia are some of the residents at the Village, a Brooklyn apartment building.
+Image poster gotten from themoviedb.org

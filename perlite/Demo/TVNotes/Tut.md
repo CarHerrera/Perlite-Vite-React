@@ -10,7 +10,8 @@ User Score: 61
 User Count: 30
 Director: David Von Ancken
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/AoKHf67aYDUOkZkS9tVOEgDzjMa.jpg
 ---
 
 The six-hour miniseries dramatizes the struggles and challenges of King Tut's (Avan Jogia) reign as others in his circle including Grand Vizier Ay (Ben Kingsley), sister-wife Ankhe (Sibylla Deen), High Priest Amun (Alexander Siddig), and General Horemheb (Nonso Anozie) scheme for their own power.
+Image poster gotten from themoviedb.org

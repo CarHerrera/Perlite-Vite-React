@@ -10,7 +10,8 @@ User Score: 61
 User Count: 35
 Director: James Burrows
 Creator: David Kohan,Max Mutchnick
-image: 
+image: https://image.tmdb.org/t/p/w500/tiOqjhKjaxXlkKs5IPlmvR02ELv.jpg
 ---
 
 Best friends Bunny (Nathan Lane), Jerry (Matt Bomer) and Arthur (Nathan Lee Graham) decide to live together in Palm Springs with Bunny's mother (Linda Lavin) during their golden years in the comedy series from David Kohan, Max Mutchnick, and Ryan Murphy.
+Image poster gotten from themoviedb.org

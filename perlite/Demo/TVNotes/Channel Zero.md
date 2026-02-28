@@ -10,7 +10,8 @@ User Score: 74
 User Count: 152
 Director: Craig William Macneill,Steven Piet
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/oCutmhFznao1Pzy6wM1C32kxAEu.jpg
 ---
 
 The anthology series will feature a Creepypasta, a horror story usually based on a image or other media that was created and shared on the internet (Slender Man being one of the notorious ones).
+Image poster gotten from themoviedb.org

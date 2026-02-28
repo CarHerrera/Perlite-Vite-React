@@ -10,7 +10,8 @@ User Score: 50
 User Count: 82
 Director: Jonathan Haug
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jTXJFP9E9jo5SsGbhFs5L3WWUNX.jpg
 ---
 
 A&E's latest reality show takes a look at the Robertson family, who run Duck Commander, a Louisiana duck call company.
+Image poster gotten from themoviedb.org

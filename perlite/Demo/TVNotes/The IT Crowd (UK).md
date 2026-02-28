@@ -22,3 +22,4 @@ Seeing that Roy and Moss may know a lot about computers, but very little about w
 The IT Crowd is a playful and somewhat surreal look at what it's really like to be the underof every company - the IT Department.
 
 In 2008, The IT Crowd won the Rose D'Or for Best Comedy.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 68
 User Count: 69
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/bNFcWrxlnFXvrjJezId6bAoePzT.jpg
 ---
 
 A young slave named Onion (Joshua Johnson-Lionel) becomes a part of John Brown's (Ethan Hawke) family, interacting with other abolitionists like Frederick Douglass (Daveed Diggs) and eventually the 1859 raid of the Army depot at Harpers Ferry in this limited series adaptation of James McBride's novel of the same name.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Golden Globe Award winner Cybill Shepherd reprises her role as domestic diva Martha Stewart in ‘Martha Behind Bars’.  The movie chronicles the events leading up to her indictment for obstruction of justice and subsequent prison sentence.
+Image poster gotten from themoviedb.org

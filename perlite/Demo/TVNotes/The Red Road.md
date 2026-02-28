@@ -10,7 +10,8 @@ User Score: 88
 User Count: 44
 Director: Randall Einhorn,Lodge Kerrigan,Jeremy Webb,J. Michael Muro
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hlUbfYYGmWfLwdCh2H78nRomSg1.jpg
 ---
 
 An uneasy alliance is formed after a situation in the Ramapo Mountain area brings together sheriff Harold Jensen (Martin Henderson) and Phillip Kopus (Jason Momoa), an ex-con and a member of the Lenape Tribe.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 77
 User Count: 231
 Director: Jonathan Krisel
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/pfaxCP6YqlFHCL3QytnTanwRTL5.jpg
 ---
 
 IFC has greenlighted a new series that will focus on how life really is in Portland, Oregon. Lorne Michaels will executive producer the short-based series, which stars Fred Armisen and Carrie Brownstein.
+Image poster gotten from themoviedb.org

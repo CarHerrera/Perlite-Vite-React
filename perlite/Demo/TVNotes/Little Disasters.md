@@ -10,7 +10,7 @@ User Score: 0
 User Count: 3
 Director: Eva Sigurdardottir
 Creator: Ruth Fowler
-image: 
+image: https://image.tmdb.org/t/p/w500/aQJZBIEWw91O9MbpUOBRcd5JvJl.jpg
 ---
 
 When ER doctor Liz (Jo Joyner) calls social services on Jess (Diane Kruger) because she can't explain her baby daughter's head injury, it not only threatens their friendship circle that includes Charlotte (Shelley Conn) and Mel (Emily Taaffe), but all of their families in the limited series based on Sarah Vaughan's novel of the same name.
@@ -18,3 +18,4 @@ When ER doctor Liz (Jo Joyner) calls social services on Jess (Diane Kruger) beca
 [Premiered originally in the UK & Ireland on Paramount+ on 22 May 2025 and in the US on Paramount+ on 11 Dec 2025]
  
 
+Image poster gotten from themoviedb.org

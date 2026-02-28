@@ -10,7 +10,8 @@ User Score: 53
 User Count: 12
 Director: Howard Deutch
 Creator: David Elliot
-image: 
+image: https://image.tmdb.org/t/p/w500/t8XdIcxRlvCITIW5zy2NZ6Ms8qV.jpg
 ---
 
 When Madeline Scott (Rachelle Lefevre) was younger she was wrongly convicted and now she helps those like her with the help of her team that includes attorney Ezekiel “Easy” Boudreau (Russell Hornsby), investigator Bodie Quick (Vincent Kartheiser), and communications director Violet (Nikki M. James) in this legal drama from David Elliot and Danny Strong.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 67
 User Count: 40
 Director: nan
 Creator: Alexandre Machado,Fernanda Young
-image: 
+image: https://image.tmdb.org/t/p/w500/rWQoR8VLO3KNvWnl2PzW8hkx4Hj.jpg
 ---
 
 Based on the Brazilian show, cautious Evie Callahan (Tori Anderson) who works at a distribution center falls in love with a man (Joshua Sasse) who believes an apocalypse is coming.
+Image poster gotten from themoviedb.org

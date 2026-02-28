@@ -10,7 +10,8 @@ User Score: 35
 User Count: 266
 Director: Wally Pfister,Tom DiCillo,Michael Patrick Jann,Benjamin Berman,Will Speck,Josh Gordon
 Creator: Will Arnett,Mark Chappell
-image: 
+image: https://image.tmdb.org/t/p/w500/v8zzGClqvkpPUc2wxZLrA89sSjB.jpg
 ---
 
 The comedy co-created by Will Arnett and Mark Chappell follows Chip's (Will Arnett) life and image as a guru is upturned after he falls for a waitress named London (Ruth Kearney), who his best friend (David Sullivan) also likes.
+Image poster gotten from themoviedb.org

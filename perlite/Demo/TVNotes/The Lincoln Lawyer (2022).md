@@ -14,3 +14,4 @@ image:
 ---
 
 Mickey Haller (Manuel Garcia-Rulfo), an attorney, whose office is the back seat of his Lincoln Town car, juggles a murder case and trying to get his family back in this series based on Michael Connelly's book series of the same name (that also inspired the 2011 film with Matthew McConaughey).
+Image poster gotten from themoviedb.org

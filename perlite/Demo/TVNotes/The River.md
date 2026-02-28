@@ -10,7 +10,8 @@ User Score: 62
 User Count: 92
 Director: Jaume Collet-Serra
 Creator: Oren Peli,Michael R. Perry
-image: 
+image: https://image.tmdb.org/t/p/w500/8gaGHgNLckAQMwGGFoHzCc92FGj.jpg
 ---
 
 "Paranormal" writer-director Oren Peli and "Paranormal 2" screenwriter Michael R. Perry are coming together to create a series that involves a search for someone who went missing on the Amazon river uses the footage format used by "Blair Witch Project" and "Paranormal Activity."
+Image poster gotten from themoviedb.org

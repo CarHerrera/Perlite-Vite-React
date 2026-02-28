@@ -10,10 +10,11 @@ User Score: 45
 User Count: 17
 Director: Joelle Mae David,Makalla McPherson
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gW4RU5HobJLNkuGUAovyBXiSwRC.jpg
 ---
 
 25-year-old British-Jamaican Queenie Jenkins (Dionne Brown) struggles to make 
 a new start after a breakup with her boyfriend in this adaptation of the book of the same name by Candice Carty-Williams.
 
 [Premiered originally in the UK on Channel 4 on 4 Jun 2024 and in the US on Hulu on 7 Jun 2024]
+Image poster gotten from themoviedb.org

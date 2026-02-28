@@ -10,7 +10,8 @@ User Score: 76
 User Count: 619
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg
 ---
 
 Kansas college football coach Ted Lasso (Jason Sudeikis) is hired by an English professional soccer team in this comedy from Sudeikis and Bill Lawrence.
+Image poster gotten from themoviedb.org

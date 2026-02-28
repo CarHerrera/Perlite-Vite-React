@@ -10,7 +10,8 @@ User Score: 74
 User Count: 575
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg
 ---
 
 Retired Military Police Officer Jack Reacher (Alan Ritchson) is arrested for murder just as he arrives at the small Georgia town of Margrave in this drama series based on the Lee Child's Reacher novels.
+Image poster gotten from themoviedb.org

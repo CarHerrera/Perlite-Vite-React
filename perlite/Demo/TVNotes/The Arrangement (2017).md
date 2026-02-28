@@ -14,3 +14,4 @@ image:
 ---
 
 Megan Morrison (Christine Evangelista) auditions for a part in the action film with A-list Kyle West (Josh Henderson) and ends up on a date with him. Soon after, she is offered 10 million dollars to marry him and join The Institute of the Higher Mind.
+Image poster gotten from themoviedb.org

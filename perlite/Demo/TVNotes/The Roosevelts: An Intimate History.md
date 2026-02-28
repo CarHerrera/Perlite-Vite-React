@@ -10,7 +10,8 @@ User Score: 78
 User Count: 32
 Director: Ken Burns
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ihcY2Kf8ytjhoSTddH3G1asVDOw.jpg
 ---
 
 The 14-hour documentary series from Ken Burns covers the history and influences the family had from the birth of Theodore Roosevelt in 1858 to the death of Eleanor Roosevelt in 1962.
+Image poster gotten from themoviedb.org

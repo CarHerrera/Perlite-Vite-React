@@ -10,7 +10,8 @@ User Score: 79
 User Count: 36
 Director: Jim Field Smith
 Creator: Nick Frost,Simon Pegg,Nat Saunders,James Serafinowicz
-image: 
+image: https://image.tmdb.org/t/p/w500/zRva67XCxkCRt4WuobrVVysdufU.jpg
 ---
 
 Gus (Nick Frost) and Dave (Simon Pegg) are part-time ghost hunters who decide to team up to film paranormal sightings in the UK in this comedy series created by Frost, Pegg, James Serafinowicz, and Nat Saunders.
+Image poster gotten from themoviedb.org

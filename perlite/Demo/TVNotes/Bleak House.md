@@ -10,7 +10,8 @@ User Score: 78
 User Count: 52
 Director: Justin Chadwick,Susanna White
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gEXvWTXCQogRIKlUWBLrj5ihOWi.jpg
 ---
 
 Bleak House is a new adaptation of Dickens's great story. Three young orphans - Esther, Richard and Ada - are sent to live at Bleak House, where they receive a friendly welcome from their rich guardian John Jarndyce. But all is not as it seems at Bleak House, and nothing but bad luck follows those who stay there.
+Image poster gotten from themoviedb.org

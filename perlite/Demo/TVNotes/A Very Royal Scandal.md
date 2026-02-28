@@ -10,7 +10,8 @@ User Score: 63
 User Count: 9
 Director: Julian Jarrold
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/wM9BZ7sEkl4n7r6qeaPCeMctzyX.jpg
 ---
 
 The infamous 2019 Newsnight interview of Prince Andrew (Michael Sheen) by the BBC's Emily Maitlis (Ruth Wilson) is dramatized as a three-part limited series.
+Image poster gotten from themoviedb.org

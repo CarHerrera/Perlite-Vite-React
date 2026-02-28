@@ -10,7 +10,8 @@ User Score: 49
 User Count: 73
 Director: nan
 Creator: Jim Reynolds
-image: 
+image: https://image.tmdb.org/t/p/w500/uItUViUsFAY7wzufTS2zWNbuuAm.jpg
 ---
 
 Extremely friendly Dave Johnson (Max Greenfield) moves his family from the Michigan to a Los Angeles neighborhood where they receive a less-than-welcoming reception from their skeptical next-door neighbor Calvin Butler (Cedric the Entertainer).
+Image poster gotten from themoviedb.org

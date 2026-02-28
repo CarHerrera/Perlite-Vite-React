@@ -10,7 +10,8 @@ User Score: 74
 User Count: 53
 Director: Phil Traill
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/aWDyOXFZfflS8Igy20trgjPStxH.jpg
 ---
 
 Staff Sergeant Pete Hill returns home from Afghanistan after punching a superior officer and is assigned to lead a group of soldiers at Fort McGee including his two younger brothers, Derrick and Randy.
+Image poster gotten from themoviedb.org

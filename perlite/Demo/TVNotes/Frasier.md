@@ -10,7 +10,7 @@ User Score: 85
 User Count: 235
 Director: nan
 Creator: David Angell,Peter Casey,David Lee,Les Charles
-image: 
+image: https://image.tmdb.org/t/p/w500/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg
 ---
 
 "Frasier" provides a weekly dose of the neuroses and tribulations suffered by an insecure and pompous psychiatrist, Dr. Frasier Crane, host of a Seattle radio advice show at KACL. The twice-divorced doctor's peaceful home life of fine cigars and haute cuisine was shattered when his gruff, ex-cop father, Martin, was injured in the line of duty and forced to move in with Frasier. Martin brought with him a semi-psychic, live-in home-care provider, Daphne Moon, his pesky Jack Russell terrier, Eddie, and a duct-taped recliner that clashes with Frasier's more aesthetically pleasing Eames and Wassily chairs. Their home is frequently visited by Frasier's snobbish and competitive brother, Niles, a fellow psychiatrist whose longtime romantic interest in Daphne was finally happily realized at the conclusion of Season 7. At work, his slightly jaded producer and man-hungry single parent Roz Doyle, supports Frasier. Some of the people who voice the callers to Frasier's radio program are often bigtime celebrities.
@@ -30,3 +30,4 @@ September 1993 - May 1994: Thursdays 9:30 PM
 September 1994 - May 1998: Tuesdays 9:00 PM
 September 1998 - May 2000: Thursdays 9:00 PM
 September 2000 - February 2004: Tuesdays 8:00 PM
+Image poster gotten from themoviedb.org

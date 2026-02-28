@@ -10,7 +10,7 @@ User Score: 87
 User Count: 361
 Director: nan
 Creator: Linwood Boomer
-image: 
+image: https://image.tmdb.org/t/p/w500/uftxEWbn3OSykTy4DX4BrdVeiuv.jpg
 ---
 
 Created and executive-produced by Emmy Award-winning writer Linwood Boomer, this inventive half-hour series is seen through the eyes of MALCOLM (Frankie Muniz), a regular high school kid trying to navigate his way through life despite the various obstacles thrown in his way – a complete misunderstanding of girls, the constant burden of masterminding plans to get himself and his brothers into or out of trouble, and a miserable job at the Lucky Aide… not to mention a severe case of teen angst.
@@ -25,3 +25,4 @@ January  2000 - July 2002 .... Sundays, 8:30pm
 August 2002 - October 2004 .... Sundays, 9:00pm November 2004 - August 2005 .... Sundays, 7:30pm
 September 2005 - January 2006 ... Fridays, 8:30pm
 January 2006 - Present .... Sundays, 7:00pm
+Image poster gotten from themoviedb.org

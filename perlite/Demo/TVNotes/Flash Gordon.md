@@ -10,9 +10,10 @@ User Score: 0
 User Count: 2
 Director: Pat Williams,Paul Shapiro,Mick MacKay,T.J. Scott
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9kKqbxsXSzW1H6Se46mOcZm7Rhy.jpg
 ---
 
 This series brings the famed comic strip character to the small screen for a contemporary look at his intergalactic adventures.
 
 Flash Gordon was produced by Reunion Pictures and distributed internationally by RHI Entertainment.
+Image poster gotten from themoviedb.org

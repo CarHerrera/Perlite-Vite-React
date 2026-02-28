@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Kenny Ortega,Steve Tisch,Tony Bill,Barra Grant
 Creator: Eleanor Bergstein
-image: 
+image: https://image.tmdb.org/t/p/w500/64NZV6tFfcoLzuX5hfuPFhjL5Xl.jpg
 ---
 
 Love story meets comedy in yet another attempt to transfer a popular movie to TV. The setting is a summer resort  in upstate New York's Catskill Mountains. Patrick Cassidy replaces Patrick Swayze as Johnny Castle, a dance instructor at the resort. The 17-year old daughter of the resorts owner falls in love with him, greatly frustrating the father. The show had more dancing than episodes or viewers.
+Image poster gotten from themoviedb.org

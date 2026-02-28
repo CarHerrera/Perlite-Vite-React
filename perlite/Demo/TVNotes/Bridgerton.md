@@ -10,7 +10,8 @@ User Score: 64
 User Count: 522
 Director: nan
 Creator: Chris Van Dusen
-image: 
+image: https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg
 ---
 
 Set in the 1800s, the historical romantic drama created by Chris Van Dusen and based on Julia Quinn's series of novels focuses on the powerful Bridgerton family beginning with eldest daughter Daphne Bridgerton (Phoebe Dynevor) as she meets eternal bachelor, the Duke of Hasting (Regé-Jean Page).
+Image poster gotten from themoviedb.org

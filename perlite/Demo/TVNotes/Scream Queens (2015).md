@@ -14,3 +14,4 @@ image:
 ---
 
 Ryan Murphy's latest anthology series begins its first season with a series of murders at a sorority house.
+Image poster gotten from themoviedb.org

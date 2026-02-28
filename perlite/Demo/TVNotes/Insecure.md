@@ -10,7 +10,8 @@ User Score: 69
 User Count: 267
 Director: nan
 Creator: Issa Rae,Larry Wilmore
-image: 
+image: https://image.tmdb.org/t/p/w500/sGMwPIE6m9QI3LzCRXnZG8opZtB.jpg
 ---
 
 The comedy follows the lives of best friends Issa Dee (Issa Rae) and Molly (Yvonne Orji).
+Image poster gotten from themoviedb.org

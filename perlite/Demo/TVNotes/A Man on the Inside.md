@@ -10,7 +10,8 @@ User Score: 72
 User Count: 83
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/c09XdTLpLku2tqHt158NZBgC4hi.jpg
 ---
 
 Widowed and retired professor Charles (Ted Danson) takes a job with a PI and goes undercover at a retirement home in the series from Mike Schur and based on Maite Alberdi's The Mole Agent documentary.
+Image poster gotten from themoviedb.org

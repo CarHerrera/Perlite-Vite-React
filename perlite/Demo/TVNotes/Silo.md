@@ -10,7 +10,8 @@ User Score: 70
 User Count: 523
 Director: nan
 Creator: Graham Yost
-image: 
+image: https://image.tmdb.org/t/p/w500/c2OijvbFEXBW1onbzuvENr4CGQB.jpg
 ---
 
 Juliette (Rebecca Ferguson), an engineer, begins to look into the underground silo that she and thousands live in after the murder of someone she loved in this adaptation of Hugh Howey's trilogy of post-apocalyptic novels.
+Image poster gotten from themoviedb.org

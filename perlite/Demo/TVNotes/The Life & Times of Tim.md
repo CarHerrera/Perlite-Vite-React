@@ -10,7 +10,8 @@ User Score: 92
 User Count: 31
 Director: Steve Dildarian
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rbMgK2e5HuOMqHFqBMDMahU7h4S.jpg
 ---
 
 This animated comedy brings viewers into the fascinating life of a twenty-something guy.
+Image poster gotten from themoviedb.org

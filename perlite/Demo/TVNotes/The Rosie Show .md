@@ -10,7 +10,8 @@ User Score: 58
 User Count: 10
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rHHSx7kyLEHK48Y3LO3sNfclOT2.jpg
 ---
 
 Rosie O'Donnell returns to talk show television on Oprah's OWN, which airs live from Chicago.
+Image poster gotten from themoviedb.org

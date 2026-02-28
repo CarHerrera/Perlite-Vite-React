@@ -10,7 +10,8 @@ User Score: 81
 User Count: 776
 Director: nan
 Creator: Aaron Sorkin
-image: 
+image: https://image.tmdb.org/t/p/w500/pOC3DmU47X98Sv5vaPnmgjG30eY.jpg
 ---
 
 Aaron Sorkin's latest drama is set at a fictional cable news channel where anchor Will McAvoy (Jeff Daniels) leads a group of reporters and staff striving to make a hard-hitting news program.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 74
 User Count: 5
 Director: nan
 Creator: Ian Biederman
-image: 
+image: https://image.tmdb.org/t/p/w500/Ahxpbk4Uu6zs1DgAbgfU80eHerx.jpg
 ---
 
 Sebastian Stark, a charismatic, supremely self-confident defense attorney who, after a shocking outcome in one of his cases and a personal epiphany, brings his cutthroat tactics to the prosecutor's office as the head of the Los Angeles District Attorney's High Profile Crime Unit. A group of young prosecutors are about to have the learning experience of a lifetime because, although Stark is seeking to redeem himself, he has no intention of cooling his underhanded approach to cases just because he's now working for the "good guys."
+Image poster gotten from themoviedb.org

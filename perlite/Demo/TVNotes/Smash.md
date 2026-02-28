@@ -10,7 +10,8 @@ User Score: 70
 User Count: 151
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/eiE6e3KLE9ecoHBc6KTCtWdiB7X.jpg
 ---
 
 Songwriters Julia Houston (Debra Messing) and Tom Levitt (Christian Borle) create a musical about Marilyn Monroe and must decide whether the veteran Broadway actress Ivy Lynn (Megan Hilty) or newcomer Karen Cartwright (Katharine McPhee) should play the blonde legend.
+Image poster gotten from themoviedb.org

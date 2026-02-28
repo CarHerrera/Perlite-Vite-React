@@ -10,7 +10,8 @@ User Score: 59
 User Count: 15
 Director: Brian Kirk,Nick Rowland,Richard Senior
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/eROfMhluF1kxDHFS5wbPmjN2KvU.jpg
 ---
 
 While investigating the death of a hacker, Detective Chief Inspector Robert Hicks (Jim Sturgess) and Detective Inspector Elaine Renko (Agyness Deyn) discover proof the world has five years before an apocalyptic event destroys the planet in this drama from Neil Cross.
+Image poster gotten from themoviedb.org

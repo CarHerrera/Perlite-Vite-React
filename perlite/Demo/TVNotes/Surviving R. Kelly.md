@@ -10,7 +10,8 @@ User Score: 66
 User Count: 29
 Director: Nigel Bellis,Astral Finnie
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/nH0q0ePjZKfqXRe70oueVJ5rDDS.jpg
 ---
 
 The six-part documentary series features interviews with the young women who allege to have suffered sexual, mental, and physical abuse from the R&B singer as well as music industry professionals, journalists, former employees and family members of Kelly. 
+Image poster gotten from themoviedb.org

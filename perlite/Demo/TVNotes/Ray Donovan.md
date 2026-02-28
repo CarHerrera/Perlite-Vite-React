@@ -10,7 +10,8 @@ User Score: 77
 User Count: 452
 Director: nan
 Creator: Ann Biderman
-image: 
+image: https://image.tmdb.org/t/p/w500/cwJ6nLNvX62By0yoLYWFhRelPkF.jpg
 ---
 
 The problems and possible scandals of the rich and famous disappear when they hire private detective Ray Donovan (Liev Schreiber). However, the return of his ex-convict father (Jon Voight) brings unresolved issues Ray may not be able to fix.
+Image poster gotten from themoviedb.org

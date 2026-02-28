@@ -10,7 +10,8 @@ User Score: 35
 User Count: 387
 Director: nan
 Creator: Brian Michael Bendis,Mike Deodato Jr.
-image: 
+image: https://image.tmdb.org/t/p/w500/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg
 ---
 
 Riri Williams (Dominique Thorne) returns home to Chicago to build her own armored suit and becomes entangled with Parker Robbins/The Hood (Anthony Ramos) after the events in "Black Panther: Wakanda Forever". 
+Image poster gotten from themoviedb.org

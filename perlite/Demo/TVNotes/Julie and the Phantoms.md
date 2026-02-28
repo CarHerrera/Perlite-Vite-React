@@ -10,7 +10,8 @@ User Score: 88
 User Count: 48
 Director: nan
 Creator: Dan Cross,David Hoge
-image: 
+image: https://image.tmdb.org/t/p/w500/m6uNY62Rx6gpUkC7urCOrOTlaj2.jpg
 ---
 
 Julie (Madison Reyes) lost her passion for singing and writing songs after the death of her mother, but finds it again when she befriends the ghosts of a band from 1995 (Charlie Gillespie, Jeremy Shada, Owen Patrick Joyner) in this musical series from Kenny Ortega. 
+Image poster gotten from themoviedb.org

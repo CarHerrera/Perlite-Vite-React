@@ -10,7 +10,8 @@ User Score: 64
 User Count: 29
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/61GjPSU2HNAsdCVccSQEcdQHy1f.jpg
 ---
 
 The dark comedy limited series based on the podcast of the same name about the increasingly unbalanced relationship between celebrity psychiatrist Dr. Isaac "Ike" Herschkopf (Paul Rudd) and his longtime patient Martin "Marty" Markowitz (Will Ferrell).
+Image poster gotten from themoviedb.org

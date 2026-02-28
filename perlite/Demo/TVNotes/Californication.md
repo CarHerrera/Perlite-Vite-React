@@ -10,7 +10,8 @@ User Score: 78
 User Count: 623
 Director: David Von Ancken,Adam Bernstein
 Creator: Tom Kapinos
-image: 
+image: https://image.tmdb.org/t/p/w500/jPqOY8cq9KXQN4bD7zJGHCNvcb4.jpg
 ---
 
 David Duchovny is the lead in this comedy about a book writer always running into trouble with sex, drugs and women, while struggling to maintain a relationship with his ex-girlfriend and trying to raise his daughter in a less than normal environment for a teenager.
+Image poster gotten from themoviedb.org

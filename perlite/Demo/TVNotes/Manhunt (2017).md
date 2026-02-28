@@ -14,3 +14,4 @@ image:
 ---
 
 The anthology series features a season-long dramatization of FBI investigations including the Unabomber and the bombing during the 1996 Olympic Games.
+Image poster gotten from themoviedb.org

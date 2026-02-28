@@ -10,7 +10,8 @@ User Score: 24
 User Count: 5
 Director: Elli Hakami,Julian P. Hobbs
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/3BYEyu9Ej4oSywd8yjUTbMJkBzY.jpg
 ---
 
 The alleged sexual assaults by actor Armie Hammer and the Hammer family are at the center of three-part documentry series that features interviews with his accuser Courtney Vucekovich, attorney Gloria Allred, and his estranged aunt, Casey Hammer.
+Image poster gotten from themoviedb.org

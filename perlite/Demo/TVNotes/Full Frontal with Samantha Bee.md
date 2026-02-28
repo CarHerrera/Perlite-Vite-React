@@ -10,7 +10,8 @@ User Score: 36
 User Count: 249
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/Rr5QFKeao5G35dddh7iXpF2ePz.jpg
 ---
 
 The former Daily Show correspondent hosts her own late-night talk show on TBS.
+Image poster gotten from themoviedb.org

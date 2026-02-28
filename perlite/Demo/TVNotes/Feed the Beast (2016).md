@@ -14,3 +14,4 @@ image:
 ---
 
 Best friends Tommy Moran (David Schwimmer) and Dion Patras (Jim Sturgess struggle to open their own restaurant in this drama series based on the Danish show Bankerot.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 78
 User Count: 4
 Director: David Trainer,David Steinberg,Harry Thomason,Jack Shea
 Creator: Linda Bloodworth-Thomason
-image: 
+image: https://image.tmdb.org/t/p/w500/pqhes4TGTDj9zMg9agrADKo8RnL.jpg
 ---
 
 Julia Sugarbaker (Dixie Carter), Mary Jo Shively (Annie Potts), Charlene Frazier-Stillfield (Jean Smart) and Suzanne Sugarbaker (Delta Burke) are associates at their design firm, Sugarbaker and Associates. Julia Sugarbaker is the owner of Sugarbaker and Associates and is very outspoken and strong-willed. Mary Jo Shively is a divorced single-parent who is just as strong-willed as Julia, but isn't as self-confident. Charlene is the naive and trusting farm girl from Poplar Bluff, Missouri. Suzanne Sugarbaker is the self-centered ex-beauty queen who has a number of wealthy ex-husbands.
@@ -24,3 +24,4 @@ Nielsen Ratings:
 #23 in the 1989- 1990 Season
 #11 in the 1990- 1991 Season
 #6 in the 1991- 1992 Season
+Image poster gotten from themoviedb.org

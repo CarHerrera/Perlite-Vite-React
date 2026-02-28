@@ -10,7 +10,8 @@ User Score: 45
 User Count: 4
 Director: Ryan McFaul,Susan Seidelman,Marilyn Agrelo,Vince Marcello
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/kqSyefnBcymXCfQ51Kukd4xq4w8.jpg
 ---
 
 "Hey You guyyyyyyyys!" PBS resurrects the 1970s favorite kid's program The Electric Company for a new generation! Full of didactic stories and engaging song and dance routines, the creators aim to teach young people to read in a down-to-earth street style that they will easily understand.
+Image poster gotten from themoviedb.org

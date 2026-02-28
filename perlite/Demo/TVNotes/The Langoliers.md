@@ -10,7 +10,8 @@ User Score: 57
 User Count: 10
 Director: Tom Holland
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xcySnh6hHc98G94dF8sXNJuD0Rp.jpg
 ---
 
 In this TV mini-series based on the novella by Stephen King, a small group of passengers on an airliner wake up to discover that everyone else--passengers and crew--have vanished. When they manage to land the airliner, they discover that seemingly everyone in the world has vanished... and something is coming for them.
+Image poster gotten from themoviedb.org

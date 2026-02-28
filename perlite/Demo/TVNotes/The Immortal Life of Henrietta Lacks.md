@@ -14,3 +14,4 @@ image:
 ---
 
 The TV movie focuses on Henrietta's daughter Deborah (Oprah Winfrey) as she seeks to learn more about her mother (Renée Elise Goldsberry) and how her cancerous cells became a part of medical breakthroughs with the help of journalist Rebecca Skloot (Rose Byrne) in this adaptation of Skloot's book of the same name.
+Image poster gotten from themoviedb.org

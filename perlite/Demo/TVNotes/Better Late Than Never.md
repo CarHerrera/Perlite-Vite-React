@@ -10,7 +10,8 @@ User Score: 77
 User Count: 22
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/pPkzXhJYE7kZ4ovrOKW2sQeRI77.jpg
 ---
 
 Terry Bradshaw, Jeff Dye, George Foreman, William Shatner, and Henry Winkler travel across Asia without assistants in this remake of the South Korean series "Grandpa Over Flowers."
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 85
 User Count: 118
 Director: Lawrence Trilling
 Creator: Bryan Fuller
-image: 
+image: https://image.tmdb.org/t/p/w500/oSRO8cGvve0pggPK9gHGItfl4j5.jpg
 ---
 
 This romantic comedy shows us the fairy tale-like world of Ned, a man who can bring dead people back to life through the power of his touch. The same touch he must use to "kill" them after no more than a minute or another person will die.
@@ -18,3 +18,4 @@ This romantic comedy shows us the fairy tale-like world of Ned, a man who can br
 With the help of Emerson, a local PI, Ned uses his ability to solve murder cases and cash in on any rewards. But things get complicated when a murder victim turns out to be Ned's long-lost childhood crush and he decides to break the rules and let her live.
 
 show is created by Bryan Fuller, who has brought us fantasy series such as Wonderfalls and Dead Like Me. The series shares the quick-witted comedy and darker emotions of Fuller's previous shows.
+Image poster gotten from themoviedb.org

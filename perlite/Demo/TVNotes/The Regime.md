@@ -10,7 +10,8 @@ User Score: 71
 User Count: 52
 Director: Stephen Frears,Jessica Hobbs
 Creator: Will Tracy
-image: 
+image: https://image.tmdb.org/t/p/w500/ztqPixNyezY6pWSNIP2AlhwPMO0.jpg
 ---
 
 Chancellor Elena Vernham (Kate Winslet) tries to keep her country under her authoritarian control in this six-part limited series created by Will Tracy.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 0
 User Count: 2
 Director: Adam Bernstein,David Anspaugh,Whitney Ransick,Ron Lagomarsino,Ted Bogosian
 Creator: Tom Fontana,Julie Martin
-image: 
+image: https://image.tmdb.org/t/p/w500/fZZdvNTRpC2rGGaCL0K3S6Sx5OU.jpg
 ---
 
 Set at a small liberal-arts college in Manhattan, The Bedford Diaries is an ensemble drama about the lives of resident and commuter students from all kinds of social and economic backgrounds and their teachers. The show specifically centers on a human behavior seminar where (the students) openly talk about their sexual lives or the lack of sexual lives and come to understand themselves and the world they live in better.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 75
 User Count: 17
 Director: nan
 Creator: Hank Steinberg
-image: 
+image: https://image.tmdb.org/t/p/w500/2WeCMpWSrOOJNXoruq5bq8qmKEx.jpg
 ---
 
 Inmate Aaron Wallace (Nicholas Pinnock) passes the bar exam to become a lawyer to help represent other prisoners as he seeks to overturn his own conviction in this legal drama created by Hank Steinberg and inspired by executive producer Isaac Wright Jr.'s life.
+Image poster gotten from themoviedb.org

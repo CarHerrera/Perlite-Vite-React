@@ -10,7 +10,8 @@ User Score: 84
 User Count: 18
 Director: Ken Burns,Lynn Novick
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/dhZKY66U37aIJVxA6OsR95efTkI.jpg
 ---
 
 Ken Burns' latest documentary series focuses on the origins of the 18th Amendment and the eventual end of Prohibition.
+Image poster gotten from themoviedb.org

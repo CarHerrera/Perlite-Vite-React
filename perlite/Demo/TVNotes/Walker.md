@@ -10,7 +10,8 @@ User Score: 50
 User Count: 61
 Director: nan
 Creator: Christopher Canaan,Albert S. Ruddy,Leslie Greif,Paul Haggis
-image: 
+image: https://image.tmdb.org/t/p/w500/9uW1W9q0zKPzPdRwIcL3eCDJsfw.jpg
 ---
 
 After working undercover for two years, Cordell Walker (Jared Padalecki) returns to Austin and must juggle rebuilding his relationship with his children and his own parents, as well as a new partner (Lindsey Morgan).
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 69
 User Count: 129
 Director: nan
 Creator: Tim Kring
-image: 
+image: https://image.tmdb.org/t/p/w500/4qreaxQD4azrRuZWdevyjVAKt8V.jpg
 ---
 
 Kiefer Sutherland is Martin Bohm, a single father who discovers his mute son can see things nobody else can see.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Directed by Rod Lurie, the TV-movie based on Bill O'Reilly and Martin Dugard book dramatizes the events surrounding the attempted assassination of President Reagan (Tim Matheson) by John Hinckley Jr. (Kyle More).
+Image poster gotten from themoviedb.org

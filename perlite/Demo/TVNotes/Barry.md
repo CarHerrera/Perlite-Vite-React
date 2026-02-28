@@ -10,7 +10,8 @@ User Score: 84
 User Count: 847
 Director: Bill Hader
 Creator: Alec Berg,Bill Hader
-image: 
+image: https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg
 ---
 
 Low-level hitman Barry (Bill Hader) travels to Los Angeles to kill an would-be actor and finds his calling may actually be to act in this comedy from Hader and Alec Berg.
+Image poster gotten from themoviedb.org

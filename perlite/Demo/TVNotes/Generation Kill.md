@@ -10,7 +10,8 @@ User Score: 87
 User Count: 108
 Director: Susanna White,Simon Cellan Jones
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/wiihoYOODwh82xVzPoiaztlg6c9.jpg
 ---
 
 Not for the faint-hearted, this seven-hour scripted mini-series spotlights Marines fighting in the Iraq war during the early onset of the conflict. This is an adaptation of Rolling Stone's contributing editor Evan Wright's book of the same name.
+Image poster gotten from themoviedb.org

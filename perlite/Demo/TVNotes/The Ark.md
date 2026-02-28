@@ -10,7 +10,8 @@ User Score: 50
 User Count: 58
 Director: Milan Todorovic,Sandra Mitrovic
 Creator: Dean Devlin
-image: 
+image: https://image.tmdb.org/t/p/w500/rec774m02XNLSjU9qm5z6UUfMRl.jpg
 ---
 
 With their destination still a year away, the crew of Ark One struggles to survive after their ship suffers damage and loss of crew members in this sci-fi drama created by Dean Devlin.
+Image poster gotten from themoviedb.org

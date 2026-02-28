@@ -10,7 +10,7 @@ User Score: 82
 User Count: 21
 Director: John Moffitt,Troy Miller
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rNPF7Zad87aXa7bQt4W4AYmnwL4.jpg
 ---
 
 Mr. Show was the insanely funny, critically loved but HBO-loathed sketch comedy that ran on the channel for 4 years from 1995-1998.
@@ -23,3 +23,4 @@ The show has been called the only sketch show in America to ever be in the same 
 
 Broadcast History on HBO
 September 1995 - August 1998 .... Fridays, MidnightSeptember 1998 - December 1998 .... Mondays, Midnight 
+Image poster gotten from themoviedb.org

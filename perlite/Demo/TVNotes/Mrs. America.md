@@ -10,7 +10,8 @@ User Score: 73
 User Count: 116
 Director: Anna Boden,Ryan Fleck,Amma Asante
 Creator: Dahvi Waller
-image: 
+image: https://image.tmdb.org/t/p/w500/82OxxE93DG0ArPj7JvOeNEBW8iT.jpg
 ---
 
 Phyllis Schlafly (Cate Blanchett) seeks to stop the ratification of the Equal Rights Amendment championed by feminists such as Gloria Steinem (Rose Byrne), Betty Friedan (Tracy Ullman), Shirley Chisholm (Uzo Aduba), Bella Abzug (Margo Martindale) and Jill Ruckelshaus (Elizabeth Banks) in the limited series created and written by Dahvi Waller. [FX on Hulu]
+Image poster gotten from themoviedb.org

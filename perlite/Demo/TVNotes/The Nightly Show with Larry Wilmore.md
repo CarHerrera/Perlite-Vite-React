@@ -10,7 +10,8 @@ User Score: 26
 User Count: 209
 Director: Andre Allen
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/bZW6diC7eWIjqCsoJWEUiGvrnr4.jpg
 ---
 
 With Stephen Colbert moving to CBS, Larry Wilmore moves to the daily late night desk full-time.
+Image poster gotten from themoviedb.org

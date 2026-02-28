@@ -10,7 +10,8 @@ User Score: 49
 User Count: 222
 Director: Ryan McFaul
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/f2CwT3O7WD03hJrZNNE4BtWt9sd.jpg
 ---
 
 The new series with comedian Amy Schumer includes stand-up, scripted sketches, and interviews with people on the street. 
+Image poster gotten from themoviedb.org

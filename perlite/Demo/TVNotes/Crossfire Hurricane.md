@@ -14,3 +14,4 @@ image:
 ---
 
 The documentary directed by Brett Morgen and executive produced by the Rolling Stones uses archival clips and interviews to show the highs and lows of the rock band's early career.
+Image poster gotten from themoviedb.org

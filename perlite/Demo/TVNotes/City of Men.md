@@ -10,9 +10,10 @@ User Score: 68
 User Count: 12
 Director: Regina Casé,Paulo Morelli,Kátia Lund,Fernando Meirelles,César Charlone,Cao Hamburger,Pedro Morelli
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/sJLwMMcnXQ6LBRG4sOSDYGErHt1.jpg
 ---
 
 From the creators of the Academy Award-nominated City of God, comes the spin-off series City of Men.  The series follows the lives of Acerola (Douglas Silva) and Laranjinha (Darlan Cunha) as they mature into young men facing the dangers of drug gangs and the heartbreak of first loves growing up in Rio de Janeiro.
 
 Originally, City of Men was aired in Brazil in Portuguese. It lasted for four seasons, with a total of 19 episodes. 
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 51
 User Count: 49
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gnosVTTRTCqooJuipwU6C0bgOGf.jpg
 ---
 
 Charlie Manx's (Zachary Quinto) victims end up in an imaginary village where every day is Christmas and it is threatened when high school senior Vic McQueen (Ashleigh Cummings) discovers his secret in this supernatural drama based on Joe Hill's novel of the same name.
+Image poster gotten from themoviedb.org

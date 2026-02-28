@@ -10,7 +10,8 @@ User Score: 73
 User Count: 52
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/u6Hfb3EsnvlPChr01jErXDTsdan.jpg
 ---
 
 The marriage between Pamela Anderson (Lily James) and Tommy Lee (Sebastian Stan) and how their sex tape became public is at the center of this limited series from Seth Rogen and Evan Goldberg.
+Image poster gotten from themoviedb.org

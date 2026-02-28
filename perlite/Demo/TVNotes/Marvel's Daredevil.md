@@ -10,7 +10,8 @@ User Score: 89
 User Count: 3997
 Director: nan
 Creator: Drew Goddard
-image: 
+image: https://image.tmdb.org/t/p/w500/u6tICVagGwukuFPr0qBUwOqCKSn.jpg
 ---
 
 In New York City's Hell's Kitchen neighborhood, Matt Murdock (Charlie Cox) fights for justice as a blind lawyer in the daylight and as Daredevil at night.
+Image poster gotten from themoviedb.org

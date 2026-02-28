@@ -14,3 +14,4 @@ image:
 ---
 
 The 2018 murder of Washington Post journalist Jamal Khashoggi is at the center of the documentary that also looks at the relationship between Saudi Arabia and the United States through the years including the Trump administration and Saudi Crown Prince Mohammed bin Salman. 
+Image poster gotten from themoviedb.org

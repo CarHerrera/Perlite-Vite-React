@@ -14,3 +14,4 @@ image:
 ---
 
 The morning talk show hosted by former Fox News anchor Megyn Kelly features celebrity interviews with news and lifestyles segments.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Originally aired on the BBC in Dec 2015, the adaptation of Agatha Christie's novel of the same name, begins with eight people invited to a small island off the coast of Devon and at dinner hear a message that accuses them all of murder. One by one, the guests and the two servants of the house are killed.
+Image poster gotten from themoviedb.org

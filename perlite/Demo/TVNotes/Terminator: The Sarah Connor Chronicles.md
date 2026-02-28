@@ -10,7 +10,8 @@ User Score: 74
 User Count: 126
 Director: nan
 Creator: James Cameron,Gale Anne Hurd
-image: 
+image: https://image.tmdb.org/t/p/w500/vkMRWrVrNeX42ruRV5Q15mlBACG.jpg
 ---
 
 The Terminator franchise arrives on TV with this serial drama. The series picks up two years after the events of Terminator 2: Judgment Day with John and Sarah Connor (Thomas Dekker and Lena Headey) hiding from the government. After two years in one place Sarah decides they need a change of scenery and in doing so they expose themselves to FBI Agent James Ellison (Richard T. Jones) and Skynet's army of Terminators including Cameron Phillips (Summer Glau) a reprogrammed Terminator sent to protect John. She informs them that Judgment Day was not stopped and will take place in 2011. John convinces Sarah to stop hiding and fight so Cameron takes them to a time machine the resistance has set up to take them to the year Skynet was created 2007.
+Image poster gotten from themoviedb.org

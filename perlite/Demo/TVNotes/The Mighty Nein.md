@@ -10,7 +10,8 @@ User Score: 79
 User Count: 52
 Director: Juno John Lee
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg
 ---
 
 A group of fugitives and outsiders work to stop reality from changing when a powerful relic falls into the wrong hands in the second series based on the Critical Role web series.
+Image poster gotten from themoviedb.org

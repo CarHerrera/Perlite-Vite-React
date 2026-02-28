@@ -10,7 +10,8 @@ User Score: 86
 User Count: 41
 Director: Chike Ozah,Coodie
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/pDrZvecNSRHGU8Wma6KsBi4DdAX.jpg
 ---
 
 The three-part documentary from Clarence "Coodie" Simmons and Chike Ozah about the life and career of rapper Kanye West features footage shot over 20+ years.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 53
 User Count: 4
 Director: Lesley Chilcott
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9Fg6DyYNSFGekbDboZK9a2soLO3.jpg
 ---
 
 The six-part docuseries directed by Lesley Chilcott features archival footage, photos as well as interviews with journalists and former members of the Manson Family.
+Image poster gotten from themoviedb.org

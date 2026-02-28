@@ -14,3 +14,4 @@ image:
 ---
 
 Narrated by Tom Hanks, the adaptation of Martin Dugard and Bill O'Reilly book dramatizes the events leading up to and after the  assassination of President Abraham Lincoln (Billy Campbell) by John Wilkes Booth (Jesse Johnson).
+Image poster gotten from themoviedb.org

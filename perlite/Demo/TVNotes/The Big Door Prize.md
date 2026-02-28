@@ -10,7 +10,8 @@ User Score: 62
 User Count: 28
 Director: nan
 Creator: M.O. Walsh
-image: 
+image: https://image.tmdb.org/t/p/w500/w9iG3waL71PGlabP8kZe5Io6Igj.jpg
 ---
 
 A machine appears at a small town's store that promises to reveal a person's destiny in this comedy series from David West Read based on M.O. Walsh's novel of the same name.
+Image poster gotten from themoviedb.org

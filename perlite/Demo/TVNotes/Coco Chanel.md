@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Christian Duguay
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xrvomcaa2tstCnK4yZuStai9juH.jpg
 ---
 
 This Lifetime Original Movie Event dramatizes the life events of one of fashion's greatest icons, Coco Chanel.
+Image poster gotten from themoviedb.org

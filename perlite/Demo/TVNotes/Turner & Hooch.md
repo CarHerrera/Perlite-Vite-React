@@ -10,7 +10,8 @@ User Score: 84
 User Count: 5
 Director: Robert Duncan McNeill
 Creator: Dennis Shryack,Michael Blodgett
-image: 
+image: https://image.tmdb.org/t/p/w500/o7de7nCLy3NNQuuf6JfnDGoRtCw.jpg
 ---
 
 U.S. Marshall Scott Turner (Jeff Peck) inherits a French Mastiff named Hooch in this comedy series inspired by the 1989 film of the same name.
+Image poster gotten from themoviedb.org

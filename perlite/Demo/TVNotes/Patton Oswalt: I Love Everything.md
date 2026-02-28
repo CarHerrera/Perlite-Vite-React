@@ -14,3 +14,4 @@ image:
 ---
 
 Filmed at Charlotte's Knight Theater, the third Netflix comedy special for the comedian includes topics like turning 50, buying a new house and finding love again.
+Image poster gotten from themoviedb.org

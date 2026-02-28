@@ -10,7 +10,8 @@ User Score: 80
 User Count: 43
 Director: Randy Zisk
 Creator: Jenna Bans
-image: 
+image: https://image.tmdb.org/t/p/w500/s25iy6jAQotC5eJY3FbXJYnUwBB.jpg
 ---
 
 Shonda Rhimes serves as executive producer on this new medical drama that will debut on ABC. Three doctors are transplanted from the U.S. to work in an isolated clinic in the tropics.
+Image poster gotten from themoviedb.org

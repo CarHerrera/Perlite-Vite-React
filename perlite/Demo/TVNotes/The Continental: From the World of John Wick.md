@@ -10,7 +10,8 @@ User Score: 59
 User Count: 95
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2urdwqEL9FRkGMKAkhfvWTALG00.jpg
 ---
 
 The three-part John Wick prequal set in mid-1970s New York centers on Winston Scott (Colin Woodell) and how he became the owner of the Continental Hotel.
+Image poster gotten from themoviedb.org

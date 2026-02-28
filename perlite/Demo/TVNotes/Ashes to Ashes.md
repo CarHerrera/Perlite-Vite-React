@@ -10,7 +10,8 @@ User Score: 82
 User Count: 30
 Director: Catherine Morshead,Jonny Campbell,David Drury,Alrick Riley
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ky35fNxJQkO9bCwB010pB4brTL3.jpg
 ---
 
 After being shot in 2008 while investigating DCI Sam Tyler, DI Alex Drake wakes up to some familiar faces in 1980s London.
+Image poster gotten from themoviedb.org

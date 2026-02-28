@@ -10,7 +10,8 @@ User Score: 61
 User Count: 9
 Director: Craig R. Baxley
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xFPh9zZickYu9AWqOcfUZBCIu14.jpg
 ---
 
 Stephen King's first original television miniseries tells the tale of threatening stranger Andre Linoge and his uncanny knowledge of all a small town's secrets. Slowly, but surely, Little Tall island constable Michael Anderson and the rest of the people trapped on Little Tall by the "storm of the century" learn more about Linoge and his murderous agenda.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 85
 User Count: 816
 Director: nan
 Creator: John Hoffman,Steve Martin
-image: 
+image: https://image.tmdb.org/t/p/w500/1yjFVQZuW8aofZ5Cgol8iImsVFp.jpg
 ---
 
 After a death in their apartment building, fellow tenants Charles (Steve Martin), Mabel (Selena Gomez) and Oliver (Martin Short) discover they share a love for true crime and decide to investigate the case themselves in this comedic murder mystery co-created by John Hoffman and Steve Martin.
+Image poster gotten from themoviedb.org

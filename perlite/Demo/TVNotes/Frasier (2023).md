@@ -14,3 +14,4 @@ image:
 ---
 
 Dr. Frasier Crane (Kelsey Grammer) moves to Boston, where he sees familiar faces, makes new friends in Boston and seeks to reconnect with his son Freddy (Jack Cutmore-Scott) in the revival of the NBC comedy series.
+Image poster gotten from themoviedb.org

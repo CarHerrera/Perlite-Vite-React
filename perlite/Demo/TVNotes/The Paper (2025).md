@@ -14,3 +14,4 @@ image:
 ---
 
 The revival of The Truth Teller, a historic Toledo newspaper, is the subject of the same documentary crew that followed the workers at Dunder Mifflin’s Scranton branch in Greg Daniels and Michael Koman's mockumentary series.
+Image poster gotten from themoviedb.org

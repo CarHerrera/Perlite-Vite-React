@@ -10,7 +10,8 @@ User Score: 63
 User Count: 516
 Director: nan
 Creator: Whitney Cummings,Michael Patrick King
-image: 
+image: https://image.tmdb.org/t/p/w500/wW1SDEoZ6pDfnSkVQuXwOo8ICep.jpg
 ---
 
 Caroline (Beth Behrs) is forced to find a job after her trust fund is emptied and she ends up at the Williamsburg Diner, where she meets veteran server Max (Kat Dennings).
+Image poster gotten from themoviedb.org

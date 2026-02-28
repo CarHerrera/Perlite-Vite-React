@@ -16,3 +16,4 @@ image:
 Undercover CIA agent Martian (Michael Fassbender) is called back to London Station, but things become complicated when the lover he left behind appears and they resume their relationship in the espionage series based on French drama series The Bureau. 
 
 [Streams on Paramount+ with Showtime on 29 Nov 2024 and linearly on cable on 1 Dec 2024]
+Image poster gotten from themoviedb.org

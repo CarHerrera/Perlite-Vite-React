@@ -10,7 +10,8 @@ User Score: 66
 User Count: 67
 Director: Dominic Cooke,Richard Eyre,Thea Sharrock,Rupert Goold
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/1Q8m6nI5m66DjnQ5V661anWqpVu.jpg
 ---
 
 The adaptions of William Shakespeare's plays Richard II, Henry IV part 1 and 2, and Henry V. 
+Image poster gotten from themoviedb.org

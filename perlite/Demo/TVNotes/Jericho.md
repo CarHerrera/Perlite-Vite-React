@@ -10,7 +10,8 @@ User Score: 81
 User Count: 135
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/a57H9UsS388Av2LSLKO9inNmY7j.jpg
 ---
 
 After a nuclear disaster caused by several terrorist attacks that destroyed 23 American cites, residents of a small Kansas town must come to terms with a new and very different reality as they wonder if they are the only ones left alive.
+Image poster gotten from themoviedb.org

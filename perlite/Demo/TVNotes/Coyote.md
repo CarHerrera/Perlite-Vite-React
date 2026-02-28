@@ -10,7 +10,8 @@ User Score: 81
 User Count: 7
 Director: Guy Ferland,Stephen Kay
 Creator: Michael Carnes,Josh Gilbert,David Graziano
-image: 
+image: https://image.tmdb.org/t/p/w500/dzAwoFc87V2zku5FqYoijKfCOvh.jpg
 ---
 
 After 32 years, Border Patrol agent Ben Clemens (Michael Chiklis) finds himself helping those he had tried thwart during his career in this drama from Michelle MacLaren.
+Image poster gotten from themoviedb.org

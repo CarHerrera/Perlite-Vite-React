@@ -10,7 +10,8 @@ User Score: 66
 User Count: 264
 Director: nan
 Creator: Charlie Day,Megan Ganz,Rob McElhenney
-image: 
+image: https://image.tmdb.org/t/p/w500/7QxQlpqEjx3vRpEtuh6Y0R6eY9O.jpg
 ---
 
 The comedy series executive produced By Rob McElhenney and Charlie Day follows a team of video game developers led by creative director Ian Grimm (Rob McElhenney) as they ready the launch of an expansion of its most popular multi-player game.
+Image poster gotten from themoviedb.org

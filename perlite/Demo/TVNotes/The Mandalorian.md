@@ -10,7 +10,8 @@ User Score: 78
 User Count: 2267
 Director: nan
 Creator: Jon Favreau
-image: 
+image: https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg
 ---
 
 The Mandalorian (Pedro Pascal) travels the galaxy, out of reach of the New Republic after the fall of the Empire in Disney+'s first Star Wars live-action series.
+Image poster gotten from themoviedb.org

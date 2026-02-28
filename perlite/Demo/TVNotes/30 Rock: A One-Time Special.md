@@ -14,3 +14,4 @@ image:
 ---
 
 The 30 Rock reunion is part of an Upfront special that will introduce some of the upcoming series on the various NBCUniversal networks. Some local NBC affiliates will preempt it due to fear it is little more than an infomercial for Peacock (who will stream the special the next day).
+Image poster gotten from themoviedb.org

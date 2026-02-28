@@ -10,7 +10,8 @@ User Score: 58
 User Count: 65
 Director: nan
 Creator: Stacy McKee,Shonda Rhimes
-image: 
+image: https://image.tmdb.org/t/p/w500/3gs9wBsvv1GJ3EzLheh5yGuTQis.jpg
 ---
 
 The second spinoff of Grey's Anatomy focuses on lives of Seattle's Fire Station 19 that includes Captain Pruitt Herrera (Miguel Sandoval) and his crew of firefighters and EMTs: Andy Herrera (Jaina Lee Ortiz), Dr. Ben Warren (Jason George), Jack Gibson (Grey Damon), Victoria Hughes (Barrett Doss), Ryan Tanner (Alberto Frezza), Travis Montgomery (Jay Hayden), Dean Miller (Okieriete Onaodowan), and Maya Bishop (Danielle Savre).
+Image poster gotten from themoviedb.org

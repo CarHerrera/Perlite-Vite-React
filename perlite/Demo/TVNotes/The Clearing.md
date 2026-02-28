@@ -10,7 +10,8 @@ User Score: 76
 User Count: 8
 Director: Gracie Otto,Jeffrey Walker
 Creator: Matt Cameron,Elise McCredie
-image: 
+image: https://image.tmdb.org/t/p/w500/iqJpQPAKZq73wIex5f0bSZkYfoT.jpg
 ---
 
 A woman attempts to stop a cult from kidnapping more children in the eight-part Australian psychological thriller based on J.P. Pomare's book "In The Clearing". 
+Image poster gotten from themoviedb.org

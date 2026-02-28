@@ -10,7 +10,8 @@ User Score: 87
 User Count: 1261
 Director: nan
 Creator: Carlo Bernard,Chris Brancato,Doug Miro,Paul Eckstein
-image: 
+image: https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg
 ---
 
 The drama about the 1980s Medellin cocaine cartel run by Pablo Escobar (Wagner Moura) and the efforts of DEA agents Steve Murphy (Boyd Holbrook) and Javier Peña (Pedro Pascal) to capture and kill him.
+Image poster gotten from themoviedb.org

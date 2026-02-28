@@ -14,3 +14,4 @@ image:
 ---
 
 Based on the 1989 Steve Martin film, Parenthood is about grandparents Frank and Marilyn Buckman, their children, and their children's children.
+Image poster gotten from themoviedb.org

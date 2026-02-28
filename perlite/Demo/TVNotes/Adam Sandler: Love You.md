@@ -14,3 +14,4 @@ image:
 ---
 
 Adam Sandler's stand-up special was directed by Josh Safdie and filmed at the Nocturne Theatre in Glendale, California.
+Image poster gotten from themoviedb.org

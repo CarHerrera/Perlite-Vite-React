@@ -10,7 +10,8 @@ User Score: 77
 User Count: 350
 Director: nan
 Creator: Doug Ellin
-image: 
+image: https://image.tmdb.org/t/p/w500/kLKP8zrArBtBboGz3qJOuMGC7rL.jpg
 ---
 
 Vince Chase is a sexy young actor whose career is on the rise. To share the fun of his ride to the top of Hollywood and keep him grounded, Vince looks to Eric, Drama and Turtle, his childhood buddies from Queens. Together, they'll navigate the highs and lows of Hollywood's fast lane, where the stakes are higher, and the money and temptations greater, than ever before. But that certainly will not stop them from  having fun the whole way through.Adrian Grenier ("The Devil Wears Prada", "Drive Me Crazy") stars as Vince, an actor on the verge of stardom. Kevin Connolly ("Antwone Fisher," "John Q") plays Eric, Vince's closest confidant who's learning the rules of the business as he tries to help Vince make the right choices and keep his goals aimed high. Kevin Dillon ("The Doors," "Platoon") plays Vince's half-brother Johnny Drama, whose own acting aspirations have been eclipsed by Vince's success, but that doesn't stop Johnny from constantly looking for work and going to auditions. Jerry Ferrara ("Grounded for Life," "Leap of Faith") plays Turtle, the least experienced of the group who is always up for a good time. Jeremy Piven ("Old School," "The Larry Sanders Show") plays Ari, Vince's aggressive, high-powered agent, who clashes with Eric over his client's decisions.Theme Song:"Superhero" by Jane's Addiction
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 68
 User Count: 122
 Director: nan
 Creator: Matt Olmstead,Dick Wolf
-image: 
+image: https://image.tmdb.org/t/p/w500/9eym662FRJJb9wdgCiDKPDciZzf.jpg
 ---
 
 The Chicago Fire spin-off takes place at a Chicago hospital run by Sharon Goodwin (S. Epatha Merkerson), whom with head of psychiatry Dr. Daniel Charles (Oliver Platt); ER surgeon Dr. Lilly Manning (Torrey DeVitto); nurse April Sexton (Yaya DaCosta), emergency room intern Dr. Sarah Reese (Rachel DiPillo), help the injured and ill.
+Image poster gotten from themoviedb.org

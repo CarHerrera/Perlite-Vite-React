@@ -14,3 +14,4 @@ image:
 ---
 
 NBC's latest live musical is be a concert staging of Tim Rice and Andrew Lloyd Webber's rock opera at Brooklyn's Marcy Armory with John Legend as Jesus, Sara Bareilles as Mary Magdalene, Brandon Victor Dixon as Judas, Alice Cooper as King Herod, Ben Daniels as Pontius Pilate, Norm Lewis as Caiaphas, Jin Ha as Annas, Jason Tam as Peter and Erik Gronwall as Simon Zealotes. 
+Image poster gotten from themoviedb.org

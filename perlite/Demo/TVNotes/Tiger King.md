@@ -10,7 +10,8 @@ User Score: 68
 User Count: 161
 Director: Rebecca Chaiklin,Eric Goode
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/dXQCEjVth8P8L47XIsoRt0oL8Gw.jpg
 ---
 
 Eric Goode and Rebecca Chaiklin's documentary series about Joe Exotic, self-proclaimed Tiger King, who ran a zoo in Oklahoma and plotted to kill animal activist Carole Baskin also reveals the dark underbelly of breeding and selling big exotic cats.
+Image poster gotten from themoviedb.org

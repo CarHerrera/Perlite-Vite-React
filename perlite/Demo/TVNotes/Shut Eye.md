@@ -10,7 +10,8 @@ User Score: 59
 User Count: 36
 Director: nan
 Creator: Leslie Bohem
-image: 
+image: https://image.tmdb.org/t/p/w500/hhuM4sXqkisJj3ebIsjRfGNrWSz.jpg
 ---
 
 Charlie Haverford (Jeffrey Donovan) who oversees Romani clan leader Fonzo's (Angus Sampson) chain of fortune telling parlors in Los Angeles begins to question his life when he begins experiences visions. 
+Image poster gotten from themoviedb.org

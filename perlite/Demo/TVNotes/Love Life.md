@@ -10,7 +10,8 @@ User Score: 57
 User Count: 30
 Director: nan
 Creator: Sam Boyd
-image: 
+image: https://image.tmdb.org/t/p/w500/yIlbPxb7KC4k112v8vattKwLsN7.jpg
 ---
 
 Each season this anthology series created by Sam Boyd focuses on one person's search for love. In season one, 20-something Darby (Anna Kendrick) searches for love in New York.
+Image poster gotten from themoviedb.org

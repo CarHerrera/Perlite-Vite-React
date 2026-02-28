@@ -14,3 +14,4 @@ image:
 ---
 
 The Italian crime drama series based on the best-selling non-fiction book by Roberto Saviano (which also inspired the 2008 film of the same name) is set in Naples where Ciro Di Marzio (Marco D’Amore) works for Camorra godfather Pietro Savastanno (Fortunato Cerlino).
+Image poster gotten from themoviedb.org

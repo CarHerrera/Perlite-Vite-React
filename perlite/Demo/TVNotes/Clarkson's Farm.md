@@ -10,7 +10,8 @@ User Score: 85
 User Count: 72
 Director: Kit Lynch Robinson,Gavin Whitehead,Will Yapp
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg
 ---
 
 Top Gear's Jeremy Clarkson gets involved with his Oxfordshire farm with help from tractor driver Kaleb, stone wall worker Gerald, advisor ‘Cheerful’ Charlie, and Jeremy's girlfriend Lisa.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Australian native Tabatha Coffey who appeared on Shear Genius stars in this spin-off on Bravo. Needy salons are the subjects of Tabatha's awesome makeover abilities.
+Image poster gotten from themoviedb.org

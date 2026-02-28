@@ -14,3 +14,4 @@ image:
 ---
 
 Carrie Underwood is Maria in this live adaptation of the original  Broadway musical The Sound of Music that includes Stephen Moyer as Captain von Trapp as well as Broadway veterans Audra McDonald as Mother Abbes, Laura Benanti as Elsa, and Christian Borle as Max.
+Image poster gotten from themoviedb.org

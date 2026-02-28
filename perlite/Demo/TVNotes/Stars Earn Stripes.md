@@ -10,9 +10,10 @@ User Score: 44
 User Count: 11
 Director: J. Rupert Thompson
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/e59PsAQ7n2fMke6nouklzNd6veV.jpg
 ---
 
 General Wesley Clark (retired) and Samantha Harris host the competitive reality show where Laila Ali, Dean Cain, Terry Crews, Nick Lachey, Todd Palin, Dolvett Quince, Picabo Street, and Eve Torres compete in military-inspired missions.
 
 
+Image poster gotten from themoviedb.org

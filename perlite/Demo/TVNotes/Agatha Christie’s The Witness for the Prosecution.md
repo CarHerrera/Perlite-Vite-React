@@ -10,7 +10,8 @@ User Score: 67
 User Count: 31
 Director: Julian Jarrold
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/n6i4LpDcyiwGbZg3to3Z8puyS1F.jpg
 ---
 
 Sarah Phelps' adaptation of Agatha Christie's short story about the case against Leonard Vole (Billy Howle), who was accused of killing the very wealthy heiress Emily French (Kim Cattrall). Leonard tells his barrister John Mayhew (Toby Jones) his girlfriend Romaine (Andrea Riseborough) is his alibi only to have her become a witness for the prosecution.
+Image poster gotten from themoviedb.org

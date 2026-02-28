@@ -14,3 +14,4 @@ image:
 ---
 
 The first of two standup specials on Netflix for Chris Rock is his first in over 10 years.
+Image poster gotten from themoviedb.org

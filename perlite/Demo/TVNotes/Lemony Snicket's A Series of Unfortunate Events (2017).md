@@ -14,3 +14,4 @@ image:
 ---
 
 Violet (Malina Weissman), Klaus (Louis Hynes), and Sunny Baudelaire seek to solve the mystery of the death of their parents and foil Count Olaf's (Neil Patrick Harris) schemes to take their inheritance in this Netflix adaptation of the books by Lemony Snicket.
+Image poster gotten from themoviedb.org

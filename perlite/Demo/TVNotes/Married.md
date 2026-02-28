@@ -10,7 +10,8 @@ User Score: 61
 User Count: 59
 Director: Jamie Babbit,Andrew Gurland
 Creator: Andrew Gurland
-image: 
+image: https://image.tmdb.org/t/p/w500/oRZsQ730CC1TzuRSaHoqBwcR2Sw.jpg
 ---
 
 Russ (Nat Faxon) and Lina Bowman (Judy Greer) are parent to three young daughters in the Andrew Gurland comedy.
+Image poster gotten from themoviedb.org

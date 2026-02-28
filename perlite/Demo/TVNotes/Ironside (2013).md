@@ -14,3 +14,4 @@ image:
 ---
 
 lA paraplegic police detective solves criminal cases in New York City.
+Image poster gotten from themoviedb.org

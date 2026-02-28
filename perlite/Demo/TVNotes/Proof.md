@@ -10,7 +10,8 @@ User Score: 64
 User Count: 36
 Director: Alex Graves
 Creator: Rob Bragin
-image: 
+image: https://image.tmdb.org/t/p/w500/e29bfYMWzFTGszTZqVIHxyxYNHC.jpg
 ---
 
 Dr. Carolyn Tyler (Jennifer Beals) is recovering from the loss of one of her children and the end of her marriage when a millionaire (Matthew Modine) convinces her to investigate cases of reincarnation and out-of-body experiences.
+Image poster gotten from themoviedb.org

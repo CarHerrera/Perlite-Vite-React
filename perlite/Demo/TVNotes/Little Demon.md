@@ -10,7 +10,8 @@ User Score: 74
 User Count: 25
 Director: Jeanette Moreno King
 Creator: Darcy Fowler,Seth Kirschner,Kieran Valla
-image: 
+image: https://image.tmdb.org/t/p/w500/2lyFPOe6JScMBiLQuMtf3pPZxAu.jpg
 ---
 
 Laura (Aubrey Plaza) and her daughter Chrissy (Lucy DeVito) have to deal with numerous foes including Chrissy's father, Satan (Danny DeVito), who wants her soul as they try to lead a normal life in Delaware in this animated horror comedy from Darcy Fowler, Seth Kirschner and Kieran Valla.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 60
 User Count: 7
 Director: nan
 Creator: Frank Spotnitz,Steve Thompson
-image: 
+image: https://image.tmdb.org/t/p/w500/t19XDd3pLIsBGcIsG83IcEVQhr9.jpg
 ---
 
 In 1506, Leonardo da Vinci (Aidan Turner) recounts his life and career under questioning by Stefano Giraldi (Freddie Highmore) in this drama created by Frank Spotnitz and Steve Thompson.
+Image poster gotten from themoviedb.org

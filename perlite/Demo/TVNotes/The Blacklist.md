@@ -10,7 +10,8 @@ User Score: 77
 User Count: 896
 Director: nan
 Creator: Jon Bokenkamp
-image: 
+image: https://image.tmdb.org/t/p/w500/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg
 ---
 
 One of the FBI's most wanted men Raymond "Red" Reddington (James Spader) offers to turns himself in to help catch a presumed-dead terrorist, but only if he is partnered with newly graduated profiler, Liz Keen (Megan Boone).
+Image poster gotten from themoviedb.org

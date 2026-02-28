@@ -10,7 +10,8 @@ User Score: 51
 User Count: 11
 Director: Paul Starkman
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/p8dl6ELOKO4Ywv38qJlAhgnX9Fr.jpg
 ---
 
 Eight contestants will create unique crafts that will be judged by Simon Doonan and Dayna Isom Johnson as well as series creators Amy Poehler and Nick Offerman.
+Image poster gotten from themoviedb.org

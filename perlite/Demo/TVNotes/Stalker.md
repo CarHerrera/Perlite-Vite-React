@@ -10,7 +10,8 @@ User Score: 74
 User Count: 138
 Director: Liz Friedlander
 Creator: Kevin Williamson
-image: 
+image: https://image.tmdb.org/t/p/w500/pHw8OgL3U7Ys8D8hlbOnlgH7ExM.jpg
 ---
 
 Lt. Beth Davis (Maggie Q) leads the Threat Assessment Unit of the Los Angeles Police Department that includes recent transfer Det. Jack Larsen (McDermott), Det. Ben Caldwell (Victor Rasuk), and Det. Janice Lawrence (Mariana Klaveno).
+Image poster gotten from themoviedb.org

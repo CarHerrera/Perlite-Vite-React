@@ -10,7 +10,7 @@ User Score: 79
 User Count: 51
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/47CaTpah62bxbAkWANDzZdJxkxw.jpg
 ---
 
 Roswell is about teenage alien/human hybrids living in Roswell, New Mexico who attempted to survive as humans and hide their alien sides, while trying to learn more about their alien powers, as well as figuring out how to get home. Roswell intertwined romance and science fiction that always kept you guessing. BOOK SERIES:
@@ -24,3 +24,4 @@ The series was filmed on location in West Covina, California, USA. Fans purchase
 
 BROADCASTING:
 The series first aired on the WB and then was moved to UPN for its final season. 
+Image poster gotten from themoviedb.org

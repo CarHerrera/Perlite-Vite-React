@@ -10,7 +10,8 @@ User Score: 71
 User Count: 48
 Director: Lesli Linka Glatter,Clark Johnson
 Creator: David E. Kelley
-image: 
+image: https://image.tmdb.org/t/p/w500/8WchbT0UPQeo3PZ6G01fhccYaQB.jpg
 ---
 
 David E. Kelley's limited series inspired by the 1980 true story of how Candy Montgomery's (Elizabeth Olsen) affair with Allan Gore (Jesse Plemons) led to her killing his wife (Lily Rabe) with an axe.
+Image poster gotten from themoviedb.org

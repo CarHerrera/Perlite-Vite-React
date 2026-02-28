@@ -10,7 +10,7 @@ User Score: 72
 User Count: 155
 Director: Joel Zwick
 Creator: Jeff Franklin
-image: 
+image: https://image.tmdb.org/t/p/w500/7g0EyKsIaYjYw3gCIBKMHHE0Kcu.jpg
 ---
 
 Full House ran for eight seasons and was one of the few primetime sitcoms to have more than 190 episodes. Early in its run, Full House received awful reviews for being too "cheesy," but it still became a popular favorite with audiences, even as the reviews remained negative throughout its run.
@@ -22,3 +22,4 @@ First Telecast: September 22, 1987
 Last Telecast: May 23, 1995
 
 Episodes: 192 Color Episodes
+Image poster gotten from themoviedb.org

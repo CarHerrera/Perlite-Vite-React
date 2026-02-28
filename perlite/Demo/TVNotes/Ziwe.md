@@ -10,7 +10,8 @@ User Score: 57
 User Count: 12
 Director: nan
 Creator: Ziwe
-image: 
+image: https://image.tmdb.org/t/p/w500/w38InL3XBKIOU7x6KRo5q8xYWlD.jpg
 ---
 
 The late-night variety show from writer/comedian Ziwe will feature interviews, unscripted segments and sketches.
+Image poster gotten from themoviedb.org

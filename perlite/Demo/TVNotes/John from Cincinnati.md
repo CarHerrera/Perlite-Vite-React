@@ -10,7 +10,8 @@ User Score: 77
 User Count: 7
 Director: nan
 Creator: David Milch
-image: 
+image: https://image.tmdb.org/t/p/w500/u8vyZyjpdoD3JtD5czaqj90ZfTt.jpg
 ---
 
 From the creator of Deadwood comes this new "surf noir" drama about a dysfunctional Southern California family galvanized by the sudden arrival of two strangers: a man out for revenge and a boy looking for surfing lessons. In Imperial Beach, California, the dysfunctional Yost family intersects with two new arrivals to the community: a dim-but-wealthy surfing enthusiast and man spurned by the Yosts years ago.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 17
 User Count: 707
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/pBpxKiitMuYXvtsXNSzya8DKKzV.jpg
 ---
 
 With Batman/Bruce Wayne gone from Gotham, Kate Kane (Ruby Rose) takes the mantle as Batwoman in the Greg Berlanti and Caroline Dries series based on the DC characters.
+Image poster gotten from themoviedb.org

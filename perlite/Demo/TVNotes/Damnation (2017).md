@@ -14,3 +14,4 @@ image:
 ---
 
 Seth Davenport (Killian Scott) is biding his time in the guise of an Iowan preacher to start an insurrection while s strikebreaker named Creeley Turner (Logan Marshall-Green) is hired to stop any revolt by the townspeople in this 1930s drama created and written by Tony Tost.
+Image poster gotten from themoviedb.org

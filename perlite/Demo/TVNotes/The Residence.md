@@ -10,7 +10,8 @@ User Score: 65
 User Count: 83
 Director: Liza Johnson,Jaffar Mahmood
 Creator: Paul William Davies
-image: 
+image: https://image.tmdb.org/t/p/w500/cJZbg425I9LF3SlJVQDOg4nJEvq.jpg
 ---
 
 Cordelia Cupp (Uzo Aduba), a Metropolitan Police consulting detective works with FBI Special Agent Edwin Park (Randall Park) to investigate a death at the White House in the mystery series inspired by Kate Andersen Brower's book "The Residence: Inside the Private World of the White House".
+Image poster gotten from themoviedb.org

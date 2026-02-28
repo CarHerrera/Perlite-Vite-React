@@ -10,7 +10,8 @@ User Score: 70
 User Count: 451
 Director: nan
 Creator: Brian Koppelman,David Levien,Andrew Ross Sorkin
-image: 
+image: https://image.tmdb.org/t/p/w500/edwYPQdZE998d748AdwWLsfy0rl.jpg
 ---
 
 Hedge fund king Bobby ‘Axe’ Axelrod (Damian Lewis) comes under investigation by U.S. Attorney Chuck Rhoades (Paul Giamatti).  It’s a high stakes war set in the fast-paced, ego-driven world of high finance where both men are forced to answer the question: What is power worth?
+Image poster gotten from themoviedb.org

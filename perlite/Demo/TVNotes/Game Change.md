@@ -10,7 +10,8 @@ User Score: 72
 User Count: 5
 Director: Jay Roach
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xsucathtIn3pg5SzxmvEVQgho4P.jpg
 ---
 
 Julianne Moore plays Sarah Palin in the HBO movie based on the book by John Heilemann and Mark Halperin about Palin's rise from unknown governor of Alaska to potential vice president.
+Image poster gotten from themoviedb.org

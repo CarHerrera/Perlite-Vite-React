@@ -14,3 +14,4 @@ image:
 ---
 
 Miriam Nessler (Bette Midler), a New York teacher; Sharynn Tarrows (Kaitlyn Dever), a nurse from Wyoming; actor Mark Hesterman (Dan Levy); Youtuber Clarissa Montgomery (Sarah Paulson) and philanthropist Callie Josephson (Issa Rae) all deal with the coronavirus pandemic in different ways in this satire from Paul Rudnick.
+Image poster gotten from themoviedb.org

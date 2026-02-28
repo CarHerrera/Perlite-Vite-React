@@ -10,7 +10,8 @@ User Score: 75
 User Count: 676
 Director: James Gunn,Greg Mottola,Alethea Jones
 Creator: Jerry Siegel
-image: 
+image: https://image.tmdb.org/t/p/w500/eYzbGcYnOUlvj2fa76pTgIXogd7.jpg
 ---
 
 Peacemaker/Chris Smith (John Cena) joins a new team in "The Suicide Squad" spinoff series from James Gunn.
+Image poster gotten from themoviedb.org

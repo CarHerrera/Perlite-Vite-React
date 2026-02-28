@@ -10,7 +10,8 @@ User Score: 82
 User Count: 226
 Director: nan
 Creator: Vaun Wilmott
-image: 
+image: https://image.tmdb.org/t/p/w500/2rBiS2m5hZbTSxorXQmUcbt2cTU.jpg
 ---
 
 The series based on the 2010 movie Legion is set 25 years after the "Extinction War" between angels led by archangel Gabriel (Carl Beukes) and mankind-- with Archangel Michael on humanity's side. The few cities left standing include Vega (previously known as Las Vegas) where two families battle for control. A young soldier named Alex Lannen (Chris Egan), who's fate may change this new world, works at Archangel Michael's (Tom Wisdom) corporation. 
+Image poster gotten from themoviedb.org

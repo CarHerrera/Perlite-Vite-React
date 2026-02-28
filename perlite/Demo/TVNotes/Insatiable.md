@@ -10,7 +10,8 @@ User Score: 70
 User Count: 282
 Director: nan
 Creator: Lauren Gussis
-image: 
+image: https://image.tmdb.org/t/p/w500/lHZ4xqGQlmyiFTOVtwnNpTcZgkd.jpg
 ---
 
 Disgraced-lawyer-turned-beauty-pageant-coach Bob (Dallas Roberts) helps Patty (Debby Ryan) to become a pageant queen in the dark comedy that was originally developed for The CW.
+Image poster gotten from themoviedb.org

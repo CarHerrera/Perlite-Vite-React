@@ -10,7 +10,8 @@ User Score: 79
 User Count: 77
 Director: Tony Sacco
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hCozyD14uTMjvOmNpyE58sHdiek.jpg
 ---
 
 Giles the Butler (Gildart Jackson) hosts 13 contestants who compete for a $250,000 prize to figure out who is the "murderer" amongst them at Rue Manor.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 49
 User Count: 9
 Director: Marco Kreuzpaintner,Rob Savage,Andrea Harkin,William Bridges
 Creator: William Bridges,Brett Goldstein
-image: 
+image: https://image.tmdb.org/t/p/w500/g2mvINQCGACb9sswdKXh1KwpwzB.jpg
 ---
 
 The anthology series is set 15 years into the future where people can take a test to find their soulmate. 
+Image poster gotten from themoviedb.org

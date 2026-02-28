@@ -10,7 +10,8 @@ User Score: 71
 User Count: 72
 Director: Lauren Iungerich
 Creator: Eddie Gonzalez,Jeremy Haft,Lauren Iungerich
-image: 
+image: https://image.tmdb.org/t/p/w500/w6oviv65UEducvjAdH3sYYaxdu2.jpg
 ---
 
 The coming of age comedy co-created by Lauren Iungerich, Eddie Gonzalez, and Jeremy Haft follows Cesar (Diego Tinoco), Ruby (Jason Genao), Monse (Sierra Capri), and Jamal (Brett Gray) as they navigate high school and life in South central Los Angeles. 
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 64
 User Count: 120
 Director: Mikael Salomon
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/7imMR8ySLCPG3LsNlGej8GGtXBg.jpg
 ---
 
 Originally developed for FX, the first series on the Playstation Network is based on the graphic novel series by Brian Michael Bendis and Michael Avon Oeming, where detectives Christian Walker (Sharlto Copley) and Deena Pilgrim (Susan Heyward) solve homicide cases that involve superpowers. 
+Image poster gotten from themoviedb.org

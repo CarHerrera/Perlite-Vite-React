@@ -10,7 +10,8 @@ User Score: 68
 User Count: 25
 Director: Niels Arden Oplev
 Creator: Gina Lucita Monreal,David J. North
-image: 
+image: https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg
 ---
 
 A young Leroy Jethro Gibbs (Austin Stowell) begins his special agent career at the Camp Pendleton office led by Mike Franks (Kyle Schmid) in the NCIS spinoff narrated by Mark Harmon.
+Image poster gotten from themoviedb.org

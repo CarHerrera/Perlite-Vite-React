@@ -10,7 +10,8 @@ User Score: 78
 User Count: 742
 Director: nan
 Creator: Elizabeth Meriwether
-image: 
+image: https://image.tmdb.org/t/p/w500/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg
 ---
 
 After a breakup, Jess Day (Zooey Deschanel) moves into an apartment shared by three single guys named Nick (Jake Johnson), Schmidt (Max Greenfield), and Coach (Damon Wayans Jr.). 
+Image poster gotten from themoviedb.org

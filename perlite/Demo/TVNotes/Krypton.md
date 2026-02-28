@@ -10,7 +10,8 @@ User Score: 59
 User Count: 95
 Director: nan
 Creator: Joe Shuster,Jerry Siegel
-image: 
+image: https://image.tmdb.org/t/p/w500/kMMWb4zIZKBnO3lOpVBXCL1BeNI.jpg
 ---
 
 The fate of the planet Krypton is in the hands of Superman's grandfather Seg-El (Cameron Cuffe) in this sci-fi series from David S. Goyer and Ian Goldberg also features Brainiac (Blake Ritson) and Adam Strange (Shaun Sipos).
+Image poster gotten from themoviedb.org

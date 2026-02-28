@@ -14,3 +14,4 @@ image:
 ---
 
 The Lifetime TV movie takes a look at the Casey Anthony trial from the point of view of the Florida prosecutor, Jeff Ashton (Rob Lowe).
+Image poster gotten from themoviedb.org

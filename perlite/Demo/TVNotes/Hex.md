@@ -10,7 +10,8 @@ User Score: 60
 User Count: 6
 Director: Brian Grant,Andy Goddard,Julian Murphy
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rYaZSE48K6usylHfC6QKsFChXmx.jpg
 ---
 
 Cassie yearns to be popular and liked at her school. She wishes she was in the "in-crowd"; however, she goes about unnoticed in school everyday. The only girl who truly notices her is her best friend Thelma. For some strange reason though, Cassie feels like she is being followed by a man. This, however, is only the beginning of her problem.
+Image poster gotten from themoviedb.org

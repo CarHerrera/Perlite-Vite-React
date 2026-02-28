@@ -10,7 +10,7 @@ User Score: 82
 User Count: 268
 Director: nan
 Creator: Aaron Sorkin
-image: 
+image: https://image.tmdb.org/t/p/w500/yqDWr5NAE7m1IWrygYwLyEB6pN0.jpg
 ---
 
 The West Wing provides a glimpse into presidential politics in the nation's capital as it tells the stories of the members of a fictional presidential administration. These interesting characters have humor and dedication that touches the heart while the politics that they discuss touch on everyday life. The first six seasons focused on  the administration of President Josiah 'Jed' Bartlet (Martin Sheen). The seventh and final season transitioned to the 2006 Presidential Election between Democrat Congressman Mathew Vincente Santos of Houston, Texas (Jimmy Smits) and Republican Senator Arnold Vinick of California (Alan Alda). Broadcast History:
@@ -33,3 +33,4 @@ Airs all the time on Bravo (which is also part of the NBC Universal empire) and 
 
 DVD Releases:
 All seven seasons have been released in all regions. There was complete series box set released in November 2006.
+Image poster gotten from themoviedb.org

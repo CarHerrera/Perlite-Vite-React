@@ -10,7 +10,8 @@ User Score: 79
 User Count: 247
 Director: nan
 Creator: Adam F. Goldberg
-image: 
+image: https://image.tmdb.org/t/p/w500/3aQipkhSCHUmaHjImqEqT80k6GP.jpg
 ---
 
 Youngest son, Adam Goldberg (Sean Giambrone) documents his family life with a camcorder in this comedy set in the 1980s.
+Image poster gotten from themoviedb.org

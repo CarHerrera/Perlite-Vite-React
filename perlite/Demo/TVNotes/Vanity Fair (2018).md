@@ -14,3 +14,4 @@ image:
 ---
 
 Gwyneth Hughes' adaptation of the classic novel by Thackeray William Makepeace follows Becky Sharp (Olivia Cooke) as she makes her way from her pennilessness status to the court of King George IV.
+Image poster gotten from themoviedb.org

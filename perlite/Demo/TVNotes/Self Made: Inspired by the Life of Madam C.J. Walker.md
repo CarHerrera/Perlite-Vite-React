@@ -10,7 +10,8 @@ User Score: 58
 User Count: 18
 Director: Kasi Lemmons,DeMane Davis
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/8WuDOSa9MKi3qUiFev0GYr4OxvD.jpg
 ---
 
 Octavia Spencer stars as Madam C.J. Walker, the first self-made African-American woman millionaire in this four-part limited series based on Walker's great-great-grandaughter's book On Her Own Ground.
+Image poster gotten from themoviedb.org

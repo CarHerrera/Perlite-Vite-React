@@ -14,3 +14,4 @@ image:
 ---
 
 This NBC reality project spotlights the action and adventure found in this country's workforce. It is a competition series where each week 13 men and women must work on physically demanding jobs. Each week a contestant will be elimnated if his or her work is not up to par. The last remaining worker will receive the combined annual salaries of the jobs in the competition. 
+Image poster gotten from themoviedb.org

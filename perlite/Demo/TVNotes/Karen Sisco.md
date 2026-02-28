@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Michael Dinner
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xALO8AC4Cm7cEEYREfcPgoZmeL2.jpg
 ---
 
 Adapted from the 1998 Steven Soderbergh film "Out of Sight" and based on characters from crime novelist Elmore Leonard, Karen Sisco (Carla Gugino) is a U.S. marshal working on Miami's Gold Coast. She tracks down fugitives, regularly calling on her laid-back father (Robert Forster), a semi-retired private eye (Robert Forster).
+Image poster gotten from themoviedb.org

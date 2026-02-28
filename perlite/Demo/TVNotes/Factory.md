@@ -14,3 +14,4 @@ image:
 ---
 
 Spike TV's first original comedy series is about four work-weary slackers in a small town factory and their efforts to avoid accomplishing actual work tasks. Strangers with Candy co-creator Mitch Rouse directs, produces, and stars in this offering.
+Image poster gotten from themoviedb.org

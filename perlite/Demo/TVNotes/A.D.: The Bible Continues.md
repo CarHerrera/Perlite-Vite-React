@@ -10,7 +10,8 @@ User Score: 59
 User Count: 22
 Director: Ciaran Donnelly,Tony Mitchell,Paul Wilmshurst,Rob Evans,Brian Kelly
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/MqDwyYfPhEeVgV8a0KXi9baMQh.jpg
 ---
 
 The effects of the death of Christ on his disciples, Mary and other leaders are explored in this miniseries from Mark Burnett and Roma Downey.
+Image poster gotten from themoviedb.org

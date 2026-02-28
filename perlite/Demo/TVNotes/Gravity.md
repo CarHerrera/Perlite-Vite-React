@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: Eric Schaeffer
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/my3wzNVRGTCpaApDXJXcLDsgbE3.jpg
 ---
 
 Starz presents a dramedy about a group of suicide survivors whose worlds collide in an out-patient program.
+Image poster gotten from themoviedb.org

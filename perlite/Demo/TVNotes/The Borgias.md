@@ -10,7 +10,8 @@ User Score: 79
 User Count: 274
 Director: Kari Skogland,Neil Jordan,David Leland
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/y6CHDkNDhswuaqwQEC0wgC7MMox.jpg
 ---
 
 The show follows the Borgia family that rose to power in Italy during the Renaissance. 
+Image poster gotten from themoviedb.org

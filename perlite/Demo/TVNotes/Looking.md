@@ -10,7 +10,8 @@ User Score: 80
 User Count: 189
 Director: Andrew Haigh,Jamie Babbit,Ryan Fleck
 Creator: Michael Lannan
-image: 
+image: https://image.tmdb.org/t/p/w500/cMIRpZUOXwZcDoGyRJnwrrZQYzW.jpg
 ---
 
 Patrick (Jonathan Groff), Agustín (Frankie J. Alvarez), and Dom (Murray Bartlett) are gay friends living in San Francisco, trying to figure out life and relationships.
+Image poster gotten from themoviedb.org

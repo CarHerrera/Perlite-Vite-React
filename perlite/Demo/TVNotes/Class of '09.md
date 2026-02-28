@@ -10,7 +10,8 @@ User Score: 52
 User Count: 19
 Director: Joe Robert Cole,Steven Canals,Amanda Marsalis,Sunu Gonera
 Creator: Tom Rob Smith
-image: 
+image: https://image.tmdb.org/t/p/w500/5eCGq50CMloT2a1bMDB8JPpGuf2.jpg
 ---
 
 The impact of artificial intelligence on the U.S. criminal justice system is seen through the eyes of FBI agents who graduated in 2009 and over three different time periods in this thriller from Tom Rob Smith.
+Image poster gotten from themoviedb.org

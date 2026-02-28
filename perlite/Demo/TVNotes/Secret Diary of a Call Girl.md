@@ -10,7 +10,7 @@ User Score: 63
 User Count: 35
 Director: Yann Demange,Susan Tully,Peter Lydon
 Creator: Lucy Prebble
-image: 
+image: https://image.tmdb.org/t/p/w500/ewp0mtvdtb1QLq8CRzlL2MMdTss.jpg
 ---
 
 Hannah is more than she appears to be in Secret Diary of a Call Girl.  Hannah is also Belle, one of the top high class call girls in the city of London.  Hannah and Belle have the same common goal; to make as much money as possible while they still can.
@@ -26,3 +26,4 @@ The controversial sex scenes also resulted in a nomination for best soft core pr
 But that's not all! The first season has also been nominated for the "Golden Rose TV award" in the category "best drama".
 
 Only weeks after the first series ended, ITV announced a second series, and production started in early 2008.
+Image poster gotten from themoviedb.org

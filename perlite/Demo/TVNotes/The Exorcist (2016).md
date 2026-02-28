@@ -14,3 +14,4 @@ image:
 ---
 
 The adaptation of William Blatty’s 1971 book focuses on Father Tomas Ortega (Alfonso Herrera) and Father Marcus Lang (Ben Daniels) as they face a case of demonic possession in Angela Rance's (Geena Davis) family.
+Image poster gotten from themoviedb.org

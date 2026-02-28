@@ -10,7 +10,8 @@ User Score: 87
 User Count: 54
 Director: Paul Spillenger,Mark Linfield
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/mD2SDmB4iTvWlFH1izphQ80GfKq.jpg
 ---
 
 Narrated by Alec Baldwin, the BBC and Discovery coproduced documentary series goes north and south to cover life in the Arctic and Antarctic.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 67
 User Count: 315
 Director: nan
 Creator: Craig Engler,Karl Schaefer
-image: 
+image: https://image.tmdb.org/t/p/w500/gXfeDMkEcHoYBvtkbU11g3F81b.jpg
 ---
 
 Set three years after a zombie virus nearly kills everyone, a team  that includes leader Hammond (Harold Perrineau), second-in-command Garnett (Tom Everett Scott), and a computer hacker who goes by the name Citizen Z (DJ Qualls), seek to move a survivor of the virus from New York to the only functioning lab in California to produce an antidote.
+Image poster gotten from themoviedb.org

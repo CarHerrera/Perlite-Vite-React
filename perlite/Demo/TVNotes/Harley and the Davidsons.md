@@ -10,7 +10,8 @@ User Score: 70
 User Count: 9
 Director: Ciaran Donnelly,Stephen Kay
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/oGO6qvzxkDw7azTTbu7Qlucnjwe.jpg
 ---
 
 The three-part miniseries tells how Walter & Arthur Davidson and Bill Harley built the now well-known motorcycle company.
+Image poster gotten from themoviedb.org

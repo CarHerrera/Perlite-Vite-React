@@ -10,7 +10,8 @@ User Score: 84
 User Count: 48
 Director: Mark Piznarski,Scott Winant,Todd Holland
 Creator: Winnie Holzman
-image: 
+image: https://image.tmdb.org/t/p/w500/kuyxEBpuAYdfHqfzip2Y6UYRI2C.jpg
 ---
 
 My So-Called Life started in 1994 on ABC. It was very popular. It was a show that many could relate to and came off as more realistic than many other high school shows. Unfortunately, ABC cancelled it after one season.   It has remained a favorite for long after.  There are many questions left unresolved. If there was a season 2, would Rayanne and Angela be friends? Would Graham overcome his fidelity issues?  Would Angela ditch dreamboat Jordan Catalano and go with geeky Brian Krakow? We'll never know.
+Image poster gotten from themoviedb.org

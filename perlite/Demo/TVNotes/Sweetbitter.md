@@ -10,7 +10,8 @@ User Score: 63
 User Count: 23
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jTDgxE9xwNpiKoZqGo0VODC6cAR.jpg
 ---
 
 22-year old Tess (Ella Purnell) faces the fast-paced world of her new job at an exclusive restaurant in New York City in this adaptation the novel of the same name by series creator Stephanie Danler.
+Image poster gotten from themoviedb.org

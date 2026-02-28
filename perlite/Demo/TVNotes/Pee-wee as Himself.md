@@ -10,9 +10,10 @@ User Score: 82
 User Count: 40
 Director: Matt Wolf
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/245axX0GN2QQE8KwXGKEvAVl1YP.jpg
 ---
 
 Matt Wolf's two-part documentary about the life and career of Paul Reubens, best known for his work as Pee-Wee Herman, includes interviews, archival footage and never-before-seen photographs.
 
 [Premiered at the Sundance Film Festival on 23 Jan 2025 and set to air on HBO on 23 May 2025]
+Image poster gotten from themoviedb.org

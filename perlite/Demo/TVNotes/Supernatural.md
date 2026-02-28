@@ -10,7 +10,7 @@ User Score: 83
 User Count: 2894
 Director: nan
 Creator: Eric Kripke
-image: 
+image: https://image.tmdb.org/t/p/w500/u40gJarLPlIkwouKlzGdobQOV9k.jpg
 ---
 
 Supernatural stars Jensen Ackles and Jared Padalecki as Dean and Sam Winchester, two brothers who travel the country looking for their missing father and battling evil spirits along the way.
@@ -22,3 +22,4 @@ Dean goes to Sam for help when their father goes missing. Now Sam must join his 
 The two brothers, bound by tragedy and blood to their mission, travel across the country encountering terrifying and dangerous forces most believe to be nothing but superstition and folklore, such as the Lady in White, the Indian beast known as the Wendigo, Phantom Travelers who cause plane crashes, Bloody Mary, vampires, demons and many more.
 
 From Warner Bros. Television Production Inc. in association with Wonderland Sound and Vision, with executive producers McG (Charlie's Angels, The O.C.), writer/executive producer Eric Kripke (Boogeyman) and Robert Singer (Midnight Caller). 
+Image poster gotten from themoviedb.org

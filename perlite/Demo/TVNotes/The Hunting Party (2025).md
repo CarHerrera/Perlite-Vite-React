@@ -14,3 +14,4 @@ image:
 ---
 
 A team of investigators are recruited by a government task force to apprehend a group of killers who escaped from a top-secret prison in the crime drama series written by J.J. Bailey.
+Image poster gotten from themoviedb.org

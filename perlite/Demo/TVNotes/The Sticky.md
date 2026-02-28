@@ -10,7 +10,8 @@ User Score: 66
 User Count: 26
 Director: nan
 Creator: Brian Donovan,Ed Herro
-image: 
+image: https://image.tmdb.org/t/p/w500/iNy4BMVVaAUt8S32fbotSOh4ka5.jpg
 ---
 
 Maple syrup farmer Ruth Landry (Margo Martindale), a Boston mobster (Chris Diamantopoulos), and a French-Canadian security guard (Guillaume Cyr) aim to steal Quebec's maple syrup reserve in this dark comedy series inspired by the 2012 heist where nearly 3,000 tons was stolen.
+Image poster gotten from themoviedb.org

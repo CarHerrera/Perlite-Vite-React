@@ -10,7 +10,8 @@ User Score: 76
 User Count: 95
 Director: Andy Tennant,Beth McCarthy-Miller,Donald Petrie,Chuck Lorre
 Creator: Chuck Lorre
-image: 
+image: https://image.tmdb.org/t/p/w500/vnK8b6bNl1koSthTGbzgMPnh7Ky.jpg
 ---
 
 Actor Sandy Kominsky (Michael Douglas) and his agent/friend Norman Newlander (Alan Arkin) deal with ageing and living in the Los Angeles in the Chuck Lorre comedy.
+Image poster gotten from themoviedb.org

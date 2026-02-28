@@ -10,7 +10,8 @@ User Score: 31
 User Count: 2041
 Director: nan
 Creator: Leslye Headland
-image: 
+image: https://image.tmdb.org/t/p/w500/1dcoIe9uKbWykq2zsnkaz2rxPnP.jpg
 ---
 
 Master Sol's (Lee Jung-jae) investigation of Jedi murders brings him into contact with his former padawan (Amandla Stenberg) in the live-action Star Wars series set 100 years before "The Phantom Menace." 
+Image poster gotten from themoviedb.org

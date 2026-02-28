@@ -10,7 +10,8 @@ User Score: 60
 User Count: 70
 Director: John Erick Dowdle,Dennie Gordon
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/14q24aBfJPrjumuWjKKA6Bwml2A.jpg
 ---
 
 The six-part series chronicles the events that led to the 51-day standoff between the Branch Davidians, led by David Koresh (Taylor Kitsch); the Bureau of Alcohol, Tobacco, and Firearms (ATF); and the FBI, including lead FBI negotiator, Gary Noesner (Michael Shannon).
+Image poster gotten from themoviedb.org

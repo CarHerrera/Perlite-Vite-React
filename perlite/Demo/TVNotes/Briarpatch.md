@@ -10,7 +10,8 @@ User Score: 59
 User Count: 31
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/3DwOQCVO6p87SlHKFwjwMmVvkcU.jpg
 ---
 
 The first season of the crime anthology series from Sam Esmail and Andy Greenwald features a story based on the Ross Thomas novel of the same name. 
+Image poster gotten from themoviedb.org

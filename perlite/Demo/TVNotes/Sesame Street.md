@@ -10,7 +10,7 @@ User Score: 26
 User Count: 69
 Director: nan
 Creator: Joan Ganz Cooney,Lloyd Morrisett Jr.
-image: 
+image: https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg
 ---
 
 Muppets (puppets designed by Jim Henson) and humans in a neighborhood city street help and learn from each other on the long-running children's program.
@@ -22,3 +22,4 @@ Seasons 46-50: HBO aired the episodes first before they appeared on PBS nine mon
 Season 50-55: The show moved to HBO Max and continued the same exclusive premiere window for new episodes before they appeared on PBS.
 
 Beginning with Season 56, new episodes will be available same day-and-date on Netflix and PBS/PBS KIDS.
+Image poster gotten from themoviedb.org

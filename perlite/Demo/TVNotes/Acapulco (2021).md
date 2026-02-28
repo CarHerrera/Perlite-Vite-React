@@ -14,3 +14,4 @@ image:
 ---
 
 Máximo Gallardo (Eugenio Derbez/Enrique Arrizon) recalls his life beginning his start in the 1980s as a cabana boy at an Acapulco resort in this bilingual comedy series inspired by Derbez's 2017 film "How to Be a Latin Lover."
+Image poster gotten from themoviedb.org

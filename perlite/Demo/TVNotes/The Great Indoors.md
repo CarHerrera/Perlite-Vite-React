@@ -10,7 +10,8 @@ User Score: 51
 User Count: 33
 Director: Andy Ackerman
 Creator: Mike Gibbons
-image: 
+image: https://image.tmdb.org/t/p/w500/ot4gdEwuXHf0wOOmKJW86Cd1b69.jpg
 ---
 
 An injury sidelines adventure reporter Joel (Joel McHale) to a desk job with the digital department for "The Great Outdoors" magazine he works for.
+Image poster gotten from themoviedb.org

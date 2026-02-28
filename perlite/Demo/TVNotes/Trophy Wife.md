@@ -10,7 +10,8 @@ User Score: 70
 User Count: 47
 Director: Jason Moore
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/wmTyEMtSNSsWyBnBo2DaKGpq7gK.jpg
 ---
 
 Kate Harrison (Malin Akerman) finds life as the third wife of Pete (Bradley Whitford) complicated by his ex-wives and step children.
+Image poster gotten from themoviedb.org

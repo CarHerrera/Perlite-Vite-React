@@ -10,7 +10,8 @@ User Score: 83
 User Count: 369
 Director: nan
 Creator: Steven S. DeKnight
-image: 
+image: https://image.tmdb.org/t/p/w500/u0rd13I9ZyfDrzOoj3ao2SUxIhj.jpg
 ---
 
 Starz is set to bring gladiators to the small screen with "Spartacus: Blood and Sand" from executive producers Sam Raimi, Rob Tapert and Joshua Donen.  The high budget 13-episode first season premieres on January 22, 2010 with a second season already scheduled for 2011. The show will star Andy Whitfield as the infamous title character Spartacus.
+Image poster gotten from themoviedb.org

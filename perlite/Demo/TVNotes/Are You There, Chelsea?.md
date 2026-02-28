@@ -10,7 +10,8 @@ User Score: 51
 User Count: 52
 Director: Gail Mancuso
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/mpTqwUvfYJcLy5f9g1IPKtrjmAT.jpg
 ---
 
 The comedy about a 20-something woman named Chelsea (Laura Prepon) is based on the life of Chelsea Handler.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 75
 User Count: 56
 Director: Scott Peters,Catherine Hardwicke,Kelly Makin,Robert Lieberman
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/wF1IwXyKsdViyEQdkxtIOyMz3Dt.jpg
 ---
 
 An adaptation of the Norwegian drama Øyevitne, two teenage boys named Lukas (James Paxton) and Phillip (Tyler Young) secretly meet up in a cabin only to witness a brutal quadruple murder.
+Image poster gotten from themoviedb.org

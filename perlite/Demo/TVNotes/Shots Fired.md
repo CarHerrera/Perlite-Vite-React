@@ -10,7 +10,8 @@ User Score: 49
 User Count: 22
 Director: Manoj Sharma,Gina Prince-Bythewood
 Creator: Reggie Rock Bythewood,Gina Prince-Bythewood
-image: 
+image: https://image.tmdb.org/t/p/w500/tuU3hzxQWfybSjEZp9Jrl9bpAQj.jpg
 ---
 
 After an unarmed white college student is killed by a African-American police officer sends a small town in North Carolina in turmoil, another unsolved murder of an African-American teenager leads to an investigation by the Department of Justice led by investigator Ashe Akino (Sanaa Lathan) and Special Prosecutor Preston Terry (Stephan James).
+Image poster gotten from themoviedb.org

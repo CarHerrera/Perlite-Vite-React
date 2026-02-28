@@ -10,7 +10,8 @@ User Score: 55
 User Count: 41
 Director: Michael Lembeck,Leonard R. Garner Jr.
 Creator: Jimmy Fallon,Charlie Grandy,Amy Ozols
-image: 
+image: https://image.tmdb.org/t/p/w500/uSHWvVrgXbmmR8iV2UpLSWLtqs7.jpg
 ---
 
 Guys with Kids stars Anthony Anderson, Jesse Bradford and Zach Cregger  as three 30-something guys who enjoy the adventures of parenting despite  the fact they haven't grown up themselves.
+Image poster gotten from themoviedb.org

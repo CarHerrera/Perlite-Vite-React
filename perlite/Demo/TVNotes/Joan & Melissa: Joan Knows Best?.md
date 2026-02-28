@@ -10,7 +10,8 @@ User Score: 70
 User Count: 6
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/an7VUqCrqexEQBChChFFaNw8POa.jpg
 ---
 
 Joan Rivers decides to move in with her daughter, Melissa Rivers, and makes her life almost unbearable!
+Image poster gotten from themoviedb.org

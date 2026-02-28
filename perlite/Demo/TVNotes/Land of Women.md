@@ -10,7 +10,8 @@ User Score: 51
 User Count: 17
 Director: Carlos Sedes,Kenneth Biller
 Creator: Ramón Campos,Paula Fernández,Teresa Fernández-Valdés,Gema R. Neira
-image: 
+image: https://image.tmdb.org/t/p/w500/5mcJEOFZplTgnZ8N9YjYGhlb7LF.jpg
 ---
 
 When her husband disappears, Gala (Eva Longoria) leaves New York with her daughter (Victoria Bazúa) and mother (Carmen Maura) to hide in Spain from criminals seeking their money in the dramedy series based on Sandra Barneda's novel La tierra de las mujeres. 
+Image poster gotten from themoviedb.org

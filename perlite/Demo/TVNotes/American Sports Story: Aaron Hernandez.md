@@ -10,7 +10,8 @@ User Score: 65
 User Count: 13
 Director: nan
 Creator: Stuart Zicherman
-image: 
+image: https://image.tmdb.org/t/p/w500/5gn5D2RX4aOSE4iAwjdSSudlNR0.jpg
 ---
 
 Ryan Murphy's latest FX anthology series focuses on the rise and fall of NFL"s Aaron Hernandez (Josh Rivera).
+Image poster gotten from themoviedb.org

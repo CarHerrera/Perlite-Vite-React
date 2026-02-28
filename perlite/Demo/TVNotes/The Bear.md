@@ -10,7 +10,8 @@ User Score: 77
 User Count: 829
 Director: Christopher Storer
 Creator: Christopher Storer
-image: 
+image: https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg
 ---
 
 Chef Carmen "Carmy" Berzatto (Jeremy Allen White) returns home to run his family's sandwich shop in Chicago where he faces issues with running a small business, his new employees and his family.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 48
 User Count: 39
 Director: Ken Kwapis
 Creator: Kenya Barris
-image: 
+image: https://image.tmdb.org/t/p/w500/rZsWeJzJbsb14IjNgTeBP3FEmvx.jpg
 ---
 
 The family comedy loosely based on the life of creator Kenya Barris, with Barris playing a fictionalized version of himself and Rashida Jones as his wife Joya, who raise six children together.
+Image poster gotten from themoviedb.org

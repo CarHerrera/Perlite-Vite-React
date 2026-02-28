@@ -10,7 +10,8 @@ User Score: 56
 User Count: 35
 Director: Phillip Noyce
 Creator: Mike Kelley
-image: 
+image: https://image.tmdb.org/t/p/w500/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg
 ---
 
 The neo-noir thriller anthology series Mike Kelly is about the consequences of choices people make.
+Image poster gotten from themoviedb.org

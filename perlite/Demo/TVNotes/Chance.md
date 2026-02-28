@@ -10,7 +10,8 @@ User Score: 72
 User Count: 57
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/OC3QtOSM8fURbkV6nJ8guOUFnu.jpg
 ---
 
 Based on the book by Kem Nunn, in the midst of a divorce, San Francisco forensic neuropsychiatrist Eldon Chance (Hugh Laurie) becomes involved with a married patient (Gretchen Mol) which brings trouble in the form of her abusive homicide detective husband (Paul Adelstein).
+Image poster gotten from themoviedb.org

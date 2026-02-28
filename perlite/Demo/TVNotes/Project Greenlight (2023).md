@@ -14,3 +14,4 @@ image:
 ---
 
 Female filmmakers are mentored by Kumail Nanjiani, Gina Prince-Bythewood and executive producer Issa Rae in this reboot of the Project Greenlight series.
+Image poster gotten from themoviedb.org

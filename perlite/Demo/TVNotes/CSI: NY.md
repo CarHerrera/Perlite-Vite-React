@@ -10,7 +10,8 @@ User Score: 38
 User Count: 71
 Director: nan
 Creator: Ann Donahue,Carol Mendelsohn,Anthony E. Zuiker
-image: 
+image: https://image.tmdb.org/t/p/w500/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg
 ---
 
 The third edition of the "CSI" franchise sets up shop in the Big Apple, where taciturn Detective Mac Taylor (Gary Sinise) and his partner, Detective Stella Bonasera (Melina Kanakaredes), lead a crime-solving team. Like his counterparts in Las Vegas and Miami, Taylor knows that people may lie, but the evidence rarely does. In the city that never sleeps, CSI: NY never rests.
+Image poster gotten from themoviedb.org

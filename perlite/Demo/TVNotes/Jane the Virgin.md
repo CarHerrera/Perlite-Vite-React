@@ -10,7 +10,8 @@ User Score: 80
 User Count: 297
 Director: nan
 Creator: Perla Farías
-image: 
+image: https://image.tmdb.org/t/p/w500/DRRHgvsNEfBloMgIP8bBw4zi4E.jpg
 ---
 
 After being told by her telenovelas-obsessed grandmother the importance of being a virgin until she married, 23-year old Jane Villanueva (Gina Rodriguez) finds herself pregnant after being accidentally artificially inseminated with donor sperm.
+Image poster gotten from themoviedb.org

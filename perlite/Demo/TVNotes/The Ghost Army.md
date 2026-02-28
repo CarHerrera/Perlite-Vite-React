@@ -14,3 +14,4 @@ image:
 ---
 
 Rick Beyer's documentary about the secret mission during World War II where Americans deployed decoy units to fool the German forces.
+Image poster gotten from themoviedb.org

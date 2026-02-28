@@ -10,7 +10,8 @@ User Score: 62
 User Count: 33
 Director: nan
 Creator: John Nordling,Felix Herngren
-image: 
+image: https://image.tmdb.org/t/p/w500/6CpHvZyAhGUOccf5pDO2hoC83Ms.jpg
 ---
 
 The comedy based on the Swedish series Ulveson and Herngren is set behind the scenes of a late night sketch comedy show where veteran comic Billy (Billy Crystal) is set up with Josh (Josh Gad), an up-and-coming comedian.
+Image poster gotten from themoviedb.org

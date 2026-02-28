@@ -14,3 +14,4 @@ image:
 ---
 
 Tara Reid, Cassie Scerbo, and Ian Ziering return to fight another shark storm as it hits Washington D.C. and the down the Eastern seaboard to Florida. Michele Bachmann, Ann Coulter, Mark Cuban, Bo Derek, David Hasselhoff, Chris Kirkpatrick, and Jerry Springer also appear.
+Image poster gotten from themoviedb.org

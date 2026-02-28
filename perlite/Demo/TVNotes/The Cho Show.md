@@ -14,3 +14,4 @@ image:
 ---
 
 Follow comedian Margaret Cho and see what really goes on in her crazy life.  Margaret Cho will assert her anything goes lifestyle and strive to continue to be herself in an industry that in the past had tried to change her to anything but.
+Image poster gotten from themoviedb.org

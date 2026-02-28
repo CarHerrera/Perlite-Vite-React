@@ -14,3 +14,4 @@ image:
 ---
 
 Reed (Keegan-Michael Key), Clay (Johnny Knoxville), Bree (Judy Greer), and Zack (Calum Worthy) are reluctantly reunited for a reboot of their 2000 sitcom in this comedy series created by Steven Levitan.
+Image poster gotten from themoviedb.org

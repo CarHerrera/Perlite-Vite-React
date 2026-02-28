@@ -14,3 +14,4 @@ image:
 ---
 
 The TV movie is based on the U.S. Navy SEAL team's mission to locate and capture Osama bin Laden.
+Image poster gotten from themoviedb.org

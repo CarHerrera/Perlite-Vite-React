@@ -10,7 +10,8 @@ User Score: 72
 User Count: 9
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qDXXZmCCkUI6agnLnALVcRZpoek.jpg
 ---
 
 Million Dollar Listing take a look at the high-end real estate market in California.  The show will follow two successful real estate companies, one located in Malibu and the other in Hollywood.  Each episode will feature a real listing and show the hard work and competition involved in selling top properties.
+Image poster gotten from themoviedb.org

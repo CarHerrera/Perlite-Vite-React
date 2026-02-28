@@ -10,7 +10,8 @@ User Score: 75
 User Count: 21
 Director: Steve Miner
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/divzwWoDznYdqn0FtwyPuQfacg6.jpg
 ---
 
 Young Boston journalist April (Italia Ricci) balances dating coworker Dominic (Richard Brancatisano), life with her mother Sara (Mary Page Keller), younger sister Brenna (Haley Ramm), and grandmother Emma (Rebecca Schull).
+Image poster gotten from themoviedb.org

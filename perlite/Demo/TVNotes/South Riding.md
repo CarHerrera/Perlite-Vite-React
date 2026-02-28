@@ -10,7 +10,7 @@ User Score: 70
 User Count: 4
 Director: Diarmuid Lawrence
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/bM3NfKoIR6HAlCoU0xYdckFCqW3.jpg
 ---
 
 The First World War is over, so Sarah Burton is returning to her home in Yorkshire after helping with the war effort in London.
@@ -18,3 +18,4 @@ The First World War is over, so Sarah Burton is returning to her home in Yorkshi
 A modern woman, her views are foreign to those of her friends. But her passion and ambition put off men, particularly that of Robert Carne, a handsome farmer who she loves to hate.
 
 This three-parter stars Anna Maxwell Martin and airs in February 2011 on BBC One and BBC HD.
+Image poster gotten from themoviedb.org

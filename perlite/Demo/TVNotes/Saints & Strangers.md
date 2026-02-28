@@ -10,7 +10,8 @@ User Score: 52
 User Count: 9
 Director: Paul A. Edwards
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/mhsaftBLNIQ5mcMgVhFtqc0ANYV.jpg
 ---
 
 The two-part miniseries about the first Thanksgiving with the Pilgrims led by William Bradford (Vincent Kartheiser) and the Native Americans led by Massasoit (Raoul Trujillo) with English-speaking Squanto (Kalani Queypo) acting as an ambassador.
+Image poster gotten from themoviedb.org

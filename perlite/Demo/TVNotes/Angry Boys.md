@@ -10,7 +10,8 @@ User Score: 69
 User Count: 25
 Director: Chris Lilley,Stuart McDonald,Jeffrey Walker
 Creator: Chris Lilley
-image: 
+image: https://image.tmdb.org/t/p/w500/kviE2G5B4X5SfuQOITDkKhyYepH.jpg
 ---
 
 Summer Heights High’s Chris Lilley returns with a comedy about the lives of average men and boys in Australia, with many of the characters played by Lilley.
+Image poster gotten from themoviedb.org

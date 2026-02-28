@@ -10,7 +10,8 @@ User Score: 68
 User Count: 40
 Director: Justin Haythe
 Creator: Justin Haythe
-image: 
+image: https://image.tmdb.org/t/p/w500/qrpIpzbwoAZJTegfKSTlmz15jbf.jpg
 ---
 
 Catherine de Medici (Samantha Morton) tells how she rose to power after being married off at the age of 14 to a French count in this drama series based on Leonie Frieda's book "Catherine de Medici: Renaissance Queen of France."
+Image poster gotten from themoviedb.org

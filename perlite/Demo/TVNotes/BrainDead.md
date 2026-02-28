@@ -10,7 +10,8 @@ User Score: 77
 User Count: 133
 Director: nan
 Creator: Michelle King,Robert King
-image: 
+image: https://image.tmdb.org/t/p/w500/glUWJyqN9EUO2kb8rB0T1PUmiJU.jpg
 ---
 
 New congressional staffer Laurel (Mary Elizabeth Winstead) discovers aliens have eaten the brains of a number of people on the Hill in this Robert and Michelle King comedy-drama set in Washington, D.C.  
+Image poster gotten from themoviedb.org

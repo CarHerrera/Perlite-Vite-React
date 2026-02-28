@@ -14,3 +14,4 @@ image:
 ---
 
 A supermodel becomes an anchorwoman for the local news station in a southern Texas town.
+Image poster gotten from themoviedb.org

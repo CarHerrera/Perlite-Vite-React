@@ -10,7 +10,8 @@ User Score: 63
 User Count: 39
 Director: Carrie Hobson,Michael Yates,Lou Hamou-Lhadj,Trevor Jimenez,Chris Sasaki
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rnVVkTU8noAZshs1sHdkxdGcVIP.jpg
 ---
 
 Pixar's first original animated television series focuses on a middle school softball team led by Coach Dan (voiced by Will Forte) as they approach their championship game.
+Image poster gotten from themoviedb.org

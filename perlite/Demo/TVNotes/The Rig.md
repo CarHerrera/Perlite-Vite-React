@@ -10,7 +10,8 @@ User Score: 56
 User Count: 54
 Director: Alex Holmes,John Strickland
 Creator: David Macpherson
-image: 
+image: https://image.tmdb.org/t/p/w500/o8KxvfdpSVCP53d4S6a4DPHOqNh.jpg
 ---
 
 Magnus MacMillan (Iain Glen) and his crew on an oil rig off the coast of Scotland are ready to return home when they suddenly find themselves enveloped by fog and find communication to the outside world cut off in this thriller created by David Macpherson.
+Image poster gotten from themoviedb.org

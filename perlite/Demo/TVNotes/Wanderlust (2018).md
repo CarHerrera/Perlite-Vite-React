@@ -14,3 +14,4 @@ image:
 ---
 
 After a bicycle accident, therapist Joy Richards (Toni Collette) seeks to fix her marriage and dwindling sex life with her husband Alan (Steven Mackintosh) by proposing an unorthodox experiment in this series based on Nick Payne's play of the same name.
+Image poster gotten from themoviedb.org

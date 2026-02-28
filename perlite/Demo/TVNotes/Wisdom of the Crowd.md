@@ -10,7 +10,8 @@ User Score: 57
 User Count: 44
 Director: nan
 Creator: Shira Hadad,Dror Mishani
-image: 
+image: https://image.tmdb.org/t/p/w500/2gQB4t0VEK6sMBQKbBivDrp3S4i.jpg
 ---
 
 Based on an Israeli series, a Silicon Valley tech guru Jeffrey Tanner (Jeremy Piven) creates an app to solve his daughter's murder with the help of Det. Tommy Cavanaugh (Richard T. Jones).
+Image poster gotten from themoviedb.org

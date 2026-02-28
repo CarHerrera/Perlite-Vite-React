@@ -14,3 +14,4 @@ image:
 ---
 
 Based on the Emmy-winning CBS series of the same name, the TNT series follows the lives of J.R. and Sue Ellen's son John Ross and Bobby and Pam's adopted son Christopher, who differ on whether to drill for oil or look for alternative energy sources.
+Image poster gotten from themoviedb.org

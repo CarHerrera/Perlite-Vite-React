@@ -10,7 +10,8 @@ User Score: 0
 User Count: 2
 Director: Michael Simon
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/t81iSuAy0aHJ1H1s2hSqZSmFyv6.jpg
 ---
 
 Join Penn Jillette of the legendary magician/comedian pair Penn & Teller as he hosts this exciting new competition.  Contestants must match up the 12 correct identities to 12 total strangers, but they must be careful not to judge a book by its cover because looks can be deceiving!  Each correctly identified identity results in an increased cash prize for the contestant, with a grand prize of $500,000 for matching up all 12 identities.
+Image poster gotten from themoviedb.org

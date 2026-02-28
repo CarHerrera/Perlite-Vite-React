@@ -14,3 +14,4 @@ image:
 ---
 
 Set 15 years after the 2001 film of the same name, Los Angeles Detective Frank Rourke (Bill Paxton) of the Special Investigation Section (S.I.S.) is assigned to Kyle Craig (Justin Cornwell), who works as a trainee while reporting their activities to the upper brass.
+Image poster gotten from themoviedb.org

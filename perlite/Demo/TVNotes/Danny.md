@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Peter Lauer,Timothy Busfield
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/mD3P09taxxqhBqNISHqRJVuGu91.jpg
 ---
 
 Daniel Stern assumes the role of Danny, a recently separated father of two trying to make sense of his changing life. And with a new dating life, his two quickly-growing teenagers and a job running the local community center, the changes are flying.
+Image poster gotten from themoviedb.org

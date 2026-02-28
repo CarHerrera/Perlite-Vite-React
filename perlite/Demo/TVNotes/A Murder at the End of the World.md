@@ -10,7 +10,8 @@ User Score: 59
 User Count: 80
 Director: nan
 Creator: Zal Batmanglij,Brit Marling
-image: 
+image: https://image.tmdb.org/t/p/w500/1mWCXJefbNU1E2XPJVM2vejMSZO.jpg
 ---
 
 Amateur detective Darby Hart (Emma Corrin) seeks to find the killer after one of the guests at an isolated retreat is murdered in this limited series created by Brit Marling and Zal Batmanglij.
+Image poster gotten from themoviedb.org

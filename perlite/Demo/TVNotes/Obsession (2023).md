@@ -14,3 +14,4 @@ image:
 ---
 
 Anna Barton (Charlie Murphy) begins an affair with William (Richard Armitagee, her fiancé's father in this adaptation of Josephine Hart's 1991 novel, Damage (which was also adapted into the 1992 film of the same name).
+Image poster gotten from themoviedb.org

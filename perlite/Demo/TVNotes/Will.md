@@ -10,7 +10,8 @@ User Score: 59
 User Count: 26
 Director: Shekhar Kapur,Elliott Lester,Jonathan Teplitzky
 Creator: Craig Pearce
-image: 
+image: https://image.tmdb.org/t/p/w500/dXv74kFe1HbEVUTRMt8wpN8lYM6.jpg
 ---
 
 A young William Shakespeare (Laurie Davidson) arrives in London to start his theater career where he attracts the attentions of Alice Burbage (Olivia DeJonge), her actor brother Richard (Mattias Inwood), poet (and eventual rival) Christopher Marlowe (Jamie Campbell Bower) and wealthy and Richard Topcliffe (Ewen Bremner), the Elizabethan enforcer against Catholicism.
+Image poster gotten from themoviedb.org

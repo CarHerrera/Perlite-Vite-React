@@ -14,3 +14,4 @@ image:
 ---
 
 The holiday special written and directed by James Gunn sees the Guardians looking for a Christmas present for Peter Quill.
+Image poster gotten from themoviedb.org

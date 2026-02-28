@@ -10,9 +10,10 @@ User Score: 55
 User Count: 4
 Director: Alex Graves,Andrew Bernstein
 Creator: Hank Steinberg,K.J. Steinberg
-image: 
+image: https://image.tmdb.org/t/p/w500/5FWsBK96U8VUywOun1N34cCU7Nj.jpg
 ---
 
 Nine people learn they share a common bond that was forged when they lived through a 52-hour hostage standoff during a bank robbery that changed their lives forever. Each episode begins with a flashback that reveals another 10 minutes of the robbery, and uncovers why and how these nine strangers remain linked to each other.
 
 The Nine was created by Hank Steinberg and K.J. Steinberg for ABC. Alex Graves and Hank Steinberg are executive producers.
+Image poster gotten from themoviedb.org

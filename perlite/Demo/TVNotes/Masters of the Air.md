@@ -10,7 +10,8 @@ User Score: 66
 User Count: 121
 Director: Cary Joji Fukunaga,Anna Boden
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rSAmgcoA74371rplbqM27yVsd3y.jpg
 ---
 
 The adaptation of from Donald L. Miller's book of the same name by John Orloff focuses on the US Air Forces' 100th Bomb Group during World War II.
+Image poster gotten from themoviedb.org

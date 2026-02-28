@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Ted Wass
 Creator: Don Reo
-image: 
+image: https://image.tmdb.org/t/p/w500/9mBJsdAXYbNdbNquwxu5AKzEnQ2.jpg
 ---
 
 Mike is a retired NFL player and his wheelchair-bound brother Daryl are brought together with life altering changes. Both brothers find their sibling rivalry heightened with age. Brothers is produced by Sony Pictures Television; Tantamount Studios; Impact Zone Productions, Inc.
+Image poster gotten from themoviedb.org

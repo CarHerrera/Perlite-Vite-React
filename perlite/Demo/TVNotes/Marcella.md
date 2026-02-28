@@ -10,7 +10,8 @@ User Score: 62
 User Count: 41
 Director: Charles Martin,Ashley Pearce,Gilles Bannier,Charles Sturridge,Jonathan Teplitzky,Henrik Georgsson
 Creator: Nicola Larder
-image: 
+image: https://image.tmdb.org/t/p/w500/k0FUUaaHYEcNrcEnIbPcmO6LIIA.jpg
 ---
 
 Originally aired on ITV, the first English-language series from The Bridge creator Hans Rosenfeldt finds former Detective Sergeant Marcella Backland (Anna Friel) still reeling from her husband leaving her when one of her unsolved murder cases is reopened and she is drawn back into active duty.
+Image poster gotten from themoviedb.org

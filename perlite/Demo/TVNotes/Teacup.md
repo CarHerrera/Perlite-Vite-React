@@ -10,7 +10,8 @@ User Score: 63
 User Count: 26
 Director: E.L. Katz,Kevin Tancharoen,Chloe Okuno,John Hyams
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/cP5zuQvWAFrgWptS0iXvDI3iND.jpg
 ---
 
 In rural Georgia, a group of people must work together to survive a mysterious threat in the horror-thriller series from James Wan and Ian McCulloch that was inspired by Robert McCammon's novel Stinger.
+Image poster gotten from themoviedb.org

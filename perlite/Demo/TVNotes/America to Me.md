@@ -10,7 +10,8 @@ User Score: 59
 User Count: 75
 Director: Bing Liu,Kevin Shaw,Steve James,Rebecca Parrish
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ysgJpIp4fjDhCoMKfau9lv7oOLK.jpg
 ---
 
 The 10-part documentary series from Steve James takes a year-long look at Chicago's Oak Park and River Forest High School as students and staff deal with a variety of issues, including race, at one of the most diverse suburban public high schools in the U.S.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 55
 User Count: 111
 Director: David Schneider,Annie Griffin
 Creator: Armando Iannucci
-image: 
+image: https://image.tmdb.org/t/p/w500/inSe4HBqnwIoeqoChGlagVs0avG.jpg
 ---
 
 Captain Ryan Clark (Hugh Laurie) and his crew must deal with its angry passengers when the cruise space ship experiences a variety of problems during their five-week voyage to Saturn in this comedy created and written by Armando Iannucci.
+Image poster gotten from themoviedb.org

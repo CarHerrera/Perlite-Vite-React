@@ -10,7 +10,8 @@ User Score: 5
 User Count: 4
 Director: Asif Kapadia
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/83wJDGF2De7RUqsKDysG8Y079s6.jpg
 ---
 
 The documentary series co-created by Oprah Winfrey and Prince Harry about mental health features discussions with chef Rashad Armstead, Glenn Close, NBA player DeMar DeRozan, Olympic boxer Virginia "Ginny" Fuchs, Lady Gaga, NBA player Langston Galloway, and Zak Williams.
+Image poster gotten from themoviedb.org

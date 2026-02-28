@@ -10,7 +10,8 @@ User Score: 76
 User Count: 122
 Director: Morten Tyldum
 Creator: Mark Bomback
-image: 
+image: https://image.tmdb.org/t/p/w500/JTmkzwSDRiS9nvSPwpDB9fmZj2.jpg
 ---
 
 Jacob (Jaeden Martell), the 14-year-old son of assistant district attorney Andy Barber (Chris Evans), is accused of murder in this limited series thriller based on the novel of the same name by William Landay.
+Image poster gotten from themoviedb.org

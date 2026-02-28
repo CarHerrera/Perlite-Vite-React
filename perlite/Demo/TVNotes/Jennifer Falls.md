@@ -10,7 +10,8 @@ User Score: 44
 User Count: 12
 Director: Peter Lauer
 Creator: Matthew Carlson
-image: 
+image: https://image.tmdb.org/t/p/w500/6IttEAmBO5AOPpG7LCxv1KzyLcQ.jpg
 ---
 
 After being fired from her executive job, Jennifer Doyle (Jaime Pressly) moves in with her mother (Jessica Walter) and finds work at a bar.
+Image poster gotten from themoviedb.org

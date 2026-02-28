@@ -10,7 +10,8 @@ User Score: 75
 User Count: 1232
 Director: nan
 Creator: Bill Finger,Bob Kane
-image: 
+image: https://image.tmdb.org/t/p/w500/zLpSNnVoL2bjQdc1PcaHUPUzttP.jpg
 ---
 
 Before he was Commissioner James Gordon (Ben McKenzie), he was a young detective, partnered with the legendary policeman Harvey Bullock (Donal Logue). Their first case together is the murders of Thomas and Martha Wayne, where Gordon first meets young Bruce Wayne. 
+Image poster gotten from themoviedb.org

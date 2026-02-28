@@ -10,7 +10,8 @@ User Score: 25
 User Count: 13
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qkLDkyJPlsbs2MHRQmKYUZSuJ2H.jpg
 ---
 
 The reality series centered on Alec Baldwin and his family begins just before Alec Baldwin's trial for involuntary manslaughter of "Rust" cinematographer Halyna Hutchins.
+Image poster gotten from themoviedb.org

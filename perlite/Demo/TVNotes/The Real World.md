@@ -10,7 +10,7 @@ User Score: 56
 User Count: 9
 Director: Kasey Barrett,David Solomini
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/pqeqlmK1KEBfEfABnPjEr7oXjWL.jpg
 ---
 
  "This is the true story of seven strangers picked to live in a house and have their lives taped. Find out what happens when people stop being polite and start getting real. The Real World..."
@@ -24,3 +24,4 @@ How much of the show is actually true we'll never know. A lot of what we see on 
 Each cast member receives around $250 per week, plus their house expenses paid (not including food. That's why every time a parent comes over, they cook). Anything else they want, they have to pay for. Plus, they don't get to take any of all the cool stuff you see in the house.
 
 Today, The Real World is shown in several countries, and local versions of the show have already been made. Loving it or hating it, you just know it's here. The Real World: the first and original reality show.
+Image poster gotten from themoviedb.org

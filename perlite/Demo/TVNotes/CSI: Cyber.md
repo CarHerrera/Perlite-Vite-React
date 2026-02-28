@@ -10,7 +10,8 @@ User Score: 38
 User Count: 133
 Director: nan
 Creator: Ann Donahue,Carol Mendelsohn,Anthony E. Zuiker
-image: 
+image: https://image.tmdb.org/t/p/w500/p56xB5YJDeYaGGOaYFtsjWycTYl.jpg
 ---
 
 The latest CSI spin-off focuses on Special Agent Avery Ryan (Patricia Arquette) and her fellow agents of the Cyber Crime Division of the FBI in Quantico.
+Image poster gotten from themoviedb.org

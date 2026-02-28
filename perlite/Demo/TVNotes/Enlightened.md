@@ -10,7 +10,8 @@ User Score: 73
 User Count: 229
 Director: Mike White,Miguel Arteta,Jonathan Demme,Nicole Holofcener
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/aPd6u1Y5odygxtuxdfGD8TV3Uhw.jpg
 ---
 
 Amy Jellicoe (Laura Dern), a corporate executive who suffered a breakdown, comes out of her Hawaiian mental-heath treatment center with a new outlook on life.
+Image poster gotten from themoviedb.org

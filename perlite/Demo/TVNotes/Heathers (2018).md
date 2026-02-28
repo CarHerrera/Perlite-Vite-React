@@ -14,3 +14,4 @@ image:
 ---
 
 Based on the movie by the same name, the dark comedy reboot finds J.D. (James Scully) and Veronica (Grace Victoria Cox) dealing with the Heathers led by Heather Chandler (Melanie Field), her second in command Heather Duke (Brendan Scannell), and cheerleader Heather McNamara (Jasmine Mathews).
+Image poster gotten from themoviedb.org

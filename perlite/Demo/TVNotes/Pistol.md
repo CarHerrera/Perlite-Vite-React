@@ -10,7 +10,8 @@ User Score: 78
 User Count: 27
 Director: Danny Boyle
 Creator: Craig Pearce
-image: 
+image: https://image.tmdb.org/t/p/w500/qHswJ2FXpN9jJIqNlxgc5ZooFb4.jpg
 ---
 
 The limited series from Danny Boyle about the beginnings of The Sex Pistols is based on the memoir of its guitarist, Steve Jones (Toby Wallace).
+Image poster gotten from themoviedb.org

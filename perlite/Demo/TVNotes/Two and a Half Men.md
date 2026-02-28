@@ -10,7 +10,8 @@ User Score: 63
 User Count: 1030
 Director: James Widdoes
 Creator: Lee Aronsohn,Chuck Lorre
-image: 
+image: https://image.tmdb.org/t/p/w500/xgfjxyV3g1S68opzuvG6G87muDp.jpg
 ---
 
 Charlie (Charlie Sheen) is living the high life in Malibu when his brother Alan (Jon Cryer) and his son Jake (Angus T. Jones) come to live with him after Alan's divorce. Ashton Kutcher joins the cast during the 2011-12 season after Charlie Sheen was let go in March 2011.
+Image poster gotten from themoviedb.org

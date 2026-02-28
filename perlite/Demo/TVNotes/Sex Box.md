@@ -14,3 +14,4 @@ image:
 ---
 
 Three experts: Chris Donaghue, Fran Walfish, and Yvonne Capehart discuss relationship and sex issues with three different couples before and after they have sex in the on stage cube in the reality show based on a British show.
+Image poster gotten from themoviedb.org

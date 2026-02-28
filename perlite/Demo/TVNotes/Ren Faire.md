@@ -10,7 +10,8 @@ User Score: 74
 User Count: 24
 Director: Lance Oppenheim
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/1FmskgCiConpCzLnj38UEqumb5W.jpg
 ---
 
 The general manager, a former elephant trainer and a kettle-corn vendor are some of the people aiming to take over the Texas Renaissance Festival from its 86-year-old founder when he retires in the three-part documentary series from director Lance Oppenheim.
+Image poster gotten from themoviedb.org

@@ -10,9 +10,10 @@ User Score: 76
 User Count: 36
 Director: Jerry Levine,Gary Fleder
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/riHJXZovS7QjhRyiwnm2ULpx5JN.jpg
 ---
 
 Life Unexpected stars Shiri Appleby, Kerr Smith, Austin Basis, Britt Robertson and Kristoffer Polaha. Lux (played by Britt Robertson), is a 15 year-old foster child who connects with her biological father, Nate (played by Kristoffer Polaha), a manchild who never knew he had a daughter. Nate teams up with Lux's mother, Cate (played by Shiri Appleby), to give Lux a normal family life.
 
 Life Unexpected is produced by Mojo Films in association with CBS Television Studios and Warner Bros. Television with executive producers Liz Tigelaar (Brothers and Sisters, What About Brian) and Gary Fleder (October Road). The series premiered on The CW network on January 18th, 2010. 
+Image poster gotten from themoviedb.org

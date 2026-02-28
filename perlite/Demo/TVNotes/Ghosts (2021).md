@@ -14,3 +14,4 @@ image:
 ---
 
 Samantha (Rose McIver) and Jay (Utkarsh Ambudkar) inherit a country estate and plan to turn it into a bed-and-breakfast, but they soon realize it is haunted by a great number of previous residents in this comedy based on the BBC series of the same name.
+Image poster gotten from themoviedb.org

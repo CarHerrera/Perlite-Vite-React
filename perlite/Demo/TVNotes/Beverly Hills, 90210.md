@@ -10,7 +10,7 @@ User Score: 77
 User Count: 83
 Director: nan
 Creator: Darren Star
-image: 
+image: https://image.tmdb.org/t/p/w500/b7BYfkhu653D894krwGO1ysIKTf.jpg
 ---
 
 This long-running drama dealt with the experiences of a group of young people in Beverly Hills, CA as they navigated high school, college and ultimately the real world. The series focused on their travails as they tried to maintain their friendship while dealing with romances, family and personal crises, tragedies and countless drug addictions.
@@ -61,3 +61,4 @@ Emmy Awards
 1991, Nominated, Best Young Actress Supporting or Re-Occuring Role for a TV Series, for Jennie Garth
 
 1991, Nominated, Best Young Actress Supporting or Re-Occuring Role for a TV Series, for Tori Spelling
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: Michael Offer,Daniel Percival
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/89C4NwOmQKytVIQJ01on0ddDOCY.jpg
 ---
 
 This 6-part series stars Jason Isaacs (Brotherhood) as Sir Mark Brydon, the British Ambassador to the United States. Muslim British terrorists detonate a bomb on a British commercial airliner throwing the two countries and their representatives into political chaos. Brydon has to try to sort out the ensuing mess while trying to keep his head above water in both his professional and personal life. Knowing who he can trust will be the key to his survival and the stop to an oncoming war against Tyrgyztan.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 64
 User Count: 114
 Director: Andrew Gaynord
 Creator: Christopher Ballinger,Colleen Ballinger
-image: 
+image: https://image.tmdb.org/t/p/w500/kSF3AymHUK4XLuh1rzIX1TnRXAM.jpg
 ---
 
 Untalented Miranda Sings (Colleen Ballinger-Evans) with the help of her Uncle Jim (Steve Little), her Mom, Bethany (Angela Kinsey), and her best friend/neighbor, Patrick (Erik Stocklin), seek to convince the world she is a great singer in this comedy based on the YouTube character created by Ballinger-Evans.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 The animated series explores Marvel's multiverse concept with alternative scenarios of what was seen in the MCU films such as Peggy Carter taking the super soldier serum.
+Image poster gotten from themoviedb.org

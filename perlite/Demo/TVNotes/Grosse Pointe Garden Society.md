@@ -10,7 +10,8 @@ User Score: 76
 User Count: 14
 Director: Maggie Kiley,Phil Traill
 Creator: Jenna Bans,Bill Krebs
-image: 
+image: https://image.tmdb.org/t/p/w500/klUDHKIwZWSKf8PR6oOTo351aby.jpg
 ---
 
 A secret about a murder links members of the garden club in suburban Grosse Pointe in the drama series from Jenna Bans and Bill Krebs.
+Image poster gotten from themoviedb.org

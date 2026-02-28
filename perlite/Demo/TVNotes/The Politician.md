@@ -10,7 +10,8 @@ User Score: 72
 User Count: 118
 Director: nan
 Creator: Ian Brennan,Brad Falchuk,Ryan Murphy
-image: 
+image: https://image.tmdb.org/t/p/w500/5Bm3rMQAoXSFKAVYMxPYQRyM07U.jpg
 ---
 
 Saint Sebastian High School student Payton Hobart (Ben Platt) strives to become Student Body President and get into Harvard on his way to attaining his dream to become President of the United States in Ryan Murphy's dark comedy.
+Image poster gotten from themoviedb.org

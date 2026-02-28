@@ -10,7 +10,8 @@ User Score: 65
 User Count: 4
 Director: Ken Burns
 Creator: Ken Burns
-image: 
+image: https://image.tmdb.org/t/p/w500/ns8F9uzd2dE8J0gDmERedXEpio5.jpg
 ---
 
 The two-part documentary directed by Ken Burns about the history and impact of the buffalo on America and the Indigenous people in North America.
+Image poster gotten from themoviedb.org

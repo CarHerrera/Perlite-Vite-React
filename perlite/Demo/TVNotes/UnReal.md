@@ -10,7 +10,8 @@ User Score: 80
 User Count: 209
 Director: nan
 Creator: Marti Noxon,Sarah Gertrude Shapiro
-image: 
+image: https://image.tmdb.org/t/p/w500/ldLTSFnLR642BAjFca96VOY7L98.jpg
 ---
 
 Rachel (Shiri Appleby) will do anything, including manipulating the contestants for Julia (Constance Zimmer), the executive producer of the hit dating show they work on.
+Image poster gotten from themoviedb.org

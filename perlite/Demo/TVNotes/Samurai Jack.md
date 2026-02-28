@@ -10,7 +10,7 @@ User Score: 88
 User Count: 521
 Director: Genndy Tartakovsky,Randy Myers,Robert Alvarez,Rob Renzetti
 Creator: Genndy Tartakovsky
-image: 
+image: https://image.tmdb.org/t/p/w500/ddZ7Q2WZ0xAHkVXYvcEgNGFgVkw.jpg
 ---
 
 Long ago, in a distant land, I, Aku, the shape shfiting Master of Darkness, unleashed an unspeakable evil. But a foolish samurai warrior wielding a magic sword stepped forward to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future, where my evil is law. Now, the fool seeks to return to the past and undo the future that is Aku!
@@ -26,3 +26,4 @@ A total of 52 episodes have been ordered by Cartoon Network.
 On DVD you can still get the opening Movie (first 3 episodes), and from 4th May 2004, the first 13 episodes will be released in a "Season One" box set. (All releases in Region 1(US/Canada) only)
 
 There was a live action movie rumoured to be "in the works" but news of this has dried up, and we don't know its current status.
+Image poster gotten from themoviedb.org

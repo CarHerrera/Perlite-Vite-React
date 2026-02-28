@@ -10,7 +10,8 @@ User Score: 63
 User Count: 90
 Director: nan
 Creator: Alice Chegaray-Breugnot,Nicolas Jean,Stéphane Carrié
-image: 
+image: https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg
 ---
 
 Morgan (Kaitlin Olson), a single mom working as janitor at a police precinct becomes a consultant for detective Karadec (Daniel Sunjata) in the US adaptation of the French detective series HIP (Haut Potentiel Intellectuel/High Intellectual Potential).
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 64
 User Count: 83
 Director: Jonas Pate
 Creator: John McNamara
-image: 
+image: https://image.tmdb.org/t/p/w500/dTihIjUI2ScBXVgcZiyTAq1PBBA.jpg
 ---
 
 Los Angeles police Sgt. Sam Hodiak (David Duchovny) is paired with officer Brian Shafe (Gray Damon), who poses as a hippie in 1967 for a missing person case that will later be revealed to be connected to Charles Manson (Gethin Anthony).
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 73
 User Count: 85
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/44mkq0KpOngpJSs22m0LdP37Jpp.jpg
 ---
 
 This show follows Matt Passmore as Jim, a Chicago cop who gets kicked off the force after being shot and wrongfully accused by his ex-captain of having an affair with his wife. After receiving his payout, Jim decides to moves to a small Florida town to join the state police.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 41
 User Count: 32
 Director: Nicole Rubio
 Creator: Tony Phelan,Joan Rater
-image: 
+image: https://image.tmdb.org/t/p/w500/vZ8TpyyLKpx8w1OzP6gNh9YNUrw.jpg
 ---
 
 Defense attorney Sadie Ellis (Katherine Heigl) becomes involved with a client (Steven Pasquale), who may have murdered a 15-year-old years ago.
+Image poster gotten from themoviedb.org

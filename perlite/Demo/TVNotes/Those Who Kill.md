@@ -10,7 +10,8 @@ User Score: 71
 User Count: 39
 Director: David Petrarca
 Creator: Elsebeth Egholm,Stefan Jaworski
-image: 
+image: https://image.tmdb.org/t/p/w500/5kjHlWl5oN1fEY26Q8WTmJPpBRb.jpg
 ---
 
 Pittsburgh homicide detective Catherine Jensen (Chloë Sevigny) tracks serial killers with the help of forensic psychologist Thomas Schaeffer (James D'Arcy).
+Image poster gotten from themoviedb.org

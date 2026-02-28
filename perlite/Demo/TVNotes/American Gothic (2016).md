@@ -14,3 +14,4 @@ image:
 ---
 
 Not to be confused with the 1995 CBS show of the same name, the family drama from Corinne Brinkerhoff is focused on The Hawthornes, who discover their recently deceased patriarch may have been behind several murders in the Boston area and one of them may have helped him.
+Image poster gotten from themoviedb.org

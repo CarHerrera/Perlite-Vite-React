@@ -10,7 +10,8 @@ User Score: 48
 User Count: 74
 Director: Jeff Tomsic,Taika Waititi
 Creator: Michael Palin,Terry Gilliam
-image: 
+image: https://image.tmdb.org/t/p/w500/ahnTuygdAbjXvLKzLQlK2txosMX.jpg
 ---
 
 11-year-old Kevin (Kal-El Tuck) goes on an adventure through time with a group of young thieves in the Jemaine Clement, Iain Morris and Taika Waititi's TV adaptation of the 1981 film of the same name.
+Image poster gotten from themoviedb.org

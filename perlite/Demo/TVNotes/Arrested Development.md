@@ -10,7 +10,7 @@ User Score: 88
 User Count: 1517
 Director: Troy Miller
 Creator: Mitchell Hurwitz
-image: 
+image: https://image.tmdb.org/t/p/w500/p4r4RD7RsNcJVoz0H6z3dBoTBtW.jpg
 ---
 
 The Emmy Award-winning comedy series ARRESTED DEVELOPMENT revolves around MICHAEL BLUTH (Jason Bateman), the “normal” one in a family of crazies, who is forced to stay in Orange County and run the family real estate business after his father, GEORGE BLUTH SR. (Jeffrey Tambor), is sent to prison for shifty accounting practices.  While George Sr. spent the last year in the slammer discovering his newfound Judaism and recording inspirational tapes, Michael spent it picking up the pieces and trying to teach his offbeat family how to live without an endless expense account.  All the while, Michael has also been trying to do right by his 14-year-old son, GEORGE MICHAEL (Michael Cera), an earnest kid who works diligently at the family’s frozen banana stand. 
@@ -19,3 +19,4 @@ The Bluths are led by manipulative matriarch LUCILLE BLUTH (Jessica Walter), a s
 
 The Bluth siblings are rounded out by cause-obsessed sister LINDSAY (Portia de Rossi), who is married to the hapless TOBIAS (David Cross), a doctor-turned-actor who might get more work if he wasn’t a self-proclaimed “never-nude.” Lindsay and Tobias are the ultra-permissive parents of MAEBY (Alia Shawkat), a 14-year-old who loves finding unique ways to rebel against their overindulgence.  
 
+Image poster gotten from themoviedb.org

@@ -10,9 +10,10 @@ User Score: 0
 User Count: 3
 Director: Fred Savage
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/wqfCYDdTg4FMdpokvnW3rr8J0cO.jpg
 ---
 
 A Wisconsin mom arranges to host a foreign exchange student, believing the visitor will help her shy son become more popular. When the student turns out to be a Muslim teenager from Pakistan, her plans go awry - and everyone is likely to learn a little lesson about life.
 
 Aliens in America is from CBS Paramount Network Television, Guarascio-Port Productions and Warner Bros. Television.
+Image poster gotten from themoviedb.org

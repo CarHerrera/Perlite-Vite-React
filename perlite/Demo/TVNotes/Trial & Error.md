@@ -10,7 +10,8 @@ User Score: 71
 User Count: 69
 Director: Jeffrey Blitz,Matt Sohn
 Creator: Jeff Astrof,Matthew Miller
-image: 
+image: https://image.tmdb.org/t/p/w500/6CwHR4Ni2BybeiXzBMAOtlNfvkB.jpg
 ---
 
 The first big case for New York attorney Josh Segal (Nicholas D’Agosto) takes him to a small southern town to defend an unconventional poetry professor (John Lithgow) of murder in this comedic series created by Jeff Astrof and Matt Miller.
+Image poster gotten from themoviedb.org

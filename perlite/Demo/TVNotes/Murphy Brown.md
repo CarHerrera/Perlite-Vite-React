@@ -10,7 +10,7 @@ User Score: 40
 User Count: 98
 Director: Peter Bonerz
 Creator: Diane English
-image: 
+image: https://image.tmdb.org/t/p/w500/o3y2BwrzJQPojl0ZaqNq8O9VDFq.jpg
 ---
 
 Murphy Brown was created by Diane English. Murphy is the star reporter on a news magazine show called FYI. The show is based in Washington DC, which gives the FYI team more than enough material to work with. Murphy lives in a townhouse that she has been having repainted for the duration of the series, Eldin the painter may never finish the job, but Murphy doesn't seem to mind. Murphy owes her Betty Ford trip to Phil, he owns the local bar & restaurant where the staff and the rest of the political scene have lunch. Phil knows about everything going on in Washington. Jim Dial is the uptight senior anchor, a seasoned veteran, who accompanied Murphy on her trip to the Betty Ford Clinic. Frank is a single guy and constantly looking for a girlfriend, he is also Murphy's best friend. Corky is a former Miss America turned news person, she covers all the "hard" news. Miles is a young Harvard graduate, whose first "real job" out of school is as executive producer of FYI. 
@@ -36,3 +36,4 @@ Nielsen Ratings:
 #9 in the 1993–1994 Season
 #16 in the 1994–1995 Season
 #20 in the 1995–1996 Season
+Image poster gotten from themoviedb.org

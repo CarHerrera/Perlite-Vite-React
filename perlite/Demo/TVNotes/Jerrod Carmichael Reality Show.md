@@ -10,7 +10,8 @@ User Score: 59
 User Count: 17
 Director: Ari Katcher
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/AdE8OzKWUiUQBF2mV9oqBxu5Gy6.jpg
 ---
 
 Comedian Jerrod Carmichael seeks "love, sex, and truth" in the comedic documentary series.
+Image poster gotten from themoviedb.org

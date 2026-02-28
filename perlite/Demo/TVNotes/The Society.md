@@ -10,7 +10,8 @@ User Score: 64
 User Count: 85
 Director: Marc Webb,Haifaa Al-Mansour,Tara Nicole Weyr,Brett Simon,Stacie Passon,Rich Lee,Megan Griffiths,Patricia Cardoso
 Creator: Christopher Keyser
-image: 
+image: https://image.tmdb.org/t/p/w500/mxOlnFEQMpxjIltr9Ox06iyjjvK.jpg
 ---
 
 After a group of teenagers discover their Connecticut hometown no longer has adults (or anyone else), they must find a way to come together to survive in this Christopher Keyser and Christopher Keyser suspense drama that was inspired in part by Lord of the Flies.
+Image poster gotten from themoviedb.org

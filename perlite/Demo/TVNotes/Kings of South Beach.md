@@ -14,3 +14,4 @@ image:
 ---
 
 Based on the true story of a Miami Beach nightclub owner who takes a young employee under his wing, while trying to avoid bankruptcy and the mafia.
+Image poster gotten from themoviedb.org

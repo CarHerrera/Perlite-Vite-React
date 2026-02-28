@@ -10,7 +10,8 @@ User Score: 85
 User Count: 345
 Director: Fabrice Gobert,Frédéric Goupil,Frédéric Mermoud
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/cKp0ZDYGydWxI3v8KS3tY8W9aM7.jpg
 ---
 
 People long dead return to a small town including a 15-year old girl (Yara Pilart) killed in a car accident four years ago, a groom (Pierre Perrier) who committed suicide ten years ago, a young murdered boy (Swann Nambotin), and a serial killer (Guillaume Gouix) in this French drama (known as Les Revenants).
+Image poster gotten from themoviedb.org

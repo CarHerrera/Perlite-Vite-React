@@ -10,7 +10,8 @@ User Score: 80
 User Count: 107
 Director: Robert Cohen,Jay Duplass
 Creator: Hannah Bos,Paul Thureen
-image: 
+image: https://image.tmdb.org/t/p/w500/1GkoExnlnyTcyGWIoHA4YG8mysc.jpg
 ---
 
 Kansas native Sam (Bridget Everett) feels out of place in her hometown but singing helps her discover a community with a group of outsiders in this comedy inspired by Everett's own life.
+Image poster gotten from themoviedb.org

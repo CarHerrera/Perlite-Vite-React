@@ -14,3 +14,4 @@ image:
 ---
 
 Veteran country singer Rayna James (Connie Britton) goes on tour as newcomer Juliette Barnes (Hayden Panettiere) seeks to be the new star.
+Image poster gotten from themoviedb.org

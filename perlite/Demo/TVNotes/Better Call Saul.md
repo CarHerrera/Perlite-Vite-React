@@ -10,7 +10,8 @@ User Score: 90
 User Count: 4164
 Director: nan
 Creator: Vince Gilligan,Peter Gould
-image: 
+image: https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg
 ---
 
 The spin-off of Breaking Bad focuses on Albuquerque lawyer Saul Goodman (Bob Odenkirk).
+Image poster gotten from themoviedb.org

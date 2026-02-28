@@ -10,7 +10,8 @@ User Score: 79
 User Count: 274
 Director: Jeremy Webb,Alice Troughton,David Moore,Justin Molotnikov,Ashley Way
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg
 ---
 
 Putting a new spin on the story of the infamous sorcerer Merlin, this BBC series shows the dramatic outcomes of living in a time of myth and magic.   Set in the Kingdom of Camelot, the story follows young Merlin's dangerous journey as he, a young prince Arthur and other characters come face to face with legendary and fantastical characters and forces.
+Image poster gotten from themoviedb.org

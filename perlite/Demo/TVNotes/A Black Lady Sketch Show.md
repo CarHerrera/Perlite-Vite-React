@@ -10,8 +10,9 @@ User Score: 58
 User Count: 66
 Director: Bridget Stokes
 Creator: Robin Thede
-image: 
+image: https://image.tmdb.org/t/p/w500/sf1BjG7dZGqJCSwEt25v2lzjqVr.jpg
 ---
 
 Ashley Nicole Black, Quinta Brunson, Gabrielle Dennis, Robin Thede are some of the cast of this comedy sketch series from Thede.
 
+Image poster gotten from themoviedb.org

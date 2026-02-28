@@ -10,7 +10,8 @@ User Score: 85
 User Count: 493
 Director: nan
 Creator: Steve Franks
-image: 
+image: https://image.tmdb.org/t/p/w500/fDI15gTVbtW5Sbv5QenqecRxWKJ.jpg
 ---
 
 Fake Psychic. Real Detectives.Shawn Spencer has developed a keen eye for detail after being instructed by his police officer father to note even the most minute details of his surroundings.After conning the police into believing that he's a psychic, Shawn opens a detective agency with best friend Burton Guster.
+Image poster gotten from themoviedb.org

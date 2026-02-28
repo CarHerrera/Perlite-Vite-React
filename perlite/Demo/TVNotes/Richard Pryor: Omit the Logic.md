@@ -14,3 +14,4 @@ image:
 ---
 
 In director Marina Zenovich's documentary, Lily Tomlin, Bob Newhart, Whoopi Goldberg, Mel Brooks, Jesse Jackson, Quincy Jones are some of the people who recall the life and work of comedian Richard Pryor.
+Image poster gotten from themoviedb.org

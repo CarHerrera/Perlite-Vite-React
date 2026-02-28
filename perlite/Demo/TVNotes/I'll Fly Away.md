@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: Jack Bender,Ian Sander,Michael Fresco,Eric Laneuville
 Creator: Joshua Brand,John Falsey
-image: 
+image: https://image.tmdb.org/t/p/w500/pAS4EyCpXDY8WCqWII8Ioc9N0ci.jpg
 ---
 
 Drama about a Southern lawyer with three children who has a Black housekeeper.  Set in 1958, when much of the South was still segregated.
+Image poster gotten from themoviedb.org

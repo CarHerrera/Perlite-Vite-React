@@ -14,3 +14,4 @@ image:
 ---
 
 When a sheriff arrests a writer, a family, a couple, and a hitchiker and throws them in a jail cell in the deserted town of Desperation, they must fight for their lives.
+Image poster gotten from themoviedb.org

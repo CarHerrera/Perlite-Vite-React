@@ -14,3 +14,4 @@ image:
 ---
 
 Based loosely on the 2000 film of the same name, where a group of 20-something small-time con artists (Charlie Cavendish (Rupert Grint), Albert Hill (Luke Pasqualino), Billy Ayres (Lucien Laviscount), and Lotti Mott (Phoebe Dynevor)) come across a truck full of stolen gold bullion and end up in the cross hairs of organized crime.
+Image poster gotten from themoviedb.org

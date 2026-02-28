@@ -10,7 +10,8 @@ User Score: 79
 User Count: 1338
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/b3vl6wV1W8PBezFfntKTrhrehCY.jpg
 ---
 
 In this adaptation of the L.J. Smith book series, vampire brothers battle for the heart of a mortal teenaged girl named Elena Gilbert.
+Image poster gotten from themoviedb.org

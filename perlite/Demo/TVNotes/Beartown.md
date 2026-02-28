@@ -10,9 +10,10 @@ User Score: 61
 User Count: 22
 Director: Peter Grönlund
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/82fby3JG8ObTxXwiB1cSaA37oB0.jpg
 ---
 
 An assault accusation against one of the players of a small town's junior ice-hockey team on its way to a national title nearly destroys the community in the Swedish-language drama based on Fredrik Backman's novel of the same name.
 
 [Premiered originally in several European countries on HBO España, Nordic, Portugal and HBO GO (Central Europe) on 18 Oct 2020]
+Image poster gotten from themoviedb.org

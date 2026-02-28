@@ -10,7 +10,8 @@ User Score: 59
 User Count: 74
 Director: Lucy Forbes
 Creator: Abi Morgan
-image: 
+image: https://image.tmdb.org/t/p/w500/9OV6McrRh1BAnrak3yVP9xYuUId.jpg
 ---
 
 Distraught TV show puppeteer Vincent Sullivan (Benedict Cumberbatch) believes the blue monster puppet his missing son drew is the key to the return of the nine-year-old in the limited series from Abi Morgan set in 1980s New York.
+Image poster gotten from themoviedb.org

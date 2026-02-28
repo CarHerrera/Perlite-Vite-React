@@ -10,7 +10,8 @@ User Score: 66
 User Count: 22
 Director: Jon Cassar
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/5p9PlTy9I4svxsEHzDXrDdv809v.jpg
 ---
 
 Greg Kinnear has been cast as President John F. Kennedy, Barry Pepper will play Attorney General Robert Kennedy, Katie Holmes will play First Lady Jacqueline Kennedy and Tom Wilkinson will play Ambassador Joe Kennedy, Sr. in this story of the famous Kennedy family. 
+Image poster gotten from themoviedb.org

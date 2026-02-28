@@ -20,3 +20,4 @@ Created and executive produced by Bryan Singer (X-Men), Dean Devlin (Independenc
 The Triangle stars Eric Stoltz as Howard Thomas, a cynical reporter working for a supermarket tabloid, Sam Neill as shipping tycoon Eric Benirall, Lou Diamond Phillips as Meeno Paloma, the sole survivor of a shipping accident who finds that bits and pieces of his memory are missing, Catherine Bell as deep-ocean resource engineer Emily Patterson, Bruce Davison as psychic Stan Lathem, and Michael Rodgers as Bruce Geller, a thrill-seeking meteorology professor from Australia.
 
 Nothing Stays Lost Forever
+Image poster gotten from themoviedb.org

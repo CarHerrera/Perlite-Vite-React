@@ -10,7 +10,8 @@ User Score: 75
 User Count: 186
 Director: nan
 Creator: Matt Olmstead,Dick Wolf
-image: 
+image: https://image.tmdb.org/t/p/w500/bez40PgT36RUu4gstD2A6GSM0tP.jpg
 ---
 
 The spinoff of Chicago Fire covers the police in Chicago's District 21 including Intelligence Unit Sergeant Hank Voight (Jason Beghe), Detective Antonio Dawson (Jon Seda), Detective Jay Halstead (Jesse Lee Soffer), Detective Erin Lindsay (Sophia Bush), Detective Alvin Olinsky (Elias Koteas), Detective Sheldon Jin (Archie Kao), Officer Kevin Atwater (LaRoyce Hawkins), rookie Officer Adam Ruzak (Patrick John Fluege), and Officer Kim Burgess (Marina Squerciati).
+Image poster gotten from themoviedb.org

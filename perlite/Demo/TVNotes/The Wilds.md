@@ -10,7 +10,8 @@ User Score: 72
 User Count: 62
 Director: nan
 Creator: Sarah Streicher
-image: 
+image: https://image.tmdb.org/t/p/w500/gHBtyMdHbWoM3tpM8VZymer8HfF.jpg
 ---
 
 A group of teenage girls must learn to work together when they are stranded on an island after their plane crashes in this thriller drama series created by Sarah Streicher.
+Image poster gotten from themoviedb.org

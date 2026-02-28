@@ -10,7 +10,8 @@ User Score: 54
 User Count: 17
 Director: Gwyneth Horder-Payton,Hagar Ben-Asher
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tQHOmmDXtDSsmXn55GcdtSOLMAc.jpg
 ---
 
 Mickey Fitzpatrick (Amanda Seyfried), a Philadelphia police officer, discovers a series of murders may be related to a case personal to her in the limited series based on Liz Moore's novel of the same name.
+Image poster gotten from themoviedb.org

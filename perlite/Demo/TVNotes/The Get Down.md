@@ -10,7 +10,8 @@ User Score: 79
 User Count: 131
 Director: nan
 Creator: Stephen Adly Guirgis,Baz Luhrmann
-image: 
+image: https://image.tmdb.org/t/p/w500/zeEeNDklukfG1Y6jKgfCm0cgI97.jpg
 ---
 
 Ezekiel (Justice Smith), Shaolin Fantastic (Shameik Moore), Boo-Boo (TJ Brown), Ra-Ra (Skylan Brooks), and Mylene Cruz (Herizen Guardiola) are teenagers in South Bronx as hip-hop, punk, and disco emerges from 1970s New York in this Baz Luhrmann drama.
+Image poster gotten from themoviedb.org

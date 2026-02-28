@@ -14,3 +14,4 @@ image:
 ---
 
 A young programmer starts to question reality when he adapts a mad writer's fantasy novel into a video game.
+Image poster gotten from themoviedb.org

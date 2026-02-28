@@ -10,10 +10,11 @@ User Score: 0
 User Count: 3
 Director: Mario Azzopardi,David Winning,Thomas J. Wright,Mike Fash
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/4tHOStqnM1ZBN9KTFLd1XdOiuIj.jpg
 ---
 
 Frank Scott, a wealthy American, crashes his plane into the Caribbean. His two teenaged sons, Karl and David, survive, only to find themselves castaways on Dinotopia. Karl and David are constantly at odds, even as they struggle to adjust to life in their strange new world where talking dinosaurs live side by side in an uneasy alliance with humans.
 
 Based upon the book series and the TV miniseries. 
 
+Image poster gotten from themoviedb.org

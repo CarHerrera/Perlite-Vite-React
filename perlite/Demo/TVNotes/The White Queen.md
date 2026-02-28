@@ -10,7 +10,8 @@ User Score: 74
 User Count: 61
 Director: Colin Teague,James Kent,Jamie Payne
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/8dB8lh4OeQZz0A3gDu5aKwm25kU.jpg
 ---
 
 Based on Philippa Gregory's The Cousin's War series, the drama begins in 1464, during the War of the Roses, and follows the women caught up in the battle to be the rightful king of England.
+Image poster gotten from themoviedb.org

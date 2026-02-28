@@ -10,7 +10,8 @@ User Score: 44
 User Count: 19
 Director: Nimer Rashed,Isher Sahota
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/aEiqusZEqOrqHmRtOninChmcOG0.jpg
 ---
 
 Detective Kat Donovan (Rosalind Eleazar) is shocked when she sees her fiancé (Ashley Walters) - who had disappeared 11 years earlier — on a dating app in the limited series based on Harlan Coben's book of the same name.
+Image poster gotten from themoviedb.org

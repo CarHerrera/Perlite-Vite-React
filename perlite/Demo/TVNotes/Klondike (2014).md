@@ -14,3 +14,4 @@ image:
 ---
 
 Produced by Ridley Scott and based on the Charlotte Gray's book "Gold Diggers: Striking It Rich in the Klondike," the miniseries follows best friends Bill Haskell (Richard Madden) and Byron Epstein (Augustus Prew)as they set out in the late 1890s to the Yukon Territory to try to strike it rich.
+Image poster gotten from themoviedb.org

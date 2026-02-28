@@ -10,7 +10,8 @@ User Score: 70
 User Count: 179
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/5van3ktOTqWr5lcixh5aR8NlqqW.jpg
 ---
 
 An alien (Alan Tudyk) with a mission to kill humans, crashes on Earth and assumes the identity of a doctor in the small-town of Patience, Colorado in this series based on the Dark Horse comic.
+Image poster gotten from themoviedb.org

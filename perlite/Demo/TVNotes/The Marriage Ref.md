@@ -14,3 +14,4 @@ image:
 ---
 
 From executive producer Jerry Seinfeld comes this new reality series that looks into the unexpected and absurd situations that arise in the marriages of celebrities, sports stars and just plain regular folks. A panel of guests review both sides of each situation, giving both the positives and negatives, before giving their overall decision. A guest fact checker also weighs in by offering additional help. However, the final decision comes down to the host. With all sides of the issues examined, the audience gets to decide whose side they are on (if any).
+Image poster gotten from themoviedb.org

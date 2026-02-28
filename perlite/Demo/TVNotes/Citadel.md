@@ -10,7 +10,8 @@ User Score: 48
 User Count: 79
 Director: nan
 Creator: Josh Appelbaum,Bryan Oh,David Weil
-image: 
+image: https://image.tmdb.org/t/p/w500/AcrDB32TqpAGwvQFbICALGxSzn3.jpg
 ---
 
 Independent spy agency Citadel was destroyed by crime syndicate Manticore and agents Mason Kane (Richard Madden) and Nadia Sinh (Priyanka Chopra Jonas) had their memories wiped. Eight years later, ex-colleague Bernard Orlick (Stanley Tucci) tracks them down, seeking help to stop Manticore in this espionage series from Anthony and Joe Russo.
+Image poster gotten from themoviedb.org

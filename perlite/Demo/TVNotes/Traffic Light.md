@@ -10,7 +10,8 @@ User Score: 63
 User Count: 24
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vScbyz0xpyZAXWehta3k8yTuypx.jpg
 ---
 
 Longtime friends try to achieve balance in their romantic relationships with their need for freedom.
+Image poster gotten from themoviedb.org

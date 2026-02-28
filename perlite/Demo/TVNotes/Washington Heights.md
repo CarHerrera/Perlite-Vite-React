@@ -14,3 +14,4 @@ image:
 ---
 
 The latest reality show from MTV follows the lives of nine 20-something friends who live in New York City's Washington Heights neighborhood.
+Image poster gotten from themoviedb.org

@@ -20,3 +20,4 @@ When he's not eyeballing Kimi, attending AA meetings or avoiding his boss Wes (J
 "It's a bubble that's gonna break, it's Murphy's law"
 --Theme song lyrics, sung by Al Jarreau
 
+Image poster gotten from themoviedb.org

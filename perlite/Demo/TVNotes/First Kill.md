@@ -10,7 +10,8 @@ User Score: 84
 User Count: 104
 Director: Eriq La Salle,Amanda Tapping,Jet Wilkinson,John T. Kretchmer
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hwSy1vVaRzV70ZvAEsl6FGOHNlH.jpg
 ---
 
 New vampire Juliette (Sarah Catherine Hook) and vampire hunter Calliope (Imani Lewis) both seek their first kill but they develop romantic feelings for each other in this series based on the V.E. Schwab's short story.
+Image poster gotten from themoviedb.org

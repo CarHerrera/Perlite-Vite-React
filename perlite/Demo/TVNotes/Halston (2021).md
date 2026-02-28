@@ -14,3 +14,4 @@ image:
 ---
 
 The Ryan Murphy limited series based on Steven Gaines's book Simply Halston tells how American fashion designer Halston (Ewan McGregor) built a fashion empire in the 1970s only to lose control of it in the 1980s.
+Image poster gotten from themoviedb.org

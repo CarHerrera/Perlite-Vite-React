@@ -14,3 +14,4 @@ image:
 ---
 
 Young artist Jabari (voiced by Scott "Kid Cudi" Mescudi) moves to New York City where he meets a successful photographer (voiced by Jessica Williams) in this animated series co-created by Kid Cudi and Ian Edelman.
+Image poster gotten from themoviedb.org

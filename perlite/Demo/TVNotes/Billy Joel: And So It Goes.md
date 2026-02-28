@@ -10,10 +10,11 @@ User Score: 0
 User Count: 3
 Director: Susan Lacy,Jessica Levin
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xxXyWzAMNanhgiBzvfpRZJ5RdMU.jpg
 ---
 
 Billy Joel's life and career are at the center of a two-part documentary directed by Susan Lacy and Jessica Levin. It features exclusive interviews with Joel, family members and other musicians as well as personal home videos and pictures.
 
 
 
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Tony Danza returns to his first job, working as a first-year English teacher for sophomore students at Northeast High School in Philadelphia.
+Image poster gotten from themoviedb.org

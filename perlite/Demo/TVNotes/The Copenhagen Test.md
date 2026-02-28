@@ -10,7 +10,8 @@ User Score: 56
 User Count: 52
 Director: Kevin Tancharoen,Jet Wilkinson,Vincenzo Natali,Nima Nourizadeh
 Creator: Thomas Brandon
-image: 
+image: https://image.tmdb.org/t/p/w500/9NjLaKL5pa2m4whf4cHAgfhyIzc.jpg
 ---
 
 Set in the near future, intelligence analyst Alexander Hale (Simu Liu) discovers his brain has been hacked, giving the hackers access to everything he sees and says in the spy thriller created by Thomas Brandon and executive produced by James Wan.
+Image poster gotten from themoviedb.org

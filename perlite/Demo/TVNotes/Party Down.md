@@ -10,7 +10,8 @@ User Score: 85
 User Count: 125
 Director: Bryan Gordon,Fred Savage
 Creator: John Enbom,Dan Etheridge,Rob Thomas
-image: 
+image: https://image.tmdb.org/t/p/w500/hbsoFctJ1dDPp3KUIuUgd2E1U4r.jpg
 ---
 
 Six caterers trying to make it as Hollywood stars are at the center of this half-hour project from Veronica Mars and Cupid creator Rob Thomas. Each episode of this Starz original will be set at a different catered event and will see hungry Hollywood wanna-bes move among the rich and famous. Season 2 is set to premiere on April 23, 2010.
+Image poster gotten from themoviedb.org

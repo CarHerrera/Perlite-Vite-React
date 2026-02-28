@@ -10,7 +10,8 @@ User Score: 37
 User Count: 19
 Director: nan
 Creator: Lake Bell,Elizabeth Meriwether
-image: 
+image: https://image.tmdb.org/t/p/w500/ibUyKwysja93kq4qC9Z8lqFHFjE.jpg
 ---
 
 Newlyweds Rio (Lake Bell) and Mike (Dax Shepard) decide to move from the Big Apple to Nebraska to become farmers in this comedy from Liz Meriwether and Bell.
+Image poster gotten from themoviedb.org

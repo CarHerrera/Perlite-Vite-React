@@ -10,7 +10,8 @@ User Score: 72
 User Count: 34
 Director: Uli Edel
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ba43f5KXfH01ipDmDR4lZSQyDkL.jpg
 ---
 
 The rise to fame by Harry Houdini (Adrien Brody) is illustrated in this two-night miniseries.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Bryan Singer
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/sAMzLVXENFzfGEnIvX9U4jjHclZ.jpg
 ---
 
 Pushing Daisies creator Bryan Fuller remakes the classic 1960s TV series, The Munsters.
+Image poster gotten from themoviedb.org

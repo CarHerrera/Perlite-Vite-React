@@ -10,7 +10,8 @@ User Score: 52
 User Count: 6
 Director: nan
 Creator: Matt Reeves
-image: 
+image: https://image.tmdb.org/t/p/w500/fAse8siiwhuT24h0oaindlriFj8.jpg
 ---
 
 The drama series from Matt Reeves shows what Joe Kimbreau's (James Wolk) life would be like if he followed his passion for music, if he married his best friend and if he became a police officer like his father.
+Image poster gotten from themoviedb.org

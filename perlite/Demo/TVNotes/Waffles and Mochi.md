@@ -14,3 +14,4 @@ image:
 ---
 
 Waffles and Mochi dream of becoming chefs and with the help of a supermarket owner (Michelle Obama) they travel the world learning about food and cooking.
+Image poster gotten from themoviedb.org

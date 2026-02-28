@@ -14,3 +14,4 @@ image:
 ---
 
 The latest comedy special for Jerry Seinfeld was filmed at New York City's Beacon Theatre.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 89
 User Count: 10
 Director: Richie Keen
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/oCq8YkCw5kwOexDPQC2UAa9JOCI.jpg
 ---
 
 Comedian Demetri Martin brings his comic variety to his very own sketch show. In each episode, Demetri uses jokes, his own hair, stand up comedy, animation and music to compile a sketch about a different "important thing."
+Image poster gotten from themoviedb.org

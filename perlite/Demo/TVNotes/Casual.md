@@ -10,7 +10,8 @@ User Score: 76
 User Count: 142
 Director: Michael Weaver
 Creator: Zander Lehmann
-image: 
+image: https://image.tmdb.org/t/p/w500/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg
 ---
 
 Alex Cole, a bachelor brother (Tommy Dewey) and his newly divorced sister, Valerie Cole (Michaela Watkins) live together and raise her teenage daughter (Tara Lynne Barr) in this comedy from Zander Lehmann.
+Image poster gotten from themoviedb.org

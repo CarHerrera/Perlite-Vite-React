@@ -10,7 +10,8 @@ User Score: 34
 User Count: 34
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/7OFxU0bBO0HDL4klXmM1ahJPbv8.jpg
 ---
 
 Six months after the events of "The Silence of the Lambs," FBI Agent Clarice Starling (Rebecca Breeds) begins a new case in the series co-created by Alex Kurtzman and Jenny Lumet.
+Image poster gotten from themoviedb.org

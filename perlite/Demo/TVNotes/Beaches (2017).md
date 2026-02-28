@@ -14,3 +14,4 @@ image:
 ---
 
 The remake of the 1988 film of the same name about the lifelong friendship between CC (Idina Menzel) and Hillary (Nia Long) is set in Los Angeles.
+Image poster gotten from themoviedb.org

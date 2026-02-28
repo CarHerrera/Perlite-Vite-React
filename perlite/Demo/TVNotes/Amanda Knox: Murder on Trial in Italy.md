@@ -14,3 +14,4 @@ image:
 ---
 
 Hayden Panettiere and Marcia Gay Harden star in a made-for-TV movie based on the story of the American student, Amanda Knox (Panettiere), who was accused of murdering her roommate while they were studying in Italy.
+Image poster gotten from themoviedb.org

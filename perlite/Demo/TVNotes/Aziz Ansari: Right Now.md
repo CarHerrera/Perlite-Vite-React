@@ -14,3 +14,4 @@ image:
 ---
 
 The comedy special directed by Spike Jonze was filmed at the Brooklyn Academy of Music over three days in May 2019.
+Image poster gotten from themoviedb.org

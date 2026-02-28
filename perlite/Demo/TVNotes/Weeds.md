@@ -10,7 +10,7 @@ User Score: 75
 User Count: 598
 Director: Craig Zisk
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gKUsBTa5b0GY7U4iWBseeBalfjO.jpg
 ---
 
 This series is a single-camera comedy about a single mother who makes ends meet by selling marijuana in the fictional suburb of Agrestic, California. The series exposes the dirty little secrets that lie behind the pristine lawns and shiny closed doors of homes in the of this gated community. Mary Louise Parker stars as the suburban mom who resorts to selling weed to support her family after her husband unexpectedly dies. Jenji Kohan executive produces and writes the series.
@@ -38,3 +38,4 @@ Won
 3. Best Performance by an Actress in a Supporting Role in a Series, Mini-Series or Motion Picture Made for Television:
 Elizabeth Perkins (Celia Hodes)
 Nominated
+Image poster gotten from themoviedb.org

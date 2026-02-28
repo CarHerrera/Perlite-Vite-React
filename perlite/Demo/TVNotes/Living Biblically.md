@@ -10,7 +10,8 @@ User Score: 52
 User Count: 20
 Director: Andy Ackerman
 Creator: Patrick Walsh
-image: 
+image: https://image.tmdb.org/t/p/w500/70lxdl06jsjAa9TE3FsGqltnFXo.jpg
 ---
 
 After the death of a friend, Chip Curry (Jay R. Ferguson) decides to live his life by the rules in the Bible in this comedy based on  A.J. Jacobs' book The Year of Living Biblically.
+Image poster gotten from themoviedb.org

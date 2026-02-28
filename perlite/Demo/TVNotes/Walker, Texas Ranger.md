@@ -10,7 +10,7 @@ User Score: 59
 User Count: 51
 Director: Michael Preece
 Creator: Christopher Canaan,Leslie Greif,Paul Haggis,Albert S. Ruddy
-image: 
+image: https://image.tmdb.org/t/p/w500/egelSg8Fdt0jIaOcsihqlwe2m5F.jpg
 ---
 
 Cordell Walker is a contemporary Texas Ranger working out of the Dallas office who believed in dealing with criminals the old-fashioned way--by beating them up. Despite the rules that governed the way law-enforcement officers were supposed to act. Walker's approach closely resembled the "eye for an eye" school of crime fighting.
@@ -20,3 +20,4 @@ His partner is young Jimmy Trivette, who had grown up in the slums of Baltimore 
 When not on duty Walker and the others hung out at C.D.'s, the saloon/restaurant owned by his buddy C.D. Parker, a former Ranger forced into early retirement after taking a bullet in the knee, who still provided help and advice on cases. Uncle Ray was the wise old Native American who had raised Walker. He died at the end of the 3rd season.
 
 Star Chuck Norris, former karate champion and movie star, played Walker in the deadpan unemotional style he used in most of his feature films. Nothing ever seemed to excite him, and the violence on the show had a cartoon quality about it. There was a surrealistic efficiency about Walker--he almost never broke sweat, got hurt, or wasted a blow--using violence because it was necessary but never glorying on it. This is Norris' first time in a TV series.
+Image poster gotten from themoviedb.org

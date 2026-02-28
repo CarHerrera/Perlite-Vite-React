@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Allan Arkush,James Hayman,Kristoffer Tabori,Michael Lange,Sandy Smolan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9Ke101DrVj7CryLcf026cpeS0kk.jpg
 ---
 
 Based on a real person and on the movie of the same name, ex-Marine Louanne Johnson is an unconventional teacher who inspires her class of bright but "difficult" inner-city students, and makes a real difference in their lives, outside school as well as inside.
+Image poster gotten from themoviedb.org

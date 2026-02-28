@@ -10,7 +10,8 @@ User Score: 27
 User Count: 23
 Director: Peter W. Kunhardt
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/cx2oOEQHvNdrhTLdXrmoKzim2Xq.jpg
 ---
 
 The three-part documentary miniseries directed by Peter Kunhardt features interviews with friends, colleagues, journalists, activists as well as archival footage about Obama's challenges to become the first Black president of the United States.
+Image poster gotten from themoviedb.org

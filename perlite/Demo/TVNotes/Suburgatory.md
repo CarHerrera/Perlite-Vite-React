@@ -10,7 +10,8 @@ User Score: 75
 User Count: 155
 Director: Alex Hardcastle,Ken Whittingham,Elliot Hegarty
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/eJiclykJKNv1FAlTubCdaY2KM2a.jpg
 ---
 
 Single dad George Altman (Jeremy Sisto) moves from New York to the suburbs with his 16-year-old daughter Tessa (Jane Levy).
+Image poster gotten from themoviedb.org

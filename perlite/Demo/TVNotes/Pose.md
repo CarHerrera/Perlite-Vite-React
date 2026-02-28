@@ -10,7 +10,8 @@ User Score: 82
 User Count: 212
 Director: nan
 Creator: Steven Canals,Brad Falchuk,Ryan Murphy
-image: 
+image: https://image.tmdb.org/t/p/w500/5f23i30nFJz0nrd3DGheOCqXa2P.jpg
 ---
 
 The latest Ryan Murphy series is set in 1980s New York City and will explore "the rise of the luxury Trump-era universe, the downtown social and literary scene and the ball culture world."
+Image poster gotten from themoviedb.org

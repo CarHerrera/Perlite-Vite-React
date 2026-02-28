@@ -10,7 +10,8 @@ User Score: 79
 User Count: 200
 Director: Paul Weitz
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gPKPcFffmdZhu91Wa103GN5NLCZ.jpg
 ---
 
 The comedy based on the Blair Tindell memoir "Mozart in the Jungle: Sex, Drugs & Classical Music," follows the life of New York Symphony oboist Hailey (Lola Kirke) as Rodrigo (Gael Garcia Bernal), a new conductor who has unique methods, takes over the orchestra.
+Image poster gotten from themoviedb.org

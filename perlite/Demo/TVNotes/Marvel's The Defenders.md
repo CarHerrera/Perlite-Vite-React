@@ -10,7 +10,8 @@ User Score: 70
 User Count: 531
 Director: nan
 Creator: Douglas Petrie,Marco Ramirez
-image: 
+image: https://image.tmdb.org/t/p/w500/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg
 ---
 
 Luke Cage (Mike Colter), Jessica Jones (Krysten Ritter), Matt Murdock (Charlie Cox) and Danny Rand (Finn Jones) join together to defeat a major threat.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 36
 User Count: 108
 Director: nan
 Creator: Matt Williams
-image: 
+image: https://image.tmdb.org/t/p/w500/xUXN3E67qVyTiftGptfhcmfDasW.jpg
 ---
 
 The spinoff of Roseanne sees the return of the Dan (John Goodman), Jackie (Laurie Metcalf), Darlene (Sara Gilbert), Becky (Lecy Goranson) and D.J. (Michael Fishman).
+Image poster gotten from themoviedb.org

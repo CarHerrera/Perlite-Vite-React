@@ -10,7 +10,8 @@ User Score: 51
 User Count: 51
 Director: Patrick Brice,Ross Partridge,Doug Emmett,So Yong Kim,Mark Duplass
 Creator: Mark Duplass,Jay Duplass
-image: 
+image: https://image.tmdb.org/t/p/w500/wOyn9r9VC2pJhXasUKxlpEmCAGV.jpg
 ---
 
 The Duplass brothers' anthology series about the various people who pass through one room in an average motel.
+Image poster gotten from themoviedb.org

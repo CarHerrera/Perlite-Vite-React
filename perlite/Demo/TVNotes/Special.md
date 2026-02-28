@@ -10,7 +10,8 @@ User Score: 69
 User Count: 42
 Director: Anna Dokoza
 Creator: Ryan O'Connell
-image: 
+image: https://image.tmdb.org/t/p/w500/iofokHZoUB4Qhik4PflvJl8TT6a.jpg
 ---
 
 The comedy about a gay man (Ryan O’Connell) with a mild cerebral palsy is based on Ryan O'Connell's memoir and executive produced by Jim Parsons.
+Image poster gotten from themoviedb.org

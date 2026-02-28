@@ -10,7 +10,8 @@ User Score: 55
 User Count: 92
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/yiOc9hkVAkjmSmtGPg5lzyO7IEG.jpg
 ---
 
 Eight scientists and a telepath traveling on The Nightflyer space ship to make contact with alien life begin experiences strange and violent occurrences in this adaptation of George R.R. Martin's novella (which also was made into a 1987 film).
+Image poster gotten from themoviedb.org

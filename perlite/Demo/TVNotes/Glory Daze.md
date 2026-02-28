@@ -10,7 +10,8 @@ User Score: 68
 User Count: 14
 Director: Gil Junger,Walt Becker
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/mNx3Bw7YQ03yqjRKxUFF6kDF5Ld.jpg
 ---
 
 Four freshman at a Wisconsin College pledge a fraternity in the 1980's.
+Image poster gotten from themoviedb.org

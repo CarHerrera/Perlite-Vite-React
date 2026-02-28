@@ -15,3 +15,4 @@ image:
 
 NYPD officer Abigail "Tommy" Thomas (Edie Falco) is hired to become the first female Chief of Police for the LAPD in this drama from Paul 
 Attanasio.
+Image poster gotten from themoviedb.org

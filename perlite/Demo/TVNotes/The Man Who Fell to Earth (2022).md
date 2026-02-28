@@ -14,3 +14,4 @@ image:
 ---
 
 An alien (Chiwetel Ejiofor) seeks Justin Falls (Naomie Harris), a scientist who he believes can help save his species in this continuation inspired by Walter Tevis' novel by Walter Tevis and the 1976 film with David Bowie.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 75
 User Count: 51
 Director: Josh Gordon,Neal Holman,Will Speck
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg
 ---
 
 A Japanese snow monkey (voiced by Fred Tatasciore) seeks vengeance after the slaying of his family with the help of the ghost of an American assassin (voiced by Jason Sudeikis) in this adult animated series from Josh Gordon and Will Speck.
+Image poster gotten from themoviedb.org

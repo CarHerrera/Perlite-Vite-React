@@ -10,7 +10,8 @@ User Score: 71
 User Count: 358
 Director: nan
 Creator: Steven Kane,Hank Steinberg
-image: 
+image: https://image.tmdb.org/t/p/w500/xH529hDtPxhslAEeCrN7gD64ZMX.jpg
 ---
 
 Based on the William Brinkley novel, the drama finds Captain Tom Chandler and the crew of the U.S.S. Nathan James are the few survivors of a pandemic that has killed off more than half of the earth's population.
+Image poster gotten from themoviedb.org

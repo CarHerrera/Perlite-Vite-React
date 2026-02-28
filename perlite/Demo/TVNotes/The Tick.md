@@ -10,7 +10,7 @@ User Score: 81
 User Count: 22
 Director: Bo Welch,Danny Leiner,Dean Parisot
 Creator: Ben Edlund
-image: 
+image: https://image.tmdb.org/t/p/w500/8sngJVF54bugHfCkjJOsY4wx8Hk.jpg
 ---
 
 "I am the wild blue yonder. The front line in a never-ending battle between good... and not-so good. Together, with my stalwart sidekick, Arthur, and the magnanimous help of some other folks I know, we form the yin to villainy's malevolent yang. Destiny has chosen us. Wicked men! You face...The Tick!"
@@ -20,3 +20,4 @@ The life of a superhero is not easy. There are not enough dangers. However, some
 The Tick is based on the 'cult' comic character created by Ben Edlund. There was an animated version a few years ago. Check it out here.
 
 Originally planned as a 2000-2001 midseason replacement after The Simpsons on Sunday nights, and apparently never thought of as anything more than strike filler for a writer's strike which never happened, FOX toppers Sandy Grushow and Gail Berman changed their minds, keeping Malcolm in the Middle in the slot for another year and pushing The Tick back to fall. When The Tick finally went on the air, it was dumped on Thursdays. They didn't promote it very much, and needless to say, it didn't last very long.
+Image poster gotten from themoviedb.org

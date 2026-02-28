@@ -10,7 +10,8 @@ User Score: 79
 User Count: 235
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/aceumwROgphFLSyOXFfijaoSZJE.jpg
 ---
 
 This show is based on Stephen King's novella, "The Colorado Kid," and centers on a small town in Maine called Haven where cursed people try to live normal lives in exile. As their curses start coming back, FBI Agent Audrey Parker is sent in to try and control the forces and try to unravel the mysteries of the town. 
+Image poster gotten from themoviedb.org

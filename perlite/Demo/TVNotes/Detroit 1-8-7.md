@@ -10,7 +10,8 @@ User Score: 81
 User Count: 35
 Director: nan
 Creator: Jason Richman
-image: 
+image: https://image.tmdb.org/t/p/w500/d2Nt3lxMz082lqQQzea3yB1XBNU.jpg
 ---
 
 In this ABC crime drama project, a fictional documentary filmmaking crew goes inside Detroit's homicide division.
+Image poster gotten from themoviedb.org

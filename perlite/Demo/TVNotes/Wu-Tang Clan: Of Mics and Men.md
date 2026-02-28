@@ -10,7 +10,8 @@ User Score: 68
 User Count: 23
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/r8Sl0EAH7m2BCRYSjq8DNfSSVZ8.jpg
 ---
 
 The four-part documentary from Sacha Jenkins takes a look at the hip-hop group's formation and long career with never-before-seen archival footage and interviews with all living nine members.
+Image poster gotten from themoviedb.org

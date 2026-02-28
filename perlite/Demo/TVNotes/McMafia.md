@@ -10,7 +10,8 @@ User Score: 69
 User Count: 51
 Director: James Watkins
 Creator: Hossein Amini,James Watkins
-image: 
+image: https://image.tmdb.org/t/p/w500/jdt7RFfVCGWrNnrxeQ0Us9kGhJu.jpg
 ---
 
 Alex Godman (James Norton), the British-raised son of an exiled Mafia man, has honest career as a fund manager and happy life with girlfriend Rebecca (Juliet Rylance) when he is forced into the international crime underworld to protect his family in this drama created by Hossein Amini and James Watkins (Black Mirror, The Take) and inspired by Misha Glenny's non-fiction book of the same name.
+Image poster gotten from themoviedb.org

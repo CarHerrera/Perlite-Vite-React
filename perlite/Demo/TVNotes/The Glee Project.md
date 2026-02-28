@@ -10,7 +10,8 @@ User Score: 69
 User Count: 43
 Director: Erik White,Paul Starkman,Mark S. Jacobs
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/cWMV3cY96ieuimjP7pdAnOUKDI7.jpg
 ---
 
 Twelve contestants compete for a role in the upcoming season of Fox's Glee in this Oxygen reality show.
+Image poster gotten from themoviedb.org

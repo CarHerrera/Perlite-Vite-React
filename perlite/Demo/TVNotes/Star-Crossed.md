@@ -10,7 +10,8 @@ User Score: 76
 User Count: 108
 Director: Gary Fleder,Edward Ornelas
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xcKlTgoRlVMyIG8t9c1br8RO7zI.jpg
 ---
 
 Ten years ago, a spaceship crashed just outside of Baton Rouge and some of the surviving Atrians are now being integrated into Earth society including seven Atrians into Marshall High School.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 57
 User Count: 10
 Director: Greg Beeman,Norman Buckley
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/78gp8RcQEg19BzMkUm2ifMgFITb.jpg
 ---
 
 With the success of The CW's incarnation of 90210, producers Darren Swimmer and Todd Slavin (Smallville) re-imagine a new tale from the popular primetime soap Melrose Place.
@@ -24,3 +24,4 @@ Greek's Michael Rady, 90210's Jessica Lucas, All My Children's Colin Egglesfield
 Melrose Place alumni Laura Leighton, Thomas Calabro, Josie Bissett and Daphne Zuniga reprise their roles as Sydney Andrews, Dr. Michael Mancini, Jane Mancini and Jo Reynolds.
 
 Melrose Place is produced by CBS Paramount Network Television.
+Image poster gotten from themoviedb.org

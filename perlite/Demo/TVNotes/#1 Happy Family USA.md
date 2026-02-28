@@ -10,7 +10,8 @@ User Score: 49
 User Count: 20
 Director: Griffith Kimmins
 Creator: Pam Brady,Ramy Youssef
-image: 
+image: https://image.tmdb.org/t/p/w500/1EzcDTGhbbvTS27iKK4ompIQjva.jpg
 ---
 
 The adult-animated comedy series co-created by Ramy Youssef and Pam Brady centers on the Husseins, a patriotic Muslim family living in America in the early 2000s.
+Image poster gotten from themoviedb.org

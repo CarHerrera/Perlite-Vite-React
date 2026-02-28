@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Paris Barclay,Kevin Hooks,Michael Schultz
 Creator: Paris Barclay,Steven Bochco,Nicholas Wootton
-image: 
+image: https://image.tmdb.org/t/p/w500/zeiDOyFpJgqC25oQ0gMJWHszfd0.jpg
 ---
 
 Steven Bochco's medical series set in Angels of Mercy, an inner-city Los Angeles hospital plagued by scandals and other crises.
+Image poster gotten from themoviedb.org

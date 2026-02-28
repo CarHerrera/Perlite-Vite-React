@@ -10,7 +10,8 @@ User Score: 0
 User Count: 2
 Director: Robert Dornhelm,Geoffrey Madeja
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/oZw9pMEHNtBzXMkWtsmnTEnrrVv.jpg
 ---
 
 ABC brings the story of Moses to the small screen with its two-night miniseries, The Ten Commandments.  This visual spectacle tells the epic tale of Moses, who was inspired by God to lead the Hebrew people to freedom.  Shot on location in Ouarzazate, Morocco, The Ten Commandments offers an authentic portrayal of 13th Century B.C. Egypt.
+Image poster gotten from themoviedb.org

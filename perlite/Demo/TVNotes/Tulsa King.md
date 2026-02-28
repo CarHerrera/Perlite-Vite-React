@@ -10,7 +10,8 @@ User Score: 74
 User Count: 182
 Director: nan
 Creator: Taylor Sheridan
-image: 
+image: https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg
 ---
 
 After spending 25 years in jail, Dwight "The General" Manfredi (Sylvester Stallone) finds himself sent to Tulsa, Oklahoma to set up operations for his Mafia boss in the drama series created by Taylor Sheridan.
+Image poster gotten from themoviedb.org

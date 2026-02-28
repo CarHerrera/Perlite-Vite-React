@@ -10,7 +10,8 @@ User Score: 72
 User Count: 50
 Director: Katie Aldworth,Katie Rice,Ben Bjelajac,Aaron Brewer,Jack Shih
 Creator: Raphael Bob-Waksberg
-image: 
+image: https://image.tmdb.org/t/p/w500/22nh2kTuFpitrqTxxixhWjxEqFa.jpg
 ---
 
 The animated adult comedy series from Raphael Bob-Waksberg centers on the highs and lows of the lives of the Schwooper siblings.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 88
 User Count: 115
 Director: nan
 Creator: Russell T. Davies
-image: 
+image: https://image.tmdb.org/t/p/w500/mmhL30PonbrrpEOQH5OdyUguyMg.jpg
 ---
 
  Queer as Folk is an innovative, provocative, and groundbreaking series that has now ended after a five year run, the series chronicled the friendships, careers, loves, trials, tribulations, and ambitions of a diverse group of gay men and lesbians living in Pittsburgh, PA. Blending strong drama with necessary charm and humor, it rivals any other show presented on television. 
@@ -18,3 +18,4 @@ image:
  Over the shows run it has managed to cover a wide range of issues including Aids, cancer, drug addictions and the trials of love.
 
 
+Image poster gotten from themoviedb.org

@@ -10,9 +10,10 @@ User Score: 60
 User Count: 12
 Director: Michael Matthews,Ben C. Lucas,Isabelle Sieb
 Creator: James Dormer
-image: 
+image: https://image.tmdb.org/t/p/w500/eBHzItKQNfPdt2GL4LcHJy8P1sH.jpg
 ---
 
 After years of being a captive of the East India Mercantile Company, Nemo (Shazad Latif) and his fellow prisoners steal Nautilus, the submarine prototype in this series inspired by Jules Verne's Twenty Thousand Leagues Under the Sea.
 
 [Premiered originally in the UK on Prime Video [UK] on 25 Oct 2025 and in the US on AMC/AMC+ on 29 Jun 2025]
+Image poster gotten from themoviedb.org

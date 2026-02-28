@@ -14,3 +14,4 @@ image:
 ---
 
 Ronald Gladden prepares to serve as a juror for a case, but unknown to him is that the other jurors including James Marsden are all actors and the case is part of a mockumentary-style comedy series co-created by The Office's Lee Eisenberg and Gene Stupnitsky.
+Image poster gotten from themoviedb.org

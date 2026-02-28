@@ -10,7 +10,8 @@ User Score: 84
 User Count: 2864
 Director: nan
 Creator: Dan Harmon,Justin Roiland
-image: 
+image: https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg
 ---
 
 The animated comedy from Dan Harmon and Justin Roiland follows the adventures of mad scientist Rick Sanchez (Justin Roiland), who returns after 20 years to live with his daughter (Sarah Chalke), her husband (Chris Parnell), and her children Morty (also voiced by Roiland) and Summer (Spencer Grammer).
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 55
 User Count: 35
 Director: Jamie Payne,Alex Kalymnios
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/8urYFWrEd8ue94Fm4JpHccQg3M7.jpg
 ---
 
 The War of the Roses is winding down with the defeat of King Richard III by Elizabeth of York's (Jodie Comer) husband Henry Tudor, King Henry VII (Jacob Collins-Levy) in this sequel to The White Queen.
+Image poster gotten from themoviedb.org

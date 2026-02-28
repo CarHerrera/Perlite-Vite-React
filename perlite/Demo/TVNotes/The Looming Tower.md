@@ -10,7 +10,8 @@ User Score: 61
 User Count: 117
 Director: Craig Zisk
 Creator: Dan Futterman,Alex Gibney
-image: 
+image: https://image.tmdb.org/t/p/w500/tfnHCDJISHE44lLD0H3kn0lTs64.jpg
 ---
 
 Despite orders to share information about potential terrorists with John O'Neill (Jeff Daniels), the head of the New York FBI's Counter-Terrorism unit, CIA analyst Martin Schmidt (Peter Sarsgaard) withholds it, believing only the CIA can handle terrorist threats in this 10-part drama based on Lawrence Wright's non-fiction book about how infighting between FBI and CIA may have led to the rise of Osama Bin Laden and Al-Qaeda in the late 1990s.
+Image poster gotten from themoviedb.org

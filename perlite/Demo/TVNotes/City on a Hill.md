@@ -10,7 +10,8 @@ User Score: 72
 User Count: 44
 Director: nan
 Creator: Chuck MacLean
-image: 
+image: https://image.tmdb.org/t/p/w500/rxa00ipClA8SUQxTdZQOyt2NlB8.jpg
 ---
 
 Set in 1990s Boston, FBI agent Jackie Rohr (Kevin Bacon) and ADA Decoucy Ward (Aldis Hodge) team up to catch a family who robs armored car that leads to a wider case of corruption in the entire criminal justice system in Boston.
+Image poster gotten from themoviedb.org

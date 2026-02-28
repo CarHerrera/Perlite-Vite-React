@@ -10,7 +10,8 @@ User Score: 73
 User Count: 12
 Director: nan
 Creator: Regina Y. Hicks,Wanda Sykes
-image: 
+image: https://image.tmdb.org/t/p/w500/bgtpwAsKNfqJmgp3zBxuSHMBAaW.jpg
 ---
 
 The family comedy co-created by Regina Hicks and Wanda Sykes focuses on Bennie Upshaw (Mike Epps) and his family that includes wife Regina (Kim Fields), two young daughters, a younger son, and his teenage son (Diamond Lyons) he had in a previous relationship plus his sister-in-law (Wanda Sykes).
+Image poster gotten from themoviedb.org

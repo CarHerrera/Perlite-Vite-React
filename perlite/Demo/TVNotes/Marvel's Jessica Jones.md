@@ -10,7 +10,8 @@ User Score: 76
 User Count: 1896
 Director: nan
 Creator: Melissa Rosenberg
-image: 
+image: https://image.tmdb.org/t/p/w500/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg
 ---
 
 Former superhero Jessica Jones (Krysten Ritter) has opened a detective agency called Alias Investigations and meets Luke Cage (Mike Colter) on one of her cases as a man (David Tennant) from her past resurfaces in the second of four live-actions series based on Marvel characters for Netflix. 
+Image poster gotten from themoviedb.org

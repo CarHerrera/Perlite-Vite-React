@@ -14,3 +14,4 @@ image:
 ---
 
 The journey of Gabby Douglas to become an Olympic gold medalist (Imani Hakima and Sydney Mikayla).
+Image poster gotten from themoviedb.org

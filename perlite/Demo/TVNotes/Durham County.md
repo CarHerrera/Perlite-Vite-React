@@ -10,7 +10,8 @@ User Score: 80
 User Count: 4
 Director: Adrienne Mitchell,Holly Dale,Charles Binamé,Rachel Talalay,Alain Desrochers
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/eR4USBVeJqXydBFn1g5wU9SjOgI.jpg
 ---
 
 Mike Sweeney moves his family to Durham County after his partner is murdered. Sweeney is sure that his next-door neighbor is the serial killer responsible for the deaths of two teenage girls as well as his partner's untimely demise. 
+Image poster gotten from themoviedb.org

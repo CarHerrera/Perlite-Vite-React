@@ -10,7 +10,8 @@ User Score: 60
 User Count: 10
 Director: Dawn Porter
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hHp8igpFvtoIPHslSoJJyYUzXaU.jpg
 ---
 
 The four-part miniseries directed by Dawn Porter features interview, rare and never-before-seen footage, as it explores the career of the U.S. senator/U.S. Attorney General/presidential candidate before he was assassinated in 1968.
+Image poster gotten from themoviedb.org

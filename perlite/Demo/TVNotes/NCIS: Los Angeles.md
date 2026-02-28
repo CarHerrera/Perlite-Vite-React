@@ -10,7 +10,8 @@ User Score: 59
 User Count: 235
 Director: nan
 Creator: Shane Brennan
-image: 
+image: https://image.tmdb.org/t/p/w500/TIIgcznwNfNr3KOZvxn26eKV99.jpg
 ---
 
 The NCIS spinoff reintroduces the Office of Special Projects (OSP) in Los Angeles where G (Chris O'Donnell) and Sam (LL Cool J) go undercover to solve cases.
+Image poster gotten from themoviedb.org

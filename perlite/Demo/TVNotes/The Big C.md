@@ -10,7 +10,8 @@ User Score: 66
 User Count: 135
 Director: Michael Engler
 Creator: Darlene Hunt
-image: 
+image: https://image.tmdb.org/t/p/w500/osq7LBsULx9DEs67LeYZnGGyr70.jpg
 ---
 
 Award-winning actress Laura Linney stars and produces dark comedy from Showtime about a suburban wife and mother diagnosed with cancer. 
+Image poster gotten from themoviedb.org

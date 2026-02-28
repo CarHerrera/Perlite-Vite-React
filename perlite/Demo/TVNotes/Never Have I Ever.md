@@ -10,7 +10,8 @@ User Score: 73
 User Count: 183
 Director: nan
 Creator: Lang Fisher,Mindy Kaling
-image: 
+image: https://image.tmdb.org/t/p/w500/hd5fnBixab6IzfUwjC5wfdbX3eM.jpg
 ---
 
 First-generation Indian-American teenager Devi Vishwakumar (Maitreyi Ramakrishnan) deals with issues with high school and growing up in this series inspired by creator Mindy Kaling's childhood.
+Image poster gotten from themoviedb.org

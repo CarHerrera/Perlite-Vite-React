@@ -14,3 +14,4 @@ image:
 ---
 
 This comedy special was filmed in 2015 in Austin is one of the three scheduled in 2017.
+Image poster gotten from themoviedb.org

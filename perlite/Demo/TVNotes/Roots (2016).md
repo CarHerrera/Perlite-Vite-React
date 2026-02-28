@@ -14,3 +14,4 @@ image:
 ---
 
 The second adaption of Alex Haley's book is a four-night, eight-hour miniseries about the journey of Kunta Kinte (Malachi Kirby) from Gambia into slavery in colonial America and eventual freedom of his family.
+Image poster gotten from themoviedb.org

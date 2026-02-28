@@ -14,3 +14,4 @@ image:
 ---
 
 Hanna (Esme Creed-Miles) is forced to use the survivalist skills taught by her father (Joel Kinnaman) after she is separated from him by a group of rogue CIA agents led Marissa Wiegler (Mirelle Enos) in this series adaptation of the 2011 film of the same name from David Farr.
+Image poster gotten from themoviedb.org

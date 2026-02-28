@@ -10,7 +10,8 @@ User Score: 56
 User Count: 7
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tyydTLz1HFiMWdTXoQxclJJpsUz.jpg
 ---
 
 In this hidden-camera show an executive goes undercover in his or her own company to get a raw look at how people really work. The series will premiere on CBS after Super Bowl XLIV.
+Image poster gotten from themoviedb.org

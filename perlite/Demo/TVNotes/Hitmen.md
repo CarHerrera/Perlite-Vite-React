@@ -10,7 +10,8 @@ User Score: 26
 User Count: 8
 Director: David Sant,Ollie Parsons
 Creator: Joe Markham,Joe Parham
-image: 
+image: https://image.tmdb.org/t/p/w500/7ZI2VkK0V45XxpfFhUdt5f2KxH1.jpg
 ---
 
 The comedy about best friends Fran (Sue Perkins) and Jamie (Mel Giedroyc) who go into the murder-for hire business.
+Image poster gotten from themoviedb.org

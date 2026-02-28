@@ -10,7 +10,8 @@ User Score: 70
 User Count: 58
 Director: Don Roos,Dan Bucatinsky
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/32B1UJmPnjVwoX37sr4783xsXZw.jpg
 ---
 
 Based on Lisa Kudrow's web series of the same name, Lisa Kudrow plays a therapist who gives advice through a Webcam.
+Image poster gotten from themoviedb.org

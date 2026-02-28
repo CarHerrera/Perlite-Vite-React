@@ -10,7 +10,8 @@ User Score: 75
 User Count: 91
 Director: nan
 Creator: Jeff Schechter
-image: 
+image: https://image.tmdb.org/t/p/w500/wriOiQ3rdPhoMe1NofcLJRx9fns.jpg
 ---
 
 Covert operative Kirsten (Emma Ishta) works with neuroscientist Cameron (Kyle Harris) to be integrated (stitched) into the minds of recently deceased to use their memories to investigate crimes.
+Image poster gotten from themoviedb.org

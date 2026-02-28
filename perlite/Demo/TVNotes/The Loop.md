@@ -10,7 +10,7 @@ User Score: 0
 User Count: 3
 Director: Jay Chandrasekhar,Dennie Gordon,Daisy von Scherler Mayer
 Creator: Pam Brady,Will Gluck
-image: 
+image: https://image.tmdb.org/t/p/w500/1dpAs8sTHGwSPCdZ27oxIH8V45n.jpg
 ---
 
 This is the story of Sam Sullivan, the youngest executive at the corporate headquarters of a major airline.  His boss Russ is a lunatic and his coworker Meryl, a 40-something sexpot, is continuously making sexual advances towards him.
@@ -20,3 +20,4 @@ As Sam tries to find a way to cope with the demands of his career, the social de
 There were some major changes for the second season, such as the unexplained dropping of Sam's female roommates Piper (Amanda Loncar) and Lizzie (Sarah Wright), and switching the focus of the show so that most of the action took place at Sam's workplace.
 
 The Loop only lasted two seasons.  In fact, since FOX had already cancelled the show before the second season aired, the second season aired as an episode "burn-off".
+Image poster gotten from themoviedb.org

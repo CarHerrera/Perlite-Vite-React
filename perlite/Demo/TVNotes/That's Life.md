@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Sharron Miller,Christopher Monger,Michael Switzer
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2wWwNQXPVamIPxbMBJbG6g4QIgq.jpg
 ---
 
 That's Life is the story of the adventures of Lydia DeLucca, a 32 year old woman from a close Italian-American family in New Jersey, who decides to start her life over by breaking her lengthy engagement and pursuing the college degree of her dreams.
+Image poster gotten from themoviedb.org

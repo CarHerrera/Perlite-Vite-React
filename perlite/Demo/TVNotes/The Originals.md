@@ -10,7 +10,8 @@ User Score: 81
 User Count: 407
 Director: nan
 Creator: Julie Plec
-image: 
+image: https://image.tmdb.org/t/p/w500/keJOhJXGiLL54EW6QocbyvQGquA.jpg
 ---
 
 The Originals is a spin-off series of The CW's The Vampire Diaries. it will focus on the Original family.
+Image poster gotten from themoviedb.org

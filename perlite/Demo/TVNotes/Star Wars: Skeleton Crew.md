@@ -10,7 +10,8 @@ User Score: 62
 User Count: 261
 Director: Jon Watts
 Creator: Christopher Ford,Jon Watts
-image: 
+image: https://image.tmdb.org/t/p/w500/srQbJhLRKoAwRrNN5ga7webPHbC.jpg
 ---
 
 Four kids make a discovery that sends them out into space where they get lost, encounter dangerous lands, and meet mysterious characters, including Jod Na Nawood (Jude Law) as they try to get home in the coming-of-age series set in the Star Wars universe.
+Image poster gotten from themoviedb.org

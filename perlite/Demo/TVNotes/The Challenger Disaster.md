@@ -14,3 +14,4 @@ image:
 ---
 
 Nobel Prize-winning physicist Richard Feynman (John Hurt) reluctantly joins the The presidential commission that included former Secretary of State William Rogers (Brian Dennehy), U.S. Air Force Gen. Donald Kutyna (Bruce Greenwood), and astronaut Sally Ride (Eve Best) to investigate the reasons behind the explosion of the Challenger shuttle in 1986.
+Image poster gotten from themoviedb.org

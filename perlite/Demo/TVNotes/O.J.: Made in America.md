@@ -10,7 +10,8 @@ User Score: 71
 User Count: 44
 Director: Ezra Edelman
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/fZ17ZtCsfKGKqkt835IVtRWGUt.jpg
 ---
 
 The seven-and-a-half-hour documentary chronicles O.J. Simpson's rise from the San Francisco housing projects to football fame in college and the NFL to his post-football career and infamy with the 1995 trial for the killings of his ex-wife, Nicole, and Ron Goldman. The first episode will air on ABC with the subsequent four episodes airing only on ESPN.
+Image poster gotten from themoviedb.org

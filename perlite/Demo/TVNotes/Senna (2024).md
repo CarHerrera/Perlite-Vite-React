@@ -14,3 +14,4 @@ image:
 ---
 
 The career of Formula One driver Ayrton Senna (Gabriel Leone) is the focus of the limited series drama series.
+Image poster gotten from themoviedb.org

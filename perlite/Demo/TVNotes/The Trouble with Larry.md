@@ -14,3 +14,4 @@ image:
 ---
 
 The antics of a man abducted by baboons who returns to disrupt his wife's life. After disappearing in Africa during their honeymoon, Larry Burton stuns his wife, Sally, by arriving at her Syracuse home, where she lives with her new husband and Larry's daughter. A year after this inane monkey business, Courteney Cox found happier companionship with 'Friends.'
+Image poster gotten from themoviedb.org

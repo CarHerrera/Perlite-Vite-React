@@ -14,3 +14,4 @@ image:
 ---
 
 Stephen Frears’ HBO film based on the book by Howard Bingham and Max Wallace, follows the decision by the supreme court to uphold Muhammad Ali’s right to claim conscientious objector status in 1971.
+Image poster gotten from themoviedb.org

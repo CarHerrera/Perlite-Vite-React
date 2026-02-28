@@ -10,7 +10,8 @@ User Score: 54
 User Count: 49
 Director: Andrés Baiz
 Creator: Carlo Bernard,Ingrid Escajeda,Doug Miro,Eric Newman
-image: 
+image: https://image.tmdb.org/t/p/w500/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg
 ---
 
 The limited series created by Eric Newman and Andrés Baiz focuses on Griselda Blanco (Sofía Vergara), a major player in the cocaine drug trade in Miami during the 1970s and 80s.
+Image poster gotten from themoviedb.org

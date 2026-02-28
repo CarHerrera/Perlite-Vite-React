@@ -10,7 +10,8 @@ User Score: 0
 User Count: 2
 Director: Antoine Fuqua
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/nMgIVQVRDTSae95VivppOTm39N9.jpg
 ---
 
 The two-part documentary about the iconic boxer directed by Antoine Fuqua features some previously unseen archival footage.
+Image poster gotten from themoviedb.org

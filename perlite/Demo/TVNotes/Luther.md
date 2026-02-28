@@ -10,7 +10,8 @@ User Score: 74
 User Count: 688
 Director: Sam Miller,Jamie Payne,Farren Blackburn,Stefan Schwartz,Brian Kirk
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg
 ---
 
 Detective Chief Inspector John Luther (Idris Elba) returns to work after being suspended in another case, but soon finds his personal and professional lives becoming precarious yet again.
+Image poster gotten from themoviedb.org

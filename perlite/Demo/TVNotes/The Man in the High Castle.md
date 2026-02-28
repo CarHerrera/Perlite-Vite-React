@@ -10,7 +10,8 @@ User Score: 76
 User Count: 632
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xhoDZbMNeyCA0BGPZQsdIiO43Dp.jpg
 ---
 
 Based on a novel by Phillip Dick where the Axis powers won World War II after dropping an atomic bomb on Washington D.C. Julianna (Alexa Davalos) leaves San Francisco for Japan to search for her sister's killer and new resistance recruit Joe (Luke Kleintank) is in New York to be assigned his first mission.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 70
 User Count: 7
 Director: Paul Lynch,Michael Vejar,Allan Eastman,Mario Azzopardi
 Creator: Michael Miner,Edward Neumeier
-image: 
+image: https://image.tmdb.org/t/p/w500/lKPeX5a04E1qrzAVeI43ocfinM.jpg
 ---
 
 Based on the movies with the same name, this series follows crime-fighting cyborg known as Robocop. Formerly Alex J. Murphy, a New Detroit police officer modified after being "killed" in the line of duty, Robocop polices a city of the future while being haunted by the memories of his former life.
+Image poster gotten from themoviedb.org

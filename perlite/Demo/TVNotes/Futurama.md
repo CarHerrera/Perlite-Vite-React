@@ -10,7 +10,8 @@ User Score: 87
 User Count: 1103
 Director: Peter Avanzino,Rich Moore
 Creator: Matt Groening
-image: 
+image: https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg
 ---
 
 Futurama follows the comic exploits of Fry, a pizza delivery boy, who was accidentally cryogenically frozen in 1999, and awakens in the year 3000, finding much has changed, and, yet, is seemingly familiar. Together with an assortment of alien, robot, and human friends, he works for an intergalactic delivery service, Planet Express, run by his descendant nephew, and finds many adventures along the way.
+Image poster gotten from themoviedb.org

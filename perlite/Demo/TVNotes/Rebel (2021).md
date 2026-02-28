@@ -14,3 +14,4 @@ image:
 ---
 
 Inspired by Erin Brockovich's life, the drama series follows Annie "Rebel" Bello (Katey Sagal) as she fights for justice against corporations and those in power.
+Image poster gotten from themoviedb.org

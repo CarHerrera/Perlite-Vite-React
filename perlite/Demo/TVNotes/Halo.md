@@ -10,7 +10,8 @@ User Score: 51
 User Count: 1132
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/4UmNhZCEu8Vt3byMvNxNEPyf8EY.jpg
 ---
 
 Dr. Catherine Elizabeth Halsey (Natascha McElhone) and Master Chief Petty Officer John-117 (Pablo Schreiber) are introduced in the long-gestating sci-fi series based on the Xbox video game franchise set in 26th-century.
+Image poster gotten from themoviedb.org

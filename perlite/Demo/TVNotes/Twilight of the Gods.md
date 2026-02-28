@@ -10,7 +10,8 @@ User Score: 58
 User Count: 57
 Director: Andrew Tamandl,Tim Divar,David Hartman,Jay Oliva,Zack Snyder
 Creator: Eric Carrasco,Jay Oliva,Zack Snyder
-image: 
+image: https://image.tmdb.org/t/p/w500/n0rqWDT1oYGcNIuLydZD4J4JpwK.jpg
 ---
 
 Zack Snyder's violent and explicit adult animation series inspired by Norse mythology follows King Leif (voiced by Stuart Martin) as he falls in love with a warrior named Sigrid (voiced by Sylvia Hoeks), but after being attacked by Thor (voiced by Pilou Asbæk), they seek vengeance against all gods.
+Image poster gotten from themoviedb.org

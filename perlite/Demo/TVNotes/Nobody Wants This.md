@@ -10,7 +10,8 @@ User Score: 64
 User Count: 95
 Director: nan
 Creator: Erin Foster
-image: 
+image: https://image.tmdb.org/t/p/w500/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg
 ---
 
 The relationship between agnostic Joanne (Kristen Bell) and unconventional rabbi Noah (Adam Brody) is at the center of the comedy series created by Erin Foster.
+Image poster gotten from themoviedb.org

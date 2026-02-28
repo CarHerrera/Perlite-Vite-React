@@ -10,7 +10,8 @@ User Score: 63
 User Count: 364
 Director: nan
 Creator: Chuck Lorre,Steven Molaro
-image: 
+image: https://image.tmdb.org/t/p/w500/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg
 ---
 
 The spinoff from The Big Bang Theory focuses on a nine-year-old Sheldon Cooper (Iain Armitage) as he begins high school in East Texas.
+Image poster gotten from themoviedb.org

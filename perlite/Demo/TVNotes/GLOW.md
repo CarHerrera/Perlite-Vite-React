@@ -10,7 +10,8 @@ User Score: 79
 User Count: 446
 Director: nan
 Creator: Liz Flahive,Carly Mensch
-image: 
+image: https://image.tmdb.org/t/p/w500/aqQlgRgUwVTfbdxe33vfDEMiCa2.jpg
 ---
 
 Set in 1985 Los Angeles, struggling actress Ruth Wilder (Alison Brie) end up on the women wrestling TV show in this comedy created by Liz Flahive that was inspired by the 1980s professional wrestling league that ran on syndicated television for four years.
+Image poster gotten from themoviedb.org

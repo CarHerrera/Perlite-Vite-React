@@ -10,7 +10,8 @@ User Score: 20
 User Count: 5
 Director: nan
 Creator: Wendy Calhoun,Karin Gist
-image: 
+image: https://image.tmdb.org/t/p/w500/qhXFRWEn8u24eYwujk9PfLLB7uS.jpg
 ---
 
 Single mother Angela Vaughn (Yaya DaCosta) moves to Martha’s Vineyard to establish herself in the Black upper class enclave her late mother grew up in, but family secrets change everything for Angela and the community in this drama series inspired by Lawrence Otis Graham’s book Our Kind of People: Inside America’s Black Upper Class.
+Image poster gotten from themoviedb.org

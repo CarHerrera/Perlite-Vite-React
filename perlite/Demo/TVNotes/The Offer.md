@@ -10,7 +10,8 @@ User Score: 82
 User Count: 56
 Director: nan
 Creator: Michael Tolkin
-image: 
+image: https://image.tmdb.org/t/p/w500/9fdYX5uc3HZEuYotms3XJ72AbCr.jpg
 ---
 
 The limited series dramatizes producer Albert S. Ruddy's (Miles Teller) experience while making Francis Ford Coppola's "The Godfather."
+Image poster gotten from themoviedb.org

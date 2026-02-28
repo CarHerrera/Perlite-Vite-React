@@ -10,7 +10,8 @@ User Score: 92
 User Count: 468
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg
 ---
 
 Walt Longmire (Robert Taylor) is a sheriff in a small Wyoming town in this adaptation of the mystery novels by Craig Johnson.
+Image poster gotten from themoviedb.org

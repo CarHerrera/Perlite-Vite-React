@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Terry Hughes
 Creator: Gary Jacobs
-image: 
+image: https://image.tmdb.org/t/p/w500/czSOViA92BbMHvVMQq2PvJit9FP.jpg
 ---
 
 Woops! was a postapocalyptic comedy in which two kids playing with an electronic toy at a parade accidentally set off a nuclear missle, triggering a nuclear holocaust which wiped out most of the world's population in under an hour. Six people survived the blast: including Mark, the narrator, because he was in his Volvo; Alice, a feminist who was in her bookstore basement which used to be a bomb shelter in the 60s; Curtis, an arrogant yuppie who was in the bank vault of his brokerage office; Jack, a cheery homeless guy living under the interstate; Frederick, a black pathologist who was in an underground morgue; and Suzanne, a dumb sexy manicurist who just....survived! Giant mutant insects would sometimes intrude, but for the most part they just organized nutty survival schemes.
+Image poster gotten from themoviedb.org

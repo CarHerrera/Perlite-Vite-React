@@ -10,7 +10,8 @@ User Score: 81
 User Count: 9
 Director: Lucy Forbes,Molly Manners
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/zOLx19TxskkCPObaNv890Zuy2yl.jpg
 ---
 
 16-year-old Bethan (Gabrielle Creevy) hides her troubled home life from her friends and teachers in this Welsh dark coming-of-age comedy created by Kayleigh Llewellyn.
+Image poster gotten from themoviedb.org

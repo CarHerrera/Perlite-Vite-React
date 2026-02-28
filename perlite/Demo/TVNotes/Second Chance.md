@@ -10,7 +10,8 @@ User Score: 77
 User Count: 79
 Director: Brad Turner
 Creator: Rand Ravich
-image: 
+image: https://image.tmdb.org/t/p/w500/epD9q663aphzMXoxAo58zGu1oIc.jpg
 ---
 
 The Lookinglass Project founded by Otto Goodwin (Adhir Kalyan) and his twin sister, Mary (Dilshad Vadsaria) bring back to life Jimmy Pritchard (Robert Kazinsky), a LA County sheriff murdered by corrupt police in this drama originally called The Frankenstein Code (also  Frankenstein and Lookinglass) was inspired by Mary Shelley's Frankenstein.
+Image poster gotten from themoviedb.org

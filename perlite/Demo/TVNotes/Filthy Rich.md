@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: Tate Taylor,Howard Deutch
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hrqh2JNh6OilGoKAYaLbaiSFTWz.jpg
 ---
 
 Margaret Monreaux (Kim Cattrall) and her family are shocked to learn three illegitimate children of her recently deceased husband may inherit their very successful Christian television network, the Sunshine Network in this drama series based on the New Zealand series of the same name.
+Image poster gotten from themoviedb.org

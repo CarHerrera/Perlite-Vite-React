@@ -14,3 +14,4 @@ image:
 ---
 
 Three families compete to buy the Los Angels home of Lydia and Paul (Lisa Kudrow and Ray Romano) in the dark comedy series from Liz Feldman.
+Image poster gotten from themoviedb.org

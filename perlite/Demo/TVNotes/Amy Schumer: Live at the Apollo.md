@@ -14,3 +14,4 @@ image:
 ---
 
 Directed by Chris Rock, the HBO stand-up special was filmed in May 2014 at the famed New York theater.
+Image poster gotten from themoviedb.org

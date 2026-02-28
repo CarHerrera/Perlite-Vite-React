@@ -10,7 +10,8 @@ User Score: 69
 User Count: 48
 Director: Paris Barclay
 Creator: Dan Fogelman,Rick Singer
-image: 
+image: https://image.tmdb.org/t/p/w500/qTK0N1qLBWzwxuG0DH3cdYXghIT.jpg
 ---
 
 Ginny Baker (Kylie Bunbury) is called up by the San Diego Padres to pitch in the major leagues and must prove herself among the players including team captain, catcher Mike Lawson (Mark-Paul Gosselaar).
+Image poster gotten from themoviedb.org

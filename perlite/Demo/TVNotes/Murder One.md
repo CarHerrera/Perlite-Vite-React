@@ -10,7 +10,8 @@ User Score: 56
 User Count: 43
 Director: Michael Fresco,Marc Buckland
 Creator: Steven Bochco,Charles H. Eglee,Channing Gibson
-image: 
+image: https://image.tmdb.org/t/p/w500/8POnAqZ1W5ttbeWpEVosMxhTIo4.jpg
 ---
 
 One of several crime and law dramas created by Steven Bochco (Hill Street Blues, NYPD Blue, L.A. Law), Murder One boasted a then-unique concept: it would tell a single story -- that of a major murder trial -- over the course of an entire season. In the first season, Daniel Benzali portrayed the lead defense attorney, Patricia Clarkson played his wife, and Jason Gedrick the accused man he represented. Audiences at the time seemed deterred by the serialization, with low ratings leading to major cast and format changes in season two.
+Image poster gotten from themoviedb.org

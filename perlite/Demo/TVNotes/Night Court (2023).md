@@ -14,3 +14,4 @@ image:
 ---
 
 Abby Stone (Melissa Rauch), the daughter of the late Judge Harry Stone, takes over the night shift at a New York City court full of eccentrics and skeptics including former prosecutor Dan Fielding (John Larroquette) in the sequel to the 1980s legal comedy series of the same name.
+Image poster gotten from themoviedb.org

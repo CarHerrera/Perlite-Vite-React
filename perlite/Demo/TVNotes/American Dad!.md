@@ -10,7 +10,7 @@ User Score: 77
 User Count: 530
 Director: nan
 Creator: Mike Barker,Seth MacFarlane,Matt Weitzman
-image: 
+image: https://image.tmdb.org/t/p/w500/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg
 ---
 
 American Dad! from Family Guy creator, Seth MacFarlane, is the animated story of Stan Smith, who works for the CIA and is constantly on the alert for terrorist activity. Stan will go to extremes to protect his beloved America from harm – as evidenced by the terror-alert color code on his fridge, and his frequent knee-jerk reaction of shooting holes in the toaster whenever the toast pops up. Production Company: 20th Century FOX.Also see Family Guy.Character Guide:Stan Smith - Stan works for the CIA, and is constantly on the look-out for terrorists. He loves his family and will do anything to protect them, and his country. Francine Smith - Stan's wife, she has had a past life of drugs, but she has carefully hidden her party-girl personality for the sake of the conservative man she loves. She met Stan after college.Hayley Smith - The teenage daughter of the family, currently attending community college. Despite her father's best efforts she has turned out to be a left-wing liberal. Stan loves his daughter, but that doesn't necessarily mean he trusts her.   Steve Smith - The dorky son, he tries to act cool, but fails. Steve is on the verge of puberty - but he just can't quite make it. His low social status sometimes leads him to taking drastic action - but no matter what he does, he's just a dork. Roger - A sarcastic alien rescued by Stan from Area 51. He resents not being allowed to leave the house, so has resorted to drinking wine and smoking cigarettes.Klaus - A German-talking goldfish, he was a CIA experiment that went horribly wrong when they tried transplanting a German man's brain into a goldfish. Klaus lusts after Francine, and will take any opportunity that comes his way.Theme Song Lyrics:Stan: Good morning, USA!
@@ -54,3 +54,4 @@ April 9th - April 23rd --- Sundays, 10:00 PM
 April 10th - April 24th --- Mondays, 2:00 AM[adult swim] Special Presentations
 February 13th, 2005 (Ep: "Pilot") --- Sunday, 11:30 PM
 February 17th, 2005 (Ep: "Pilot") --- Thursday, 11:30 PM
+Image poster gotten from themoviedb.org

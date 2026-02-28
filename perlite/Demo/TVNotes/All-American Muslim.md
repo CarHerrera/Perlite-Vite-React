@@ -14,3 +14,4 @@ image:
 ---
 
 The reality series focuses on the lives of five Muslim-American families in Dearborn, Michigan.
+Image poster gotten from themoviedb.org

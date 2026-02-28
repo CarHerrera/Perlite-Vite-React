@@ -10,9 +10,10 @@ User Score: 64
 User Count: 57
 Director: Jill Robertson,Tom Vaughan,Dolly Wells,Asim Abbasi
 Creator: Poppy Cogan
-image: 
+image: https://image.tmdb.org/t/p/w500/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg
 ---
 
 17-year-old Pip Fitz-Amobi (Emma Myers) and her friends investigate the 2019 disappearance of fellow student Andie Bell in the mystery series based on Holly Jackson novel of the same name adapted by Poppy Cogan.
 
 [Premiered originally in the UK on BBC iPlayer on 1 Jul 2024 and in the US on Netflix on 1 Aug 2024]
+Image poster gotten from themoviedb.org

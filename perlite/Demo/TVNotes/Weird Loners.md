@@ -10,7 +10,8 @@ User Score: 71
 User Count: 23
 Director: Jake Kasdan,Robert Cohen,Bill Purple,Reginald Hudlin,Christine Gernon
 Creator: Michael J. Weithorn
-image: 
+image: https://image.tmdb.org/t/p/w500/wwBFhMqF7Nt5yaHhZfk9uFsGGH.jpg
 ---
 
 Caryn Goldfarb (Becki Newton), Eric Lewandowski (Nate Torrence), Stosh Lewandowski (Zachary Knighton), and Zara Sandhu (Meera Rohit Kumbhani) live together in a townhouse in Queens, New York in this comedy from "King of Queens" co-creator Michael Weithorn.
+Image poster gotten from themoviedb.org

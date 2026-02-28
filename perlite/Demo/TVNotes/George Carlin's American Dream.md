@@ -10,7 +10,8 @@ User Score: 81
 User Count: 20
 Director: Judd Apatow,Michael Bonfiglio
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/Ab2MuFKz1DaOiMmofxwZbxyf6Pe.jpg
 ---
 
 The two-part documentary directed by Judd Apatow and Michael Bonfiglio about the life and career of comedian George Carlin features never-before-seen archival films, photos, audio recordings, letters, and diaries as well as interviews with friends and family.
+Image poster gotten from themoviedb.org

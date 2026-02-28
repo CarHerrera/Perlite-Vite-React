@@ -10,7 +10,8 @@ User Score: 64
 User Count: 2803
 Director: Deborah Chow
 Creator: Joby Harold
-image: 
+image: https://image.tmdb.org/t/p/w500/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg
 ---
 
 The latest Star Wars series is set 10 years after the end of Revenge of the Sith with Obi-Wan Kenobi (Ewan McGregor) in Tatooine.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 40
 User Count: 7
 Director: Kief Davidson
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/u13gKUHiDKEumiCOrux0JqJP5s6.jpg
 ---
 
 The four-part documentary series looks at Gary Stewart's search for his biological father and the evidence that reveal the man was the Zodiac Killer.
+Image poster gotten from themoviedb.org

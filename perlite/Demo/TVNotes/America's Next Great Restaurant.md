@@ -14,3 +14,4 @@ image:
 ---
 
 This show will feature group of would-be restaurateurs as they compete to show a panel of investors from the cooking and business worlds their skills. The winner will be able to open a chain of restaurants across America.  
+Image poster gotten from themoviedb.org

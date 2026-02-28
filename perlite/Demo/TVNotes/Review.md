@@ -10,7 +10,8 @@ User Score: 80
 User Count: 113
 Director: Jeffrey Blitz
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/igseZf0ClaW0kzqnAIORuXjNxkR.jpg
 ---
 
 Forrest MacNeil (Andrew Daly) reviews life experiences such as addiction or sex.
+Image poster gotten from themoviedb.org

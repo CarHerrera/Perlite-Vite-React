@@ -14,3 +14,4 @@ image:
 ---
 
 Accountant Arthur Everest (Griffin Newman) discovers the city is owned by a supervillian (Jackie Earle Haley), but the only person who believes him is a superhero called the The Tick (Peter Serafinowicz) in this latest adaptation of Ben Edlund's comic.
+Image poster gotten from themoviedb.org

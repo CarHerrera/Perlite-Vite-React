@@ -10,7 +10,8 @@ User Score: 77
 User Count: 23
 Director: Larysa Kondracki
 Creator: Patrick Macmanus
-image: 
+image: https://image.tmdb.org/t/p/w500/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg
 ---
 
 The disappearance of a 15-year-old boy leads the police (James Badge Dale and Gabriel Luna) to John Wayne Gacy (Michael Chernus) and the breadth of his crimes in the limited series that focuses on the stories of the victims and their families. Peacock also released a documentary series in 2021 called "John Wayne Gacy: Devil In Disguise."
+Image poster gotten from themoviedb.org

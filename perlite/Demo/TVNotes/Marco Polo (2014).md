@@ -14,3 +14,4 @@ image:
 ---
 
 The Netflix series explores the early days of Marco Polo's (Lorenzo Richelmy) time in the court of Kublai Khan (Benedict Wong).
+Image poster gotten from themoviedb.org

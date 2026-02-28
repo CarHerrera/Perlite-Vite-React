@@ -10,7 +10,8 @@ User Score: 72
 User Count: 1001
 Director: nan
 Creator: Laeta Kalogridis
-image: 
+image: https://image.tmdb.org/t/p/w500/66rKwpSexUZ3yTv5lBS1bjU4Ykk.jpg
 ---
 
 The sci-fi series based on Richard K. Morgan's 2002 novel Carbon is set 300 years in the future where soldier Takeshi Kovacs (Will Yun Lee/Joel Kinnaman) awakens in a new body when he is freed from prison by Laurens Bancroft (James Purefoy), who wants him to solve his murder.
+Image poster gotten from themoviedb.org

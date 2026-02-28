@@ -10,7 +10,7 @@ User Score: 10
 User Count: 4
 Director: Sanford Bookstaver
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/cGXWKdtnslRMPctXp3GR3m1Kewi.jpg
 ---
 
 This soapy drama tells the story of two families, the Duques and the Samuels, in the rum and sugar business. This series explores the rivalry between the two families as well as the power struggles within the individual families.
@@ -19,3 +19,4 @@ Cynthia Cidre wrote the pilot and will executive produce alongside Jonathan Prin
 
 The show was originally named as Los Duques but was renamed to Cane just before CBS picked up the show.
 Cane is a production of ABC Television Studio, CBS Paramount Network Television, El Sendero Productions, Interscope Records and Once A Frog Productions.
+Image poster gotten from themoviedb.org

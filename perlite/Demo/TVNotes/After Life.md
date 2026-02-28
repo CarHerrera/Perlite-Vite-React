@@ -10,7 +10,8 @@ User Score: 78
 User Count: 247
 Director: Ricky Gervais
 Creator: Ricky Gervais
-image: 
+image: https://image.tmdb.org/t/p/w500/6eJf4h9XcvqK64vbx27EFlLVURm.jpg
 ---
 
 Created, directed and starring Ricky Gervais as a widower, who decides to say and do anything he wants, no matter the consequences, to punish the world in this dark comedy.
+Image poster gotten from themoviedb.org

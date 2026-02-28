@@ -10,7 +10,8 @@ User Score: 77
 User Count: 203
 Director: nan
 Creator: Connor Pritchard
-image: 
+image: https://image.tmdb.org/t/p/w500/kXg4tFUHN7h7bNdBTeLIIKqw9UJ.jpg
 ---
 
 Three unmotivated college graduates are about to learn what the real world is all about.  From now on they will be forced to follow dress codes, make deadlines and above all wake up before noon.  After realizing they are no longer responsible for making the grade in school, they will do whatever it takes to avoid work and have a good time.
+Image poster gotten from themoviedb.org

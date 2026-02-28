@@ -10,7 +10,8 @@ User Score: 76
 User Count: 71
 Director: nan
 Creator: Shonda Rhimes
-image: 
+image: https://image.tmdb.org/t/p/w500/pW20ANAGdrgreYJExduUVaWos6H.jpg
 ---
 
 A spin-off of the medical drama "Grey's Anatomy" centering on the life of neonatal surgeon Addison Montgomery.
+Image poster gotten from themoviedb.org

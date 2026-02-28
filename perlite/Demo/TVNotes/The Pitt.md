@@ -10,7 +10,8 @@ User Score: 78
 User Count: 210
 Director: Damian Marcano,Amanda Marsalis
 Creator: R. Scott Gemmill
-image: 
+image: https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg
 ---
 
 Noah Wyle is Dr. Michael Rabinavitch in the Pittsburgh emergency room medical drama from John Wells, Wyle and R. Scott Gemmill.
+Image poster gotten from themoviedb.org

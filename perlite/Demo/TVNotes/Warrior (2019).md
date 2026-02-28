@@ -10,7 +10,8 @@ User Score: 81
 User Count: 139
 Director: nan
 Creator: Jonathan Tropper
-image: 
+image: https://image.tmdb.org/t/p/w500/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg
 ---
 
 Set in the late 1800s, gifted martial artist Ah Sahm (Andrew Koji) immigrates from China to San Francisco and ends up as an enforcer for the one of the Chinatown tongs in this drama created by Jonathan Tropper and inspired by Bruce Lee's original idea for a TV series.
+Image poster gotten from themoviedb.org

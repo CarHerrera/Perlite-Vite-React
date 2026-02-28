@@ -10,7 +10,8 @@ User Score: 59
 User Count: 61
 Director: Neasa Hardiman
 Creator: Mark L. Smith,Elle Smith
-image: 
+image: https://image.tmdb.org/t/p/w500/tclYY8RGieQwkJXDxZGf505Zybr.jpg
 ---
 
 Kyle Turner (Eric Bana), a National Parks Service special agent, investigates a death in Yosemite that soon reveals secrets of the park and his own past in the limited series from Mark L. Smith and Elle Smith. 
+Image poster gotten from themoviedb.org

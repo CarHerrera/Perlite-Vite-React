@@ -14,3 +14,4 @@ image:
 ---
 
 NBC's ad described this comedy as "Like your life. Only funnier." The show focuses on a self-absorbed suburban couple - Paula Marshall plays the busy doctor and Justin Louis is her sex-starved husband.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 48
 User Count: 27
 Director: Jonathan van Tulleken,Dana Gonzales
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/cLUeNjCHs8q4crMTyywflohSD8w.jpg
 ---
 
 Apollo (LaKeith Stanfield) journeys through unknown areas of New York City after his wife (Clark Backo) disappears mysteriously in this horror series based on Victor LaValle's book of the same name.
+Image poster gotten from themoviedb.org

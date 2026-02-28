@@ -10,7 +10,8 @@ User Score: 75
 User Count: 30
 Director: Valerie Fletcher,John Rice,Tom Smith
 Creator: Mike Judge
-image: 
+image: https://image.tmdb.org/t/p/w500/75am8jsmRHHcpIPkm4RyrMn851A.jpg
 ---
 
 Beavis and Butt-Head are back in the reboot of the Mike Judge animated comedy. The show moved to Comedy Central after two seasons that premiered exclusively on Paramount+.
+Image poster gotten from themoviedb.org

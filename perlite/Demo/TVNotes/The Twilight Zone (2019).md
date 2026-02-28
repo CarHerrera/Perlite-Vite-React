@@ -14,3 +14,4 @@ image:
 ---
 
 The reboot of the anthology series is hosted and narrated by Jordan Peele.
+Image poster gotten from themoviedb.org

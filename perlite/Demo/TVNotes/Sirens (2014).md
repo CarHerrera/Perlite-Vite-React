@@ -14,3 +14,4 @@ image:
 ---
 
 The comedy series about EMTs based on the British show of the same name was adapted by Denis Leary and Bob Fisher.
+Image poster gotten from themoviedb.org

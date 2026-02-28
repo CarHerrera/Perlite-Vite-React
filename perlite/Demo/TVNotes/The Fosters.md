@@ -10,7 +10,8 @@ User Score: 84
 User Count: 151
 Director: nan
 Creator: Bradley Bredeweg,Peter Paige
-image: 
+image: https://image.tmdb.org/t/p/w500/iRCmazqaUNNsgZyR6tNDl88pXp3.jpg
 ---
 
 Lesbian couple Lena and Stef raise several adopted kids along with their biological son.
+Image poster gotten from themoviedb.org

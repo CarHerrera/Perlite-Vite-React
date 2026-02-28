@@ -10,7 +10,8 @@ User Score: 75
 User Count: 513
 Director: nan
 Creator: Loren Bouchard
-image: 
+image: https://image.tmdb.org/t/p/w500/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg
 ---
 
 From the Loren Bouchard, co-creator of Home Movies comes this animated comedy series about a burger flipper from a seaside East Coast town. 
+Image poster gotten from themoviedb.org

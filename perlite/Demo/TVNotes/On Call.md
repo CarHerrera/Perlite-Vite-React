@@ -10,7 +10,8 @@ User Score: 72
 User Count: 36
 Director: Eriq La Salle,Brenna Malloy
 Creator: Tim Walsh,Elliot Wolf
-image: 
+image: https://image.tmdb.org/t/p/w500/3MvgPuQfBrJ54lGqTZ6dwhG61rC.jpg
 ---
 
 Long Beach veteran officer Traci Harmon (Troian Bellisario) and her rookie partner Alex Diaz (Brandon Larracuente) are working the beat in the police drama co-created by Tim Walsh and Elliot Wolf that will incorporate cellphone, body cam, and dash cam POVs.
+Image poster gotten from themoviedb.org

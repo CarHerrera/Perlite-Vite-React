@@ -10,7 +10,8 @@ User Score: 75
 User Count: 438
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/66YHvvVduC21xcMXPpBBF0ywyVZ.jpg
 ---
 
 The television adaptation of Cassandra Clare's The Mortal Instruments series follows Clary Fray (Katherine McNamara) after she discovers she is a Shadowhunter, an human-angel hybrid who hunt demons. When her mother is kidnapped, Clary and her best friend Simon (Alberto Rosende) meet Shadowhunter Jace (Dominic Sherwood) and embark into the Shadow World.
+Image poster gotten from themoviedb.org

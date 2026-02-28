@@ -10,7 +10,8 @@ User Score: 70
 User Count: 207
 Director: nan
 Creator: Greg Daniels
-image: 
+image: https://image.tmdb.org/t/p/w500/6TPGDrU9MyWbn2TpggJphVAVXiq.jpg
 ---
 
 After a near fatal accident, app developer Nathan (Robbie Amell) is uploaded into a virtual afterlife called Lakeside by his girlfriend in this sci-fi comedy created and written by Greg Daniels.
+Image poster gotten from themoviedb.org

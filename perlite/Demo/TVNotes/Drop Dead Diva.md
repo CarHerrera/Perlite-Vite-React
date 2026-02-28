@@ -10,7 +10,8 @@ User Score: 66
 User Count: 86
 Director: Michael Grossman
 Creator: Josh Berman
-image: 
+image: https://image.tmdb.org/t/p/w500/fbu2O3hbU1ZROpjU01YCAMLz1sR.jpg
 ---
 
 This Lifetime drama project follows a pretty 20-something actress who dies and reincarnates as an older, frumpy attorney.
+Image poster gotten from themoviedb.org

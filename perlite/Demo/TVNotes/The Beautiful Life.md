@@ -10,7 +10,7 @@ User Score: 0
 User Count: 0
 Director: Sanford Bookstaver,Norman Buckley
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/d9My9tIvCSck2yd3CuOra6rLFAi.jpg
 ---
 
 Swingtown's creator and showrunner Mike Kelley and Carol Barbee develop a primetime soap that will follow the privileged lives of male and female models residing in New York City.
@@ -20,3 +20,4 @@ The Last House On The Left's Sara Paxton and The Cutting Edge 3's Ben Hollingswo
 High School Musical's Corbin Bleu, The OC's Mischa Barton, Secret Diary of a Call Girl's Ashley Madekwe, Nico Tortorella and real life model Elle MacPherson round out the main cast of The Beautiful Life: TBL.
 
 The Beautiful Life: TBL was inspired by the real life experiences of model-turned-writer Adam Giaudrone. The series will be produced by Ashton Kutcher.
+Image poster gotten from themoviedb.org

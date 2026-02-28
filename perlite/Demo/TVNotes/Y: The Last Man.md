@@ -10,7 +10,8 @@ User Score: 44
 User Count: 78
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xJvTO2fLOQWwJlQ4MAt7rP8Yno0.jpg
 ---
 
 Survivors of a post-apocalyptic calamity that killed every mammal with a Y chromosome except for Yorick Brown (Ben Schnetzer) and his pet monkey, look to rebuild a better society in this FX on Hulu series based on DC Comics of the same name by Brian K. Vaughan and Pia Guerra.
+Image poster gotten from themoviedb.org

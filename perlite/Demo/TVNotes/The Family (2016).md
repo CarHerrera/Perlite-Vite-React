@@ -14,3 +14,4 @@ image:
 ---
 
 Originally titled Flesh and Blood, Claire (Joan Allen) is in the midst of planning a run as governor when her presumed dead son (Zach Gilford) reappears after having been kidnapped more than ten years ago.
+Image poster gotten from themoviedb.org

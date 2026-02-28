@@ -10,7 +10,8 @@ User Score: 78
 User Count: 288
 Director: Sung Jin Ahn,Young Heller
 Creator: Critical Role
-image: 
+image: https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg
 ---
 
 The animated fantasy-adventure series about seven adventurers who go on a journey to save Exandria from dark magic after running up a large bar tab in this adaptation of a role-playing game (RPG) campaign.
+Image poster gotten from themoviedb.org

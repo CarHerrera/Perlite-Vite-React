@@ -10,7 +10,8 @@ User Score: 50
 User Count: 7
 Director: Brian Kelly
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/1BpIVXSmbcKqkuHOBKXFfjDTRBd.jpg
 ---
 
 Detective Superintendent Roy Grace (John Simm) and Detective Sergeant Glenn Branson (Richie Campbell) solves murders in Brighton in this crime series based on the Roy Grace series by Peter James.
+Image poster gotten from themoviedb.org

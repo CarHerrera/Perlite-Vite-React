@@ -14,3 +14,4 @@ image:
 ---
 
 Vampire-human hybrid Rosemarie Hathaway (Sisi Stringer) and her Moroi  vampire best friend Princess Vasilisa "Lissa" Dragomir (Daniela Nieves) are some of the students at St Vladimir's Academy in Julie Plec and Marguerite MacIntyre's adaptation of Richelle Mead's book series of the same name.
+Image poster gotten from themoviedb.org

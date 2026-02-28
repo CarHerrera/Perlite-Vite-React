@@ -14,3 +14,4 @@ image:
 ---
 
 The romance between Ernest Hemingway (Clive Owen) and novelist/war correspondent Martha Gellhorn (Nicole Kidman) is depicted in this HBO movie.
+Image poster gotten from themoviedb.org

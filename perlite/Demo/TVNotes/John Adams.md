@@ -10,7 +10,8 @@ User Score: 81
 User Count: 38
 Director: Tom Hooper
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/34qRIcLKkTpmM9x9gzm9nKvo5pW.jpg
 ---
 
 U.S. history buffs won't want to miss this epic miniseries about one of America's greatest founding fathers John Adams. The mini-series is based on the 2002 book, John Adams, written by David McCullough, and stars two Academy Award nominated actors: Paul Giamatti and Laura Linney. 
+Image poster gotten from themoviedb.org

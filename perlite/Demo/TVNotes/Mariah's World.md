@@ -10,7 +10,8 @@ User Score: 42
 User Count: 38
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/nKqzpevBfF41kaYSugqQlyC8N4f.jpg
 ---
 
 The reality show follows Mariah Carey as she prepares for her Sweet Sweet Fantasy tour in Europe and her wedding to James Packer.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 60
 User Count: 8
 Director: Nick Gomez,Guy Ferland,Charles S. Dutton,Leslie Libman,Clark Johnson
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rwV1zZSvijp2vfrizmBNCHxMeEI.jpg
 ---
 
 Showtime’s new drama unveils the war on terrorism to reveal a riveting and unfiltered view.  ‘Sleeper Cell’ stars Michael Ealy as an African-American undercover F.B.I. agent who is seduced into joining an Islamic sleeper terrorist cell in the United States by the cell’s ruthless leader played by Oded Fehr. 
@@ -21,3 +21,4 @@ Encore airings of the same episode will repeat Sunday – Wednesday at 11:00PM �
 Thursday and Friday from 8:00PM – 10:00PM encore telecasts will air in two-hour, back-to-back blocks. 
  Saturday, December 10 and Saturday December 17 a four-part ‘Sleeper Cell Mini-Marathon’ will air.  
 The season finale is set to air in a two-hour event on Sunday December 18 from 8:00PM – 10:00PM with an encore telecast immediately following.
+Image poster gotten from themoviedb.org

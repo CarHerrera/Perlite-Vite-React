@@ -10,7 +10,8 @@ User Score: 48
 User Count: 13
 Director: Andy Wilson,Colin Teague,Brian Grant,Marisol Adler
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/bhz6mMRybQnmoEycU3fCMIAtJbv.jpg
 ---
 
 A young Sinbad (Elliot Knight) is forced to flee his home and hides on a ship called Providence after he accidentally kills Lord Akbari's (Naveen Andrews) son.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 77
 User Count: 29
 Director: nan
 Creator: Ashley Michel Hoban,Patrick Macmanus
-image: 
+image: https://image.tmdb.org/t/p/w500/pNnmxTSc2ixac4xk8T80wchec0r.jpg
 ---
 
 Based on the podcast of the same name, the limited series tells the true story of Dr. Christopher Duntsch (Joshua Jackson), a Dallas surgeon who left more than 30 patients dead or permanently injured until two doctors (Alec Baldwin and Christian Slater) and an Assistant District Attorney (AnnaSophia Robb) work to stop him.
+Image poster gotten from themoviedb.org

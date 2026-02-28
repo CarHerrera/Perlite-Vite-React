@@ -10,7 +10,8 @@ User Score: 60
 User Count: 71
 Director: nan
 Creator: Alexi Hawley
-image: 
+image: https://image.tmdb.org/t/p/w500/2a4kzJHXFzPYXV09XmRe9OM58L8.jpg
 ---
 
 CIA analyst Charleston "Charlie" Tucker (Katherine Heigl) advises President Constance Payton (Alfre Woodard) on national security matters.
+Image poster gotten from themoviedb.org

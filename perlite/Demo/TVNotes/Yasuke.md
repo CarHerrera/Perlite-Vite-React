@@ -10,7 +10,8 @@ User Score: 65
 User Count: 68
 Director: Lesean Thomas,Takeru Satoh,Yasufumi Soejima,Kunihiro Mori,Hiroyuki Kanbe,Kazuya Iwata
 Creator: Lesean Thomas
-image: 
+image: https://image.tmdb.org/t/p/w500/hgYqEkZQS2fgC6E9fe8Le1Kxbmw.jpg
 ---
 
 Yasuke (voiced by LaKeith Stanfield), the first African samurai, is tasked with protecting a young girl from warlords and dark magic in this anime set in an alternate feudal Japan created by LeSean Thomas.
+Image poster gotten from themoviedb.org

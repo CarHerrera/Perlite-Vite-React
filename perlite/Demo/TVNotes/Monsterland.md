@@ -10,7 +10,8 @@ User Score: 48
 User Count: 14
 Director: Desiree Akhavan,Babak Anvari,Anne Sewitsky
 Creator: Mary Laws
-image: 
+image: https://image.tmdb.org/t/p/w500/trfjxF8LN8NuXxSsmGToRCFMdoH.jpg
 ---
 
 Meeting supernatural beings and beasts causes people to do whatever it takes to find a remedy for their lives in this horror anthology series based on Nathan Ballingrud's short stories collection, "North American Lake Monsters."
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 60
 User Count: 13
 Director: nan
 Creator: Jay Beattie,Dan Dworkin,Andrew Orci,Roberto Orci
-image: 
+image: https://image.tmdb.org/t/p/w500/aPAOnEESzuOHvCjPSveUfsiBPuP.jpg
 ---
 
 DEA agent Tony "Matador" Bravo (Gabriel Luna) is recruited by the CIA and goes undercover as a professional soccer player with the L.A. Riot soccer team owned by billionaire Andres Galan (Alfred Molina).
+Image poster gotten from themoviedb.org

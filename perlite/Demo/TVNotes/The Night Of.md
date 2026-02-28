@@ -10,7 +10,8 @@ User Score: 87
 User Count: 624
 Director: Steven Zaillian,James Marsh
 Creator: Richard Price,Steven Zaillian,Peter Moffat
-image: 
+image: https://image.tmdb.org/t/p/w500/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg
 ---
 
 The limited crime drama series created by Steven Zaillian and Richard Price (loosely based on BBC series Criminal Justice) examines the New York City criminal system through attorney Jack Stone (John Turturro) and his client, a young Pakistani named Nasir Khan (Riz Ahmed), who is accused of murder.
+Image poster gotten from themoviedb.org

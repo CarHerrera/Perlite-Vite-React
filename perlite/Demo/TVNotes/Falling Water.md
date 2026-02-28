@@ -10,7 +10,8 @@ User Score: 58
 User Count: 23
 Director: nan
 Creator: Henry Bromell,Blake Masters
-image: 
+image: https://image.tmdb.org/t/p/w500/8Zvcv8cehygUawphBcAk7N5kVoi.jpg
 ---
 
 Three individuals (Lizzie Brochere, David Ajala and Will Yun Lee) are having dreams that are a part of a single dream that may hold the clues to world's fate in this thriller from Henry Bromell, Blake Masters and Gale Anne Hurd.
+Image poster gotten from themoviedb.org

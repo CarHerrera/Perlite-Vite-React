@@ -10,7 +10,8 @@ User Score: 66
 User Count: 17
 Director: Roland Joffé
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qPNhnfrfEg4l5NJa59zRW7OLMQm.jpg
 ---
 
 The eight-part limited series based on the Tony-winning musical "Million Dollar Quartet" follows the early years of rock'n'roll as Sam Phillips (Chad Michael Murray) guides the rise of such stars as Elvis Presley (Drake Milligan), Johnny Cash (Kevin Fonteyne), Jerry Lee Lewis (Christian Lees), and Jimmy Swaggart (Jonah Lees).
+Image poster gotten from themoviedb.org

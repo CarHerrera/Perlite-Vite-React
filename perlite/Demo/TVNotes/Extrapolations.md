@@ -10,7 +10,8 @@ User Score: 36
 User Count: 32
 Director: Scott Z. Burns
 Creator: Scott Z. Burns
-image: 
+image: https://image.tmdb.org/t/p/w500/cBUS1OijCX2jzirgajIWt4TOgTK.jpg
 ---
 
 Set in the near future, people are forced to make to life changing choices in the face of rapid climate change in the drama series from Scott Z. Burns.
+Image poster gotten from themoviedb.org

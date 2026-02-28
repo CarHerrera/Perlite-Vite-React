@@ -10,9 +10,10 @@ User Score: 83
 User Count: 11
 Director: Peter Cattaneo
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/79L8AHJdoDtxtwyBNqNM1HRJ8q5.jpg
 ---
 
 Book editor Susan Ryeland's (Leslie Manville) search for the missing final chapter to an unfinished mystery manuscript leads to a real murder case in this adaptation of Anthony Horowitz's novel of the same name.
 
 [Premiered originally in the UK on BritBox on 10 Feb 2022 and in the US as a part of PBS' Masterpiece on 16 Oct 2022]
+Image poster gotten from themoviedb.org

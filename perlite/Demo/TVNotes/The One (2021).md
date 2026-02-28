@@ -14,3 +14,4 @@ image:
 ---
 
 The drama based on the John Marrs book of the same name where Rebecca (Hannah Ware), MatchDNA's CEO announces a DNA test that can help locate one's perfect love match, but secrets and lies surface as the company's success take off.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Move over Heidi Klum, everyone's favorite personality on Project Runway gets a chance to be at the helm of his own show. Using his book Tim Gunn: A Guide to Quality, Taste & Style as a point of reference, Gunn will go to work on style-challenged subjects to inform the masses on his philosophy of dressing, grooming, and poise.
+Image poster gotten from themoviedb.org

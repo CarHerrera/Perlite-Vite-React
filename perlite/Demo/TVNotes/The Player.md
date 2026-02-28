@@ -10,7 +10,8 @@ User Score: 71
 User Count: 58
 Director: nan
 Creator: John Fox,John Rogers
-image: 
+image: https://image.tmdb.org/t/p/w500/53d9irSbFJGramziasFjByOcDZX.jpg
 ---
 
 Security expert Alex Kane (Philip Winchester) seeks revenge for the murder of his wife when he is approached by Mr. Johnson (Wesley Snipes) to become part of a high stakes game where wealthy individuals bet on Kane's ability to stop crimes from happening.
+Image poster gotten from themoviedb.org

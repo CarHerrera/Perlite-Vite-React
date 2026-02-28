@@ -10,7 +10,8 @@ User Score: 82
 User Count: 80
 Director: Ken Burns,Lynn Novick
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tKt4lYTA4YmfBUH5Vtd7qqgqGBW.jpg
 ---
 
 Ken Burns and Lynn Novick returns with a 10-part, 18-hour miniseries about the war features interviews, archival footage, home movies, photos, and audio clips. 
+Image poster gotten from themoviedb.org

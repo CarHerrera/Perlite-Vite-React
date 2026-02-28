@@ -14,3 +14,4 @@ image:
 ---
 
 Nicky Shen (Olivia Liang) drops out of college to go to a Shaolin monastery in China. When she returns home to San Francisco, she finds crime running rampant and begins using her skills to help her community in this reimagining of the 1970s series of the same name.
+Image poster gotten from themoviedb.org

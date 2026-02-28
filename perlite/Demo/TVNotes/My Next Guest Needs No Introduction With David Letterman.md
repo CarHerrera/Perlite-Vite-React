@@ -10,7 +10,8 @@ User Score: 60
 User Count: 43
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/5dObN91CjQPUhgQoEMbpmLTtxc8.jpg
 ---
 
 David Letterman returns to the talk show world with a monthly series and the six-episode first season will include President Barack Obama, George Clooney, Tina Fey, Jay-Z, Malala Yousafzai, and Howard Stern.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 58
 User Count: 62
 Director: nan
 Creator: Lena Waithe
-image: 
+image: https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg
 ---
 
 The coming-of-age drama from Common, Elwood Reid, and Lena Waithe follows a group of residents in the South Side of Chicago including Brandon (Jason Mitchell), who dreams of opening up a restaurant with his girlfriend (Tiffany Boone) but is torn by his responsibilities toward his younger brother Coogie (Jahking Guillory) and their alcoholic mother (Sonja Sohn); 13-tear-old Kevin (Alex Hibbert) finds himself in the wrong place at the wrong time; and Jada (Yolonda Ross) a single mother to her son Emmett (Jacob Latimore).
+Image poster gotten from themoviedb.org

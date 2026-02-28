@@ -10,7 +10,8 @@ User Score: 66
 User Count: 15
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/7xaVVAAhMJhc5VIRpRa48DLsRru.jpg
 ---
 
 The five-part miniseries sequel to 2018's Waco focuses on the results from the 1993 Waco siege including the Branch Davidians and its connection to Timothy McVeigh.
+Image poster gotten from themoviedb.org

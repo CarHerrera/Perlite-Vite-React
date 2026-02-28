@@ -14,3 +14,4 @@ image:
 ---
 
 Pop star Jocelyn (Lily-Rose Depp) falls for nightclub owner Tedros (Abel "The Weeknd" Tesfaye) in this drama series co-created by Sam Levinson, Tesfaye, and Reza Fahim.
+Image poster gotten from themoviedb.org

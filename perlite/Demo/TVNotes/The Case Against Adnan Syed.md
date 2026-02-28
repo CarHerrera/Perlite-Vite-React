@@ -10,7 +10,8 @@ User Score: 49
 User Count: 16
 Director: Amy Berg
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9ofrnp1aml6uRH9Jsx58aSHITug.jpg
 ---
 
 The four-part documentary series directed by Amy Berg takes another look at the case that was central to the Serial podcast with new interviews with people connected to the case and possible new discoveries.
+Image poster gotten from themoviedb.org

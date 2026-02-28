@@ -14,3 +14,4 @@ image:
 ---
 
 Based on the 2009 British comedy, the HBO version follows the lives of Dr. Jenna James (Laurie Metcalf), Nurse Dawn (Alex Borstein), Nurse DiDi (Niecy Nash), and supervising nurse Patsy De La Serda (Mel Rodriguez) at Billy Barnes Extended Care Unit of Mt. Palms Hospital in Long Beach, California.
+Image poster gotten from themoviedb.org

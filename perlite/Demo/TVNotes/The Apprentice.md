@@ -10,7 +10,8 @@ User Score: 46
 User Count: 126
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/cUflI3B1Bmzxba8xgplyEnozaLt.jpg
 ---
 
 The competitive reality show featured 16 contestants seeking to win a chance to be selected by host Donald Trump to manage one of his properties.
+Image poster gotten from themoviedb.org

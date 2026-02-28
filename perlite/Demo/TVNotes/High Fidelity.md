@@ -10,7 +10,8 @@ User Score: 69
 User Count: 65
 Director: Jeffrey Reiner
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6OTZ66ZlJvOVb5A8ALiPzTD0n3H.jpg
 ---
 
 Brooklyn record store owner (Zoe Kravitz) tries to get over her latest breakup in this second adaptation of the Nick Hornby novel of the same name.
+Image poster gotten from themoviedb.org

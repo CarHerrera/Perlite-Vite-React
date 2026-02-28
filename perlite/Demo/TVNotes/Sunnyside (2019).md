@@ -14,3 +14,4 @@ image:
 ---
 
 Disgraced New York City Councilman Garrett Modi (Kal Penn) is living with his sister and feeling sorry for himself until a group of people seek his help in helping them become American citizens in this comedy co-written by Penn and Matt Murray.
+Image poster gotten from themoviedb.org

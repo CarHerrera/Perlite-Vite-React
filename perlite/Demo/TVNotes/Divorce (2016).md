@@ -14,3 +14,4 @@ image:
 ---
 
 In the comedy created by Sharon Horgan, Frances (Sarah Jessica Parker) decides she wants to end her decade-long marriage to Robert (Thomas Haden Church).
+Image poster gotten from themoviedb.org

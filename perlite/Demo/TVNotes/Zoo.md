@@ -10,7 +10,8 @@ User Score: 59
 User Count: 140
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/yg9x4J3ZTslvVSz5Mtu9pH0FWcr.jpg
 ---
 
 A global pandemic causes animals to coordinate their violent attacks on humans in this thriller based on James Patterson's novel of the same name.
+Image poster gotten from themoviedb.org

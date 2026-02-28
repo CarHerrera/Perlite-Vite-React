@@ -10,7 +10,8 @@ User Score: 75
 User Count: 69
 Director: Brennan Shroff
 Creator: Samantha Bee,Jason Jones
-image: 
+image: https://image.tmdb.org/t/p/w500/hXR3Vxu8BVtMF9YxRrbCV6fcEWr.jpg
 ---
 
 The comedy created by Jason Jones and Samantha Bee follows Nate (Jason Jones), his wife Robin (Natalie Zea) and their two children as they take a road trip from upstate New York to Florida.
+Image poster gotten from themoviedb.org

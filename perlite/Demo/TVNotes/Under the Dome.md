@@ -10,7 +10,8 @@ User Score: 55
 User Count: 654
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/fwH0ePhd7m3swtCuFeubtR49ZTd.jpg
 ---
 
 A small town in Maine is cut off from the rest of the world in the miniseries based on Stephen King's book of the same name.
+Image poster gotten from themoviedb.org

@@ -10,9 +10,10 @@ User Score: 69
 User Count: 40
 Director: Hans Herbots,Tom Shankland
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/mZve7vS8S7nyYMIJ5rJrjzOGwAZ.jpg
 ---
 
 Set in the 1970s, conman Charles Sobhraj (Tahar Rahim) and his girlfriend Marie-Andrée Leclerc (Jenna Coleman) begin their crime spree in southeast Asia which catches the attention of Dutch diplomat Herman Knippenberg (Billy Howle) and his wife (Ellie Bamber) in this eight-part series inspired by real events.
 
 [Premiered originally in the UK on BBC One on 1 Jan 2021 and in the US on Netflix on 2 Apr 2021]
+Image poster gotten from themoviedb.org

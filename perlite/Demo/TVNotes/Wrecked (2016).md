@@ -14,3 +14,4 @@ image:
 ---
 
 Asif Ali, Zach Cregger, Rhys Darby, Brooke Dillman, Ginger Gonzaga, Will Greenberg, Jessica Lowe, Ally Maki, and Brian Sacca are stranded on a deserted island after a plane crash in this comedy from Justin and Jordan Shipley.
+Image poster gotten from themoviedb.org

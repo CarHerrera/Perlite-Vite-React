@@ -10,7 +10,8 @@ User Score: 62
 User Count: 16
 Director: Shiri Appleby
 Creator: Tracy McMillan
-image: 
+image: https://image.tmdb.org/t/p/w500/nJxyT4SVRocp6Pd8xZkdyrrBXL4.jpg
 ---
 
 Paige's (Kerry Washington) life is disrupted when her father (Delroy Lindo) moves in with her and her teenage son after a 17-year prison sentence in this comedy series created by Tracy McMillan.
+Image poster gotten from themoviedb.org

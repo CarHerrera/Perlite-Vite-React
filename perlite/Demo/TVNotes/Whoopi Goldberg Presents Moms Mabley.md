@@ -14,3 +14,4 @@ image:
 ---
 
 With newly discovered archival footage, photographs, and interviews, the Whoopi Goldberg-directed documentary explores the history and impact of African American comedienne Jackie "Moms" Mabley on current comedians.
+Image poster gotten from themoviedb.org

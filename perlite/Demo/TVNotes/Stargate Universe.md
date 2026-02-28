@@ -10,9 +10,10 @@ User Score: 72
 User Count: 229
 Director: Andy Mikita,William Waring
 Creator: Robert C. Cooper,Brad Wright
-image: 
+image: https://image.tmdb.org/t/p/w500/dHOaOZGUhnoRXeK9mhYeSRPh59H.jpg
 ---
 
 After the secret of the Stargate's ninth chevron is discovered, a team of explorers from Earth travels to the unmanned starship Destiny, which was launched by the Ancients hundreds of millenia ago as an experiment. The new crew, not able to control the Destiny's navigation, is forced to complete its original mission. They travel far out into the universe, encountering new races and enemies.
 
 Stargate Universe is produced and distributed by MGM Television and Sci-Fi Channel. It is filmed at Bridge Studios and on location in and around Vancouver, British Columbia, Canada.
+Image poster gotten from themoviedb.org

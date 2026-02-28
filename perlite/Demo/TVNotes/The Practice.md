@@ -10,7 +10,7 @@ User Score: 87
 User Count: 27
 Director: nan
 Creator: David E. Kelley
-image: 
+image: https://image.tmdb.org/t/p/w500/7OKZSUIWhjFP0F2s478zTrAYwDB.jpg
 ---
 
 David E. Kelley's Emmy Award-winning legal drama, The Practice, had eight amazing seasons, with promising, provocative, issue-related stories, coupled with the writer's trademark humor.
@@ -58,3 +58,4 @@ Newtork: ABC
 (Simulcast in HDTV for the 2000-2001 season through the 2003-2004 season)
 ------------------------------
 Spinoff:  Boston Legal
+Image poster gotten from themoviedb.org

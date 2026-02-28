@@ -10,7 +10,8 @@ User Score: 70
 User Count: 12
 Director: Daniel Junge,Steven Leckart
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/nJqCgP3vzu79mtf3i51Dv2B20Oy.jpg
 ---
 
 The four-part documentary series takes a look back at the events that led to the Challenger explosion that killed everyone onboard on January 28, 1986.
+Image poster gotten from themoviedb.org

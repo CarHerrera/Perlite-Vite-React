@@ -10,7 +10,8 @@ User Score: 70
 User Count: 56
 Director: nan
 Creator: David Pastor,Àlex Pastor
-image: 
+image: https://image.tmdb.org/t/p/w500/kdjLwa2EVxcH3xyiXSyMbyHalnL.jpg
 ---
 
 In 2062, corporations run the world and Ben Larson (Sean Teale) does whatever it takes at the SPIGA Biotech to locate and save Elena (Denyse Tontz), who had to sell herself to to pay for her family's debts.
+Image poster gotten from themoviedb.org

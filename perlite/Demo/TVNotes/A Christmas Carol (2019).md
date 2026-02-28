@@ -14,3 +14,4 @@ image:
 ---
 
 Originally planned as a miniseries, the now three-hour TV movie is a new version of the Dickens classic written by Steven Knight with Guy Pearce as Ebenezer Scrooge.
+Image poster gotten from themoviedb.org

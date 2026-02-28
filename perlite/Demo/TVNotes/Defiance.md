@@ -10,7 +10,8 @@ User Score: 75
 User Count: 344
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/4Xo2D2MX8v4FoHi70Y9jEghJGUI.jpg
 ---
 
 In 2046, Joshua Nolan (Grant Bowler) returns to his hometown after the wars with aliens have transformed Earth.
+Image poster gotten from themoviedb.org

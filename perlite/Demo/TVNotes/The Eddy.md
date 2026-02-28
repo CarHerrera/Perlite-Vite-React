@@ -10,8 +10,9 @@ User Score: 62
 User Count: 29
 Director: Damien Chazelle,Alan Poul,Laïla Marrakchi,Houda Benyamina
 Creator: Jack Thorne
-image: 
+image: https://image.tmdb.org/t/p/w500/dfpB5bU70zPtwhKDT6s9N3iNXbU.jpg
 ---
 
 The arrival of Elliot Udo's (Andre Holland) teenage daughter Julie (Amandla Stenberg) at his failing Paris jazz club forces him to face his issues in this musical drama series from Damien Chazelle.
 
+Image poster gotten from themoviedb.org

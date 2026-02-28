@@ -10,7 +10,8 @@ User Score: 60
 User Count: 6
 Director: John Dahl,Daniel Gray Longino,Zetna Fuentes
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rGZ7Hv2VvPHKM0Pav6cHyX4jaLN.jpg
 ---
 
 The anthology series based on Mike Isaac's book of the same name will focus on Uber and its CEO, Travis Kalanick (Joseph Gordon-Levitt).
+Image poster gotten from themoviedb.org

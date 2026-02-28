@@ -10,7 +10,8 @@ User Score: 79
 User Count: 238
 Director: Tony Yacenda
 Creator: Dan Perrault,Tony Yacenda
-image: 
+image: https://image.tmdb.org/t/p/w500/hMbVY6f4zfUcX0xf2jo3xZFdrMp.jpg
 ---
 
 The true-crime satire series from Tony Yacenda and Dan Perrault follows Peter Maldanaldo (Tyler Alvarez) as he investigates the expulsion of high school senior Dylan Maxwell (Jimmy Tatro) for allegedly spray painting 27 faculty cars with phallic images.
+Image poster gotten from themoviedb.org

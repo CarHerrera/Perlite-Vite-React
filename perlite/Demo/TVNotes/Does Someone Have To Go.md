@@ -14,3 +14,4 @@ image:
 ---
 
 Employees are given power to make decisions on who will be laid off.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 71
 User Count: 300
 Director: Brad Rau,Steward Lee,Nathaniel Villanueva,Saul Ruiz
 Creator: Dave Filoni,George Lucas
-image: 
+image: https://image.tmdb.org/t/p/w500/5mHus672nuinyaE0FtqvD0AddcY.jpg
 ---
 
 The animated sequel/spin-off of Star Wars: The Clone Wars is set after that series with members of Clone Force 99 (who call themselves the Bad Batch) beginning new missions in the galaxies.
+Image poster gotten from themoviedb.org

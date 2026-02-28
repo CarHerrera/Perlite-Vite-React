@@ -14,3 +14,4 @@ image:
 ---
 
 Death row attorney Henry (Andre Holland) returns to his hometown of Castle Rock, Maine after receiving a call from Shawshank in this psychological horror series from J.J. Abrams and Stephen King.
+Image poster gotten from themoviedb.org

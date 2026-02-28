@@ -20,3 +20,4 @@ Born in 1920 in Wadowice, Poland, Karol "Lolek" Wojtyla would become the man ord
 Viewers will witness this man's life throughout the years, from the loss of his family before he was an adult to the loss of his Jewish friends during WWII. From his career as a priest, where he would impress his superiors with his intellect, to his career as Pope where he would champion causes thought to be liberal and conservative.
 
 Have No Fear: The Life of Pope John Paul II was written by Michael Hirst (Elizabeth) and Judd Parkin. Jeff Bleckner (The Beach Boys: An American Family, Serving in Silence: The Margarethe Cammermeyer Story) directs. The production company is Five Mile River Films. The telefilm was shot on location in Lithuania and Rome.
+Image poster gotten from themoviedb.org

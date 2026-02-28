@@ -10,7 +10,8 @@ User Score: 51
 User Count: 11
 Director: Guillem Morales
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/bO57OA7pR4dXBQLTshuDEpkPyHF.jpg
 ---
 
 The adaptation of Jessie Burton's novel is set in 1686 Amsterdam where 18-year-old Nella Oortman (Anya Taylor-Joy) moves in with her new husband Johannes Brandt (Alex Hassell), who gifts her a dollhouse copy of their home. Nella begins questioning the extra  packages of mini furniture and life-like dolls from a miniaturist appear to predict future events.
+Image poster gotten from themoviedb.org

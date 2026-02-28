@@ -14,3 +14,4 @@ image:
 ---
 
 This WE tv reality show follows twelve different girls through a typical high school experience. They encounter sex, drugs, unplanned pregnancies, health concerns and more during their four years of self-discovery and personal growth.
+Image poster gotten from themoviedb.org

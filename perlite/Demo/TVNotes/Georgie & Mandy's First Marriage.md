@@ -10,7 +10,8 @@ User Score: 53
 User Count: 30
 Director: Mark Cendrowski
 Creator: Steve Holland,Chuck Lorre,Steven Molaro
-image: 
+image: https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg
 ---
 
 The Young Sheldon spinoff centers on Georgie and Mandy (Montana Jordan and Emily Osment) as they begin life as new parents.
+Image poster gotten from themoviedb.org

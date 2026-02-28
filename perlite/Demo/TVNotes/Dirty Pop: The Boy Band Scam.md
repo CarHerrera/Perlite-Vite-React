@@ -10,7 +10,8 @@ User Score: 65
 User Count: 13
 Director: David Fine
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2ZvpH7CW9bcTGrgZcwUUE2LDrWX.jpg
 ---
 
 The three-part documentary series focuses on the rise and fall of Lou Pearlman, the man behind boy bands like the Backstreet Boys and *NYSNC.
+Image poster gotten from themoviedb.org

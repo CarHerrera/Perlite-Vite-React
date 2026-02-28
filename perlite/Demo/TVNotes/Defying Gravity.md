@@ -10,7 +10,8 @@ User Score: 68
 User Count: 8
 Director: Fred Gerber,Sturla Gunnarsson,Peter Howitt,David Straiton
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/cH8U50mHJ9JkhF5lJktHOvV30pP.jpg
 ---
 
 This show takes place in the near future and focuses on the lives of eight astronauts from five different countries on a six-year mission through the solar system. The team is on a mysterious mission that is closely being followed by ground personnel. Each episode is divided between the present mission and flashbacks that show the selection process each astronaut went through to become part of the project. 
+Image poster gotten from themoviedb.org

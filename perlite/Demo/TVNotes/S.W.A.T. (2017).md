@@ -14,3 +14,4 @@ image:
 ---
 
 Former Marine Daniel “Hondo” Harrelson (Shemar Moore) is a S.W.A.T. sergeant given the task of running a specialized tactical unit in this police drama inspired by the Aaron Spelling's 1970s series and 2003 film of the same name.
+Image poster gotten from themoviedb.org

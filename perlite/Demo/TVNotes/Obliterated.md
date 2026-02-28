@@ -10,7 +10,8 @@ User Score: 62
 User Count: 30
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tWPAKr5RaZCQ1jaO2VRmvcIOrKh.jpg
 ---
 
 A special forces team must locate a nuclear bomb in Las Vegas despite being under the influence in this action-comedy series from Jon Hurwitz, Hayden Schlossberg, and Josh Heald.
+Image poster gotten from themoviedb.org

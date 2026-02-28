@@ -10,7 +10,8 @@ User Score: 68
 User Count: 26
 Director: Shane Zalvin,Kay Ritter,Stevie Wermers
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2gxgwhcuSmI5xtexb0t9zGj43FS.jpg
 ---
 
 New Monsters University graduate Tylor Tuskmon (Ben Feldman) joins Monsters, Inc. where he learns about laughs instead of scares in this animated sequel to the 2001 film Monsters, Inc.
+Image poster gotten from themoviedb.org

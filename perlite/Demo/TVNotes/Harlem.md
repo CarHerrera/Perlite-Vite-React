@@ -10,7 +10,8 @@ User Score: 55
 User Count: 26
 Director: nan
 Creator: Tracy Oliver
-image: 
+image: https://image.tmdb.org/t/p/w500/hQP2zAm5L52vs7fp3JzOI5LZ4uB.jpg
 ---
 
 20-something best friends Camille, Tye, Quinn, and Angie juggle life, career and relationships in Harlem in this comedy from Tracy Oliver.
+Image poster gotten from themoviedb.org

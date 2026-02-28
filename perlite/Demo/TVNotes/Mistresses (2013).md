@@ -14,3 +14,4 @@ image:
 ---
 
 Savi (Alyssa Milano), her sister Josslyn (Jes Macallan), April (Rochelle Aytes), and Karen (Yunjin Kim) are four women who becomes involved in affairs in this US remake of the BBC series of the same name.
+Image poster gotten from themoviedb.org

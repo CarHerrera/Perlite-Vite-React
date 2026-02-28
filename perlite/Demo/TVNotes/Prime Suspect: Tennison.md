@@ -10,7 +10,8 @@ User Score: 71
 User Count: 14
 Director: David Caffrey
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/Al7NS0GdjFncycSY8zchLu9Txqf.jpg
 ---
 
 The prequel to Prime Suspect is set in 1973 where 22-year-old Jane Tennison (Stefanie Martini) begins working on on her first murder case as a WPC (woman police constable) with Greater London's Metropolitan police.
+Image poster gotten from themoviedb.org

@@ -10,9 +10,10 @@ User Score: 69
 User Count: 31
 Director: Nicolas Winding Refn
 Creator: Nicolas Winding Refn
-image: 
+image: https://image.tmdb.org/t/p/w500/jspobwn8SDeDC00CTfWAv4fjZmb.jpg
 ---
 
 Miu (Angela Bundalovic), a young woman with supernatural gifts, travels to Copenhagen to find out about her past and seek justice in this six-part series from Nicolas Winding Refn.
 
 [Premiered at the Venice Film Festival on 9 Sep 2022; set to air in the US on Netflix sometime in 2022]
+Image poster gotten from themoviedb.org

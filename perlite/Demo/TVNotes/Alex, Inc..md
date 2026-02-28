@@ -10,7 +10,8 @@ User Score: 57
 User Count: 19
 Director: Zach Braff
 Creator: Matt Tarses
-image: 
+image: https://image.tmdb.org/t/p/w500/uDrUGwYPV5qsE1ZxoQivOLOMWmv.jpg
 ---
 
 In this sitcom based on Alex Blumberg’s Gimlet Media podcast "StartUp," a journalist (Zach Braff) quits his job to start his own company.
+Image poster gotten from themoviedb.org

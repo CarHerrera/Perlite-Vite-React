@@ -14,3 +14,4 @@ image:
 ---
 
 The documentary series follows the competitive cheerleading team at Texas's Navarro College as they go for another national title with their coach Monica Aldama.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Nine overweight and engaged couples will compete in order to see who loses the most weight over a three-month period. The couple who loses the most weight will win their dream wedding.
+Image poster gotten from themoviedb.org

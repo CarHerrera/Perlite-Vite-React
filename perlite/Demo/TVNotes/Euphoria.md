@@ -10,7 +10,8 @@ User Score: 76
 User Count: 538
 Director: Sam Levinson
 Creator: Sam Levinson,Daphna Levin
-image: 
+image: https://image.tmdb.org/t/p/w500/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg
 ---
 
 The teen drama based on the Israeli series of the same name about a group of teenagers including Rue (Zendaya), a 17-year-old drug addict, as they deal with school, love, friendship, sex and drugs.
+Image poster gotten from themoviedb.org

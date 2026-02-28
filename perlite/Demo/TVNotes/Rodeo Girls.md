@@ -14,3 +14,4 @@ image:
 ---
 
 The reality show follows the lives of five barrel racers: the wealthy Darcy, rookie Megan, junior barrel racer-turned pro Jessica, veteran Marvel, and 2009 champion Barb.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 66
 User Count: 10
 Director: B.J. Novak,Kitao Sakurai,Darya Zhuk
 Creator: B.J. Novak
-image: 
+image: https://image.tmdb.org/t/p/w500/r6fZdnOVjerXjXbotbTaRAeueqH.jpg
 ---
 
 The half-hour anthology series from B.J. Novak features character-driven stories.
+Image poster gotten from themoviedb.org

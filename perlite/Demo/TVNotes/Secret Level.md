@@ -10,7 +10,8 @@ User Score: 66
 User Count: 199
 Director: Dave Wilson,Rémi Kozyra,Alex Beaty,Maxime Luère
 Creator: Tim Miller
-image: 
+image: https://image.tmdb.org/t/p/w500/856MRq23grNxpeVl1PdFgmmLiT0.jpg
 ---
 
 The animated anthology series features short stories set in a variety of video game worlds seen in Dungeons & Dragons, Mega Man, Pac-Man, Spelunky, and Warhammer 40,000.
+Image poster gotten from themoviedb.org

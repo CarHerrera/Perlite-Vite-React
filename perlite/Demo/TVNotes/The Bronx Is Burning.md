@@ -10,7 +10,7 @@ User Score: 0
 User Count: 2
 Director: Jeremiah S. Chechik
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/dmy5JXv6HyE7gcHnmdi2j2mjWEJ.jpg
 ---
 
 A limited run series about the Yankees' 1977 World Series attempt,
@@ -22,3 +22,4 @@ Donald, and other TV vets in multiple episodes, and a host of others in
 cameo roles. A co-production of ESPN Original Entertainment, East Coast
 Films, and Tollin/Robbins Productions, this continues to broaden the type of
 entertainment provided by the sports channel. 
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 The comedy special from the comedian who is known for her Trump lip-sync videos features guest appearances from Fred Armisen, Jon Hamm, Megan Thee Stallion, Helen Mirren, Maya Rudolph, Winona Ryder, Ben Stiller, and Marisa Tomei.
+Image poster gotten from themoviedb.org

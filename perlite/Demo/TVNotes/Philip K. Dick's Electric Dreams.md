@@ -10,7 +10,8 @@ User Score: 64
 User Count: 88
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tyaNrGepu4HbkjLFkK6vgua1vgn.jpg
 ---
 
 The sci-fi anthology series based on Philip K. Dick's short stories features 10 standalone episodes adapted by such writers/producers as Michael Dinner, David Farr, Matthew Graham, Francesca Gregorini, Tony Grisoni, Peter Horton, Jessica Mecklenburg ,Ronald D. Moore, Dee Rees, and Alan Taylor.
+Image poster gotten from themoviedb.org

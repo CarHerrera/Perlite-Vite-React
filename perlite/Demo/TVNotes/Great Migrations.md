@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qv7nLtGL8i6RCXfQILXhWgR4p0m.jpg
 ---
 
 This seven-part series takes viewers on a journey around the world to follow millions of different animals as they fight to survive. 
+Image poster gotten from themoviedb.org

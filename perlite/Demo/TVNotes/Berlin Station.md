@@ -10,7 +10,8 @@ User Score: 68
 User Count: 70
 Director: nan
 Creator: Olen Steinhauer
-image: 
+image: https://image.tmdb.org/t/p/w500/zn26BiTyU3LjQVB36ZQWtVBWseD.jpg
 ---
 
 CIA analyst-turned-field-agent Daniel Miller (Richard Armitage) arrives in Berlin and is assigned to discover the identity of a whistleblower going by the name Thomas Shaw with the help of his old friend and veteran agent Hector DeJean (Rhys Ifans).
+Image poster gotten from themoviedb.org

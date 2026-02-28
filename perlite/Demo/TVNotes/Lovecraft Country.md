@@ -10,7 +10,8 @@ User Score: 52
 User Count: 340
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/fz7bdjxPColvEWCGr5Kiclzc86d.jpg
 ---
 
 The adaptation of Matt Ruff book follows Atticus Black (Jonathan Majors) as he goes on a roadtrip through segregated 1950s America with his friend Letitia (Jurnee Smollett-Bell) and uncle George (Courtney B. Vance) to find his missing father (Michael K. Williams).
+Image poster gotten from themoviedb.org

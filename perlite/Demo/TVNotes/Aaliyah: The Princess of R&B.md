@@ -14,3 +14,4 @@ image:
 ---
 
 The Lifetime TV movie depicts the story of R&B singer Aaliyah (Alexandra Shipp) from her first taste of fame on "Star Search" to her tragic ending at the age of 22.
+Image poster gotten from themoviedb.org

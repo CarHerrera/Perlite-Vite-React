@@ -10,7 +10,8 @@ User Score: 73
 User Count: 6
 Director: Thom Zimny
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/e7QDejokKHrstqa3adoGOZ5vFvW.jpg
 ---
 
 The two-part three-hour film takes a look at the pop legend's life up until the 1976 Jungle Room recording sessions with new interviews, never-before seen pictures and video.
+Image poster gotten from themoviedb.org

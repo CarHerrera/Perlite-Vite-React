@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Kenneth Branagh
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/i2MwS6U0XzD8ad6aS3HiTNKz8ov.jpg
 ---
 
 Kenneth Branagh brings one of Shakespeare’s best plays to HBO.  Set in 19th century Japan, the tale follows Rosalind, the daughter of a banished duke who is forced in to exile after her uncle threatens to have her killed.  For safety’s sake Rosalind disguises herself as a man.  Her disguise comes in handy when she tests the devotion of her admirer Orlando.  The story is full of a sense of love and justice.
+Image poster gotten from themoviedb.org

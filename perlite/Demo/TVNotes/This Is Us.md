@@ -10,7 +10,8 @@ User Score: 78
 User Count: 349
 Director: nan
 Creator: Dan Fogelman
-image: 
+image: https://image.tmdb.org/t/p/w500/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg
 ---
 
 The Dan Fogelman dramedy features people (Sterling K. Brown,  Justin Hartley, Ron Cephas Jones, Mandy Moore, and Milo Ventimig) who share the same birthday and how their live cross each other.
+Image poster gotten from themoviedb.org

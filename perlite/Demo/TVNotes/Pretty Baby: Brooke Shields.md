@@ -10,7 +10,8 @@ User Score: 62
 User Count: 6
 Director: Lana Wilson
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/sgEzuz9UPdJz9Eu5fl6LMA1J2Gm.jpg
 ---
 
 The two-part documentary from Lana Wilson about the life and career of Brooke Shields features archival footage and a new interview with Sheilds.
+Image poster gotten from themoviedb.org

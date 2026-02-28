@@ -10,7 +10,8 @@ User Score: 71
 User Count: 13
 Director: John Hillcoat
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/byer2whf1IaMlXYrmzTbaJMCitu.jpg
 ---
 
 The relationship between country stars George Jones (Michael Shannon) and Tammy Wynette (Jessica Chastain) is explored in this six-part limited series created by Abe Sylvia.
+Image poster gotten from themoviedb.org

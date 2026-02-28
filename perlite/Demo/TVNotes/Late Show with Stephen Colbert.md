@@ -10,7 +10,8 @@ User Score: 46
 User Count: 146
 Director: Jim Hoskinson
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg
 ---
 
 Stephen Colbert moves from his satirical late night show, "The Colbert Report" to take over David Letterman's seat at the long-running CBS late night talk show.
+Image poster gotten from themoviedb.org

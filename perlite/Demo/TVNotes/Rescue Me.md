@@ -10,7 +10,7 @@ User Score: 79
 User Count: 157
 Director: John Fortenberry,Peter Tolan,Jace Alexander,Ken Girotti
 Creator: Denis Leary,Peter Tolan
-image: 
+image: https://image.tmdb.org/t/p/w500/gnOwOb82chSJkQEZ9pd6jf2ZrEX.jpg
 ---
 
 From the creators and executive producers of The Job comes Rescue Me, a dramedy that centers on the inner workings of Engine 62, a New York City firehouse, and the personal and emotional battles of its members in a post-9/11 world.
@@ -56,3 +56,4 @@ Eileen Horta (supervising sound editor) Mark Cleary (sound designer) James Baile
 2008 Prism Award Nominee- Performance in a Drama Series Multi-Episode Storyline Tatum O'Neal
 
 2008 Emmy Nominee- Outstanding Guest Actor in a Drama Series Charles Durning
+Image poster gotten from themoviedb.org

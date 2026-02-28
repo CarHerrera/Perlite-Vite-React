@@ -10,7 +10,8 @@ User Score: 36
 User Count: 12
 Director: Iain B. MacDonald
 Creator: Katie Robbins
-image: 
+image: https://image.tmdb.org/t/p/w500/fzznLJmBzU5tTxFzklepKifE16o.jpg
 ---
 
 Kristine (Ellen Pompeo) and Michael Barnet (Mark Duplass) begin to doubt the age and background of their adopted daughter Natalia (Imogen Faith Reid), who they believed had a rare form of dwarfism in the limited series inspired by the true story of Natalia Grace.
+Image poster gotten from themoviedb.org

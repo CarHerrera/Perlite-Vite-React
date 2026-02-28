@@ -14,3 +14,4 @@ image:
 ---
 
 A group of teenagers are targeted by a killer who seems to know what happened a year ago after a car accident on their graduation night in this series based on Lois Duncan's 1973 novel which also inspired the 1997 movie of the same name.
+Image poster gotten from themoviedb.org

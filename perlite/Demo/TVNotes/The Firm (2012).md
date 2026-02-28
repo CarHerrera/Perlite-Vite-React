@@ -14,3 +14,4 @@ image:
 ---
 
 This television continuation of the 1993 film sees Josh Lucas as Mitch McDeere, who returns to find there are still dangers from the past after years of hiding.
+Image poster gotten from themoviedb.org

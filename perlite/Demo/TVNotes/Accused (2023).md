@@ -14,3 +14,4 @@ image:
 ---
 
 Each episode features a new defendant preparing to hear the verdict before flashbacks tell how they ended up on trial in the Howard Gordon crime drama anthology series based on the British series of the same name.
+Image poster gotten from themoviedb.org

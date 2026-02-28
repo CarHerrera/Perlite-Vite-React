@@ -10,7 +10,8 @@ User Score: 75
 User Count: 101
 Director: Michael Mohan,Ry Russo-Young
 Creator: Ben York Jones,Michael Mohan
-image: 
+image: https://image.tmdb.org/t/p/w500/t1u1Ff43QnMCecao2lzx5wpR7Xg.jpg
 ---
 
 Set in 1996, teenagers in the high school's A/V Club and Drama Club come together to make a movie in their hometown of Boring, Oregon.
+Image poster gotten from themoviedb.org

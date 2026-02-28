@@ -10,7 +10,7 @@ User Score: 84
 User Count: 10
 Director: nan
 Creator: Danny Jacobson,Paul Reiser
-image: 
+image: https://image.tmdb.org/t/p/w500/vvnslQjc1LnERuroGVh8bPdBi2r.jpg
 ---
 
 Jamie (Helen Hunt) and Paul Buchman (Paul Reiser) are a young urban couple with five months of marriage behind them and they're still trying to make some ground rules of living together in an apartment in Manhattan. This is definitely not easy because Jamie & Paul are both equally neurotic - but in totally different ways. Paul is a documentary filmmaker, he is charming and creative, but also extremely careful and analytic. Jaime works as a public relations consultant, and is more of a free spirit, but also has a number of discomforts. Jaime's sister Lisa Stemple (Anne Ramsay) often comes to visit them, just like their friends Mark Devanow (Richard Kind), his wife Fran (Leila Kenzle) and Paul's cousin Ira Buchman (John Pankow). But, they aren't the only ones dropping by the apartment - there are always all kinds of other characters like noisy neighbours, a funny dogwalker (Hank Azaria), family members and others.
@@ -106,3 +106,4 @@ December 1998 - May 1999 -- Mondays 8:00pm
 
 Theme Song:
 "Final Frontier" performed by Andrew Gold
+Image poster gotten from themoviedb.org

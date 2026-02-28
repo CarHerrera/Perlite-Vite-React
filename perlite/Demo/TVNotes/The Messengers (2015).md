@@ -14,3 +14,4 @@ image:
 ---
 
 A group of five strangers (Diogo Morgado, Shantel VanSanten, Sofia Black-D'Elia, Jon Fletcher, JD Pardo) thought to be dying after an object falls onto Earth are soon mysteriously revived to learn they must stop an apocalypse.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 65
 User Count: 44
 Director: nan
 Creator: Katori Hall
-image: 
+image: https://image.tmdb.org/t/p/w500/qAuKjGNbcwdhbpxSciak8BFjQ5F.jpg
 ---
 
 The half-hour drama from Katori Hall explores the lives of those who work and visit the Mississippi Delta strip club, The Pynk.
+Image poster gotten from themoviedb.org

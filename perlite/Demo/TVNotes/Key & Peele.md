@@ -10,7 +10,8 @@ User Score: 74
 User Count: 186
 Director: Peter Atencio
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/24csSdkE6gbYBCK6ngknvsJ1Zdj.jpg
 ---
 
 Former MAD-TV comedians Keegan-Michael Key and Jordan Peele use sketches and live segments on their new series on Comedy Central.
+Image poster gotten from themoviedb.org

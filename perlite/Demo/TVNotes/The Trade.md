@@ -10,7 +10,8 @@ User Score: 69
 User Count: 14
 Director: Matthew Heineman
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/7BOKuqwN1vAlttUVxFE5PvgHFQX.jpg
 ---
 
 The documentary series from Matthew Heineman focuses on all sides of the drug epidemic, from the growers in Mexico, the police in Ohio and the two families impacted by addiction.
+Image poster gotten from themoviedb.org

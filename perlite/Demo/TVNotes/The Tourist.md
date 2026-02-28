@@ -10,7 +10,8 @@ User Score: 65
 User Count: 72
 Director: nan
 Creator: Harry Williams,Jack Williams
-image: 
+image: https://image.tmdb.org/t/p/w500/3jLF76FYBh5YHb4n1mQz1ayjDD4.jpg
 ---
 
 A British man (Jamie Dornan) tries to figure out why someone tried to drive him off the road in the Australian outback in the thriller series from Harry and Jack Williams. The second season on Netflix is set in Ireland.
+Image poster gotten from themoviedb.org

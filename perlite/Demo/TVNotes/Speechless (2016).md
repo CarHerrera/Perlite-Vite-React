@@ -14,3 +14,4 @@ image:
 ---
 
 Maya DiMeo (Minnie Driver) takes charge of her family that includes her husband Jimmy (John Ross Bowie) and their three sons: Ray (Mason Cook), Dylan (Kyla Kenedy) and JJ (Micah Fowler), who has special needs.
+Image poster gotten from themoviedb.org

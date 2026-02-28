@@ -10,7 +10,7 @@ User Score: 51
 User Count: 11
 Director: John Blanchard
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2dNiB88EBv64V9rcicXwNGQosJW.jpg
 ---
 
 Get ready for sketch comedy...Canadian style!
@@ -28,3 +28,4 @@ Won the 1993 Golden Rose Award at the Rose d'Or Light Entertainment Festival, 19
 1995 Emmy Nomination: Outstanding Individual Achievement in Writing in a Variety or Music Program.
 
 The show currently airs on Comedy Central. You can see it every other week late at night on Tuesday nights/Wednesday mornings, 2AM-4AM (EST)
+Image poster gotten from themoviedb.org

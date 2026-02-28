@@ -10,7 +10,8 @@ User Score: 73
 User Count: 52
 Director: nan
 Creator: Dustin Lance Black
-image: 
+image: https://image.tmdb.org/t/p/w500/gKyXUkyKRg9LdZzZWRzk0eKD5HJ.jpg
 ---
 
 Detective Jeb Pyre (Andrew Garfield) finds his faith tested while investigating a double murder that may be connected to an LDS family in this limited series from Dustin Lance Black and inspired by the true crime book by Jon Krakauer.
+Image poster gotten from themoviedb.org

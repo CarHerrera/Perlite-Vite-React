@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/v7vzsmEDVDzUgEuiMAMRdyh0abW.jpg
 ---
 
 Based on a UK documentary series, this NBC offering will trace the family trees of well known celebrities. This glimpse into the personal lives of celebrities will also unearth interesting elements of American history.
+Image poster gotten from themoviedb.org

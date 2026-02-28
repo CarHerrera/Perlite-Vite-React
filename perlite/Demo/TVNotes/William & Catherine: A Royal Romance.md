@@ -14,3 +14,4 @@ image:
 ---
 
 Find out more about the blossoming romance between Kate Middleton and Prince William that ended up being one of the most celebrated weddings in all history. Before Princess Diana died, she left William a piece of advice that he took to heart, "hold onto the love of your life and protect it with all of your heart".
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 71
 User Count: 7
 Director: Tristram Shapeero,Anna Dokoza
 Creator: Liz Astrof
-image: 
+image: https://image.tmdb.org/t/p/w500/gQXja8mUGddQMfIpOOA0doLNdGu.jpg
 ---
 
 The death of the childhood friend of Amy (Eliza Coupe), Jodie (Ginnifer Goodwin) and Sarah (Maggie Q) causes the three best friends to make big and spontaneous changes to their lives in this comedy series written by Liz Astrof.
+Image poster gotten from themoviedb.org

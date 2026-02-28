@@ -10,7 +10,8 @@ User Score: 82
 User Count: 181
 Director: Bob Hathcock,Seung Eun Kim,Kim Sung-hoon
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vAvT2RXjOpgH0COriRm9riPqA0m.jpg
 ---
 
 The Boondocks is based on the satiric Aaron McGruder comic strip of the same name. The show follows the adventures of two black boys, Riley and Huey Freeman, who experience a culture clash when they move from southside Chicago to the "boondocks" to live with their grandfather.Originally made for FOX, The Boondocks is produced by Rebel Base and Hudlin Entertainment in association with Sony Pictures Television for Cartoon Network's late-night segment [adult swim].
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 61
 User Count: 398
 Director: nan
 Creator: David Guggenheim
-image: 
+image: https://image.tmdb.org/t/p/w500/5R125JAIh1N38pzHp2dRsBpOVNY.jpg
 ---
 
 Secretary of Housing and Urban Development Tom Kirkman (Kiefer Sutherland) is left as the Commander in Chief after an explosion during the State of the Union address kills the President and those in line of succession.
+Image poster gotten from themoviedb.org

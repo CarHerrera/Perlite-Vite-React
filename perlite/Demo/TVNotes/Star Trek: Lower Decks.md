@@ -10,7 +10,8 @@ User Score: 50
 User Count: 335
 Director: nan
 Creator: Mike McMahan,Gene Roddenberry
-image: 
+image: https://image.tmdb.org/t/p/w500/i7Em3r7KCyNfkOwMkyqN8UMvK8S.jpg
 ---
 
 Set in 2380, the animated comedy from Mike McMahan follows the crew of the U.S.S. Cerritos as they try to balance working and living on a Starfleet ship.
+Image poster gotten from themoviedb.org

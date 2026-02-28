@@ -10,7 +10,8 @@ User Score: 84
 User Count: 83
 Director: Edward Berger,Samira Radsi
 Creator: Anna Winger,Jörg Winger
-image: 
+image: https://image.tmdb.org/t/p/w500/6N8H9As0ZvFHUhvJpwwm8EvzD4Y.jpg
 ---
 
 Set in 1980s Germany, 24-year-old East German Martin Rauch (Jonas Nay) is sent by the Stasi to spy on the West German army in this German-language drama.
+Image poster gotten from themoviedb.org

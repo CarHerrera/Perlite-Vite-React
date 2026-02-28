@@ -14,3 +14,4 @@ image:
 ---
 
 In this autobiographical family comedy, based on the life of series creator Peter Murrieta, life is seen through the eyes of 15-year-old David Tiant (Pablo Santos) as he faces the challenges of growing up in an ethnically mixed, upwardly mobile family.
+Image poster gotten from themoviedb.org

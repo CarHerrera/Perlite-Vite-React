@@ -10,7 +10,8 @@ User Score: 71
 User Count: 292
 Director: nan
 Creator: Mindy Kaling
-image: 
+image: https://image.tmdb.org/t/p/w500/A3txgCPox6hJlOZ0TDTOxch7rVa.jpg
 ---
 
 After a series of humiliating events, Dr. Mindy Lahini (Mindy Kaling) is determined to make changes in her professional and romantic life to achieve her dreams.
+Image poster gotten from themoviedb.org

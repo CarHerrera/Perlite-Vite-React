@@ -14,3 +14,4 @@ image:
 ---
 
 Guy Montag (Michael B. Jordan) does his job of burning books without question until he meets someone that helps him to decide to go against his mentor (Michael Shannon) and society at large in Ramin Bahrani's adaptation of Ray Bradbury's sci-fi novel of the same name.
+Image poster gotten from themoviedb.org

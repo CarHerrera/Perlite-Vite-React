@@ -10,7 +10,8 @@ User Score: 55
 User Count: 6
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tcjKq7l6XDd7KYwxOVKm5nWwlUV.jpg
 ---
 
 Set in New York City during the last days of 1999, Lindsay (Mae Whitman) and Miguel (Carlos Valdes) meet and fall in love in the musical comedy series from Steven Levenson, Danielle Sanchez-Witzel, Kristen Anderson-Lopez, and Robert Lopez.
+Image poster gotten from themoviedb.org

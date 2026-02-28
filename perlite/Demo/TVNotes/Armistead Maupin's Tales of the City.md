@@ -10,7 +10,8 @@ User Score: 71
 User Count: 28
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/EfM6EHyzr2q7TWFO5uEBNssgo4.jpg
 ---
 
 Escaping life in Connecticut, Mary Ann (Laura Linney) returns to San Francisco where her daughter Shawna (Elliot Page) and ex-husband Brian (Paul Gross) still live. She moves back to 28 Barbary Lane where Anna Madrigal (Olympia Dukakis) still rules the roost in this 10-part limited series inspired by the on books by Armistead Maupin.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 59
 User Count: 15
 Director: Toby Haynes
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gD6wIKg0zEwCT1xRmyocUDcXC0b.jpg
 ---
 
 The dramatic look at the 2016 Vote Leave campaign led by Dominic Cummings (Benedict Cumberbatch) that resulted in the British voting to exit the European Union was directed by Toby Haynes.
+Image poster gotten from themoviedb.org

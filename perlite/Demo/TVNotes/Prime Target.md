@@ -10,7 +10,8 @@ User Score: 48
 User Count: 42
 Director: Brady Hood
 Creator: Steve Thompson
-image: 
+image: https://image.tmdb.org/t/p/w500/bGYCimDXRL7cE3uETLZzMCFOdJo.jpg
 ---
 
 Math postgrad Edward Brooks (Leo Woodall) is on the cusp of discovering a pattern in prime numbers, but someone is trying to stop him. With help from NSA agent Taylah Sanders (Quintessa Swindell), they seek to find out who and why in the thriller series created by Steve Thompson.
+Image poster gotten from themoviedb.org

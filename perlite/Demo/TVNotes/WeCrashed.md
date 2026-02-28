@@ -10,7 +10,8 @@ User Score: 68
 User Count: 26
 Director: Glenn Ficarra
 Creator: Drew Crevello,Lee Eisenberg
-image: 
+image: https://image.tmdb.org/t/p/w500/rFlYeo84b5YtzNkN0IonN6ZCPic.jpg
 ---
 
 The relationship between WeWork founder Adam Neumann (Jared Leto) and his wife, Rebekah (Anne Hathaway), is at the center of the story of the rise and fall of shared workspace company in this limited series from Lee Eisenberg and Drew Crevello.
+Image poster gotten from themoviedb.org

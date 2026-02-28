@@ -10,7 +10,7 @@ User Score: 0
 User Count: 0
 Director: Fred Goss,David Steinberg,Anson Williams
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/r7L5ObAR2wbHsPo3Iz4STviCRuy.jpg
 ---
 
 Sons & Daughters is an ABC sitcom that stars Fred Goss ("Significant Others") in this unique hybrid comedy series that offers a mix of improvisational and scripted humor in an unadulterated look at marriage, raising children and living in close proximity to an extended family. Series creators Goss and Nick Holly borrow from their own middle-American, middle-class upbringings to deliver a very real and relatable modern-day family comedy.
@@ -22,3 +22,4 @@ Cameron's life is further complicated by his sister, Sharon (Alison Quinn), and 
 Cameron and Sharon's very pretty younger stepsister, Jenna (Amanda Walsh) -- the "it girl" when she was in high school -- had her career plans derailed by becoming a single mom. She continues to be attracted to "bad" boys like Tommy White, AKA Whitey (Greg Pitts), and not to the nice guys -- like Wylie (Desmond Harrington) -- who are attracted to her. 
 
 The three siblings' parents, Colleen (Dee Wallace) and Wendal (Max Gail), are extremely devoted to their adult children and their grandchildren but, not surprisingly, have some issues of their own. Colleen, a little uptight and impulsively judgmental, both likes and dislikes the safe and comfortable environment that husband Wendal has provided for 25 years. A good guy, Wendal juggles and struggles with the varied relationships he has with his extended family members. 
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Foster kid Izzy (Quinn Copeland) meets Punky (Soleil Moon Frye), who is now is a single mother raising her three kids.
+Image poster gotten from themoviedb.org

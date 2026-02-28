@@ -10,9 +10,10 @@ User Score: 0
 User Count: 0
 Director: Michael M. Robin,Andy Wolk
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/3qBsumuVl2lAxYm95Svt0Y9AhYG.jpg
 ---
 
 They'll sell everything but their friendship.
 
 Mason McGuire (McCormack) and Conner (Cavanagh) are two very different but equally close leaders of the pack in their cutting edge Chicago advertising agency.  When Mason is promoted over Conner, the two must learn to navigate their new paths while their personal and professional relationships are tested. This original TNT series is the latest venture by the creators and executive producers of The Closer, and is scheduled to premiere in January, 2009.
+Image poster gotten from themoviedb.org

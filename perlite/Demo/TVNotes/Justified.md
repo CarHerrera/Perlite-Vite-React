@@ -10,7 +10,8 @@ User Score: 89
 User Count: 1586
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ie1quhMk09lDtvtAyQAHTu09R9Z.jpg
 ---
 
 This show is about U.S. Marshal Raylan Givens, a modern day 19th century-style lawman, who enforces his brand of justice to put a target on his back with criminals and puts him at odds with his bosses in the Marshal service. As a result, he gets reassigned to the U.S. District covering the town where he grew up.  
+Image poster gotten from themoviedb.org

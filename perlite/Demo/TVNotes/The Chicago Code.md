@@ -10,7 +10,8 @@ User Score: 70
 User Count: 67
 Director: Lesli Linka Glatter,Clark Johnson
 Creator: Shawn Ryan
-image: 
+image: https://image.tmdb.org/t/p/w500/5yMn8xjqi3WKdDVAFKlt5YroX1m.jpg
 ---
 
 Originally called Ride-Along, this show is set in Chicago and will follow law enforcement officials away from the police stations and into their cars and see what goes on on the streets. The Chicago Code is produced by 20th TV and Ryan's MiddKidd Prods.
+Image poster gotten from themoviedb.org

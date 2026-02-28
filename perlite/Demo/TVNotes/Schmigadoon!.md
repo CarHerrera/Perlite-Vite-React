@@ -10,7 +10,8 @@ User Score: 66
 User Count: 61
 Director: Barry Sonnenfeld
 Creator: Ken Daurio,Cinco Paul
-image: 
+image: https://image.tmdb.org/t/p/w500/s2Z5Rm7H0DFHX8cF0CQjIFOd6Am.jpg
 ---
 
 Melissa (Cecily Strong) and Josh (Keegan-Michael Key) go on a backpacking trip to help their relationship only to end up trapped in a town where everyone appears to be in a 1940s movie musical and they can only leave if they find their true love in this comedy inspired by Brigadoon.
+Image poster gotten from themoviedb.org

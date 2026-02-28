@@ -10,7 +10,8 @@ User Score: 73
 User Count: 75
 Director: nan
 Creator: Michael Patrick O'Brien
-image: 
+image: https://image.tmdb.org/t/p/w500/8GwiuZazRFNrmvSkagZlEDH7qSS.jpg
 ---
 
 After losing out on a dream job, Harvard philosophy academic Jack Griffin (Glenn Howerton) returns to his hometown of Toledo, Ohio to teach AP (Advanced Placement) Biology and clashes with the Principal Durbin (Patton Oswalt) in this comedy from Mike O’Brien, Seth Meyers and Lorne Michaels.
+Image poster gotten from themoviedb.org

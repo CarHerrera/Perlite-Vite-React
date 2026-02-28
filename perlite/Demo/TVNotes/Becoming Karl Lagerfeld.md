@@ -10,7 +10,8 @@ User Score: 62
 User Count: 13
 Director: Audrey Estrougo,Jérôme Salle
 Creator: Raphaëlle Bacqué,Jennifer Have,Isaure Pisani-Ferry
-image: 
+image: https://image.tmdb.org/t/p/w500/tfaRjAqNpDj5zngrReu6YbebrzO.jpg
 ---
 
 In 1970s Paris, Karl Lagerfeld (Daniel Brühl) falls for Jacques de Bascher (Théodore Pellerin) and seeks to unseat Yves Saint Laurent (Arnaud Valois) as top designer in this six-part French series adaptation of Raphaëlle Bacqué's book "Kaiser Karl."
+Image poster gotten from themoviedb.org

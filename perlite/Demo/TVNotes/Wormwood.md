@@ -10,7 +10,8 @@ User Score: 56
 User Count: 69
 Director: Errol Morris
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rQZzK1ux4J0bBTJii6rzNzeXbe0.jpg
 ---
 
 Eric Olsen seeks to find the truth behind his father death and his connection to the CIA in this series including interviews, archival footage and reenactments featuring Peter Sarsgaard, Molly Parker, Christian Camargo, Tim Blake Nelson, Bob Balaban, Jimmi Simpson and Michael Chernus.
+Image poster gotten from themoviedb.org

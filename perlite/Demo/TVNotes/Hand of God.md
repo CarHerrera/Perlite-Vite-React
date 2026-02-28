@@ -10,7 +10,8 @@ User Score: 72
 User Count: 65
 Director: nan
 Creator: Ben Watkins
-image: 
+image: https://image.tmdb.org/t/p/w500/uTykpEIdJmWVM5Q3N4QrZHjkkbP.jpg
 ---
 
 Judge Pernell Harris (Ron Perlman) suffers a breakdown and believing he is receiving messages from God, seeks vengeance against the rapist who destroyed his family.
+Image poster gotten from themoviedb.org

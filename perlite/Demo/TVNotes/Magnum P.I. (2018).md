@@ -14,3 +14,4 @@ image:
 ---
 
 The reboot of the 1980s series finds ex-Navy SEAL Thomas Magnum (Jay Hernandez) using the skills he used in Afghanistan to become a private investigator in Hawaii with the help of ex-Marine helicopter pilot Theodore "TC" Calvin (Stephen Hill) and ex-marine-now-nightclub-owner Orville "Rick" Wright (Zachary Knighton), as well as dealing with his guesthouse landlord, estate caretaker Juliet Higgins (Perdita Weeks).
+Image poster gotten from themoviedb.org

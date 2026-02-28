@@ -10,7 +10,8 @@ User Score: 83
 User Count: 22
 Director: Greg Mottola,John Hamburg,Jay Chandrasekhar,Judd Apatow
 Creator: Judd Apatow
-image: 
+image: https://image.tmdb.org/t/p/w500/cCCy0WYZvMxoz3LC2kyHX4Vy6eT.jpg
 ---
 
 Judd Apatow's TV follow-up to Freaks and Geeks was just as short-lived (only one season aired) and, in retrospect, nearly as much of a lasting cult favorite.
+Image poster gotten from themoviedb.org

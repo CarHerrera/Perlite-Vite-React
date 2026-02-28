@@ -14,3 +14,4 @@ image:
 ---
 
 Carrie Watts (Cicely Tyson) is a widow frustrated with living in Houston with her son Ludie (Blair Underwood) and his wife, Jessie Mae (Vanessa Williams). She seeks to make the final journey to her hometown of Bountiful in this adaption of 2013 Broadway revival of Horton Foote's play.
+Image poster gotten from themoviedb.org

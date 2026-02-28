@@ -10,7 +10,8 @@ User Score: 66
 User Count: 138
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2e5NNQu9B1fXBNllRj8fzysCguP.jpg
 ---
 
 Flynne Fisher (Chloe Grace Moretz) earns extra money playing VR games for others and one night she finds herself in a futuristic London that is not a game but real life in this adaptation of William Gibson sci-fi novel of the same name.
+Image poster gotten from themoviedb.org

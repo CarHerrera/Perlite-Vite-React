@@ -10,7 +10,8 @@ User Score: 42
 User Count: 5
 Director: nan
 Creator: Steven Rogers
-image: 
+image: https://image.tmdb.org/t/p/w500/iwoFJilBbno4MKfwiHWbUl2BZBp.jpg
 ---
 
 The life and career of boxer Mike Tyson (Trevante Rhodes) is dramatized in an eight-part limited series created by Steven Rogers.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 83
 User Count: 221
 Director: Genndy Tartakovsky
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/mf12pRakr3eYdJtv6klQtoznnbU.jpg
 ---
 
 The prehistoric animated adventure miniseries from Genndy Tartakovsky follows a caveman as he bonds with a tyrannosaurus rex.
+Image poster gotten from themoviedb.org

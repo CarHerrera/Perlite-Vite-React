@@ -10,7 +10,8 @@ User Score: 75
 User Count: 68
 Director: Saul Metzstein
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/uXZtrxLWRR3HitOTJ9F9WhESR60.jpg
 ---
 
 After the announcement of a comet hitting Earth, British bank manager Jamie Winton (Mathew Baynton) seeks his missing wife and biological mother, Rhonda MacNeil (Jenna Fischer) meets a white supremacist named Leanne (Megan Mullally) in jail, Rhonda's brother, Scotty (Kyle Soller), and his boyfriend, U.S. General Arnold Gaines (Paterson Joseph) try to find a way to stop the comet and Father Jude Sutton (Rob Lowe) with Sister Celine (Gaia Scodellaro), are trying to locate The Messiah.
+Image poster gotten from themoviedb.org

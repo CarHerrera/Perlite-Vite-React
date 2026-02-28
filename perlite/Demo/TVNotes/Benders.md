@@ -10,7 +10,8 @@ User Score: 46
 User Count: 7
 Director: Michael Blieden,Richie Keen,Jim Serpico,Joe Kessler,Tom Sellitti
 Creator: Tom Sellitti,Jim Serpico
-image: 
+image: https://image.tmdb.org/t/p/w500/wLJ7EpdZWPc4S5oKEYhXwqNiVR7.jpg
 ---
 
 The sports comedy from Denis Leary, Tom Sellitti, and Jim Serpico focuses on the amateur hockey club led by Paul Rosenberg (Andrew Schulz), with his friends Anthony (Chris Distefano), Dicky (Mark Gessner), and Sebalos (Ruy Iskandar).
+Image poster gotten from themoviedb.org

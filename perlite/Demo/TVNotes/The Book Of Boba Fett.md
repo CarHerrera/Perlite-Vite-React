@@ -10,7 +10,8 @@ User Score: 55
 User Count: 625
 Director: Robert Rodriguez,Kevin Tancharoen,Dave Filoni
 Creator: Jon Favreau
-image: 
+image: https://image.tmdb.org/t/p/w500/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg
 ---
 
 Bounty hunter Boba Fett (Temuera Morrison) and Fennec Shand (Ming-Na Wen) return to Tatooine in this spinoff of The Mandalorian.
+Image poster gotten from themoviedb.org

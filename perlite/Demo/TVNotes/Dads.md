@@ -10,7 +10,8 @@ User Score: 38
 User Count: 108
 Director: Mark Cendrowski,Gerry Cohen
 Creator: Alec Sulkin,Wellesley Wild
-image: 
+image: https://image.tmdb.org/t/p/w500/q6XsUrhscUlHt8ShApnE39XmxP6.jpg
 ---
 
 The lives of video game company co-founders Eli and Warner (Seth Green and Giovanni Ribisi) are turned upside down when their fathers (Peter Riegert and Martin Mull) move in with them.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 83
 User Count: 1436
 Director: nan
 Creator: Steven Levitan,Christopher Lloyd
-image: 
+image: https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg
 ---
 
 The Pritchett family are being filmed for a documentary in this mockumentary of the extended family which includes patriarch Jay, his second wife Gloria and son Manny; Jay's son, Mitchell, his partner Cameron, and their adopted daughter Lily; and Jay's daughter Claire, her husband Phil and their three children, Haley, Alex, and Luke.
+Image poster gotten from themoviedb.org

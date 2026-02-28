@@ -10,7 +10,8 @@ User Score: 71
 User Count: 60
 Director: Jon Jones,Jamie Payne,Rod Lurie,Clark Johnson
 Creator: Adam Armus,Nora Kay Foster,Peter Horton
-image: 
+image: https://image.tmdb.org/t/p/w500/zCkrtf8QWK09Udnnso6mqnIKniz.jpg
 ---
 
 After Sgt. Odelle Ballard (Anna Friel) discovers a computer file that implicates a major US corporation of funding Jihadists, her unit is murdered by US Special Forces, just as former U.S. Attorney Peter Decker (Peter Facinelli) tackles a merger with the corporation, and political activist Harrison Walters (Jake Robinson) hears from a hacker about evidence of an international military conspiracy. The three strangers must come together to expose the people behind the conspiracy before they and their families face more danger.
+Image poster gotten from themoviedb.org

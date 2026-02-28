@@ -10,7 +10,8 @@ User Score: 61
 User Count: 38
 Director: Chris Lilley,Stuart McDonald
 Creator: Chris Lilley
-image: 
+image: https://image.tmdb.org/t/p/w500/qNs19AeshY70d5cTN4xUedrAnAq.jpg
 ---
 
 The latest comedy from Australian comedian Chris Lilley as his Summer Heights High character Ja'mie returns from the exchange program to her private school.
+Image poster gotten from themoviedb.org

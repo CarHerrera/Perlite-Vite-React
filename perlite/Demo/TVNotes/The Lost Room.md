@@ -10,7 +10,8 @@ User Score: 82
 User Count: 44
 Director: Craig R. Baxley,Michael W. Watkins
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ixfo1ysvboBxYehdDDC9D0T3Q33.jpg
 ---
 
 Peter Krause (Six Feet Under) heads up the stellar cast of this intriguing new mini-series from the SciFi Channel as Detective Joe Miller, a man desperate to find the one thing he holds most dear in his life: his daughter. Join Miller and other characters and learn about Room 10 at the Sunshine Motel on Route 66, its terrible history, and its supernatural contents that hold the key to his daughter's whereabouts.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 74
 User Count: 75
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tCPIf5f6jUIr8KDMWsfaXwXW0kl.jpg
 ---
 
 Set in the 1950s, after chemist Elizabeth Zott (Brie Larson) is fired from her lab, she takes a job as a host on a TV cooking show in this series based on novel of the same name by Bonnie Garmus.
+Image poster gotten from themoviedb.org

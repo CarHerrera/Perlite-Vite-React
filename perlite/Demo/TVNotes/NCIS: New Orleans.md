@@ -10,7 +10,8 @@ User Score: 44
 User Count: 127
 Director: nan
 Creator: Gary Glasberg
-image: 
+image: https://image.tmdb.org/t/p/w500/1WJJUUZODmRTcFydLDBUtiztL6x.jpg
 ---
 
 The New Orleans field office is led by Special Agent Dwayne Pride (Scott Bakula) and his team that includes Special Agent Christopher LaSalle (Lucas Black), Special Agent Meredith “Merri” Brody (Zoe McLellan), and coroner Dr. Loretta Wade (CCH Pounder).
+Image poster gotten from themoviedb.org

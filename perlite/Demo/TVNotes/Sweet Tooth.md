@@ -10,7 +10,8 @@ User Score: 70
 User Count: 186
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg
 ---
 
 A half human and half deer-boy (Christian Convery) leaves his isolated home to find a post-apocalyptic world as he befriends other hybrids and humans in this series based on the DC comic by Jeff Lemire.
+Image poster gotten from themoviedb.org

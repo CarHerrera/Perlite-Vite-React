@@ -10,7 +10,8 @@ User Score: 63
 User Count: 25
 Director: Jack Bender
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg
 ---
 
 12-years-old genius Luke Ellis (Joe Freeman) is kidnapped by The Institute, which is led by Ms. Sigsby (Mary-Louise Parker) in the drama series based on the Stephen King novel of the same name.
+Image poster gotten from themoviedb.org

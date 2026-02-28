@@ -14,3 +14,4 @@ image:
 ---
 
 The medical drama based on the 2014 documentary of the same name, Residency Director Dr. Leanne Rorish (Marcia Gay Harden) with the help of senior nurse Jesse Sallander (Luis Guzman), leads a group of first-year residents that includes: Christa Lorenson (Bonnie Somerville), Malaya Pineda (Melanie Kannokada), Mario Savetti (Benjamin Hollingsworth) and Angus Leighton (Harry M. Ford), to help the most critical cases at Center Stage.
+Image poster gotten from themoviedb.org

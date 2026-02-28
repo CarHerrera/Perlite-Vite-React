@@ -10,7 +10,8 @@ User Score: 63
 User Count: 54
 Director: Jeremy Konner,Derek Waters
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6zTclFjUEm6aTodjYciYtwzh5tY.jpg
 ---
 
 Based on the Funny Or Die concept, history is retold by drunk narrators. 
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 After 2014's The Unauthorized Saved by the Bell Story, Lifetime returns with one for the 1980s family comedy featuring some stories from Bob Saget's memoir Dirty Daddy: The Chronicles of a Family Man Turned Filthy Comedian.
+Image poster gotten from themoviedb.org

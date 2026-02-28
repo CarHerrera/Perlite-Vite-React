@@ -10,7 +10,8 @@ User Score: 56
 User Count: 9
 Director: Pippa Bianco,Lisa Cholodenko,Liz Hannah
 Creator: Liz Hannah,Patrick Macmanus
-image: 
+image: https://image.tmdb.org/t/p/w500/ywYvAZlJYh5yKoYafFPeur0C3KH.jpg
 ---
 
 The limited series based on an Esquire article by Jesse Barron focuses on Michelle Carter's (Elle Fanning) relationship with Conrad Roy III (Colton Ryan), his death and her conviction of involuntary manslaughter.
+Image poster gotten from themoviedb.org

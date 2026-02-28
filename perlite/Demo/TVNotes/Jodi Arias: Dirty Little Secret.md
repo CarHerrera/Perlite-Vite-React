@@ -16,3 +16,4 @@ image:
 The Lifetime movie explores the relationship and trial of Jodi Arias (Tania Raymonde) for the murder of Travis Alexander (Jesse Lee Soffer).
 
 
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Susanna White,Otto Bathurst,Jeremy Lovering,John Alexander,Barnaby Southcombe,Richard Dale,Iain B. MacDonald,Sean Grundy,Brian Kelly,Jonathan Fox Bassett
 Creator: Tim Loane
-image: 
+image: https://image.tmdb.org/t/p/w500/rpHSszz8xR6OAJAYPmEFwr8tQWK.jpg
 ---
 
 Filmore is a New Jersey school that has its share of problems, including apathetic teachers, antiquated rules and a majority of students who are more interested in text-messaging than in textbooks. 
+Image poster gotten from themoviedb.org

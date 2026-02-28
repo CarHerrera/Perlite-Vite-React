@@ -10,7 +10,8 @@ User Score: 72
 User Count: 143
 Director: Jack Bender
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/zZm3LidCf6Edv6yX3WMKo6KwICg.jpg
 ---
 
 Psychopath killer Brady Hartsfield (Harry Treadaway) sends letters and emails to retired police detective Bill Hodges (Brendan Gleeson) about his unsolved killings in David E. Kelley's adaptation of Stephen King’s 2014 book.
+Image poster gotten from themoviedb.org

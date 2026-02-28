@@ -10,7 +10,8 @@ User Score: 65
 User Count: 12
 Director: Eric Evangelista
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/b0LngSxj2hsXcDGg7PoNGaDRzc3.jpg
 ---
 
 Four Amish people and a Mennonite travel to New York City to experience new adventures before they decide to return to their communities or continue their journey away from the life they know.
+Image poster gotten from themoviedb.org

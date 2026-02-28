@@ -14,3 +14,4 @@ image:
 ---
 
 Santiago Mendoza (Demian Bichir) along with his second wife Gigi (Roselyn Sanchez) and their adult children run a luxury Miami Beach hotel but behind the scenes there is debt, scandal and secrets in this Eva Longoria produced-drama based on the Spanish series, Gran Hotel.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 A deadly epidemic is spreading around the world. But when it first began, no one paid attention. Matthew Modine stars in this medical thriller as a young doctor tracking the disease halfway around the world and across two continents--and whose work is thwarted at every turn by fear, official indifference and bitter medical rivalries.
+Image poster gotten from themoviedb.org

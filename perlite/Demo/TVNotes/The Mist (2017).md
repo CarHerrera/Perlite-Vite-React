@@ -14,3 +14,4 @@ image:
 ---
 
 Stephen King's novella about a mist that comes to the small town of Bridgeville, Maine becomes a 10 episodes series.
+Image poster gotten from themoviedb.org

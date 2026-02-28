@@ -10,7 +10,8 @@ User Score: 68
 User Count: 38
 Director: Oliver Hermanus,Florian Cossen,Alex Winckler
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vYxOmU1w2uxIXV2FZIUc0bG347w.jpg
 ---
 
 Mary Villiers (Julianne Moore) orchestrates the relationship between her son, George (Nicholas Galitzine) and King James I (Tony Curran) in the D.C. Moore historical drama based on Benjamin Woolley's non-fiction book The King's Assassin.
+Image poster gotten from themoviedb.org

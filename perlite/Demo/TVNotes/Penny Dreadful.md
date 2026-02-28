@@ -10,7 +10,8 @@ User Score: 82
 User Count: 844
 Director: Damon Thomas,James Hawes,Paco Cabezas,Brian Kirk,Dearbhla Walsh
 Creator: John Logan
-image: 
+image: https://image.tmdb.org/t/p/w500/hQSdrXBYTbLGHYDIseHkBOPXTgL.jpg
 ---
 
 In Victorian London, Vanessa Ives (Eva Green) and Sir Malcolm (Timothy Dalton) encounter Dorian Gray (Reeve Carney), Dr. Frankenstein (Harry Treadaway) and his creature (Rory Kinnear) in this psychosexual horror series created by John Logan.
+Image poster gotten from themoviedb.org

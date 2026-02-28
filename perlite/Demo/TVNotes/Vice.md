@@ -10,7 +10,8 @@ User Score: 67
 User Count: 29
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/iyUbcAWYcCt6qoKNiqNQkrnUrwF.jpg
 ---
 
 Shane Smiths host HBO's news magazine series that covers stories from around the world. The series moved to Showtime in 2020.
+Image poster gotten from themoviedb.org

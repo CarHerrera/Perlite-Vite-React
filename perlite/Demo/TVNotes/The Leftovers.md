@@ -10,7 +10,8 @@ User Score: 84
 User Count: 1762
 Director: Mimi Leder
 Creator: Damon Lindelof
-image: 
+image: https://image.tmdb.org/t/p/w500/ri8xr223xBb2TeHX3GKypvQPV2B.jpg
 ---
 
 The drama series based on Tom Perrotta's novel of the same name finds the town of Mapleton three years after "The Sudden Departure," where two percent of the world's population disappeared in a thin air.
+Image poster gotten from themoviedb.org

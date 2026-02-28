@@ -14,3 +14,4 @@ image:
 ---
 
 Twentyfourseven follows a group of seven guys who want to make it big in Hollywood.  23-year-old entrepreneur Greg Carney heads up the pack which also includes an actor, a record producer, a filmmaker, a reggae singer, and a club promoter.  Together they are taking over the Hollywood party scene.
+Image poster gotten from themoviedb.org

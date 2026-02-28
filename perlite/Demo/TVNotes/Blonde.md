@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Joyce Chopra
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/FvPVBT77bMBERSwzoFK0gCJ3Pd.jpg
 ---
 
 A four-part miniseries about the unstable youth of Norma Jean Baker and her hunger for Hollywood acclaim as Marilyn Monroe.
+Image poster gotten from themoviedb.org

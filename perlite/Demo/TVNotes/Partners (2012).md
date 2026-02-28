@@ -14,3 +14,4 @@ image:
 ---
 
 Best friends Joe (David Krumholtz) and Louis (Michael Urie) work at the same architecture firm and help each other with relationship issues with their respective partners, Ali (Sophia Bush) and Wyatt (Brandon Routh) in this comedy from the creators of "Will & Grace."
+Image poster gotten from themoviedb.org

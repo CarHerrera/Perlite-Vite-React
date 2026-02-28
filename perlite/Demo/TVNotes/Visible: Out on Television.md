@@ -10,9 +10,10 @@ User Score: 50
 User Count: 38
 Director: Ryan White
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xJocd94qiar0XGWUZdV6ncsoOOF.jpg
 ---
 
 The documentary series narrated by Janet Mock, Margaret Cho, Asia Kate Dillon, Neil Patrick Harris and Lena Waithe features archival footage and new interviews to look at LGBTQ characters on television and the impact of the LGBTQ movement on the medium.
 
 
+Image poster gotten from themoviedb.org

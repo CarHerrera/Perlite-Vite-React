@@ -10,7 +10,8 @@ User Score: 78
 User Count: 71
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/u2GSiPazSXpyNQz0yymOUCUm944.jpg
 ---
 
 Marcus (Benjamin Wadsworth) is recruited by an elite private academy called Kings Dominion, where the world's top crime families send their children in this series based on the Image Comics graphic novel by Rick Remender and Wes Craig.
+Image poster gotten from themoviedb.org

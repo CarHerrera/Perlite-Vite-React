@@ -10,7 +10,8 @@ User Score: 68
 User Count: 13
 Director: nan
 Creator: Tom McCarthy
-image: 
+image: https://image.tmdb.org/t/p/w500/biebJjdTledf0pjA5LUlzOuo9z4.jpg
 ---
 
 After making a career-ending mistake, New York investigative journalist Eileen Fitzgerald (Hilary Swank) starts over working at a newspaper in  Anchorage in this drama series from Tom McCarthy.
+Image poster gotten from themoviedb.org

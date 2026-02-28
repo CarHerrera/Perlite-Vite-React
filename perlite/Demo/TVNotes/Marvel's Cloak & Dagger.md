@@ -10,7 +10,8 @@ User Score: 66
 User Count: 196
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg
 ---
 
 Tandy Bowen (Olivia Holt), who grew up privileged until an accident changed her life, crosses paths with the working-class Tyrone Johnson (Aubrey Joseph). They soon discover their superpowers are linked together as their feelings grow for each other in this coming-of-age drama based on the comic book series.
+Image poster gotten from themoviedb.org

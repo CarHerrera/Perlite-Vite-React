@@ -10,7 +10,8 @@ User Score: 84
 User Count: 19851
 Director: nan
 Creator: David Benioff,D.B. Weiss
-image: 
+image: https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg
 ---
 
 Adapted from George R.R. Martin's epic fantasy novel series "A Song of Ice and Fire", this series is about a fantasy world where royal houses battle for the Iron Throne.
+Image poster gotten from themoviedb.org

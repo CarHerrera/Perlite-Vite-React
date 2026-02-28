@@ -10,7 +10,8 @@ User Score: 58
 User Count: 9
 Director: Kiel Adrian Scott,Erica Watson
 Creator: Tarell Alvin McCraney
-image: 
+image: https://image.tmdb.org/t/p/w500/a0FZ44UENaQ4aqtCq4zCTjiqe8H.jpg
 ---
 
 David (Akili McDowell), a 14-year-old from the Florida projects  attends a magnet school for academically gifted kids created and must decide whether to take advantage of his opportunity or return to the life as the neighborhood drug dealer in this drama series based on the life of series creator and co-writer by Tarell Alvin McCraney.
+Image poster gotten from themoviedb.org

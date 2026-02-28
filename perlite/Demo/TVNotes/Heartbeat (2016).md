@@ -14,3 +14,4 @@ image:
 ---
 
 Based on the life of Dr. Kathy Magliato, Dr. Alex Panttiere (Melissa George) juggles life as one of the few women heart-transplant surgeons in the world. 
+Image poster gotten from themoviedb.org

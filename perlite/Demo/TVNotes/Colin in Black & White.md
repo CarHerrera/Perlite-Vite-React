@@ -10,7 +10,8 @@ User Score: 36
 User Count: 40
 Director: Robert Townsend,Sheldon Candis
 Creator: Ava DuVernay,Colin Kaepernick
-image: 
+image: https://image.tmdb.org/t/p/w500/q1qnSWuSRG8OxRnn7c5We2bwNoQ.jpg
 ---
 
 The limited series from Ava DuVernay and Colin Kaepernick (who also narrates) examines the challenges Colin (Jaden Michael) faced as he grew up in  California's Central Valley with his white adoptive parents (Nick Offerman and Mary-Louise Parker).
+Image poster gotten from themoviedb.org

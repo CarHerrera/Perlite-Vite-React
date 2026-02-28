@@ -14,3 +14,4 @@ image:
 ---
 
 The HBO drama wraps up the series with a feature-length movie picking up a nearly a year later with Patrick returning to San Francisco to attend a wedding.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 80
 User Count: 43
 Director: Norberto Barba
 Creator: Justin Zackham
-image: 
+image: https://image.tmdb.org/t/p/w500/sUX5J7lS6FnCFvUOqXCYyQPp0f9.jpg
 ---
 
 An FX drama project sees a former boxing champion struggling with the beginning of dementia take a job as a collector. The project is penned by feature film writer of The Bucket List Justin Zackham.
+Image poster gotten from themoviedb.org

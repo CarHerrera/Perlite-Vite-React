@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Guy Shalem,Richard Day,Jack Plotnick,Karen Maruyama
 Creator: Brad Isaacs,Guy Shalem
-image: 
+image: https://image.tmdb.org/t/p/w500/e9eevi1FgBnWoKzfy6YB8qD6LxG.jpg
 ---
 
 Lovespring International is a half-hour improvisational comedy about a matchmaking agency that markets themselves as an “elite Beverly Hills” company, even though they are located in Tarzana, CA.  This dysfunctional group of “relationship counselors” are the last people you would want helping you find true love! 
+Image poster gotten from themoviedb.org

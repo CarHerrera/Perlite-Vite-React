@@ -14,3 +14,4 @@ image:
 ---
 
 The loss of their sons to malaria bring together American Mary Morgan (Hilary Swank) and British Martha O'Connell (Brenda Blethyn) to help and raise awareness of the disease.
+Image poster gotten from themoviedb.org

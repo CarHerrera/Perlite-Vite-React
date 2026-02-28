@@ -10,7 +10,8 @@ User Score: 60
 User Count: 76
 Director: Axelle Carolyn,Michael Fimognari
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2Y4F9BHkacKIMnDBZI3GGKpG1If.jpg
 ---
 
 A group terminally ill teenagers (Adia, Igby Rigney, Ruth Codd, William Chris Sumpter, Aya Furukawa, Annarah Shephard and Sauriyan Sapkota) at a hospice meet at midnight to tell each other scary tales in this series adaptation of on Christopher Pike's novel of the same name from Mike Flanagan and Leah Fong.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 60
 User Count: 45
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ch0k5IfqOan8YkVEnVebbK0Sk0n.jpg
 ---
 
 A divorced female sports therapist toughs it out in her job and her daily life.
+Image poster gotten from themoviedb.org

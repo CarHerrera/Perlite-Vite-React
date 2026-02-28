@@ -10,7 +10,8 @@ User Score: 61
 User Count: 42
 Director: Olivier Assayas
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gVST8KoYxV8A0ZtlitzEaKeE5L2.jpg
 ---
 
 Disillusioned American actress Mira (Alicia Vikander) comes to France to film a remake of the French silent film classic, "Les Vampires." She begins to find it difficult to separate herself from the character she plays in this eight-episode limited series based on 1996 film of the same name from Olivier Assayas.
+Image poster gotten from themoviedb.org

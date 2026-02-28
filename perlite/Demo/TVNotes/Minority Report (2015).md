@@ -14,3 +14,4 @@ image:
 ---
 
 Set ten years after the 2002 film of the same name, precog Dash (Stark Sands) only has flashes of crimes when he crosses paths with detective Lara Vega (Meagan Good), who may help him locate his twin.
+Image poster gotten from themoviedb.org

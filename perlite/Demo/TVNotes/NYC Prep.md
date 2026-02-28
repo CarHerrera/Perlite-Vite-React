@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6JtRfzI0K5MLzaIJKuafFuVsuZd.jpg
 ---
 
 Love Gossip Girl? See how real Manhattan teens cope with a life of wealth and privilege in this brand new Bravo series. NYC Prep will chronicle the lives of six real teenagers growing up in Manhattan. By seeing real events like dinner parties, shopping sprees, and weekends out with friends, the audience will gain a glimpse into the elite lives, filled with drama of course, that these six teens live. 
+Image poster gotten from themoviedb.org

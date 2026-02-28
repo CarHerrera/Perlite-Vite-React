@@ -10,7 +10,8 @@ User Score: 54
 User Count: 163
 Director: Tony Croll
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/47EIfjYrT80AOfpAIkvSxdpwGOv.jpg
 ---
 
 Contestants compete for a modeling contract and a fashion spread in the reality show created by supermodel Tyra Banks.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 49
 User Count: 24
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/bUTZY7EHg9mWrORKFY4piD0PehY.jpg
 ---
 
 The Riverdale spin-off set in New York City and years after Riverdale the series follows aspiring fashion designer Katy Keene (Lucy Hale) and singer-songwriter Josie McCoy (Ashleigh Murray) as they pursue their dreams and meet socialite Pepper Smith (Julia Chan) and drag performer Ginger/Jorge Lopez (Jonny Beauchamp).
+Image poster gotten from themoviedb.org

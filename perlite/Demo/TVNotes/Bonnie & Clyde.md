@@ -10,7 +10,8 @@ User Score: 55
 User Count: 19
 Director: Bruce Beresford
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tOLZpg3fxxdbkkMZWT3WfOM5d4k.jpg
 ---
 
 The two-part miniseries about the infamous 1930s outlaws Bonnie (Holliday Grainger) and Clyde (Emile Hirsch) airs on A&E, History and Lifetime.
+Image poster gotten from themoviedb.org

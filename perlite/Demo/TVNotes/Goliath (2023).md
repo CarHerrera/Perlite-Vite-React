@@ -14,3 +14,4 @@ image:
 ---
 
 The three-part documentary series about the life and career basketball Hall of Famer Wilt Chamberlain features narration from an AI generated voice of Chamberlain.
+Image poster gotten from themoviedb.org

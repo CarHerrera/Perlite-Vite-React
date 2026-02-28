@@ -10,9 +10,10 @@ User Score: 46
 User Count: 225
 Director: Mark W. Roden,Quinn Saunders,Anthony Gonzales
 Creator: John de Mol
-image: 
+image: https://image.tmdb.org/t/p/w500/cx0YldpEMh1EBpwwdgY1Awcg6ty.jpg
 ---
 
 The reality show based on the Dutch reality show of the same name and hosted by Julie Chen features contestants aka Houseguests confined in a house with numerous cameras and microphones. Houseguests compete in weekly challenges before nominating who should leave the house aka eviction. 
 
 The first season had viewers voting by phone on who should be evicted from those nominated by the Houseguests. Subsequent seasons had Houseguests voting on the final decision on eviction. The second season introduced the Head of Household position that included immunity and nominating two people for eviction. The third season added the Power of Veto, which allowed the holder to remove someone from nomination for eviction.
+Image poster gotten from themoviedb.org

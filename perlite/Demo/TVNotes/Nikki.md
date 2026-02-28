@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Shelley Jensen
 Creator: Bruce Helford
-image: 
+image: https://image.tmdb.org/t/p/w500/ak56Gcvqnnz208IPueIrUcICBVE.jpg
 ---
 
 Nikki and Dwight follow their dreams, while Dwight's mother disapproves of Nikki and their lifestyle.
+Image poster gotten from themoviedb.org

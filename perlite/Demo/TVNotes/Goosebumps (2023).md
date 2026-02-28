@@ -16,3 +16,4 @@ image:
 Secrets and mysteries are discovered by groups of teens in the new anthology series based on R.L. Stine's books.
 
 [Airs on Disney+ and Hulu on the same day]
+Image poster gotten from themoviedb.org

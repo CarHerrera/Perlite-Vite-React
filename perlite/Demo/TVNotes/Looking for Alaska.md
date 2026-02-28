@@ -10,7 +10,8 @@ User Score: 71
 User Count: 74
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9Sf2xUDLU0gyJfwDvmXhIqIzgrj.jpg
 ---
 
 The eight-part adaptation of John Green's novel of the same name where Miles "Pudge" Halter (Charlie Plummer) transfers to a boarding school and becomes friends with Alaska (Kristine Froseth), Chip (Denny Love), Takumi (Jay Lee) and Lara (Sofia Vassiliev).
+Image poster gotten from themoviedb.org

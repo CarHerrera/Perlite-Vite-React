@@ -10,7 +10,8 @@ User Score: 79
 User Count: 308
 Director: nan
 Creator: Stan Lee,Jack Kirby
-image: 
+image: https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg
 ---
 
 The mutant heroes must carry on after the death of Professor X in the animated series that begins after where X-Men: The Animated Series ended in 1997.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 50
 User Count: 77
 Director: Jon Cassar,Stephen Hopkins
 Creator: Robert Cochran,Manny Coto,Evan Katz,Joel Surnow
-image: 
+image: https://image.tmdb.org/t/p/w500/2eoCEa9myi32C3QC7VYEu4y1f6D.jpg
 ---
 
 Former Army Ranger Eric Carter (Corey Hawkins) seeks CTU's help when something from his past puts his life and possibly the United States in danger in this reboot of the 2010 series.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 55
 User Count: 38
 Director: nan
 Creator: Jennifer Flackett,Kelly Galuska,Andrew Goldberg,Nick Kroll,Mark Levin
-image: 
+image: https://image.tmdb.org/t/p/w500/9uEmYSgYIMBEIN82VAlqZnatpxJ.jpg
 ---
 
 The "Big Mouth" spinoff series looks at the lives of Hormone Monsters, Depression Kitties, Shame Wizards and the other creatures that guide humans through their own lives.
+Image poster gotten from themoviedb.org

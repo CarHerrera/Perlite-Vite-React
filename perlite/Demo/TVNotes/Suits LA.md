@@ -10,7 +10,8 @@ User Score: 48
 User Count: 25
 Director: Anton Cropper,Michael Smith
 Creator: Aaron Korsh
-image: 
+image: https://image.tmdb.org/t/p/w500/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg
 ---
 
 The L.A. law firm led by Ted Black (Stephen Amell), a former New York federal prosecutor, handles criminal and entertainment law cases in the spin-off of USA's Suits.
+Image poster gotten from themoviedb.org

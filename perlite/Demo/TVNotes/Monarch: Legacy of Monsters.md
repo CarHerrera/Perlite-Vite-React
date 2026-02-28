@@ -10,7 +10,8 @@ User Score: 60
 User Count: 140
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg
 ---
 
 After surviving Godzilla's attack on San Francisco (seen in 2014 film Godzilla), Cate (Anna Sawai) travels to Japan where she discovers her family's connection to the secret organization Monarch.
+Image poster gotten from themoviedb.org

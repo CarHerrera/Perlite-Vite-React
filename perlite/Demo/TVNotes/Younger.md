@@ -10,7 +10,8 @@ User Score: 74
 User Count: 163
 Director: Peter Lauer
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/feWw6i09zaX2apzRqd7QbKEAsx9.jpg
 ---
 
 40-year-old Liza (Sutton Foster) returns to the working world as single mother with the help of a makeover from her best friend Maggie (Debbie Mazar), she passes herself off as a 26-year old and lands a job as an assistant to marketing executive Diana (Miriam Shor) and becomes friends with 20-something Kelsey (Hillary Duff) in the comedy based on the novel by Pamela Redmond Satran. 
+Image poster gotten from themoviedb.org

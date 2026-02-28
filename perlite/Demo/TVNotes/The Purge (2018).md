@@ -14,3 +14,4 @@ image:
 ---
 
 The TV series based on the movie franchise is set in a small town in a totalitarian America where every year there is a 12-hour period when any crime is legal.
+Image poster gotten from themoviedb.org

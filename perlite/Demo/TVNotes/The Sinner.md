@@ -10,7 +10,8 @@ User Score: 69
 User Count: 310
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rmibFGdqOe0kKKhPls0jVOdZCWw.jpg
 ---
 
 The drama based on Petra Hammesfahr's novel of the same name, focuses on a young mother named Cora Tannetti (Jessica Biel) who has no idea why she committed a violent crime against a stranger at the beach and Detective Harry Ambrose (Bill Pullman) who wants to discover her motives.
+Image poster gotten from themoviedb.org

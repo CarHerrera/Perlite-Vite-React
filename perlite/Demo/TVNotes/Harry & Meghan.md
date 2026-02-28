@@ -10,7 +10,8 @@ User Score: 19
 User Count: 101
 Director: Liz Garbus
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/nxbQLpCm78w5UHOyLrnkFJVCY7p.jpg
 ---
 
 The six-part documentary series directed by Liz Garbus features interviews, personal videos and pictures about how Duke and Duchess of Sussex, better known as Prince Harry and Meghan, met, fell in love and the challenges that led to move to the United States.
+Image poster gotten from themoviedb.org

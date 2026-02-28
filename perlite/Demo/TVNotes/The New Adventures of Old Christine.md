@@ -10,7 +10,8 @@ User Score: 85
 User Count: 50
 Director: Andy Ackerman
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/j1u9EGyEQEVFjl5VxK7NbRCxdZ1.jpg
 ---
 
 The New Adventures of Old Christine is a comedy about a 35-year-old divorced mom (Julia Louis-Dreyfus, Seinfeld), who runs a 30-minute female-only gym with Barbara 'Barb'(Wanda Sykes), and tries to keep peace with everyone around her. That includes the judgmental stay-at-home moms at her son Richie's (Trevor Gagnon) private school, her ex-husband, Richard (Clark Gregg, The West Wing), and his new girlfriend (Emily Rutherfurd, The Ellen Show), whose name is also Christine,  Old Christine's brother, Matthew (Hamish Linklater, Fantastic Four) lives with her. From writer-exec producer Kari Lizer, Will & Grace and Warner Bros. TV. Music by Matters.
+Image poster gotten from themoviedb.org

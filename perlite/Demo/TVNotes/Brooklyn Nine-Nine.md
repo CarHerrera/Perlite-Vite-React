@@ -10,7 +10,8 @@ User Score: 81
 User Count: 1185
 Director: nan
 Creator: Dan Goor,Michael Schur
-image: 
+image: https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg
 ---
 
 Detective Jake Peralta has a light-hearted approach to crime, but things change when he gets a new by-the-book boss.
+Image poster gotten from themoviedb.org

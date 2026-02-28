@@ -14,3 +14,4 @@ image:
 ---
 
 The reality show follows four fathers: Rick and Sean, stay-at-home dad; Stone, a single dad; and Nathan, a first-time dad.
+Image poster gotten from themoviedb.org

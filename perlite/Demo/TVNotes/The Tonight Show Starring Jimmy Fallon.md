@@ -10,7 +10,8 @@ User Score: 59
 User Count: 111
 Director: Dave Diomedi
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg
 ---
 
 The Tonight Show moves to New York City with Jimmy Fallon taking over for Jay Leno.
+Image poster gotten from themoviedb.org

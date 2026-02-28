@@ -10,7 +10,8 @@ User Score: 71
 User Count: 106
 Director: Alice Mathias
 Creator: Zach Kanin,Tim Robinson
-image: 
+image: https://image.tmdb.org/t/p/w500/26fMaTPRczCrTUOQ5svA1Db7l4h.jpg
 ---
 
 The sketch comedy series from Tim Robinson was executive produced by Andy Samberg, Akiva Schaffer, and Jorma Taccone.
+Image poster gotten from themoviedb.org

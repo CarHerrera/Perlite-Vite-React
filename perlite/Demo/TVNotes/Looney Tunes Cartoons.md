@@ -10,8 +10,9 @@ User Score: 75
 User Count: 17
 Director: David Gemmill,Ryan Kramer,Kenny Pittenger
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2pDQfZMJq95hckoaez9ou93Hmqy.jpg
 ---
 
 Bugs Bunny, Daffy Duck, Elmer Fudd, Foghorn Leghorn, Pepé le Pew, Sylvester, Porky Pig, Taz, Tweety Bird, and Yosemite Sam are just some of the Warner Bros. characters who return with new stories. 
 
+Image poster gotten from themoviedb.org

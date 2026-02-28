@@ -14,3 +14,4 @@ image:
 ---
 
 To raise funds for scholarship charity Cancer for College, comedian Will Ferrell played 10 positions in five spring training games in Arizona for 10 different teams on one day in this comedy special.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 83
 User Count: 1368
 Director: nan
 Creator: Seth MacFarlane
-image: 
+image: https://image.tmdb.org/t/p/w500/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg
 ---
 
 Set 300 years, Captain Ed Mercer (Seth MacFarlane) and the crew of the U.S.S. Orville explore space in Seth MacFarlane's sci-fi dramedy homage to Star Trek.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 49
 User Count: 28
 Director: nan
 Creator: Tony Phelan,Joan Rater,Max Thieriot
-image: 
+image: https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg
 ---
 
 Bode Donovan (Max Thieriot) looks to shorten his prison sentence by volunteering to be part of an inmate firefighting program, but feels uneasy when assigned to work in his hometown.
+Image poster gotten from themoviedb.org

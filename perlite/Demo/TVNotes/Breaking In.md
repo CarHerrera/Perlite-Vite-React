@@ -10,8 +10,9 @@ User Score: 68
 User Count: 40
 Director: nan
 Creator: Adam F. Goldberg,Seth Gordon
-image: 
+image: https://image.tmdb.org/t/p/w500/cDEglbhl4g6yFg203agZAOm8m3b.jpg
 ---
 
 Christian Slater is Oz, the owner of a security firm, who hires the college student who tried to hack into his school's systems to join Contra Security's team of experts.
 
+Image poster gotten from themoviedb.org

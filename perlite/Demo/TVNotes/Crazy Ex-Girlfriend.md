@@ -10,7 +10,8 @@ User Score: 80
 User Count: 354
 Director: nan
 Creator: Rachel Bloom,Aline Brosh McKenna
-image: 
+image: https://image.tmdb.org/t/p/w500/pvYh3fdrRvreWmqw4onWJJmRXf5.jpg
 ---
 
 Originally developed for sister channel Showtime, the revamped show follows a young woman (Rachel Bloom) who gives up her job at a law firm in New York City to move to West Covina, California to seek love and happiness.
+Image poster gotten from themoviedb.org

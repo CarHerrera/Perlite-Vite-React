@@ -10,7 +10,8 @@ User Score: 53
 User Count: 61
 Director: Chris Koch
 Creator: Daniel Chun
-image: 
+image: https://image.tmdb.org/t/p/w500/4kxhllcajbzQwjYiyXFGJKXmvY5.jpg
 ---
 
 Bachelor Jimmy Martino (John Stamos) is surprised to learn he has a grown son (Josh Peck) with a young daughter.
+Image poster gotten from themoviedb.org

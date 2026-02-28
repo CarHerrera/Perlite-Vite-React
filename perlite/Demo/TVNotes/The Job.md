@@ -10,7 +10,8 @@ User Score: 0
 User Count: 2
 Director: Joe DeMaio
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/iDiiIBZCjdihpBoDKzVRhb7C9B.jpg
 ---
 
 Five contestants participate in elimination challenges for a possible job at companies such as Cosmopolitan magazine, Epic Records, Live Nation, Major League Soccer, and the Palm restaurant chain on this reality competition  show hosted by Lisa Ling.
+Image poster gotten from themoviedb.org

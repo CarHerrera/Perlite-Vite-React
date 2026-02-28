@@ -14,3 +14,4 @@ image:
 ---
 
 The Christmas special directed by Sofia Coppola and written by Coppola, Bill Murray and Mitch Glazer, is set in New York's Carlyle Hotel with Murray acting and singing in sketches with a variety of artists including Michael Cera, Miley Cyrus, George Clooney, Miley Cyrus, Rashida Jones, Jenny Lewis, Phoenix, Amy Poehler, Chris Rock, Maya Rudolph, and Jason Schwartzman.
+Image poster gotten from themoviedb.org

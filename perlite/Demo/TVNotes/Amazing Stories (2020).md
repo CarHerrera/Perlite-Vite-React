@@ -14,3 +14,4 @@ image:
 ---
 
 The reboot of the 1985 Steven Spielberg anthology series with the first season featuring episodes directed by Michael Dinner, Susanna Fogel, Chris Long, Mark Mylod, and Sylvain White.
+Image poster gotten from themoviedb.org

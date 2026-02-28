@@ -14,3 +14,4 @@ image:
 ---
 
 Self-made tech billionaire Darius Tanz (Santiago Cabrera) and MIT grad student Liam Cole (Charlie Rowe) contact Pentagon Press Secretary Grace Barrows (Jennifer Finnigan) about the fact an asteroid will crash into Earth in six months. 
+Image poster gotten from themoviedb.org

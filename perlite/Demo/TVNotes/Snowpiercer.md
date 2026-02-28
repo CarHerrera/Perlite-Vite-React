@@ -10,7 +10,8 @@ User Score: 60
 User Count: 178
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/exKzfiKzMdQBHrdd7zNmKauJkbg.jpg
 ---
 
 The long-gestating series based on the 2013 film by Bong Joon Ho finds  humans living on perpetually running trains for over seven years after the world froze but after so many years, class divisions have brought tensions to a breaking point.
+Image poster gotten from themoviedb.org

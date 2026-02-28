@@ -10,7 +10,7 @@ User Score: 63
 User Count: 12
 Director: Gil Junger,Henry Chan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/zpac63F4m3xzUDLIJiy8Hm3l1St.jpg
 ---
 
 From Gil Junger, the director of the smash hit film 10 Things I Hate About You comes the second modern reinvention of the Shakespearean play The Taming of the Shrew.
@@ -20,3 +20,4 @@ The comedy revolves around two different sisters who experience romantic turbule
 Ned's Declassified School Survival Guide's Lindsey Shaw and Camp Rock's Meaghan Jette Martin play the lead roles in the ABC comedy as Katarina and Bianca Stratford, a nonconforming feminist and a valley girl. Sky High's Nicholas Braun, The War at Home's Kyle Kaplan and Ethan Peck are the reinvented characters in the series. Their characters are Cameron the love smitten classmate, Michael the audio visual geek and Patrick a dark and mysterious student.
 
 10 Things I Hate About You is produced by Prodco, Inc.
+Image poster gotten from themoviedb.org

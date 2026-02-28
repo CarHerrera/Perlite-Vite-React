@@ -10,7 +10,8 @@ User Score: 52
 User Count: 6
 Director: John Alexander
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/orYPEKHsB734AFFINcCbjT57Ifa.jpg
 ---
 
 From award-winning director Andrew Davies comes the latest adaptation of Jane Austen's Sense and Sensibility. The story follows two young sisters, Marianne and Elinor Dashwood, whose lives are thrown into chaos after the death of their father, and they go on a journey of romantic and self discovery. Although their chances of marriage seem slim due to their social status, Elinor becomes attached to the secretive Edward Ferrars, and Marianne attracts older man Colonel Brandon and young and wild Willoughby. Is it true love or lust? 
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 78
 User Count: 42
 Director: Susanna White
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/te0SB1kyYlzHZEXL3jpcU6oHELy.jpg
 ---
 
 During World War I, Christopher Tietjens (Benedict Cumberbatch) struggles with duty, decorum, and his feelings for his socialite wife Sylvia Satterthwaite (Rebecca Hall), who may not be carrying his child and suffragette Valentine Wannop (Adelaide Clemens) in this five-part miniseries adaption of Ford Madox Ford's novels.
+Image poster gotten from themoviedb.org

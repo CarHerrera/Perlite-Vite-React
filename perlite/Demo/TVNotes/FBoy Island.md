@@ -10,7 +10,8 @@ User Score: 43
 User Count: 12
 Director: Michael Shea
 Creator: Elan Gale
-image: 
+image: https://image.tmdb.org/t/p/w500/nFpUwmfZijUXthLkizncQPsGt62.jpg
 ---
 
 The reality dating series hosted by Nikki Glaser features three single women looking for love among 24 bachelors. However, half of the men are not looking for long-term relationships, but the cash prize.
+Image poster gotten from themoviedb.org

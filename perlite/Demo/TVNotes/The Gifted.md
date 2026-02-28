@@ -10,7 +10,8 @@ User Score: 70
 User Count: 185
 Director: nan
 Creator: Matt Nix,Jack Kirby,Stan Lee
-image: 
+image: https://image.tmdb.org/t/p/w500/nshCqszjTNuqhrB53vrSqWO18sE.jpg
 ---
 
 The discovery of their children's mutant power forces Caitlin and Reed Strucker (Amy Acker and Stephen Moyer) to go on the run with their two kids (Natalie Alyn Lind and Percy Hynes White) with the help of an underground network of mutants in the X-men-based series from Matt Nix.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 83
 User Count: 116
 Director: nan
 Creator: Paul Attanasio
-image: 
+image: https://image.tmdb.org/t/p/w500/nb5310xlFjx5r9TnpKoaOTQsAlP.jpg
 ---
 
 This series was the most reality-based police drama that has ever aired on television.  It was shot entirely with handheld cameras on location in the Fells Point Community of Baltimore, MD.  One of the series' executive producers, Barry Levinson, is a Baltimore native.  He has written and directed at least three films that take place in Baltimore: "Diner", "Tin Men" & "Avalon".  Doing this show was a natural for him.
@@ -26,3 +26,4 @@ One of the highlights of the series, starting with the second season was the use
 First air date: January 31, 1993
 Last air date: May 21, 1999
 Original air time: Friday 10:00:00 pm (Eastern)
+Image poster gotten from themoviedb.org

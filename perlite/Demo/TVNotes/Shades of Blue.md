@@ -10,7 +10,8 @@ User Score: 68
 User Count: 146
 Director: nan
 Creator: Adi Hasak
-image: 
+image: https://image.tmdb.org/t/p/w500/wxg8lxFpandLQtOiHRnTEQf7oeL.jpg
 ---
 
 Single mother and Brooklyn police detective Harlee Santos (Jennifer Lopez) finds herself working as an informant against her own unit for the FBI's anti-corruption task force after being caught doing something illegal.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 70
 User Count: 697
 Director: nan
 Creator: Alfred Gough,Miles Millar,Charles Addams
-image: 
+image: https://image.tmdb.org/t/p/w500/36xXlhEpQqVVPuiZhfoQuaY4OlA.jpg
 ---
 
 Wednesday Addams (Jenna Ortega) discovers mysteries in town and about her parents, while learning to control her psychic powers at Nevermore Academy, the boarding school she is sent to after being kicked out of her public high school.
+Image poster gotten from themoviedb.org

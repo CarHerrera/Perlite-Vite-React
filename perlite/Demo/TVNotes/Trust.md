@@ -10,7 +10,8 @@ User Score: 72
 User Count: 38
 Director: Danny Boyle,Dawn Shadforth,Susanna White,Jonathan van Tulleken,Emanuele Crialese
 Creator: Simon Beaufoy
-image: 
+image: https://image.tmdb.org/t/p/w500/5refQIjaOyBPuQqmrBp0C9TXPS6.jpg
 ---
 
 The Getty Family drama begins with John Paul Getty III's (Harris Dickinson kidnapping in 1973.
+Image poster gotten from themoviedb.org

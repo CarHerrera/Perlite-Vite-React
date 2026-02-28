@@ -10,7 +10,8 @@ User Score: 54
 User Count: 318
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg
 ---
 
 Jefferson Pierce (Cress Williams) had retired from his secret identity of Black Lightning many years ago, but when danger threatens his  twenty-something daughter, Jennifer (Nafessa Williams), and a student at her school is being lured by a gang, he returns to the fight.
+Image poster gotten from themoviedb.org

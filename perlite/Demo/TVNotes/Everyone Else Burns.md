@@ -10,9 +10,10 @@ User Score: 65
 User Count: 6
 Director: Nick Collett,Jamie Jay Johnson
 Creator: Dillon Mapletoft,Oliver Taylor
-image: 
+image: https://image.tmdb.org/t/p/w500/m2HhbbskGM4ty4u13o7gV1JVQQu.jpg
 ---
 
 The British sitcom focuses on a Manchester, England family led by David Lewis (Simon Bird) that are part of the apocalyptic religious sect in this British sitcom.
 
 [Premiered originally in the Uk on Channel 4 on 23 Jan 2023 and in the US on The CW on 26 Oct 2023]
+Image poster gotten from themoviedb.org

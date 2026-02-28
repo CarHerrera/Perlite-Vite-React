@@ -10,7 +10,8 @@ User Score: 82
 User Count: 10
 Director: Stuart Gordon
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vgTy1Lfi5P1yD7ZvsuoPKYvxwzv.jpg
 ---
 
 Showtime has amassed some of the greatest horror film writers and directors to bring to you the anthology series, "Masters of Horror".  For the first time the foremost names in the horror film genre have joined forces for the series consisting of a series of one hour films. The show ran for two thirteen episode seasons from 2005-2007. 
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: Laurie Collyer
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/lrcOv9ByMqOGDaQcSir1Rw3QhRb.jpg
 ---
 
 Based on J. Randy Taraborrelli's novel, Marilyn Monroe (Kelli Garner) struggles with fame, her husbands, her mental illness, and always haunted by her mother Gladys (Susan Sarandon), who was secretly institutionalized.
+Image poster gotten from themoviedb.org

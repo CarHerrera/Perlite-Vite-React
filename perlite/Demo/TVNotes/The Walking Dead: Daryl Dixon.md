@@ -10,7 +10,8 @@ User Score: 65
 User Count: 149
 Director: nan
 Creator: David Zabel
-image: 
+image: https://image.tmdb.org/t/p/w500/sP5QdW9FN18XWcA4ROz3MPAQBTx.jpg
 ---
 
 Daryl Dixon (Normal Reedus) finds himself in France and trying figure out how he got there as well as finding his way back home.
+Image poster gotten from themoviedb.org

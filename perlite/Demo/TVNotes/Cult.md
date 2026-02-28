@@ -10,9 +10,10 @@ User Score: 58
 User Count: 40
 Director: Nathan Hope
 Creator: Rockne S. O'Bannon
-image: 
+image: https://image.tmdb.org/t/p/w500/3qSnfv0tRUnWGOgVGebpZRGjQRG.jpg
 ---
 
 After Jeff Sefton's (Matt Davis) brother mysteriously disappears, the clues point toward his current obsession, the TV show Cult. Jeff teams up with show's researcher Skye Yarrow (Jessica Lucas) to investigate the fans, the mysterious creator of Cult, and the show itself.
 
 Cult, the show-within-the-show is about a cult led by Billy Grimm, played by actor Roger Reeves (Robert Knepper) and Kelly Collins, a former cult member-turned LAPD detective, played by actress Marti Gerritsen (Alona Tal), who returns to the cult to find her kidnapped sister.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 The stop-motion animated Christmas special based on the 2003 theatrical movie Elf and its Broadway Musical follows Buddy (voiced by Jim Parsons) as he travels to New York City to meet the father he never knew.
+Image poster gotten from themoviedb.org

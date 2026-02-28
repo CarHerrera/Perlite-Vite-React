@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Adam Bernstein,Michael Spiller,Michael Lehmann
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/A92sj8iKxx3FHZ2o1UP7pA3E9Eo.jpg
 ---
 
 Worst Week, from the mind of Matt Tarses (Scrubs), is an American take on the British series The Worst Week of My Life. This CBS single camera offering centers on a young couple dealing with the groom's soon-to-be-in-laws during a family vacation.CBS ordered the show to series on 12 May 2008. The show is being produced by Hat Trick Productions and Universal Media Studios.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 16
 User Count: 9
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/r4prOUS3LgkWjxWsrT6kHE8NFLT.jpg
 ---
 
 Six lesbians living in Los Angeles are the subjects of this reality revival of the successful Showtime series The L Word. The powers behind the project are The L Word creator Ilene Chaiken and reality producers Magical Elves of the Top Chef fame.
+Image poster gotten from themoviedb.org

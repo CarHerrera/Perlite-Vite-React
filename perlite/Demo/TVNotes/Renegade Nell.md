@@ -10,7 +10,8 @@ User Score: 62
 User Count: 40
 Director: M.J. Delaney,Amanda Brotchie,Ben Taylor
 Creator: Sally Wainwright
-image: 
+image: https://image.tmdb.org/t/p/w500/7hCiCJiG3uBqZhn2PmxLW2N3QUC.jpg
 ---
 
 Framed for murder, Nell Jackson (Louisa Harland) becomes a highwaywoman in 18th Century England in the action-adventure/fantasy series created and written by Sally Wainwright.
+Image poster gotten from themoviedb.org

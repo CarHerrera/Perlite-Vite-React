@@ -10,7 +10,8 @@ User Score: 39
 User Count: 109
 Director: Michael Patrick King
 Creator: Darren Star
-image: 
+image: https://image.tmdb.org/t/p/w500/2b6E0pN19IGsmxSv6HyTKydKKdb.jpg
 ---
 
 Carrie (Sarah Jessica Parker), Miranda (Cynthia Nixon) and Charlotte (Kristin Davis) are back, this time on HBO Max, as they continue their friendship in their 50s.
+Image poster gotten from themoviedb.org

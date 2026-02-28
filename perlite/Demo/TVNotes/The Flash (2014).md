@@ -10,7 +10,8 @@ User Score: 71
 User Count: 1844
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg
 ---
 
 The spinoff of The CW's Arrow finds Central City forensic assistant Barry Allen (Grant Gustin) with superhuman speed after being hit by a bolt of lightning during an accident at a particle accelerator. With the help of three scientists at Harrison Wells’ S.T.A.R. Lab, he helps the citizens of Central City as he seeks answers about his mother's murder.
+Image poster gotten from themoviedb.org

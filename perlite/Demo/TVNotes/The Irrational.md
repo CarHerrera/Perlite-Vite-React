@@ -10,7 +10,8 @@ User Score: 78
 User Count: 20
 Director: nan
 Creator: Arika Lisanne Mittman
-image: 
+image: https://image.tmdb.org/t/p/w500/jJtOpfgV4iPu9RtxllHwZgn9dqI.jpg
 ---
 
 Behavioral psychology professor Alec Mercer (Jesse L. Martin) consults on cases for corporations, law enforcement, and governments in the drama series based on Dan Ariely’s book, "Predictably Irrational."
+Image poster gotten from themoviedb.org

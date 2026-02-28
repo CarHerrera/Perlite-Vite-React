@@ -10,7 +10,8 @@ User Score: 61
 User Count: 22
 Director: Joss Agnew,Alice Troughton,Ashley Way,Graeme Harper
 Creator: Russell T. Davies,Bob Baker,Dave Martin
-image: 
+image: https://image.tmdb.org/t/p/w500/hq0S1VtUabnORdp3l3m11OA67BP.jpg
 ---
 
 "I saw amazing things, out there in space. But there is strangeness to be found wherever you turn. Life on Earth can be an adventure too... you just need to know where to look!" The Sarah Jane Adventures features the previous companion of the Third and Fourth incarnation of the Doctor from the original series of Doctor Who, Ms. Sarah Jane Smith! Elisabeth Sladen reprises her role once again and is back in action, discovering alien plots to take over the world, or simply helping a lost one get home... Sarah Jane and her new friend Maria Jackson, and her newly (and genetically grown) adopted son Luke Smith have no problem taking on any challenge!
+Image poster gotten from themoviedb.org

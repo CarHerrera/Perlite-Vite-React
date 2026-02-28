@@ -10,7 +10,8 @@ User Score: 55
 User Count: 283
 Director: nan
 Creator: Joshua Safran
-image: 
+image: https://image.tmdb.org/t/p/w500/3ofY2mALEiE0QDyRlVOV3sDNMYC.jpg
 ---
 
 Alex Weaver (Priyanka Chopra), Ryan Booth (Jake McLaughlin), Shelby Wyatt (Johanna Braddy), Nimah Anwar (Yasmine Al Massri), Caleb Haas (Graham Rogers), Simon Asher (Tate Ellington) and Eric Packer are new FBI recruits trained by FBI academy director Miranda Shaw (Aunjanue Ellis) and Special Agent Liam O’Connor (Josh Hopkins). However, one of them may be the person responsible for a future terrorist attack.
+Image poster gotten from themoviedb.org

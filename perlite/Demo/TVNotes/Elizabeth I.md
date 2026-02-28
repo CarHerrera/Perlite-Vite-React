@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: Tom Hooper
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/dPCD0MdbMdOkbKjtLdqemM57ZH.jpg
 ---
 
 Elizabeth I is a two-part mini-series starring Helen Mirren and Jeremy Irons and exploring the private and public life of Elizabeth I and her struggle to stay afloat in a male-dominated world.
+Image poster gotten from themoviedb.org

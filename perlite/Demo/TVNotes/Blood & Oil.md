@@ -10,7 +10,8 @@ User Score: 67
 User Count: 43
 Director: nan
 Creator: Rodes Fishburne,Josh Pate
-image: 
+image: https://image.tmdb.org/t/p/w500/ch0Kbx9uSOJvZyX7Xx1wzTMOIAa.jpg
 ---
 
 The oil boom in North Dakota draws Billy (Chace Crawford) and Cody Lefever (Rebecca Rittenhouse) to North Dakota where they cross paths with wealthy businessman Hap Briggs (Don Johnson).
+Image poster gotten from themoviedb.org

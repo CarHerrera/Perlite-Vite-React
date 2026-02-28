@@ -10,7 +10,8 @@ User Score: 73
 User Count: 15
 Director: Tom Cherones
 Creator: Paul Simms
-image: 
+image: https://image.tmdb.org/t/p/w500/nP698ZfQ9OqCXnxhEPapa8QOgdX.jpg
 ---
 
 "NewsRadio" showcases the hilarious antics of the whimsical #2 news radio station in New York City. The corral of characters are eccentric and witty, and they surprise each other with their back-and-forth banter. Their workplace humor also supplies an abundance of laughs amidst this unlikely bunch of colleagues.
+Image poster gotten from themoviedb.org

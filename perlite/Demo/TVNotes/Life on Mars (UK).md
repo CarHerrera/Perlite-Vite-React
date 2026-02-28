@@ -14,3 +14,4 @@ image:
 ---
 
 After being involved in a car accident in 2006, DCI Sam Tyler wakes up in 1973. Lost and demoted, will he find his way home?
+Image poster gotten from themoviedb.org

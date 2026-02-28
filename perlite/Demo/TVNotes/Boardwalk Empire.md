@@ -10,7 +10,8 @@ User Score: 85
 User Count: 1596
 Director: Timothy Van Patten
 Creator: Terence Winter
-image: 
+image: https://image.tmdb.org/t/p/w500/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg
 ---
 
 Atlantic City in the 1920s is the setting for the series based on the book by Nelson Johnson about how the city turned into the infamous gambling locale.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 74
 User Count: 44
 Director: Andy Hay,Nicholas Renton,John Strickland
 Creator: Adrian Hodges
-image: 
+image: https://image.tmdb.org/t/p/w500/6kOMlk4hlavwO5L82eLdklN0fm5.jpg
 ---
 
 The latest adaptation of Alexander Dumas' classic novel follows the adventures of D'Artagnon (Luke Pasqualino), Athos (Tom Burke), Aramis (Santiago Cabrera) and Porthos (Howard Charles) as Cardinal Richelieu (Peter Capaldi) seeks more power and control. 
+Image poster gotten from themoviedb.org

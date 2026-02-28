@@ -10,7 +10,8 @@ User Score: 77
 User Count: 55
 Director: Greg Whiteley
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/8Gu5OupZlwfO0cwfRgsi1LfdE1i.jpg
 ---
 
 Greg Whiteley's docuseries focuses on East Mississippi Community College as it begins a new season with a 24-game winning streak.
+Image poster gotten from themoviedb.org

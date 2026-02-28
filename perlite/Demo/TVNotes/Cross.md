@@ -10,7 +10,8 @@ User Score: 49
 User Count: 55
 Director: nan
 Creator: Ben Watkins
-image: 
+image: https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg
 ---
 
 D.C. homicide detective and forensic psychologist Alex Cross (Aldis Hodge) and his partner, John Sampson (Isaiah Mustafa), track a serial killer in the series based on James Patterson's Alex Cross novels.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 64
 User Count: 31
 Director: Erica Dunton,Liz Friedlander,Jann Turner,Marcos Siega
 Creator: Kevin Williamson
-image: 
+image: https://image.tmdb.org/t/p/w500/uRzJaOysinMti88BGuu8m8shVCp.jpg
 ---
 
 Harlan Buckley (Holt McCallany) returns to his family's fishing empire after two heart attacks after bad decisions by his wife Belle (Maria Bello) and son Cane (Jake Weary) threaten the business. Their daughter Bree (Melissa Benoist), a recovering addict, brings new complications that could spell more trouble for the family in the drama series from Kevin Williamson.
+Image poster gotten from themoviedb.org

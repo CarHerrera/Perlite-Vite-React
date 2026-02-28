@@ -10,7 +10,8 @@ User Score: 63
 User Count: 70
 Director: Joe Swanberg
 Creator: Joe Swanberg
-image: 
+image: https://image.tmdb.org/t/p/w500/uh0pHb6JV0m6Vjmz1tGhohr9B7y.jpg
 ---
 
 The anthology series from Joe Swanberg is set in Chicago where characters played by such actors as Malin Akerman, Orlando Bloom, Hannibal Buress, Michael Chernus, Dave Franco, Jake Johnson, Marc Maron, and Gugu Mbatha-Raw deal with culture, love, sex, and technology.
+Image poster gotten from themoviedb.org

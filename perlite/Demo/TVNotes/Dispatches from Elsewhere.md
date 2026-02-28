@@ -10,7 +10,8 @@ User Score: 69
 User Count: 27
 Director: nan
 Creator: Jason Segel
-image: 
+image: https://image.tmdb.org/t/p/w500/kWskCna5DnRutdc66XERYFGek5s.jpg
 ---
 
 Four people (André Benjamin, Sally Field, Jason Segel and Eve Lindley) discover a hidden puzzle that leads to a larger mystery in this anthology series created by Segel.
+Image poster gotten from themoviedb.org

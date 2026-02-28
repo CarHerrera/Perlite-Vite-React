@@ -10,7 +10,8 @@ User Score: 67
 User Count: 470
 Director: Cecilia Aranovich
 Creator: Bruce Timm,Paul Dini,Karl Kesel
-image: 
+image: https://image.tmdb.org/t/p/w500/9Dm1SEh8Wxt8LNNg02exHQ595zg.jpg
 ---
 
 The animated comedy series follows Harley Quinn (voiced by Kaley Cuoco) after her break up with the Joker as she looks to become the "Queenpin" of Gotham and join the Legion of Doom with the help from Poison Ivy (voiced by Lake Bell).
+Image poster gotten from themoviedb.org

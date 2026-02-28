@@ -10,7 +10,8 @@ User Score: 71
 User Count: 26
 Director: Hannah Macpherson,Brian Dannelly
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/bcIsJ06LptDahicANKK5XTqobd3.jpg
 ---
 
 Maddie (Peyton List) investigates her own disappearance while attending high school in the afterlife in this series based on a graphic novel by Nate & Megan Trinrud and Maria Nguyen.
+Image poster gotten from themoviedb.org

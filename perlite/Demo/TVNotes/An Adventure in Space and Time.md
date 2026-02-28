@@ -14,3 +14,4 @@ image:
 ---
 
 The film written by Doctor Who and Sherlock writer Mark Gatiss dramatizes the difficulties of producing the sci-fi series Doctor Who in the 1960s by co-creators Sydney Newman (Brian Cox) and Verity Lambert (Jessica Raine) as well as the origination of regeneration after first Doctor actor William Hartnell (David Bradley) left the show in 1966.
+Image poster gotten from themoviedb.org

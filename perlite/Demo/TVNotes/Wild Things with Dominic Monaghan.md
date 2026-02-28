@@ -10,7 +10,8 @@ User Score: 85
 User Count: 10
 Director: Brad Brough,Paul Kilback
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6XeuWQqM4UN1uYEGhM5YPJ3Ud2C.jpg
 ---
 
 Dominic Monaghan travels to exotic locations such as Vietnam, Ecuador, Venezuela, and Namibia to seek out rare, interesting, and dangerous creatures.
+Image poster gotten from themoviedb.org

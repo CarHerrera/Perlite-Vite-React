@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ir08tMAJ65S6QJogSER5dymc57e.jpg
 ---
 
 Imagine the Blair Witch Project as a reality series, and you have grasped the concept for this CW reality series from Sam Raimi. Thirteen contestants are stranded in the Louisiana bayou, and each week one contestant mysteriously 'disappears' as they are eliminated from the competition. The last one standing will win a prize of $66,666. 
+Image poster gotten from themoviedb.org

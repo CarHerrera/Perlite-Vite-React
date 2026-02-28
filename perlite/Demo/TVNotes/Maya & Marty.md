@@ -10,7 +10,8 @@ User Score: 54
 User Count: 18
 Director: Alex Rudzinski
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/u6wbOsArJoWoEukj1tdS4zuQ3Py.jpg
 ---
 
 The variety show hosted by Maya Rudolph and Martin short will be aired live.
+Image poster gotten from themoviedb.org

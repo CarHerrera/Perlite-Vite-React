@@ -14,3 +14,4 @@ image:
 ---
 
 An alien invasion is at the center of the science fiction drama series from Simon Kinberg and David Weil.
+Image poster gotten from themoviedb.org

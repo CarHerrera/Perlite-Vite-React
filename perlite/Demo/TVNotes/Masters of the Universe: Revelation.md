@@ -10,7 +10,8 @@ User Score: 19
 User Count: 1058
 Director: Patrick Stannard,Adam Conarroe
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vIhyANmvTiBjlmX0Uy48Z9AD24j.jpg
 ---
 
 The animated series from Kevin Smith picks up from the end of the 1980s cartoon series with Prince Adam/He-Man (voiced by Chris Wood) fighting Skeletor (Mark Hamill).
+Image poster gotten from themoviedb.org

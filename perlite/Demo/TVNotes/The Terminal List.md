@@ -10,7 +10,8 @@ User Score: 85
 User Count: 390
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jbyaKYNexl1poKZnEmB6Qobn60s.jpg
 ---
 
 James Reece (Chris Pratt) returns home under investigation after 12 in his Navy SEALs platoon are killed in an ambush in this series based on Jack Carr's novel of the same name.
+Image poster gotten from themoviedb.org

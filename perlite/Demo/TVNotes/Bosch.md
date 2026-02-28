@@ -10,7 +10,8 @@ User Score: 80
 User Count: 390
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/lQPwNJ6DRpmRfTrKy8A94c7IvU3.jpg
 ---
 
 Los Angeles homicide detective Harry Bosch (Titus Welliver) is under trial for killing a serial killer as he searches for another killer of a child in this series based on the books by Michael Connelly.
+Image poster gotten from themoviedb.org

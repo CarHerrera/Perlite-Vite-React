@@ -10,7 +10,8 @@ User Score: 48
 User Count: 4
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/in0xJ2nYOQnwRiTN1U8oHyzxoyV.jpg
 ---
 
 A rotating roster of comedians argue over who or what is the root of all evil in this courtroom parody. Lewis Black of The Daily Show with Jon Stewart presides as judge, and topics debated include such hot issues as 'Paris Hilton vs. Dick Cheney' and 'chick flicks vs. video games' among others.
+Image poster gotten from themoviedb.org

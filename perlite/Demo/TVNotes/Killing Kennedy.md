@@ -14,3 +14,4 @@ image:
 ---
 
 Based on Martin Dugard and Bill O’Reilly’s book of the same name, it shows the events of John (Rob Lowe) and Jackie (Ginnifer Goodwin) Kennedy as well as Lee Harvey Oswald (Will Rothhaar)and his Russian wife Marina (Michelle Trachtenberg) leading up to the assassination of the president.
+Image poster gotten from themoviedb.org

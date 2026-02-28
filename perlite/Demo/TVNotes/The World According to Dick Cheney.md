@@ -14,3 +14,4 @@ image:
 ---
 
 Dick Cheney, the ex-vice president, is profiled and interviewed by R.J. Cutler in this 110-minute documentary. 
+Image poster gotten from themoviedb.org

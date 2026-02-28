@@ -14,3 +14,4 @@ image:
 ---
 
 Alvey "King" Kulina (Frank Grillo) runs a mixed martial arts gym in Venice, California while training his sons Jay (Jonathan Tucker) and Nate (Nick Jonas).
+Image poster gotten from themoviedb.org

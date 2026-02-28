@@ -10,7 +10,8 @@ User Score: 70
 User Count: 267
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/zceMrfO17AQkeWJZNra4O90s1vE.jpg
 ---
 
 Six teenagers: Alex Wilder (Rhenzy Feliz), Nico Minoru (Lyrica Okano), Karolina Dean (Virginia Gardner), Gert Yorkes (Ariela Barer), Chase Stein (Gregg Sulkin), and Molly Hernandez (Allegra Acosta) unite against The Pride (a.k.a their parents): Catherine and Geoffrey Wilder (Angel Parker and Ryan Sands); Robert and Tina Minoru (James Yaegashi and Brittany Ishibashi); Dale and Stacey Yorkes (Kevin Weisman and Brigid Brannagh); Frank and Leslie Dean (Kip Pardue and Annie Wersching); and Janet and Victor Stein (Ever Carradine and James Marsters), in this series based on the comic book.
+Image poster gotten from themoviedb.org

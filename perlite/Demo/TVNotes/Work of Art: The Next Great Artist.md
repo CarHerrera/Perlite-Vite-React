@@ -14,3 +14,4 @@ image:
 ---
 
 Bravo's latest reality competition show concept is to find the next great artist among 14 contestants.
+Image poster gotten from themoviedb.org

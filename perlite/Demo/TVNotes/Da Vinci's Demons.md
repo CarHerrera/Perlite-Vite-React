@@ -10,7 +10,8 @@ User Score: 75
 User Count: 260
 Director: nan
 Creator: David S. Goyer
-image: 
+image: https://image.tmdb.org/t/p/w500/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg
 ---
 
 Twenty five-year old artist/inventor Leonardo da Vinci (Tom Riley) works for Lorenzo Medici (Elliot Cowan); attracts the attention of Medici's mistress, Lucrezia Donati (Laura Haddock); battles Girolamo Riario (Blake Ritson); and seeks the mysterious Book of Leaves in this historical fantasy series.
+Image poster gotten from themoviedb.org

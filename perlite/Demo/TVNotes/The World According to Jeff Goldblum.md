@@ -10,7 +10,8 @@ User Score: 56
 User Count: 24
 Director: Karen McGann,Kathryn O'Kane,Rob Farquhar,Simon Lloyd
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vvdsYCsCPeyBWqIMIwsVXiZISrU.jpg
 ---
 
 The documentary series follows actor Jeff Goldblum as he looks into a variety of things that interest him including denim, ice cream, Korean barbecue, sneakers, and tattoos.
+Image poster gotten from themoviedb.org

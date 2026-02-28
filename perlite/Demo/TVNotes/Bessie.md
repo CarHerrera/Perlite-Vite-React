@@ -10,7 +10,8 @@ User Score: 80
 User Count: 4
 Director: Dee Rees
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jtvuuqPRcaBbBD2EQt0evRFCQpE.jpg
 ---
 
 The Dee Rees film dramatizes the rise to fame for blues singer Bessie Smith (Queen Latifah).
+Image poster gotten from themoviedb.org

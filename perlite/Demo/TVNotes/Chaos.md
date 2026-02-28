@@ -10,7 +10,8 @@ User Score: 73
 User Count: 18
 Director: Ron Underwood,Fred Gerber,Bryan Spicer
 Creator: Tom Spezialy
-image: 
+image: https://image.tmdb.org/t/p/w500/uDApqZ0txxHbhm3y93dAiHMznlL.jpg
 ---
 
 Rogue CIA operatives fall into a pit of incompetence and political infighting in this CBS drama project.
+Image poster gotten from themoviedb.org

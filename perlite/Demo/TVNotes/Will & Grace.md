@@ -10,7 +10,7 @@ User Score: 84
 User Count: 133
 Director: James Burrows
 Creator: David Kohan,Max Mutchnick
-image: 
+image: https://image.tmdb.org/t/p/w500/kTkWxh0e4Lzmn19KWQxzMdKE4NC.jpg
 ---
 
 Will & Grace is a hilarious series about two best friends. The twist is that Will is gay Grace is a straight interior designer. More than friends, but less than lovers,  the two share a special bond and their personalities easily balance one another's. In addition to the stable Will and Grace, the show features Will's flamboyantly gay friend, Jack and Grace's sarcastic, spoiled, and boozy assistant, Karen.
@@ -23,3 +23,4 @@ October 2000-January 2004 – Thursday 9:00 January 2004-April 2004 – Thursday
 April 2004-September 2004 – Thursday 9:00
 September 2004-December 2005 – Thursday 8:30
 January 2006-May 2006 – Thursday 8:00 
+Image poster gotten from themoviedb.org

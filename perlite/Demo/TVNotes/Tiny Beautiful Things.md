@@ -10,7 +10,8 @@ User Score: 65
 User Count: 24
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/s8azffnsMN5MTctwlb9cU2SzTvF.jpg
 ---
 
 Struggling writer Clare (Kathryn Hahn) reluctantly takes over as an advice columnist in this Liz Tigelaar series based on Cheryl Strayed's book of the same name.
+Image poster gotten from themoviedb.org

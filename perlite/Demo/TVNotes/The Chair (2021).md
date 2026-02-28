@@ -14,3 +14,4 @@ image:
 ---
 
 Dr. Ji-Yoon Kim (Sandra Oh) becomes the first woman of color named Chair of the English department at Pembroke University in this dramedy series written by Amanda Peet.
+Image poster gotten from themoviedb.org

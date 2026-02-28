@@ -10,7 +10,7 @@ User Score: 79
 User Count: 163
 Director: Jerry Levine
 Creator: Ali LeRoi,Chris Rock
-image: 
+image: https://image.tmdb.org/t/p/w500/zX0xZnyReJxtGAqDOS3WcsgpOgx.jpg
 ---
 
 Motivated by his childhood experiences, Emmy Award-winner/actor/comedian Chris Rock, narrates this very hilarious & touching story of a teenager growing up as the oldest of three children in Brooklyn, New York during the early 1980s.
@@ -24,3 +24,4 @@ Chris' rough, cost-conscious father Julius (played by Terry Crews) works numerou
 With his mother strong-minded to see him in a good school, Chris reluctantly faces multiple bus transfers each day to attend Corleone Junior High School in the fiercely Italian neighborhood, South Shore.  Although being an immediate target for bullies, Chris' innate charm and sharp wit enable him to make new friends at school, such as Greg (played by Vincent Martella), another smart, nice kid...who can't fight, by the way.
 
 As Chris Rock pointedly looks back, his younger self is set to find what his family already knows: Chris' sharp, scrappy character is going to take him places.  But first, he's going to have to think, talk or run his way through one growing experience after another at both home and school, and on any number of buses along the way. "Everybody Hates Chris" is produced by 3 Art Entertainment and Paramount Studios.
+Image poster gotten from themoviedb.org

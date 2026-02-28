@@ -10,7 +10,8 @@ User Score: 65
 User Count: 22
 Director: Marcus Liversedge,Chris Faith
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/5ltbfUeFYJNExzkEbHiWcBtpNq0.jpg
 ---
 
 Brother-and-sister aristocrats Georgie (Ed Gamble) and Poppy Carlton (Amy Hoggart) travel across to America.
+Image poster gotten from themoviedb.org

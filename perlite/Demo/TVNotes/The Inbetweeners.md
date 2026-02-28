@@ -10,7 +10,8 @@ User Score: 36
 User Count: 45
 Director: Taika Waititi,Todd Strauss-Schulson,Michael Blieden
 Creator: Damon Beesley,Iain Morris
-image: 
+image: https://image.tmdb.org/t/p/w500/qNmcaXDndOkY6v9QiJjnxQD09GJ.jpg
 ---
 
 The US version of the British series about Will, Simon, Jay and Neil (Joey Pollari, Bubba Lewis, Zack Pearlman, and Mark L. Young) who try to navigate high school while not being popular nor unpopular.
+Image poster gotten from themoviedb.org

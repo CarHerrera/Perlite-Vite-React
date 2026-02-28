@@ -10,9 +10,10 @@ User Score: 0
 User Count: 1
 Director: Kevin Dowling,John Putch
 Creator: Kevin Murphy
-image: 
+image: https://image.tmdb.org/t/p/w500/emNx9jeAbAKUJ7zy8avOs7Tban.jpg
 ---
 
 Greek deities Aphrodite and her son Eros have settled here on Earth and are in the matchmaking business in this romantic dramedy from The CW.
 
 Valentine is produced by Media Rights Capital. 13 episodes have been ordered for the first season.
+Image poster gotten from themoviedb.org

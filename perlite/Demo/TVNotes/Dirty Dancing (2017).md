@@ -14,3 +14,4 @@ image:
 ---
 
 While on vacation in the Catskills in 1963 with her family, Frances "Baby" Houseman (Abigail Breslin) falls in love with a dance instructor named Johnny Castle (Colt Prattes) in this TV movie version of the 1987 film of the same name.
+Image poster gotten from themoviedb.org

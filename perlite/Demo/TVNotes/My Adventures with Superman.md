@@ -10,7 +10,8 @@ User Score: 58
 User Count: 116
 Director: Jen Bennett,Diana Huh
 Creator: Joe Shuster,Jerry Siegel,John Byrne,Marv Wolfman,John Ostrander,George Pérez
-image: 
+image: https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg
 ---
 
 The animated series follows Clark Kent (voiced by Jack Quaid) as he begins working as an intern at the Daily Planet with Lois Lane (voiced by Alice Lee) and Jimmy Olsen (voiced by Ishmel Sahid).
+Image poster gotten from themoviedb.org

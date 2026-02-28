@@ -10,7 +10,8 @@ User Score: 76
 User Count: 161
 Director: Jonathan Krisel
 Creator: Louis C.K.,Zach Galifianakis,Jonathan Krisel
-image: 
+image: https://image.tmdb.org/t/p/w500/kkbttiaCH1brriYAoBFVvNHHOcn.jpg
 ---
 
 Chip Baskets (Zach Galifianakis) dreams of being a French clown but real life interferes with his plans.
+Image poster gotten from themoviedb.org

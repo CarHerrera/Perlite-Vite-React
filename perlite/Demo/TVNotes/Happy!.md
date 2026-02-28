@@ -10,7 +10,8 @@ User Score: 78
 User Count: 171
 Director: Brian Taylor
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9Il7a5oQSpo12wGCkBwkB5S1H3O.jpg
 ---
 
 Nick Sax (Christopher Meloni) is a former-cop-turned-hit-man who meets an imaginary blue-winged horse named Happy (Patton Osw) after a hit job goes wrong in this series based on the graphic novel of the same name by Grant Morrison and Darick Robertson.
+Image poster gotten from themoviedb.org

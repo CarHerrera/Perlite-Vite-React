@@ -10,7 +10,8 @@ User Score: 82
 User Count: 776
 Director: nan
 Creator: Andrew W. Marlowe
-image: 
+image: https://image.tmdb.org/t/p/w500/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg
 ---
 
 A mystery novelist (Nathan Fillion) seeks inspiration for his next book by shadowing NYPD detective Kate Beckett (Stana Katic).
+Image poster gotten from themoviedb.org

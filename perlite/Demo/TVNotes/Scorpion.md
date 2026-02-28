@@ -10,7 +10,8 @@ User Score: 60
 User Count: 371
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg
 ---
 
 Federal agent Cabe Gallo (Robert Patrick) recruits Walter O’Brien (Elyes Gabel) and his team of geniuses that includes behaviorist Toby Curtis (Eddie Kaye Thomas); mechanical prodigy Happy Quinn (Jadyn Wong); and math prodigy Sylvester Dodd (Ari Stidham).
+Image poster gotten from themoviedb.org

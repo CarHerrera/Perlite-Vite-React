@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Steve Boettcher
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/oeomAGipxVxROy2Cen1nxDHqIbg.jpg
 ---
 
 PBS presents a revealing four-part documentary series that talks to nearly 100 stars from television's formative years.  The special covers sitcoms, late-night, variety, and game shows with interviews with the stars and archival clips revealing never-seen-before images as well as timeless clips.
+Image poster gotten from themoviedb.org

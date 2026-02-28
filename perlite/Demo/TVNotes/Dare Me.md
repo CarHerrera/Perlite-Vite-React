@@ -10,7 +10,8 @@ User Score: 70
 User Count: 15
 Director: Jamie Travis
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/eLmQL6gWgWnhgdv0CxHaVQcnYOX.jpg
 ---
 
 The friendship between Addy Hanlon and Beth Cassidy (Herizen Guardiola and Marlo Kelly) is tested with the arrival of new cheerleading coach Colette French (Willa Fitzgerald) in the drama based on Megan Abbott’s novel of the same name.
+Image poster gotten from themoviedb.org

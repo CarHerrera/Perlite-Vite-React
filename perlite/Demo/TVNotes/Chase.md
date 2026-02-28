@@ -10,7 +10,8 @@ User Score: 66
 User Count: 37
 Director: Dermott Downs
 Creator: Jennifer Johnson
-image: 
+image: https://image.tmdb.org/t/p/w500/lS54o187N6vxONMJtjBRaBTnICL.jpg
 ---
 
 Produced by Warner Bros. Television and Jerry Bruckheimer Television, Chase is based on a real-life high-priority fugitive-apprehension team that tracks down notorious criminals in South Texas.
+Image poster gotten from themoviedb.org

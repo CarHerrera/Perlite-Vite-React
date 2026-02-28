@@ -10,7 +10,8 @@ User Score: 66
 User Count: 59
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/aHXUJU81QEThgz7LMNvT9UnZ2cT.jpg
 ---
 
 Dr. Jason Cole (Steven Pasquale) suffers from Dissociative Identity Disorder and between the hours of 8:25 p.m. and 8:25 a.m. he becomes another man, the devious Ian Price.
+Image poster gotten from themoviedb.org

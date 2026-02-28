@@ -14,3 +14,4 @@ image:
 ---
 
 The comedy series from Abbi Jacobson and Will Graham about the 1940s All-American Girls Professional Baseball League is a reimagining of Penny Marshall's 1992 film of the same name.
+Image poster gotten from themoviedb.org

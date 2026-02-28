@@ -10,7 +10,7 @@ User Score: 78
 User Count: 31
 Director: nan
 Creator: Joe Shuster,Jerry Siegel
-image: 
+image: https://image.tmdb.org/t/p/w500/1LbPs6i1h4BKjVUwK5S9GjPCydi.jpg
 ---
 
 Lois & Clark: The New Adventures of Superman was a phenomenal television success. A much more lavish version of the popular Superman television series which had first aired forty years earlier, Lois & Clark focused more on the Man of Steel's early adult years in Metropolis.
@@ -26,3 +26,4 @@ Lois & Clark: The New Adventures of Superman went where few shows care to go - i
 Lois & Clark ended in 1997 with a cliffhanger, canceled by a network that did its best to bury the successful series in order to bring back The Wonderful World Of Disney.  By the end of the last season, Lois and Clark had come a long way from the prickly, anything for a story, but marshmallow-hearted woman and the naive farm boy from Kansas. The Ice Queen had softened, the farm boy had grown up. Both had fallen in love, married, and were discussing children.
 
 The last episode was unsatisfying due to its lack of a conclusion, but the series is still popular today.  Lois & Clark: The New Adventures of Superman left a lasting mark on the face of a mythos where Clark Kent was real, Superman was the disguise, and Lois Lane was essential to his make-up. It left wonderful recurring villains, such as Tempus, and a timeless love story that makes one believe in true love.
+Image poster gotten from themoviedb.org

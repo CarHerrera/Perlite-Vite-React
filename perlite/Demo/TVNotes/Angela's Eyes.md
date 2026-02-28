@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: Mike Rohl,Chris Grismer,Michael W. Watkins,Rick Rosenthal
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/o5jgPizvKMRYKUB2oOGE0Hglows.jpg
 ---
 
 Angela's Eyes is about a young FBI agent who is blessed with the ability to almost instantly detect whether or not someone is telling the truth. Angela was spurred to perfect this talent by her parents' painful lies. When she was 14 years old, she discovered that her parents were actually spies, who are now serving long prison sentences for the crime of treason. Can Angela redeem her family, help her troubled younger brother, and keep her own life and career in order?  We'll never know - the series was cancelled after one season.
+Image poster gotten from themoviedb.org

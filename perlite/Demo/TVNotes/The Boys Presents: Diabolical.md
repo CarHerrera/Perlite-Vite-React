@@ -10,7 +10,8 @@ User Score: 56
 User Count: 45
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg
 ---
 
 The animated anthology spinoff of The Boys features short (less than 15 minutes) stories written by Awkwafina, Garth Ennis, Ilana Glazer, Evan Goldberg, Seth Rogen, Justin Roiland, Andy Samberg, and Aisha Tyler. 
+Image poster gotten from themoviedb.org

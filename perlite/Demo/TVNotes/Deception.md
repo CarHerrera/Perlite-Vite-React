@@ -10,7 +10,8 @@ User Score: 55
 User Count: 30
 Director: Jonas Pate
 Creator: Liz Heldens
-image: 
+image: https://image.tmdb.org/t/p/w500/fRQ3JV67ADyTrRNyXqefqJkJsD4.jpg
 ---
 
 The death of Bowers pharmaceutical empire heiress Vivian Lawson brings her childhood best friend, Detective Joanna Locasto (Meagan Good) undercover to discover who killed her.
+Image poster gotten from themoviedb.org

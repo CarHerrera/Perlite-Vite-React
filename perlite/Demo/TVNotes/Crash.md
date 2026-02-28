@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/8DhxZi3N0Apuea8K8gJgeGHsgtq.jpg
 ---
 
 Crash is a small screen version of the Paul Haggis helmed feature about race relations in LA. It is developed by Lionsgate for Starz, created by Glen Mazzara, and executive produced by Mazzara, Paul Haggis, Robert Moresco and Bob Yari.
+Image poster gotten from themoviedb.org

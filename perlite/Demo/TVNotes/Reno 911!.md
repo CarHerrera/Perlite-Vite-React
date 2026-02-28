@@ -10,7 +10,7 @@ User Score: 85
 User Count: 23
 Director: Michael Patrick Jann
 Creator: Thomas Lennon,Kerri Kenney,Robert Ben Garant
-image: 
+image: https://image.tmdb.org/t/p/w500/phkCW1Hdoijl5i15H7KnnnBhaNL.jpg
 ---
 
 From the folks that brought you "The State" and "Viva Variety!" are back for some law-enforcement mayhem. Meet the men and women of the Washoe County Sheriff's Department, led by Lt. Jim Dangle (Tom Lennon) -- a straight-and-narrow cop who might not be all that "straight" after all. Deputies include a former topless showgirl and a 5-foot-4 veritable crime-fightin' machine. On tonight's premiere episode, Lt. Dangle declares Reno a zero-tolerance town. Unfortunately, the entire population has heard the news and is obeying every rule.
@@ -25,3 +25,4 @@ Reno Trivia
 •According to an interview with 'Thomas Lennon' , the main cast member who ruins the most takes by laughing out loud is Carlos Alazraqui.
 •This show uses improvisation, as 99% of the lines are unscripted.
 •Filming Locations: Carson, California, USA & Reno, Nevada, USA.
+Image poster gotten from themoviedb.org

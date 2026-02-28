@@ -10,7 +10,8 @@ User Score: 63
 User Count: 19
 Director: nan
 Creator: Maggie Friedman
-image: 
+image: https://image.tmdb.org/t/p/w500/2AavbPEEXzyy7Smyusozyz48T1n.jpg
 ---
 
 The 30-year long friendship between Tully (Katherine Heigl) and Kate (Sarah Chalke) is tested in this series based on the novel of the same name by Kristin Hannah.
+Image poster gotten from themoviedb.org

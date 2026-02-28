@@ -10,7 +10,7 @@ User Score: 68
 User Count: 124
 Director: David Solomon,Joss Whedon
 Creator: Joss Whedon
-image: 
+image: https://image.tmdb.org/t/p/w500/oq5WPzUn7R0YcIk7QGwpXqvgSWO.jpg
 ---
 
 They can be anyone you want.
@@ -20,3 +20,4 @@ The Dollhouse is a very secret, and very illegal, place where wishes come true. 
 But something is wrong with the Active called "Echo". No longer just a blank slate waiting for her next assignment, Echo is remembering flashes of the lives that she has lived and the games she has played, and she is starting to wonder just who she really is...
 
 Dollhouse is a production of 20th Century Fox Television, Joss Whedon's "Mutant Enemy", and Eliza Dushku's "Boston Diva Productions".
+Image poster gotten from themoviedb.org

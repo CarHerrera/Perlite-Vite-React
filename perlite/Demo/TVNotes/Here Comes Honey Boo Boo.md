@@ -10,7 +10,8 @@ User Score: 29
 User Count: 109
 Director: B.J. Golnick,Mark LaFleur
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/AlHfkluI6VIr8fBTecXoOrQssZ4.jpg
 ---
 
 The spinoff of Toddlers & Tiaras focuses on 6-year-old beauty queen Alana Thompson and her family.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 71
 User Count: 15
 Director: Salim Akil
 Creator: Mara Brock Akil
-image: 
+image: https://image.tmdb.org/t/p/w500/j4lx9nB4C1H9axyuZYn8GX2DYak.jpg
 ---
 
 TV anchor Mary Jane (Gabrielle Union) balances work, finding love, and supporting her sick mother (Margaret Avery), her father (Richard Roundtree), two brothers, and a niece.
+Image poster gotten from themoviedb.org

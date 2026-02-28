@@ -14,3 +14,4 @@ image:
 ---
 
 The life of raising a son as a single mother is the focus of this reality show with Bristol Palin, the daughter of former Republican vice presidential candidate Sarah Palin.
+Image poster gotten from themoviedb.org

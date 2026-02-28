@@ -10,7 +10,8 @@ User Score: 65
 User Count: 26
 Director: Gail Mancuso,Beth McCarthy-Miller,Rob Schiller
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/8yWRqp2bq1CqE5vLQAFAAWTjDGB.jpg
 ---
 
 Four single friends living in New York City are looking for love. 
+Image poster gotten from themoviedb.org

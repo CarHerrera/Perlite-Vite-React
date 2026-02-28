@@ -10,7 +10,8 @@ User Score: 68
 User Count: 126
 Director: nan
 Creator: Benjamin Cavell
-image: 
+image: https://image.tmdb.org/t/p/w500/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg
 ---
 
 Jason Hayes (David Boreanaz) leads a team of Navy SEALs (Max Thieriot, Neil Brown Jr., A.J. Buckley, and Toni Trucks) as they deal with dangerous missions in this military drama written by Ben Cavell.
+Image poster gotten from themoviedb.org

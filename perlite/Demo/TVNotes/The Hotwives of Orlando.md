@@ -10,7 +10,8 @@ User Score: 45
 User Count: 6
 Director: Alex Fernie
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/nJCtT1aWvjNEVKqrqpPaTxnOpPq.jpg
 ---
 
 The parody series based on Bravo's "Real Housewives" franchise follows the lives of trophy wife Tawny (Casey Wilson), Crystal (Angela Kinsey), her sister Amanda (Kristen Schaal), British housewife Veronica Von Vandervon (Andrea Savage), Phe Phe (Tymberlee Hill), and Shauna (Danielle Schneider).
+Image poster gotten from themoviedb.org

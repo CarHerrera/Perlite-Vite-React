@@ -10,7 +10,8 @@ User Score: 59
 User Count: 16
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/zGRSem8r4GsUsva0RWTFiRB3fmO.jpg
 ---
 
 Editorial assistant Nella (Sinclair Daniel) is excited to not be the only Black woman at her company with the hiring of Hazel (Ashleigh Murray), but soon after begins experiencing strange happenings in this thriller based on Zakiya Dalila Harris' novel.
+Image poster gotten from themoviedb.org

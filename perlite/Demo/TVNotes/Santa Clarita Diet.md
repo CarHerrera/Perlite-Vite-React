@@ -10,7 +10,8 @@ User Score: 76
 User Count: 329
 Director: nan
 Creator: Victor Fresco
-image: 
+image: https://image.tmdb.org/t/p/w500/5rBjNm2sRubaXKBnU904NInFi7P.jpg
 ---
 
 The comedy series from Victor Fresco features Joel (Timothy Olyphant) and Sheila (Drew Barrymore), unhappy married realtors in the L.A. suburb of Santa Clarita, until Sheila makes a major change that alters their lives.
+Image poster gotten from themoviedb.org

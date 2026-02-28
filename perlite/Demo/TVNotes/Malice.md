@@ -10,7 +10,8 @@ User Score: 37
 User Count: 11
 Director: Mike Barker,Leonora Lonsdale
 Creator: James Wood
-image: 
+image: https://image.tmdb.org/t/p/w500/fKhHzRk1VIJY1nz1cRhAfAaYfnA.jpg
 ---
 
 Adam (Jack Whitehall) worms his way into the family of Jamie (David Duchovny) and Nat Turner (Carice Van Houten) so he can destroy them in the psychological thriller series from James Wood.
+Image poster gotten from themoviedb.org

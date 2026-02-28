@@ -10,7 +10,8 @@ User Score: 64
 User Count: 9
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/aJKpiQYPiCfmsiwVKAMBcF65puR.jpg
 ---
 
 The four-part Apple documentary series from Rick Famuyiwa looks at Earvin "Magic" Johnson's career from his days playing high school basketball to his current business ventures.
+Image poster gotten from themoviedb.org

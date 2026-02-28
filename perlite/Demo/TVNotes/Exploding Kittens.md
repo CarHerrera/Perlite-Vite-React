@@ -10,7 +10,8 @@ User Score: 71
 User Count: 33
 Director: Joel Moser,Eddie Rosas
 Creator: Matthew Inman,Shane Kosakowski,Elan Lee
-image: 
+image: https://image.tmdb.org/t/p/w500/4WctqRtusYpTLHNkuVjQe4R51DZ.jpg
 ---
 
 God (voiced by Tom Ellis) is sent to Earth as a cat where he meets Satan's offspring (voiced by Sasheer Zamata) who is also in cat form in the adult animated comedy series inspired by the card game of the same name.
+Image poster gotten from themoviedb.org

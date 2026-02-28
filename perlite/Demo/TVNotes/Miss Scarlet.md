@@ -10,9 +10,10 @@ User Score: 68
 User Count: 13
 Director: Ivan Zivkovic,Steve Hughes
 Creator: Rachael New
-image: 
+image: https://image.tmdb.org/t/p/w500/9pbxTckwvaTXMABenkcmO1VhQi8.jpg
 ---
 
 After the death of her private detective father, Eliza Scarlet (Kate Phillips) is helped by Detective Inspector William "The Duke" Wellington (Stuart Martin) as she takes over her father's detective agency in the drama series set in Victorian London.
 
 [Premiered originally in the UK on Alibi on 31 Mar 2020 under the name Miss Scarlet and The Duke and as a part of PBS' Masterpiece under the name Miss Scarlet & The Duke in Jan 2021. Name was shortened to Miss Scarlet beginning with the fifth season]
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 80
 User Count: 38
 Director: nan
 Creator: David E. Kelley
-image: 
+image: https://image.tmdb.org/t/p/w500/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg
 ---
 
 FOX's hit dramatic and humorous show tells the story of the trials and tribulations of a 28-year-old lawyer by the name of Ally McBeal (Calista Flockhart), who is just fresh out of Harvard Law School. Ally was harassed at the firm where she was originally working, and when she told the firm's partners, she ended up losing her job. However, she then runs into an old friend and he offers her a new job at his brand new firm where she meets tons of new people and her old boyfriend, Billy with who she'll lead her new life full of cases and Ally's fantasies.Once the darling of the network, rumors of anorexia plagued star Calista Flockhart. The second and third seasons, therefore, introduced more and more eccentric characters who were given essentially "nothing" to do, and original seriesa regulars Gil Bellows and Courtney Thorne-Smith both left to pursue other projects.Ally McBeal was revitalized in its fourth season with the addition of Robert Downey Jr. as the lead character's love interest, Larry Paul. However, Downey's personal problems and numerous arrests, eventually wore out Kelley's patience and he was dropped. Lisa Nicole Carson, who played Ally's roommate, also left at the end of the fourth season following a brief stint in an institution and admitted problems with substance abuse.Without Downey, the fifth season had floundered more than ever; bringing in Jon Bon Jovi as a love interest, and giving Ally a daughter played by Hayden Panettiere) hadn't helped. Lucy Liu's character was dropped to a recurring role, while James LeGros left. James Marsden and Julianne Nicholson were added to the cast, only to be dropped a few weeks later. David E. Kelley decided then to cancel the show instead of having FOX executives do it for him.Awards/Nominations:EMMY AWARDS:> 1998 - Nominated - Outstanding Writing for a Comedy Series [David E. Kelley; for episode "Theme Of Life"]
@@ -59,3 +59,4 @@ FOX's hit dramatic and humorous show tells the story of the trials and tribulati
 > 2002 - Nominated - Best Performance by an Actress in a Television Series - Musical or Comedy [Calista Flockhart]
 > 2002 - Nominated - Best Television Series - Musical or ComedyTheme Song: "Searching My Soul" by Vonda ShepardFOX Broadcast History
 September 1997 -  May 2002 -- Mondays 9:00 PM
+Image poster gotten from themoviedb.org

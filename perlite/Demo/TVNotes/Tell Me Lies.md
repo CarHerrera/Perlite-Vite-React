@@ -10,7 +10,8 @@ User Score: 55
 User Count: 19
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hhWpEUZINrago2YgKDyv5Hb8yrU.jpg
 ---
 
 The eight-year relationship between Lucy Albright (Grace Van Patten) and Stephen DeMarco (Stephen DeMarco) becomes more toxic over the years in this adaptation of Carola Lovering's novel of the same name.
+Image poster gotten from themoviedb.org

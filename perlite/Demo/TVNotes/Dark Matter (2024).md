@@ -14,3 +14,4 @@ image:
 ---
 
 Physicist professor Jason Dessen (Joel Edgerton) is kidnapped and wakes up in an alternate version of his life in the sci-fi series based on Blake Crouch's novel of the same name. 
+Image poster gotten from themoviedb.org

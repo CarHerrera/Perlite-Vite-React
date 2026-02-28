@@ -10,7 +10,8 @@ User Score: 83
 User Count: 226
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/73JsZG2jXe5yYZ5k49HP8oPh7rq.jpg
 ---
 
 The adaptation of Elena Ferrante's novels tells the story about childhood friends Elena (Elisa Del Genio) and Lila (Ludovica Nasti) in 1950s Naples.
+Image poster gotten from themoviedb.org

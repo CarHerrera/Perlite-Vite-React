@@ -10,7 +10,8 @@ User Score: 55
 User Count: 47
 Director: nan
 Creator: Tina Fey,Lang Fisher,Tracey Wigfield
-image: 
+image: https://image.tmdb.org/t/p/w500/w09XeYl096pwES8riRMZwEA9rnh.jpg
 ---
 
 During four vacations over the course of a year, old and new issues surface among friends Kate (Tina Fey) and Jack (Will Forte), Nick (Steve Carell) and Anne (Kerri Kenney-Silver), and Danny (Colman Domingo) and Claude (Marco Calvani), when one couple reveals they are getting a divorce in the comedy series based on the 1981 film of the same name.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 The latest adaptation of Louisa May Alcott classic coming of age novel about the March sisters: Meg (Willa Fitzgerald), Jo (Maya Hawke), Beth (Annes Elwy), Amy (Kathryn Newton), as they learn about family, love and loss with the help of their mother Marmee (Emily Watson).
+Image poster gotten from themoviedb.org

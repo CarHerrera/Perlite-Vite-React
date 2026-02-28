@@ -10,7 +10,8 @@ User Score: 41
 User Count: 16
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/lTnVIuHiXPnFALOSBQWUOkSR8Ya.jpg
 ---
 
 Language professor Helen Tasker (Ginger Gonzaga) discovers her husband, Harry (Steve Howey), is a spy for U.S. intelligence agency Omega Sector in this series adaptation of James Cameron's 1994 film of the same name.
+Image poster gotten from themoviedb.org

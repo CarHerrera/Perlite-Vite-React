@@ -10,7 +10,8 @@ User Score: 90
 User Count: 507
 Director: Laura Ricciardi,Moira Demos
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/sy2nV3rCcJQaRK5M0NWvvTU7CBx.jpg
 ---
 
 Moira Demos and Laura Ricciardi's 10-part documentary focuses on the case of Steven Avery, a man convicted of sexual assault, before being exonerated by DNA evidence 18 years later. A few years later, he is convicted in the disappearance and murder of another woman.
+Image poster gotten from themoviedb.org

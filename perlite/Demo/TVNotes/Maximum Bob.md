@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Marc Buckland,John David Coles,Barry Sonnenfeld,Elodie Keene
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/uNWdW6cHG0CmtumxHKbeID1eesW.jpg
 ---
 
 Maximum Bob is based on Elmore Leonard's novel of the same name. The main character is Judge Bob Gibbs, the eccentric judge of Deepwater, Florida.  The television program aired for seven weeks in NYPD Blue's time slot. After its run ended and ABC declined to renew the program, producers shopped it to other networks to no avail.  Maximum Bob actors Liz Vassey and Kiersten Warren made guest appearances on Fantasy Island, produced by the same people responsible for Bob in Fall 1998.
+Image poster gotten from themoviedb.org

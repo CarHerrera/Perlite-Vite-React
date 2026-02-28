@@ -10,7 +10,8 @@ User Score: 71
 User Count: 69
 Director: Jon Amiel,Michael Trim
 Creator: Peter Mattei
-image: 
+image: https://image.tmdb.org/t/p/w500/vPKJwmLmcTLwvJhpeKUhWIHlDp3.jpg
 ---
 
 The Farrell Clan of Shay Mountain that includes Big Foster (David Morse), his son Lil Foster (Ryan Hurst) face a power struggle with Lady Ray (Phyllis Somerville) and a coal company who wants to mine the mountain.
+Image poster gotten from themoviedb.org

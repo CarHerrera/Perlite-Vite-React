@@ -10,7 +10,8 @@ User Score: 72
 User Count: 5
 Director: Martin Scorsese
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tA16kVP6zyiPeUK0ZmkPieujVqI.jpg
 ---
 
 Martin Scorsese documentary focuses on the life of George Harrison, including growing up in Liverpool, The Beatles, and his life after the band with interviews and some never-before-seen footage.
+Image poster gotten from themoviedb.org

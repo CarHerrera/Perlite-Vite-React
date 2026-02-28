@@ -10,7 +10,8 @@ User Score: 66
 User Count: 77
 Director: Jesse Bochco,Allison Anders
 Creator: Steven Bochco,Eric Lodal
-image: 
+image: https://image.tmdb.org/t/p/w500/o3QTeP5jwPJDHLhNqf0pHNDc6qV.jpg
 ---
 
 Steven Bochco's latest police drama is set in San Francisco where the series follows the investigation of two case by homicide detectives Terry English (Taye Diggs) and Hildy Mulligan (Kathleen Robertson).
+Image poster gotten from themoviedb.org

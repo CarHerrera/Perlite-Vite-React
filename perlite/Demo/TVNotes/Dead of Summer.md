@@ -10,7 +10,8 @@ User Score: 65
 User Count: 49
 Director: Mick Garris,Mairzee Almas
 Creator: Ian Goldberg,Adam Horowitz,Edward Kitsis
-image: 
+image: https://image.tmdb.org/t/p/w500/aYnBbx6VA9soKqFZcj0iEwGM47B.jpg
 ---
 
 The drama series from Adam Horowitz, Edward Kitsis, and Ian Goldberg is set in the 1980s at Camp Stillwater, a midwestern summer camp where danger also looms.
+Image poster gotten from themoviedb.org

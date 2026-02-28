@@ -10,7 +10,8 @@ User Score: 59
 User Count: 24
 Director: Yoriaki Mochizuki
 Creator: Chuck Dixon
-image: 
+image: https://image.tmdb.org/t/p/w500/egO6MZeQ3CKb8UMVZPYR7fENA6w.jpg
 ---
 
 The Harley Quinn animated spinoff series centers on Kite Man (voiced by Matt Oberg) who runs a bar named Noonan's with Golden Glider (voiced by Stephanie Hsu).
+Image poster gotten from themoviedb.org

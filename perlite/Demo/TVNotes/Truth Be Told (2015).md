@@ -14,3 +14,4 @@ image:
 ---
 
 Best friends and neighbors Mitch (Mark-Paul Gosselaar) and Russell (Tone Bell) talk about race, sex and life in the DJ Nash comedy originally titled People Are Talking.
+Image poster gotten from themoviedb.org

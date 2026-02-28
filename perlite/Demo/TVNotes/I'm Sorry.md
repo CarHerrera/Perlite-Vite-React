@@ -10,7 +10,8 @@ User Score: 78
 User Count: 24
 Director: nan
 Creator: Andrea Savage
-image: 
+image: https://image.tmdb.org/t/p/w500/cHxvMuaDk5rbswQlt2BaKVzvsxf.jpg
 ---
 
 The comedy series featuring and created by Andrea Savage was based loosely on her life as a comedy writer, mother and wife.
+Image poster gotten from themoviedb.org

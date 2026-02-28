@@ -10,7 +10,8 @@ User Score: 28
 User Count: 25
 Director: Rob Greenberg,Eric Appel
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/iTrqSE0TqsfbnqRX0W9Jb9W9BHp.jpg
 ---
 
 Carter (Chris Smith) moves into a short-term rental complex where he meets and befriends three divorced men (Kal Penn, Jerry O'Connell, and Tony Shalhoub).
+Image poster gotten from themoviedb.org

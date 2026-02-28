@@ -10,9 +10,10 @@ User Score: 0
 User Count: 0
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rplDRlFtRZfhUq5o1xb8tFF1UME.jpg
 ---
 
 This reality series brings ten city girls together to compete for the love of one hunky American farm boy.
 
 Farmer Wants a Wife is produced by FremantleMedia North America in association with Super Delicious Productions. Eight episodes were ordered for the first season by The CW Television Network.
+Image poster gotten from themoviedb.org

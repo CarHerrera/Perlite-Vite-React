@@ -10,7 +10,8 @@ User Score: 61
 User Count: 40
 Director: Steven Soderbergh
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/kTmUn0TS1TW1hFB7IGwZDpwFWaS.jpg
 ---
 
 Premiering on the Mosaic app as a branching narrative drama, the more linear six-part miniseries from Steven Soderbergh and Ed Solomon centers on the disappearance of children's book author/illustrator Olivia Lake (Sharon Stone) and the two men she knew: Joel (Garrett Hedlund), and Eric (Frederick Weller).
+Image poster gotten from themoviedb.org

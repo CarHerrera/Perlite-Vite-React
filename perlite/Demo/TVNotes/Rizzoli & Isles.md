@@ -10,7 +10,8 @@ User Score: 79
 User Count: 152
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/kuCNyr4XVQ4MZWiNjVS6DypE988.jpg
 ---
 
 Angie Harmon is poised to star in this crime drama on TNT that is based on the mystery novels by Tess Gerritsen. 
+Image poster gotten from themoviedb.org

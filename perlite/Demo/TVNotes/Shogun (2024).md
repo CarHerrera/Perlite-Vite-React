@@ -14,3 +14,4 @@ image:
 ---
 
 In feudal Japan, Lord Yoshii Toranaga (Hiroyuki Sanada), British captain John Blackthorne (Cosmo Jarvis) and translator Toda Mariko (Anna Sawai) are brought together as a civil war looms in this limited series adaptation from Rachel Kondo and Justin Marks of James Clavell's novel of the same name (that was also made into a 1980 miniseries).
+Image poster gotten from themoviedb.org

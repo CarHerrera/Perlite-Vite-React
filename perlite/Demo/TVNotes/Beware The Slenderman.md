@@ -14,3 +14,4 @@ image:
 ---
 
 Irene Taylor Brodsky's documentary examines the case of two 12-year-old girls who stabbed a friend 19 times in the woods because of an internet urban myth called the "slenderman."
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 92
 User Count: 15
 Director: nan
 Creator: Drew Carey,Bruce Helford
-image: 
+image: https://image.tmdb.org/t/p/w500/cWboJ8Cfi5NgHoENAB0gYtgZHkR.jpg
 ---
 
 This long-running sitcom stars comedian Drew Carey as a sort of blue-collar everyman. The show chronicles Drew's working life, the ups and downs of his romances and his strong relationship with his long-time friends Lewis, Oswald and Kate.
@@ -40,3 +40,4 @@ August 2003 - September 2003: Wednesday 9:30
 June 2004 - September 2004: Wednesday 9:00/9:30
 
 (Simulcast in HDTV on ABC beginning with the 2001-2002 season)
+Image poster gotten from themoviedb.org

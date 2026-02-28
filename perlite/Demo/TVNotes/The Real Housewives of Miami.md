@@ -10,7 +10,8 @@ User Score: 27
 User Count: 16
 Director: nan
 Creator: Scott Dunlop
-image: 
+image: https://image.tmdb.org/t/p/w500/mlhCJsrZ2QsZmMuvI66RUhPAy3h.jpg
 ---
 
 Follow the lives of the elite women living in Miami, Florida. 
+Image poster gotten from themoviedb.org

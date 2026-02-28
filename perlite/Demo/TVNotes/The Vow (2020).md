@@ -14,3 +14,4 @@ image:
 ---
 
 The documentary series directed by Jehane Noujaim and Karim Amer looks into the NXIVM self-help program where Smallville actress Allison Mack recruited women to eventually join a secret society that allegedly included sexual slavery to co-founder Keith Raniere.
+Image poster gotten from themoviedb.org

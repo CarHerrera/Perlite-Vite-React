@@ -10,7 +10,7 @@ User Score: 0
 User Count: 2
 Director: Ellen S. Pressman
 Creator: Laurie McCarthy,Gwendolyn M. Parker
-image: 
+image: https://image.tmdb.org/t/p/w500/9DGRb9NAu9Awy5MA2mxGTxbaupr.jpg
 ---
 
 Money changes everything.
@@ -24,3 +24,4 @@ Sean Mathers (D.J. Cotrona, Skin) is an ex-con with dark secrets that are in dan
 Rounding out the cast are Malinda Willliams (Soul Food) as Kimberly George, a 22-year-old single mother hoping to start a new life far away from the trailer park, and Jaclyn DeSantis (Luis, Road Trip) as Maggie Hernandez, a nurse who can't wait to spend her share of the fortune.
 
 Windfall is created by executive producer Laurie McCarthy (Felicity) and co-executive producer Gwendolyn Parker (Without a Trace, The Handler).
+Image poster gotten from themoviedb.org

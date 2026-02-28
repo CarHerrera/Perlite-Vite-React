@@ -10,7 +10,8 @@ User Score: 0
 User Count: 4
 Director: Leonard R. Garner Jr.,Ted Wass,Asaad Kelada
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/snMXZecIkZZounjzwVIaX85fJj9.jpg
 ---
 
 Ruby tracks down her father David Cassidy, of The Rockits fame, and moves in with his brother Patrick. After joining the family, Ruby learns to deal with her cousins Jordan and Ben.
+Image poster gotten from themoviedb.org

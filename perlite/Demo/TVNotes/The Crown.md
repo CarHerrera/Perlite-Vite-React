@@ -10,7 +10,8 @@ User Score: 83
 User Count: 904
 Director: nan
 Creator: Peter Morgan
-image: 
+image: https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg
 ---
 
 The rise of Queen Elizabeth II (Claire Foy) is chronicled from her wedding in 1947 to present day in the series planned to air over six seasons.
+Image poster gotten from themoviedb.org

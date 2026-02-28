@@ -10,7 +10,7 @@ User Score: 88
 User Count: 4
 Director: Jamie Babbit,Michael M. Robin,Elodie Keene,Lev L. Spiro,Craig Zisk
 Creator: Gina Matthews,Ryan Murphy
-image: 
+image: https://image.tmdb.org/t/p/w500/eROSmxuiMQVIwcIqGBZHd84OPa2.jpg
 ---
 
 Who’s hot? Who’s not? The popular ones, the unpopular ones, the jocks, the geeks. Kennedy High is the set for a big war: the popular against the unpopular. This is the concept behind the 99-01 teen television series Popular.
@@ -35,3 +35,4 @@ Awards and Nominations:
 2000 - Casting Society of America - Nominated Best Casting for TV, Comedy Pilot
 2001 - GLAAD Media Award - Nominated Outstanding TV Comedy Series
 2001 - Genesis Awards - Won! Comedy Series (For episode "Joe Loves Mary Cherry").
+Image poster gotten from themoviedb.org

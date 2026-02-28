@@ -14,3 +14,4 @@ image:
 ---
 
 The Lifetime TV movie was based on John Carter Cash's book about his mother's rise to fame.
+Image poster gotten from themoviedb.org

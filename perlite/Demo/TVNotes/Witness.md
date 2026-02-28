@@ -10,7 +10,8 @@ User Score: 73
 User Count: 4
 Director: David Frankham,Abdallah Omeish
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/4zfawnliLoRRlDEbWs0JIIcC0If.jpg
 ---
 
 The HBO docuseries profiles three photojournalists as they work in Juarez, Mexico; South Sudan; Libya; and Rio de Janeiro.
+Image poster gotten from themoviedb.org

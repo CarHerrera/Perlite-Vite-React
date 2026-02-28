@@ -10,7 +10,8 @@ User Score: 72
 User Count: 2540
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg
 ---
 
 Eric Kripke and Evan Goldberg's superhero series, based on the comic book of the same name by Garth Ennis and Darick Robertson focuses on a group of vigilantes that include Billy Butcher (Karl Urban), Hughie (Jack Quaid), Mother’s Milk (Laz Alonso), Female (Karen Fukuhara), and Frenchie (Tomer Capon).
+Image poster gotten from themoviedb.org

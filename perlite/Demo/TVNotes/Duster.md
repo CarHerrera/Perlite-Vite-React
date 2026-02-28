@@ -10,7 +10,8 @@ User Score: 58
 User Count: 37
 Director: Darren Grant,Steph Green
 Creator: J.J. Abrams,LaToya Morgan
-image: 
+image: https://image.tmdb.org/t/p/w500/wYBsKEFU0qHdhSI9QtQjL8HELMn.jpg
 ---
 
 In 1972, Nina (Rachel Hilson), FBI's first Black female agent, persuades a getaway driver (Josh Holloway) for a crime syndicate to help her take them down in the drama series co-created by JJ Abrams and LaToya Morgan.
+Image poster gotten from themoviedb.org

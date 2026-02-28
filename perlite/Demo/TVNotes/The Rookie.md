@@ -10,7 +10,8 @@ User Score: 72
 User Count: 222
 Director: nan
 Creator: Alexi Hawley
-image: 
+image: https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg
 ---
 
 40-year-old John Nolan (Nathan Fillion) decides to move from his hometown to Los Angeles to pursue his dream to join the LAPD in this crime drama from Alexi Hawley.
+Image poster gotten from themoviedb.org

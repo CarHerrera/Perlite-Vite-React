@@ -10,7 +10,8 @@ User Score: 68
 User Count: 17
 Director: Martin Scorsese
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qFGa1ranQSLPTrhwXi7tslOIb8D.jpg
 ---
 
 Directed by Martin Scorsese, writer Fran Lebowitz talks about a variety of topics about New York City, including the arts, its subways, Times Square, and tourists.
+Image poster gotten from themoviedb.org

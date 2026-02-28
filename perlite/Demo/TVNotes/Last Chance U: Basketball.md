@@ -10,7 +10,8 @@ User Score: 68
 User Count: 23
 Director: Adam Leibowitz,Daniel George McDonald
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/s31DU5sL0NFkRUAiXyQl18Icptr.jpg
 ---
 
 The documentary series expands to junior college basketball with the 2019-2020 season of the East Los Angeles College Huskies.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 77
 User Count: 153
 Director: nan
 Creator: Sterlin Harjo,Taika Waititi
-image: 
+image: https://image.tmdb.org/t/p/w500/t6hqwD5oQRGgNrZKN71BQYxteC1.jpg
 ---
 
 The comedy series from Sterlin Harjo and Taika Waititi follows four Indigenous teenagers in rural Oklahoma as they find ways (including stealing) to save money to move to California.
+Image poster gotten from themoviedb.org

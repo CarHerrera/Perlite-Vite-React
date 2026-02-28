@@ -14,3 +14,4 @@ image:
 ---
 
 Based on the comic book series "Hellblazer," demon hunter John Constantine (Matt Ryan) is drawn back to the battle against evil.
+Image poster gotten from themoviedb.org

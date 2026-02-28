@@ -10,7 +10,8 @@ User Score: 65
 User Count: 8
 Director: Gregg Vanzo,Peter Avanzino
 Creator: Tim McLoughlan,Brendan Reed
-image: 
+image: https://image.tmdb.org/t/p/w500/e3zbnHYd5xE9zOUFrpRgAnhwodL.jpg
 ---
 
 Developed for American television by Mitchell Hurwitz (Arrested Development), Sit Down, Shut Up is based on the Australian show of the same name. Featuring animated characters against non-animated backgrounds, the show focuses on the lives and quirks of nine staffers of small town Knob Haven High School in Florida.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 68
 User Count: 17
 Director: Nick Willing
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/iNfcvFaCjVZkPWBcpH4faYMdEhM.jpg
 ---
 
 The two-part miniseries explores the lives of Peter Pan and Captain Hook before Wendy and her brothers met Peter Pan in the J.M. Barrie stories.
+Image poster gotten from themoviedb.org

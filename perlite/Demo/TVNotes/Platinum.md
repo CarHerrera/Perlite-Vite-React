@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Kevin Bray,Gloria Muzio,Clement Virgo,John Ridley,Marcus Raboy,Jim Morrison IV
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/1CDz2ChES0PLzJetHBGeiCkkpnj.jpg
 ---
 
 Coming soon.
+Image poster gotten from themoviedb.org

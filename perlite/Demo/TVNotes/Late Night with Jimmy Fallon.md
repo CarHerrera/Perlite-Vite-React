@@ -10,7 +10,8 @@ User Score: 66
 User Count: 52
 Director: Dave Diomedi,Dan Opsal
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/l8WzbOr7vg3WDlB3hoy32wZDxwj.jpg
 ---
 
 Saturday Night Live veteran Jimmy Fallon takes the Late Night reins from Conan O'Brien when O'Brien succeeds Jay Leno as new host of The Tonight Show in 2009.
+Image poster gotten from themoviedb.org

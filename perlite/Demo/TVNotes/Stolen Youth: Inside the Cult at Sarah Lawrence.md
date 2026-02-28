@@ -10,7 +10,8 @@ User Score: 68
 User Count: 4
 Director: Zach Heinzerling
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/r00i76ZaQ0NtwK2mkpVLkT6skkg.jpg
 ---
 
 The three-part documentary series directed by Zach Heinzerling features personal footage and interviews with the Sarah Lawrence College students who became victims of Larry Ray's cult that spanned over a decade before he was arrested.
+Image poster gotten from themoviedb.org

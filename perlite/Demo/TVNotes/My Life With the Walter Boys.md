@@ -10,7 +10,8 @@ User Score: 63
 User Count: 23
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jg3YdxDNlxay0NWTxgAPif647Hj.jpg
 ---
 
 The adaptation of Ali Novak's coming-of-age novel of the same name follows recently orphaned 15-year-old Jackie Howard (Nikki Rodriguez) as she moves from New York to Colorado to live with the Walters, who have ten sons.
+Image poster gotten from themoviedb.org

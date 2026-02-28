@@ -10,7 +10,8 @@ User Score: 53
 User Count: 31
 Director: nan
 Creator: Christopher Moynihan,Marlon Wayans
-image: 
+image: https://image.tmdb.org/t/p/w500/7jCZupMTSyS3SohvE14T3xVT36n.jpg
 ---
 
 The comedy series loosely based on the life of Marlon Wayans. 
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 69
 User Count: 531
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg
 ---
 
 Steven Grant (Oscar Isaac) is hearing voices and having vivid dreams that he soon discovers is related to sharing a body with a mercenary named Marc Spector in this series created by Jeremy Slater and based on the Marvel character.
+Image poster gotten from themoviedb.org

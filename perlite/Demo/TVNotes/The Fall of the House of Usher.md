@@ -10,7 +10,8 @@ User Score: 64
 User Count: 228
 Director: Michael Fimognari,Mike Flanagan
 Creator: Mike Flanagan
-image: 
+image: https://image.tmdb.org/t/p/w500/2rl04pRCaGfz91lwfWdDQmOiGJp.jpg
 ---
 
 CEO Roderick Usher (Bruce Greenwood) must face his past when his children begin to die mysterious and violent ways in Mike Flanagan's adaptation of Edgar Allan Poe's short story of the same name.
+Image poster gotten from themoviedb.org

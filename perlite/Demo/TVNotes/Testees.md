@@ -10,7 +10,8 @@ User Score: 83
 User Count: 6
 Director: Samir Rehem,Ian MacDonald,Ben Weinstein
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/aEOqH2zBM4gmXiOgag2gvyS07Cs.jpg
 ---
 
 Testees is a comedy about two friends in their early thirties who act as medical guinea pigs.
+Image poster gotten from themoviedb.org

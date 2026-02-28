@@ -10,7 +10,8 @@ User Score: 52
 User Count: 21
 Director: Alex Gabassi
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/bYfF6mK8DQIhi96kzOC9ULdDjTp.jpg
 ---
 
 Set in 1933, an older Hercule Poirot (John Malkovich) receives letters threatening murder but the new Inspector (Rupert Grint) dismisses the  Belgian detective's help in this three-part BBC adaptation of Agatha Christie's novel.
+Image poster gotten from themoviedb.org

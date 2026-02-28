@@ -10,7 +10,8 @@ User Score: 72
 User Count: 971
 Director: nan
 Creator: Ian Brennan,Brad Falchuk,Ryan Murphy
-image: 
+image: https://image.tmdb.org/t/p/w500/62T2vsZYTje3KhdCsiLR1K1RFJW.jpg
 ---
 
 Glee is a Golden Globe-winning Fox musical comedy created by Ryan Murphy (Nip/Tuck) that depicts Will Schuester's (Matthew Morrison) efforts to save McKinley High's Glee Club from cheerleading coach Sue Sylvester (Jane Lynch). Glee's musical numbers, underdog characters, and rousing soundtracks have all helped make Glee a runaway pop-culture hit.
+Image poster gotten from themoviedb.org

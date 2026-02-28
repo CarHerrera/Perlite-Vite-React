@@ -10,7 +10,8 @@ User Score: 49
 User Count: 14
 Director: nan
 Creator: Anthony Caronna,Howard Gertler
-image: 
+image: https://image.tmdb.org/t/p/w500/efffniTkFy8ejfcCM1BaMzWDAIi.jpg
 ---
 
 The four-part documentary series from Anthony Caronna and Howard Gertler about the 1990s serial killer that targeted gay and bisexual men in Manhattan features interviews with family members of the victims, activists, and investigators.
+Image poster gotten from themoviedb.org

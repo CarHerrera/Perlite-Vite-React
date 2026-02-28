@@ -10,7 +10,8 @@ User Score: 77
 User Count: 69
 Director: Hal Hartley
 Creator: Joe Gangemi,Gregory Jacobs
-image: 
+image: https://image.tmdb.org/t/p/w500/jGI54TyocVBOAAfPmq8sytJGxeG.jpg
 ---
 
 Set in the summer of 1985, David Myers (Craig Roberts), is working the summer at Red Oaks Country Club as an assistant tennis instructor, before he returns to college for his junior year.
+Image poster gotten from themoviedb.org

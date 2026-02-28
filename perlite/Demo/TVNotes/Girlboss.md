@@ -10,7 +10,8 @@ User Score: 59
 User Count: 55
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/w60XVdh93UU9k7yyXFItnZkVA5y.jpg
 ---
 
 Sophia (Britt Robertson) begins selling vintage clothes online, only to see it become a real business in this comedy series based on Sophia Amoruso's autobiography of the same name.
+Image poster gotten from themoviedb.org

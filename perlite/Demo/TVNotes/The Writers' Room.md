@@ -10,7 +10,8 @@ User Score: 74
 User Count: 13
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/bwtmkjpPQVSYWByFSHB97KpOyZO.jpg
 ---
 
 Jim Rash talks with the creative teams behind Breaking Bad, Parks & Recreation, Dexter, New Girl, Game of Thrones, and American Horror Stories.
+Image poster gotten from themoviedb.org

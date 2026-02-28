@@ -10,7 +10,8 @@ User Score: 52
 User Count: 17
 Director: Mick Garris
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jDaGB39D8bIk8Jja8QYbv8nGaGj.jpg
 ---
 
 This is an adaptation of the Stephen King novel about a novelist (Pierce Brosnan) who is haunted by his dead wife.
+Image poster gotten from themoviedb.org

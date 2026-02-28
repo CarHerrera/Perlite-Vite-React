@@ -10,7 +10,8 @@ User Score: 61
 User Count: 1627
 Director: nan
 Creator: Scott Buck
-image: 
+image: https://image.tmdb.org/t/p/w500/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg
 ---
 
 Daniel Rand (Finn Jones) returns to New York and seeks control over Rand Enterprises after disappearing for a number of years.
+Image poster gotten from themoviedb.org

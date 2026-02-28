@@ -10,7 +10,8 @@ User Score: 52
 User Count: 13
 Director: Craig Gillespie,Michael Katleman,Dean White
 Creator: Noah Hawley
-image: 
+image: https://image.tmdb.org/t/p/w500/A9KAFlzol3KF5aNRzKZRiwt4Xep.jpg
 ---
 
 Based on a Scandinavian series, this documentary-style project follows a group of friends as they flash back and forth from present-day life to ten years ago when they were seniors in high school.
+Image poster gotten from themoviedb.org

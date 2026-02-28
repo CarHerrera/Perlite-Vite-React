@@ -14,3 +14,4 @@ image:
 ---
 
 Divorced, single mother Robyn McCall (Queen Latifah) uses her skills to help those find justice when the system fails them in this reimagining of the 1980s series of the same name.
+Image poster gotten from themoviedb.org

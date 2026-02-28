@@ -14,3 +14,4 @@ image:
 ---
 
 After a shark is killed with a grenade, it returns as a ghost that can attack people from any water source.
+Image poster gotten from themoviedb.org

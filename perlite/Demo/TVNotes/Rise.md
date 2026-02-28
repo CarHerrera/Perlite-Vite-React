@@ -14,3 +14,4 @@ image:
 ---
 
 English teacher Lou Mazzuchelli (Josh Radnor) brings excitement and inspiration to his high school's theater department in this drama from Jason Katims and Jeffrey Seller inspired by the teacher at the center of Michael Sokolove's non-fiction book, Drama High.
+Image poster gotten from themoviedb.org

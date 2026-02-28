@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Christopher Chulack,Nelson McCormick,Alex Zakrzewski
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/lNfUhVQ4NCsILxGUAlnjPNJoLTh.jpg
 ---
 
 This drama follows the adventures of a team of thieves who visit different cities to execute high-level crimes. 
+Image poster gotten from themoviedb.org

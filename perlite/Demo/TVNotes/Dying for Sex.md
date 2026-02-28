@@ -10,7 +10,8 @@ User Score: 59
 User Count: 77
 Director: nan
 Creator: Elizabeth Meriwether,Kim Rosenstock
-image: 
+image: https://image.tmdb.org/t/p/w500/xaKb3cTh8mT6fgLSXuqo4JoS0dU.jpg
 ---
 
 After a stage IV metastatic breast cancer diagnosis, Molly (Michelle Williams) leaves her husband (Jay Duplass) to explore her sexuality with encouragement from her friend Nikki (Jenny Slate) in the limited series inspired by the Wondery podcast show of the same name.
+Image poster gotten from themoviedb.org

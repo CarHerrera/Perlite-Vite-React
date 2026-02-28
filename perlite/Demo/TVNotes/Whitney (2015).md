@@ -14,3 +14,4 @@ image:
 ---
 
 The Lifetime movie about the relationship between Whitney Houston (Yaya DaCosta) and Bobby Brown (Arlen Escarpeta) was directed by Angela Bassett.
+Image poster gotten from themoviedb.org

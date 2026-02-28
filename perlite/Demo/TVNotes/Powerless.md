@@ -10,7 +10,8 @@ User Score: 58
 User Count: 87
 Director: Marc Buckland
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/oAAAqgKiWVeZbotsR0zukHjM9B1.jpg
 ---
 
 In a world with superheroes, Emily Locke (Vanessa Hudgens) works at "one of the worst insurance companies in America" with her best friend Teddy (Danny Pudi), her new boss Del (Alan Tudyk) and his personal assistant Jackie (Christina Kirk) in this comedy based on the DC comic.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Félix Enríquez Alcalá,Guy Ferland,Daniel Sackheim,Jeffrey Reiner,Josh Pate
 Creator: Jeff Eastin
-image: 
+image: https://image.tmdb.org/t/p/w500/rn6tuTjHQJFinemkUFCPlHK3e0z.jpg
 ---
 
 Hawaii can seduce just about anyone whether you are a cop or a criminal. The detectives that work here can never really take a break from paradise, because they are tangled in the dark side of this paradise.  This group of detectives is lead by a seasoned cop with years of connections established through out the island and his new partner fresh from the states. 
+Image poster gotten from themoviedb.org

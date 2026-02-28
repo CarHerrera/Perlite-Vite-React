@@ -10,7 +10,8 @@ User Score: 76
 User Count: 32
 Director: Gavin Polone,Joe Lazarov
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/fMhccRNcOR4bDxxoWsnDZzjf7PB.jpg
 ---
 
 Danny Dessai is back in town after years in juvie for murdering his aunt, Tara, to find that his two best friends are completely estranged and that the people are not quite ready to welcome him back.
+Image poster gotten from themoviedb.org

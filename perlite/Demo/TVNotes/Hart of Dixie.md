@@ -10,7 +10,8 @@ User Score: 78
 User Count: 140
 Director: David Paymer
 Creator: Leila Gerstein
-image: 
+image: https://image.tmdb.org/t/p/w500/xOwH2ZUtdzqeat5RhiD3oes2ASx.jpg
 ---
 
 After her dreams to follow in the footsteps of her big-city heart surgeon father are crushed, Zoe Hart (Rachel Bilson) accepts an offer to work in a small clinic in Bluebell, Alabama.
+Image poster gotten from themoviedb.org

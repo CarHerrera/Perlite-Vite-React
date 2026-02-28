@@ -14,3 +14,4 @@ image:
 ---
 
 A single husky guy in search of a woman with some meat on her bones is at the center of this reality show from FOX. Each week one full-figured lady will be voted off the show Bachelor-style.
+Image poster gotten from themoviedb.org

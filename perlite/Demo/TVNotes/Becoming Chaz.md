@@ -14,3 +14,4 @@ image:
 ---
 
 This honest portrayal of Chaz Bono, the only child of Sonny & Cher, shows his journey, both mentally and physically, to transform from a woman to a man. 
+Image poster gotten from themoviedb.org

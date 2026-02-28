@@ -10,7 +10,8 @@ User Score: 65
 User Count: 168
 Director: Matt Peters,Sam Liu
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg
 ---
 
 The adult animated DC Comics series written and produced by James Gunn follows Frankenstein (voiced by David Harbour), the Bride of Frankenstein (voiced by Indira Varma), Doctor Phosphorous (voiced by Alan Tudyk), Nina Mazursky (voiced by Zoe Chao), Weasel and G.I. Robot (both voiced by Sean Gunn) as they complete missions assigned to them by Amanda Waller (voiced by Viola Davis) and Rick Flag, Sr. (voiced by Frank Grillo).
+Image poster gotten from themoviedb.org

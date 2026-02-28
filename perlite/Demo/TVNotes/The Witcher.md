@@ -10,7 +10,8 @@ User Score: 61
 User Count: 8901
 Director: nan
 Creator: Lauren Schmidt Hissrich
-image: 
+image: https://image.tmdb.org/t/p/w500/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg
 ---
 
 Monster hunter Geralt of Rivia (Henry Cavill), sorceress Yennefer (Anya Cholatra), and Princess Ciri (Freya Allan) must learn to work together to survive as they journey through the Continent in the fantasy series based on the Polish book series by Andrzej Sapkowski.
+Image poster gotten from themoviedb.org

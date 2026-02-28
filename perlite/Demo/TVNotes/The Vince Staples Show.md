@@ -10,7 +10,8 @@ User Score: 66
 User Count: 32
 Director: William Stefan Smith
 Creator: Ian Edelman,Vince Staples,Maurice Williams
-image: 
+image: https://image.tmdb.org/t/p/w500/gyUKo6ILKVwuiVq4EWv1avEXpBp.jpg
 ---
 
 Rapper Vince Staples plays a fictional version of himself in the comedy series set in his hometown of Long Beach, California.
+Image poster gotten from themoviedb.org

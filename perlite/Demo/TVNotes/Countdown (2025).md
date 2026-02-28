@@ -14,3 +14,4 @@ image:
 ---
 
 LAPD detective Mark Meachum (Jensen Ackles) and DEA agent Amber Oliveras (Jessica Camacho) are recruited to a join a secret task force led by Special Agent in Charge Nathan Blythe (Eric Dane) to investigate the murder of a Department of Homeland Security officer in the drama series created by Derek Haas.
+Image poster gotten from themoviedb.org

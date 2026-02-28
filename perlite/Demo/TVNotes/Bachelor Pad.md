@@ -10,7 +10,8 @@ User Score: 60
 User Count: 9
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/aWXnp6QC4B5Xit7ugs3enA95ns7.jpg
 ---
 
 ABC expands on its Bachelor/Bachelorette franchise with Bachelor Pad, which brings prior contestants together to compete for a $250,000 prize.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 75
 User Count: 171
 Director: David Trainer
 Creator: Jim Patterson,Don Reo
-image: 
+image: https://image.tmdb.org/t/p/w500/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg
 ---
 
 After a short-lived career as a semi-pro football player Colt Bennett (Ashton Kutcher) returns to Colorado to help his brother Jimmy (Danny Masterson) and father (Sam Elliott) run the family ranch.
+Image poster gotten from themoviedb.org

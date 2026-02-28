@@ -10,7 +10,8 @@ User Score: 73
 User Count: 40
 Director: nan
 Creator: Dana Fox,Dara Resnik
-image: 
+image: https://image.tmdb.org/t/p/w500/mt4P2epJrSaqrlkMP9fTUKLP9OE.jpg
 ---
 
 A young investigative reporter (Brooklyn Prince) moves to her father's (Jim Sturgess) hometown from Brooklyn where she discovers the truth behind a cold case everyone else wanted buried forever in this mystery series inspired by real-life pre-teen investigative journalist Hilde Lysiak.
+Image poster gotten from themoviedb.org

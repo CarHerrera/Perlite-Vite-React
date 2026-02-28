@@ -10,7 +10,8 @@ User Score: 70
 User Count: 111
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/pAfTOb7lHvRlTa86jw99nM8iU3K.jpg
 ---
 
 Robert Rodriguez returns to his film "From Dusk Till Dawn" for this new series that looks deeper into the people who stumble upon the infamous strip club.
+Image poster gotten from themoviedb.org

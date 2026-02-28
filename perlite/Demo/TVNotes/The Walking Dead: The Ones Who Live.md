@@ -10,7 +10,8 @@ User Score: 75
 User Count: 137
 Director: nan
 Creator: Scott M. Gimple,Danai Gurira,Andrew Lincoln
-image: 
+image: https://image.tmdb.org/t/p/w500/ywbacot78IuNhGW4uVZPxxxVTkm.jpg
 ---
 
 Rick Grimes (Andrew Lincoln) and Michonne (Danai Gurira) are reunited in the latest spinoff series in The Walking Dead franchise.
+Image poster gotten from themoviedb.org

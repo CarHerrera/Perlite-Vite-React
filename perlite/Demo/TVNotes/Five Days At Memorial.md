@@ -10,7 +10,8 @@ User Score: 67
 User Count: 24
 Director: John Ridley,Wendey Stanzler,Carlton Cuse
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/yLx44hdSpt9GhP67JafP5sMEoMB.jpg
 ---
 
 The miniseries adaptation of Sheri Fink's non-fiction book of the same name centers on the five days after Hurricane Katrina hit New Orleans and the decisions medical staff had to make at Memorial Medical Center.
+Image poster gotten from themoviedb.org

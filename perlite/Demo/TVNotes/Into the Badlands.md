@@ -10,7 +10,8 @@ User Score: 82
 User Count: 354
 Director: nan
 Creator: Alfred Gough,Miles Millar
-image: 
+image: https://image.tmdb.org/t/p/w500/jtceMKMxHSriLFUGAUfqHsW7uCo.jpg
 ---
 
 Loosely based on Journey To The West, warrior Sunny (Daniel Wu) and a young boy named M.K. (Aramis Knight) must travel across the Badlands controlled by seven barons in a post-apocalyptic America in this martial arts drama from Alfred Gough and Miles Millar .
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 59
 User Count: 76
 Director: Reinaldo Marcus Green
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg
 ---
 
 The limited series co-created by David Simon and George Pelecanos centers on  members of the Baltimore Police Department's Gun Trace Task Force that robbed and extorted citizens for several years before a federal investigation uncovered their crimes in this adaptation of Justin Fenton's non-fiction book.
+Image poster gotten from themoviedb.org

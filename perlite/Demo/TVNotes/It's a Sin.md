@@ -10,9 +10,10 @@ User Score: 81
 User Count: 114
 Director: Peter Hoar
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tUaNS4b5TIiP1SwpHCYCbUoGpHG.jpg
 ---
 
 The five-part miniseries written and created by Russell T Davies is set in the early 1980s where five friends (Olly Alexander, Omari Douglas, Callum Scott Howells, Lydia West and Nathaniel Curtis) move to London and find their lives forever changed by HIV/AIDS.
 
 [Premiered originally in the UK on Channel 4 on 22 Jan 2021 and in the US on HBO Max on 18 Feb 2021]
+Image poster gotten from themoviedb.org

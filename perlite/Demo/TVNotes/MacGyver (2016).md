@@ -14,3 +14,4 @@ image:
 ---
 
 20-something Angus "Mac" MacGyver (Lucas Till) and former CIA agent Lincoln (George Eads) travel around the world as part of the Department of External Affairs in this reboot of the 1985 series.
+Image poster gotten from themoviedb.org

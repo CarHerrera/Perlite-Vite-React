@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Danny J. Boyle,Rusty Cundieff
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jMNeL9ZLjX7srfOePmstOoYw7TJ.jpg
 ---
 
 David Alan Grier hosts this urban-leaning parody of magazine shows. 'News' correspondents are the sketch comedians. 
+Image poster gotten from themoviedb.org

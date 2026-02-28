@@ -14,3 +14,4 @@ image:
 ---
 
 The four-part Allen Hughes documentary about how Dr. Dre and Jimmy Iovine become leaders of music empires and business partners.
+Image poster gotten from themoviedb.org

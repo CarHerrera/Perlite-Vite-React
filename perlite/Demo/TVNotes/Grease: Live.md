@@ -14,3 +14,4 @@ image:
 ---
 
 The live adaptation of the musical where Sandy (Julianne Hough) transfers to the high school of Danny's (Aaron Tveit).
+Image poster gotten from themoviedb.org

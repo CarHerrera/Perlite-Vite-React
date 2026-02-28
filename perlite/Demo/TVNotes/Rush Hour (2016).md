@@ -14,3 +14,4 @@ image:
 ---
 
 The police drama based on the 1998 movie of the same name finds by-the-book Hong Kong detective Lee (Jon Foo) reluctantly paired with LAPD detective Carter (Justin Hires).
+Image poster gotten from themoviedb.org

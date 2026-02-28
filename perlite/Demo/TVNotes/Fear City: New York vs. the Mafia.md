@@ -10,7 +10,8 @@ User Score: 63
 User Count: 18
 Director: Sam Hobkinson
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jQntaJvCakqbGJs8ihahXV8xk9f.jpg
 ---
 
 The three-part documentary from Sam Hobkinson looks at the five Mafia families (Bonanno, Colombo, Gambino, Genovese, and Lucchese) that ostensibly controlled many industries New York City and how the RICO statute and the Mafia Commission trial helped in dismantling their hold.
+Image poster gotten from themoviedb.org

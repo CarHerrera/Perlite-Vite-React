@@ -10,7 +10,8 @@ User Score: 84
 User Count: 901
 Director: Zal Batmanglij
 Creator: Zal Batmanglij,Brit Marling
-image: 
+image: https://image.tmdb.org/t/p/w500/rueY4slMeKtTGitm0raFUJvgaa5.jpg
 ---
 
 Blind Prairie Johnson (Brit Marling) went missing seven years ago, only to return her sight restored in this sci-fi drama from Brit Marling and Zal Batmanglij.
+Image poster gotten from themoviedb.org

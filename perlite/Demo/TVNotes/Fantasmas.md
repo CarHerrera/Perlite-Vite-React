@@ -10,7 +10,8 @@ User Score: 60
 User Count: 50
 Director: Julio Torres
 Creator: Julio Torres
-image: 
+image: https://image.tmdb.org/t/p/w500/3aGkoKJLA0URkJHU7XDXB58C02G.jpg
 ---
 
 While searching for a gold oyster earring, Julio (Julio Torres) meets a variety of characters in an alternative New York City in this comedy series created and directed by Torres.
+Image poster gotten from themoviedb.org

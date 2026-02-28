@@ -14,3 +14,4 @@ image:
 ---
 
 At Hector's (Peter Sarsgaard) 40th birthday party thrown by his wife, his cousin slaps another couple's child which causes secrets and turmoil amongst the family in the remake of the Australian series based on the novel by Christos Tsiolkas.
+Image poster gotten from themoviedb.org

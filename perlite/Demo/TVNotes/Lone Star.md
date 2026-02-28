@@ -10,7 +10,8 @@ User Score: 75
 User Count: 35
 Director: Billy Gierhart,Peter Horton
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/BOTITv548LYGB4xRD3rHfbwkqm.jpg
 ---
 
 Robert Allen, a newcomer to the Texas oil business and a professional schemer, gets himself caught up in a situation that he may not find easy to get out of. 
+Image poster gotten from themoviedb.org

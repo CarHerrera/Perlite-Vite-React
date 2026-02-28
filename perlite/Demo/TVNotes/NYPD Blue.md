@@ -10,7 +10,7 @@ User Score: 89
 User Count: 10
 Director: nan
 Creator: Steven Bochco,David Milch
-image: 
+image: https://image.tmdb.org/t/p/w500/hrdusQVSArJPRGnB5bHzd2ISP4V.jpg
 ---
 
 "This police drama contains adult language and scenes with partial nudity. Viewer discretion is advised."
@@ -34,3 +34,4 @@ Most of the show's run was at Tuesdays at 10pm ET on ABC.  The show was simulcas
 First air date: September 21, 1993
 Last air date: March 1, 2005
 Original air time: Tuesday 10:00:00 pm (Eastern)
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 An investigation into a Manhattan kidnapping reveals connections outside New York City in the limited series from Steven Soderbergh and Ed Solomon.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 The TV movie follows Grumpy Cat (voiced by Aubrey Plaza) and a 12-year-old named Chrystal (Megan Charpentier) as they try to save the pet store Grumpy Cat lives in.
+Image poster gotten from themoviedb.org

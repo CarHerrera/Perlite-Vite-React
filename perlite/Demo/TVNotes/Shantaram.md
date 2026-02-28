@@ -10,7 +10,8 @@ User Score: 73
 User Count: 31
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6FZCmmAdszkEFLAoibEuJPDhW40.jpg
 ---
 
 A fugitive from the law, Lin Ford (Charlie Hunnam) must choose between freedom or love with a woman he meets in 1980s Bombay in this series based on the novel of the same name by Gregory David Roberts.
+Image poster gotten from themoviedb.org

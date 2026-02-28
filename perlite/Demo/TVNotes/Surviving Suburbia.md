@@ -10,9 +10,10 @@ User Score: 0
 User Count: 1
 Director: Andrew D. Weyman,Robbie Countryman,Emile B. Levisetti,Leonard R. Garner Jr.
 Creator: Kevin Abbott
-image: 
+image: https://image.tmdb.org/t/p/w500/cFZRfsEnryz427VwNaPOV9hADRy.jpg
 ---
 
 Surviving Suburbia focuses on a father named Steve Patterson, his wife Anne, and their two children, Henry and Courtney.  Everything seems normal for the Pattersons until new next-door neighbors cause several problems, turning their suburban lifestyle upside-down.
 
 Media Rights Capital (MRC) produces the show.
+Image poster gotten from themoviedb.org

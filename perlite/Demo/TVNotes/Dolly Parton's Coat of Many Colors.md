@@ -14,3 +14,4 @@ image:
 ---
 
 In the Tennessee Great Smoky Mountains, nine-year-old Dolly (Alyvia Alyn Lind) and her family (Jennifer Nettles, Ricky Schroder, and Gerald McRaney) overcome misfortune in the TV movie inspired by Dolly Parton's life.
+Image poster gotten from themoviedb.org

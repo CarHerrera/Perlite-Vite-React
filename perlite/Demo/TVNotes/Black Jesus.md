@@ -10,7 +10,8 @@ User Score: 80
 User Count: 73
 Director: Mike Clattenburg
 Creator: Mike Clattenburg,Aaron McGruder
-image: 
+image: https://image.tmdb.org/t/p/w500/4bc5xzWZZvUrbZD5oCQfvGz8Gak.jpg
 ---
 
 The live-action Adult Swim comedy series from The Boondocks creator Aaron McGruder follows Black Jesus (Gerald "Slink" Johnson) and his Compton crew around Los Angeles.
+Image poster gotten from themoviedb.org

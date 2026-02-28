@@ -16,3 +16,4 @@ image:
 Captain Sam Vimes (Richard Dormer) leads the misfits cops of City Watch which includes Lady Sybil Ramkin (Lara Rossi), Constable Cheery (Jo Eaton-Kent), Constable Carrot (Adam Hugill), Corporal Angua (Marama Corlett), Sergeant Detritus (voiced by Ralph Ineson), and Death (Wendell Pierce), as they seek to stop the resurrection of a dragon in this fantasy series inspired by characters in Terry Pratchett's Discworld series of novels.
 
  
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 The first of two comedy specials filmed for Netflix was recorded at Washington, D.C.'s DAR Constitution Hall.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 61
 User Count: 7
 Director: Ken Burns,Sarah Burns,David McMahon
 Creator: Ken Burns
-image: 
+image: https://image.tmdb.org/t/p/w500/v26dMqQneSZavp9Jl1sdV0b71i9.jpg
 ---
 
 The two-part Ken Burns documentary uses archival video, images and sound to bring to life the work of renowned artist/inventor Leonardo da Vinci.
+Image poster gotten from themoviedb.org

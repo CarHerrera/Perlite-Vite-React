@@ -10,7 +10,8 @@ User Score: 59
 User Count: 756
 Director: Kari Skogland
 Creator: Ed Brubaker,Joe Simon,Stan Lee
-image: 
+image: https://image.tmdb.org/t/p/w500/6kbAMLteGO8yyewYau6bJ683sw7.jpg
 ---
 
 After the events of Avengers: Endgame, Sam Wilson/Falcon (Anthony Mackie) and Bucky Barnes/Winter Soldier (Sebastian Stan) face new and old enemies.
+Image poster gotten from themoviedb.org

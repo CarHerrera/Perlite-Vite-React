@@ -10,7 +10,8 @@ User Score: 64
 User Count: 45
 Director: Carl Franklin,Patty Jenkins,Victoria Mahoney
 Creator: Sam Sheridan
-image: 
+image: https://image.tmdb.org/t/p/w500/sPRGQlCcyNIIoH1HSVEkhJKME75.jpg
 ---
 
 Directed by Patty Jenkins, Fauna Hodel (India Eisley) seeks information about her birth mother with the help of reporter Jay Singletary (Chris Pine) and finds it connecting to Black Dahlia suspect Dr. George Hodel (Jefferson Mays).
+Image poster gotten from themoviedb.org

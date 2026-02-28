@@ -10,7 +10,8 @@ User Score: 63
 User Count: 33
 Director: nan
 Creator: Brian Peterson,Kelly Souders,James V. Hart
-image: 
+image: https://image.tmdb.org/t/p/w500/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg
 ---
 
 When a highly infectious virus with no known cure appears at the Reston Monkey Facility in 1989, U.S. Army veterinarian Dr. Nancy Jaax (Julianna Margulies) works to stop it from spreading in this six-part miniseries based on Richard Preston's 1995 nonfiction book about Ebola.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 The four-part documentary series directed by Morgan Neville and Jeff Malmberg looks at music making at Rick Rubin's Malibu music studio.
+Image poster gotten from themoviedb.org

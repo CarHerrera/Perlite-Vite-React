@@ -10,7 +10,8 @@ User Score: 90
 User Count: 14
 Director: Andy Cadiff
 Creator: Rob Lotterstein
-image: 
+image: https://image.tmdb.org/t/p/w500/f19CYSWxJ1oYn5Gp0MM2pYbtvjC.jpg
 ---
 
 The War at Home is a half hour comedy on FOX about two parents Dave (played by Michael Rapaport, from "Boston Public") and Vicky (played by Anita Barone, from "The Jeff Foxworthy Show") and their daily battles against their teenage children to keep their home, their children, and themselves in order.
+Image poster gotten from themoviedb.org

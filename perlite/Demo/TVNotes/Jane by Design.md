@@ -10,7 +10,8 @@ User Score: 62
 User Count: 17
 Director: Phil Traill,Gavin Polone
 Creator: April Blair
-image: 
+image: https://image.tmdb.org/t/p/w500/v0t6EzLG2p0u1ugxYmZ9YMsxbNW.jpg
 ---
 
 High schooler Jane Quimby (Erica Dasher) juggles school and a job as an assistant to a fashion executive.
+Image poster gotten from themoviedb.org

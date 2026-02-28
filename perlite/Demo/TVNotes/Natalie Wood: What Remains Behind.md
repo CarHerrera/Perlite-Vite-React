@@ -14,3 +14,4 @@ image:
 ---
 
 The documentary directed by Laurent Bouzereau features personal photos, home movies and Natasha Gregson Wagner interviewing friends and family about her mother, Natalie Wood.
+Image poster gotten from themoviedb.org

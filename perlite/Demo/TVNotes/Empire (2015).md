@@ -14,3 +14,4 @@ image:
 ---
 
 After discovering he is ill, rap label owner Lucious Lyon (Terrence Howard) must decide which of his three sons will inherit his company.
+Image poster gotten from themoviedb.org

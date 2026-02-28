@@ -10,7 +10,8 @@ User Score: 70
 User Count: 66
 Director: Owen Harris,Alethea Jones
 Creator: Tara Hernandez,Damon Lindelof
-image: 
+image: https://image.tmdb.org/t/p/w500/tMr3mFACLuL4J7AEj8yDwcf5rnr.jpg
 ---
 
 Simone (Betty Gilpin), a nun from Reno, seeks to destroy an artificial intelligence known as Mrs. Davis in this drama series from Tara Hernandez and Damon Lindelof.
+Image poster gotten from themoviedb.org

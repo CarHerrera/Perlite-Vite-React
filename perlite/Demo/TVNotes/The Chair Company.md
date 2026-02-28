@@ -10,7 +10,8 @@ User Score: 70
 User Count: 73
 Director: Andrew DeYoung,Aaron Schimberg
 Creator: Zach Kanin,Tim Robinson
-image: 
+image: https://image.tmdb.org/t/p/w500/2VktdoGvR0Pv6qj9P7vDsTIfw1l.jpg
 ---
 
 William Ronald Trosper (Tim Robinson) ends up investigating a wide-ranging conspiracy in the comedy series created by Robinson and Zach Kanin.
+Image poster gotten from themoviedb.org

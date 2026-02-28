@@ -10,7 +10,8 @@ User Score: 30
 User Count: 9
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/uXkmzijKgBYAkeXas453ZrQxnNg.jpg
 ---
 
 This show will feature housewives living and supporting their social lives in D.C.
+Image poster gotten from themoviedb.org

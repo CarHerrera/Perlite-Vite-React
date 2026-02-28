@@ -10,7 +10,8 @@ User Score: 67
 User Count: 87
 Director: nan
 Creator: Elgin James,Kurt Sutter
-image: 
+image: https://image.tmdb.org/t/p/w500/510A0upV9WRAynEgs1E2B3eBxi5.jpg
 ---
 
 The spinoff of Sons of Anarchy finds Ezekiel "EZ" Reyes (JD Pardo) out of prison and a prospective member of the Mayan MC near the California/Mexico border.
+Image poster gotten from themoviedb.org

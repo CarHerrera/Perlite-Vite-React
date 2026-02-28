@@ -10,7 +10,8 @@ User Score: 54
 User Count: 38
 Director: Lesli Linka Glatter
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/92EE4oa1vU8hLz8vbPGIJKTtjPT.jpg
 ---
 
 The drama takes a look at the bunnies who worked the infamous Playboy Club in Chicago, where entertainers, politicians, and the mob came to have a drink in the early 1960s.
+Image poster gotten from themoviedb.org

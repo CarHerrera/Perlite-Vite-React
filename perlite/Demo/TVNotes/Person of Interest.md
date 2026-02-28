@@ -10,7 +10,8 @@ User Score: 88
 User Count: 981
 Director: nan
 Creator: Jonathan Nolan
-image: 
+image: https://image.tmdb.org/t/p/w500/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg
 ---
 
 Reese (Jim Caviezel) is a former CIA agent presumed dead who is recruited by Finch (Michael Emerson), a mysterious billionaire, to help stop crime before it happens with the help of Finch's software.
+Image poster gotten from themoviedb.org

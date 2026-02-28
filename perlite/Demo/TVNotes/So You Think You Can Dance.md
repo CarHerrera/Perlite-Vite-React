@@ -10,7 +10,8 @@ User Score: 65
 User Count: 70
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/e4JAJ3UGBmAshXQG69uH9AgnZkp.jpg
 ---
 
 From FOX, the creators of American Idol and the producers of American Bandstand and The American Music Awards comes So You Think You Can Dance.In its sophomore season, this show is offering the winner a one year contract for Celine Dion's Vegas show, a brand new car and $100K cash.  Contestants perform a particular style of dance each week with a partner. The audience votes on their favorite couple leaving the 3 couples with the least votes up for elimination. After each dancer performs a solo of their choice for the judges, one male and one female contestant are up for elimination.
+Image poster gotten from themoviedb.org

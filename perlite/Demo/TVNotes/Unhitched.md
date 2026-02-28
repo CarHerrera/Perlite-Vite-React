@@ -10,7 +10,7 @@ User Score: 0
 User Count: 0
 Director: nan
 Creator: Mike Bernier,Chris Pappas
-image: 
+image: https://image.tmdb.org/t/p/w500/qsZPAAh0QqgB5IFW1bJRPbkG1Vz.jpg
 ---
 
 Unhitched is a single camera comedy that follows the lives of 4 'divorcees': Kate, Tommy, Freddy and Jack 'Gator' Gately. They are all newcomers to the world of dating and have to wade through its messy waters.
@@ -18,3 +18,4 @@ Unhitched is a single camera comedy that follows the lives of 4 'divorcees': Kat
 Unhitched enjoys the same 'gross out' comedy stylized by shows such as Family Guy.
 
 FOX ordered 6 episodes for season 1.
+Image poster gotten from themoviedb.org

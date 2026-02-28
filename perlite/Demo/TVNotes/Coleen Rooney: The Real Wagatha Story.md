@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Lucy Bowden
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jOOQdyG0JEvjJvBFrZTnmzQFMHP.jpg
 ---
 
 The three-part documentary about how British TV personality Coleen Rooney discovered someone on her Instagram was leaking private information to the tabloids.
+Image poster gotten from themoviedb.org

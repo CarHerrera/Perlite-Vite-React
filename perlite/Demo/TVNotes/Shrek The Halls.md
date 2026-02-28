@@ -14,3 +14,4 @@ image:
 ---
 
 Although Shrek is an ogre and not always filled with holiday cheer, for his love for Fiona and his kids he tries to get into the spirit of the season.  There’s never a day of peace for Shrek however as Donkey, Puss in Boots, the Gingerbread Man and the rest of the gang decide to crash the Christmas party in this charming Christmas tale, Shrek the Halls.
+Image poster gotten from themoviedb.org

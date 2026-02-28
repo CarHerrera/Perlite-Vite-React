@@ -10,7 +10,8 @@ User Score: 65
 User Count: 75
 Director: nan
 Creator: Peter Blackie
-image: 
+image: https://image.tmdb.org/t/p/w500/mhIeCeYgG4WJHNzaw2EyRpvmGX8.jpg
 ---
 
 Set in the late 18th century during the North American fur trade, Declan Harp (Jason Mamoa), who runs the Black Wolf Company, seeks to destroy the Hudson’s Bay Company run by Lord Benton (Alun Armstrong) by utilizing Michael Smyth (Landon Liboiron), who in a deal with Benton, works as a spy for him. 
+Image poster gotten from themoviedb.org

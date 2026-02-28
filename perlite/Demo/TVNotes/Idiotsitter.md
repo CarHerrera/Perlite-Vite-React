@@ -10,7 +10,8 @@ User Score: 63
 User Count: 24
 Director: Jeff Tomsic
 Creator: Jillian Bell,Charlotte Newhouse
-image: 
+image: https://image.tmdb.org/t/p/w500/eYkfVLTFISg0wfra27H0R5YvpW8.jpg
 ---
 
 Gene (Jillian Bell) is under house arrest in her family's mansion with a nanny Billie (Charlotte Newhouse) in the comedic web series that makes the jump to television.
+Image poster gotten from themoviedb.org

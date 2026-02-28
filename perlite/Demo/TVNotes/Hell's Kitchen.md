@@ -10,7 +10,7 @@ User Score: 72
 User Count: 51
 Director: Sharon Trojan Hollinger
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/shOVFku8daIGRpgjTdMZBxUAvsV.jpg
 ---
 
 Aspiring young chefs are put to the ultimate challenge in Hell's Kitchen, a reality television competition starring world renowned chef Gordon Ramsay. Each of these chefs dreams of fame and fortune, but many soon find their dreams becoming nightmares. Chef Ramsay demands quality and the intensity of the challenges is beyond anything the contestants can ever imagine. Split into two teams, they must compete against each other to provide their very best in the kitchen. If they do, they are lavishly rewarded with everything from extravagant trips to a ride on Ramsay's personal yacht. Those that fail are forced to suffer humiliating punishment.
@@ -28,3 +28,4 @@ You can catch repeats of various seasons of the program on FOX Reality, which ha
 Theme Tune - "Fire" by the Ohio Players
 
 The first season of Hell's Kitchen is now available in stores across the United States on DVD. The DVD is billed as "raw and uncensored" and also features bonuses such as cast and crew interviews & a tour of the Hell's Kitchen set. And if you enjoy Hell's Kitchen, you might also enjoy Kitchen Nightmares, as well as Ramsay's Kitchen Nightmares, available in the United States on BBC America.
+Image poster gotten from themoviedb.org

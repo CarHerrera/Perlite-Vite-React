@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Mary Harron
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vwKGXmqtlZV2sZfCaXx4Lir3AIs.jpg
 ---
 
 The life of Vickie Lynn Hogan, the playboy model better known as Anna Nicole, is dramatized in this Lifetime TV movie.
+Image poster gotten from themoviedb.org

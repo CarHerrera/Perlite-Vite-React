@@ -10,8 +10,9 @@ User Score: 84
 User Count: 102
 Director: James Bobin,Taika Waititi,Troy Miller
 Creator: James Bobin,Jemaine Clement,Bret McKenzie
-image: 
+image: https://image.tmdb.org/t/p/w500/ynboK8qiOTz0X44r59LpfF8jBP5.jpg
 ---
 
 New Zealand duo Bret McKenzie and Jemaine Clement, AKA the folk/comedy-band Flight of the Conchords, star in this fictionalized look at their lives.
 Bret and Jemaine are trying to make it big in New York City, despite their inept manager Murray, and their sole fan/stalker Mel. Their other friends include Dave, who owns a pawn shop, and Eugene, their building's super.
+Image poster gotten from themoviedb.org

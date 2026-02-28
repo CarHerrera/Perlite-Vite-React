@@ -14,3 +14,4 @@ image:
 ---
 
 The documentary series follows a group of professional tennis players as they compete in tennis tournaments around the world.
+Image poster gotten from themoviedb.org

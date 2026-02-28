@@ -10,7 +10,8 @@ User Score: 88
 User Count: 2294
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg
 ---
 
 FBI head of Behavioral Sciences Jack Crawford (Laurence Fishburne) brings together FBI profiler Will Graham (Hugh Dancy) and psychiatrist Dr. Hannibal Lecter (Mads Mikkelsen) to help solve cases.
+Image poster gotten from themoviedb.org

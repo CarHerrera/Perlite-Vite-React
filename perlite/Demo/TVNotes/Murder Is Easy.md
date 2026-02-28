@@ -10,9 +10,10 @@ User Score: 40
 User Count: 7
 Director: Meenu Gaur
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/4Ced0ExBzhOsEsMBdghOm0OqurG.jpg
 ---
 
 Nigerian attaché Luke Fitzwilliam (David Jonsson) meets Miss Pinkerton (Penelope Wilton), who is headed to Scotland Yard to report on several murders in her village. When she is found dead, he sets out to find the killer in this adaptation of Agatha Christie's 1939 novel of the same name.
 
 [Premiered originally in the UK on BBC One on 27 Dec 2023 and in the US on BritBox on 1 Mar 2024]
+Image poster gotten from themoviedb.org

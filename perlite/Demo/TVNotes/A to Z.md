@@ -10,7 +10,8 @@ User Score: 69
 User Count: 49
 Director: Michael Patrick Jann,Eric Appel
 Creator: Ben Queen
-image: 
+image: https://image.tmdb.org/t/p/w500/rVamVIBP8JoKfPRBbmFCtmHF0nv.jpg
 ---
 
 The romance of Andrew Lofland (Ben Feldman) and Zelda Vasco (Cristin Milioti.
+Image poster gotten from themoviedb.org

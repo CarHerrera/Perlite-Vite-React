@@ -10,7 +10,8 @@ User Score: 25
 User Count: 10
 Director: Anthony Caleca,Liz Plonka
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xAFMZ3wFIEXTISryRZD94AAvWng.jpg
 ---
 
 The former "Tonight Show" host moves from late night to prime time in this talk show.
+Image poster gotten from themoviedb.org

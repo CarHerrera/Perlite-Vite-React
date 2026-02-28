@@ -10,7 +10,8 @@ User Score: 68
 User Count: 17
 Director: Peyton Reed,Neil Patrick Harris
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/nhLk63LAnYCWxEKhKx92iGlFXKa.jpg
 ---
 
 Reunited after their father's death, siblings Chloe (Becki Newton), Henry (Scott Foley), and Jimmy Goodwin (T.J. Miller) learn they will only inherit $23 million if they complete a game their father designed.
+Image poster gotten from themoviedb.org

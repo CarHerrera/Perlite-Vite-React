@@ -10,7 +10,8 @@ User Score: 81
 User Count: 162
 Director: Jean de Segonzac,Mario Van Peebles,Jim McKay
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qHW1WbLBKITZyImBhnp9Z3GPxk6.jpg
 ---
 
 Tom Kane (Kelsey Grammer) is a powerful Chicago mayor who keeps his brain disorder secret from everyone.
+Image poster gotten from themoviedb.org

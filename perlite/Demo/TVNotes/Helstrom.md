@@ -10,7 +10,8 @@ User Score: 61
 User Count: 44
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/5QmcKsepYpO9XYsWNLwsiULoaAu.jpg
 ---
 
 Daimon (Tom Austen) and Ana Helstrom (Sydney Lemmon) are the children of a powerful killer but use their gifts to deal with supernatural beings in this series based on the Marvel comic characters.
+Image poster gotten from themoviedb.org

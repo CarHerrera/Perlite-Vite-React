@@ -14,3 +14,4 @@ image:
 ---
 
 The adaptation of Stephen King's novel about the investigation into the murder of an 11-year-old boy in the Georgia woods by local police detective Ralph Anderson (Ben Mendelsohn) and Holly Gibney (Cynthia Erivo), a P.I. he brings in when he becomes unsure about the guilt of his prime suspect.
+Image poster gotten from themoviedb.org

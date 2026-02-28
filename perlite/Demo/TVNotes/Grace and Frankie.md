@@ -10,7 +10,8 @@ User Score: 76
 User Count: 286
 Director: nan
 Creator: Marta Kauffman,Howard J. Morris
-image: 
+image: https://image.tmdb.org/t/p/w500/3aD3PaSeF8eHJFLliLlWYw4EcPt.jpg
 ---
 
 Long-time adversaries Grace (Jane Fonda) and Frankie (Lily Tomlin) are unexpectedly brought together when their husbands (Martin Sheen and Sam Waterson) fall in love with each other.
+Image poster gotten from themoviedb.org

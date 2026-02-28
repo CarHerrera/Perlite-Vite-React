@@ -18,3 +18,4 @@ Edith Bouvier Beale and her daughter, "Little Edie," were the toast of high soci
 Inspired by the original documentary, and covering four decades, this HBO film takes a closer look at where the ladies came from, why their lives turned destitute and how the film affected their future.
 
 An HBO Films production with Specialty Films and Locomotive, starring Drew Barrymore and Jessica Lange.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 70
 User Count: 27
 Director: Stephen Frears
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/zfxmgk2qJjtNItGgPEeQxnOoT4o.jpg
 ---
 
 The three-part limited series based on the cheating scandal where Charles Ingram (Matthew Macfadyen), his wife (Sian Clifford) and Tecwen Whittock (Michael Jibson) worked together to cheat on the British version of the Who Wants To Be A Millionaire? game show in the 2001.
+Image poster gotten from themoviedb.org

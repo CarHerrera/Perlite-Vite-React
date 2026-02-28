@@ -10,7 +10,8 @@ User Score: 65
 User Count: 48
 Director: Deniz Gamze Ergüven,Agnieszka Holland,Daniel Sackheim,Ariel Kleiman
 Creator: Beau Willimon
-image: 
+image: https://image.tmdb.org/t/p/w500/nSnlOGjeDWWVbDMjQTdYCtavvBv.jpg
 ---
 
 Laz Ingram (Natascha McElhone) heads up a crew that attempts to become the first humans on Mars in this sci-fi drama series created by Beau Willimon.
+Image poster gotten from themoviedb.org

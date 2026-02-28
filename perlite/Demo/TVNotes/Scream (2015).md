@@ -14,3 +14,4 @@ image:
 ---
 
 The Scream movie franchise comes to television where a new batch of teenagers are terrorized by a masked killer.
+Image poster gotten from themoviedb.org

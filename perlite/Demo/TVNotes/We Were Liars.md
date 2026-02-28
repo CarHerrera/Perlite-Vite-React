@@ -10,7 +10,8 @@ User Score: 72
 User Count: 17
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/3RQoNwSkJkh92KL2TwpMlHP5FkT.jpg
 ---
 
 Cadence Sinclair Eastman (Emily Alyn Lind) seeks to uncover the events that caused her amnesia during a summer on her grandfather's private island in the mystery series based on the novel of the same name by E. Lockhart.
+Image poster gotten from themoviedb.org

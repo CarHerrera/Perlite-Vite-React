@@ -10,7 +10,8 @@ User Score: 67
 User Count: 37
 Director: nan
 Creator: Craig Wright
-image: 
+image: https://image.tmdb.org/t/p/w500/dnKwzDle0E7tHnddW9gbFf44GzH.jpg
 ---
 
 The drama created by Craig Wright focuses on the return of Grace Greenleaf (Merle Dandridge) to Memphis and the megachurch her parents (Keith David and Lynn Whitfield) run after the death of her sister, Faith.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 71
 User Count: 55
 Director: nan
 Creator: Neil Cross,James V. Hart,Amanda Welles
-image: 
+image: https://image.tmdb.org/t/p/w500/l1FvNiEC61VvuNPkaKMseDXnDGc.jpg
 ---
 
 Pirate Edward "Blackbeard" Teach (John Malkovich) leads a group of thieves on the island of Santa Compana in 1729. After an attack on an English ship to steal a longitude chronometer, the pirates capture Tom Lowe (Richard Coyle), a spy sent to kill Blackbeard and ensure the chronometer doesn't fall into pirate hands.
+Image poster gotten from themoviedb.org

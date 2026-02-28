@@ -10,7 +10,7 @@ User Score: 68
 User Count: 6
 Director: Alan Poul,Jamie Babbit
 Creator: Mike Kelley
-image: 
+image: https://image.tmdb.org/t/p/w500/os3UoeuvCmmOuTrlTV97jdtZsn0.jpg
 ---
 
 This new period drama takes viewers back to the 1970s for a look at suburban households testing the murky waters of sexual revolution, following swingers throughout open marriages, "key parties" and other swingers extravaganzas.
@@ -18,3 +18,4 @@ This new period drama takes viewers back to the 1970s for a look at suburban hou
 Mike Kelley is creator and executive producer of the pilot, produced by CBS Paramount Network Television.
 
 The show originally aired on Thursday evenings, but after episode 7 it moved to Fridays, swapping with Flashpoint.
+Image poster gotten from themoviedb.org

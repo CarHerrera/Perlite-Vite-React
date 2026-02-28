@@ -10,9 +10,10 @@ User Score: 54
 User Count: 9
 Director: Susan Tully
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gjdsbafuXxfBdpIBpONqImtBLfu.jpg
 ---
 
 Dr. Emma Robertson (Emily Watson), a forensic psychiatrist must determine Connie Mortensen's (Denise Gough) sanity before trial in this adaptation of Clara Salaman's novel written under pseudonym Natalie Daniels.
 
 [Premiered originally in the UK on 12 Apr 2021 and in the US on AMC+ on 20 May 2021]
+Image poster gotten from themoviedb.org

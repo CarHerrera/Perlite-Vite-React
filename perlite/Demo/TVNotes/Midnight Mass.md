@@ -10,7 +10,8 @@ User Score: 78
 User Count: 240
 Director: Mike Flanagan
 Creator: Mike Flanagan
-image: 
+image: https://image.tmdb.org/t/p/w500/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg
 ---
 
 On isolated Crockett Island, the arrival of Father Paul (Hamish Linklater) seems to bring forth mysterious miracles in this limited series from Mike Flanagan.
+Image poster gotten from themoviedb.org

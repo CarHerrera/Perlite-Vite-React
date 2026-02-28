@@ -14,3 +14,4 @@ image:
 ---
 
 Based on Carrie Fisher's hit autobiography, this stage performance will be filmed on June 25 at the South Orange Performing Arts Center (SOPAC) in South Orange, NJ, with interviews and stories from friends and family.
+Image poster gotten from themoviedb.org

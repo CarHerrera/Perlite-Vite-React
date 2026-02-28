@@ -10,7 +10,8 @@ User Score: 73
 User Count: 35
 Director: nan
 Creator: Bert V. Royal
-image: 
+image: https://image.tmdb.org/t/p/w500/x7CMVS7kjWJFdt1wdtj5rdvTwss.jpg
 ---
 
 In 1993, popular teenager Kate (Olivia Holt) disappears from her small Texas town. Nerdy Jeanette (Chiara Aurelia) transforms into the new popular girl and by 1995, the prime suspect in this thriller created by Bert V. Royal and executive produced by Jessica Biel.
+Image poster gotten from themoviedb.org

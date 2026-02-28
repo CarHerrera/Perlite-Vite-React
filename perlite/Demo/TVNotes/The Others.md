@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Mick Garris,Thomas J. Wright,Brian Trenchard-Smith,Bryan Spicer,Jake Paltrow
 Creator: John Brancato,Michael Ferris
-image: 
+image: https://image.tmdb.org/t/p/w500/qbjoSzdek2hptlrfegMdmYyTgtL.jpg
 ---
 
 College student Marian Kitt is terrified to discover that she has the power to see into the "other side." Word of Marian's vision spreads to Professor Miles Ballard, a student of paranormal and psychic phenomena. He introduces Marian to The Others, a group of individuals with the ability to vicariously experience the feelings, thoughts and experiences of others, and to help them understand paranormal phenomena. Famed medium Elmer Greentree is their spiritual leader and a mentor figure for Marian, whose potential to see "all of the light" is strong. With Marian now among them, they will help each other understand their abilities as they encounter otherworldly, often frightening, alternative dimensions. And all the while, a dark force looms over them.
+Image poster gotten from themoviedb.org

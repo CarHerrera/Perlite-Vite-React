@@ -10,7 +10,8 @@ User Score: 35
 User Count: 13
 Director: nan
 Creator: Lena Waithe
-image: 
+image: https://image.tmdb.org/t/p/w500/1OdmKUouR6xCTfoDrqFNqKyiWQP.jpg
 ---
 
 Aspiring writer/PA Hattie (Jonica "JoJo" T. Gibbs), film executive Marie (Christina Elmore) and ex-child-star-turned-yoga-instructor Nia (Gabrielle Graham) balance work, love and friendship in Los Angeles in the comedy series from Lena Waithe.
+Image poster gotten from themoviedb.org

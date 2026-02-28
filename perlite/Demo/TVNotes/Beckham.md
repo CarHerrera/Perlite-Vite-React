@@ -10,7 +10,8 @@ User Score: 82
 User Count: 23
 Director: Fisher Stevens
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/y9d3trMAczZWFqYvGSW6V695vf3.jpg
 ---
 
 The four-part documentary series from Fisher Stevens about David Beckham's rise from working-class east London to international fame.
+Image poster gotten from themoviedb.org

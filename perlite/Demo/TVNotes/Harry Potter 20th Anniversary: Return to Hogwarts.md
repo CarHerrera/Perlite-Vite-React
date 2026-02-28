@@ -14,3 +14,4 @@ image:
 ---
 
 The documentry brings together many of the cast and directors to talk about the Harry Potter film franchise.
+Image poster gotten from themoviedb.org

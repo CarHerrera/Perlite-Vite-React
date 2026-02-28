@@ -14,3 +14,4 @@ image:
 ---
 
 The remake of the 1960s series is set 30 years in the future where the Robinson family led by John (Toby Stephens) and Maureen Robinson (Molly Parker) are stranded with Dr. Smith (Parker Posey) and Don West (Ignacio Serricchio) on a planet far-away from their destination.
+Image poster gotten from themoviedb.org

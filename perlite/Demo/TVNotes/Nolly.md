@@ -10,9 +10,10 @@ User Score: 78
 User Count: 11
 Director: Peter Hoar
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hEMAKlAI6G13CnfLs12XrcGp2Vb.jpg
 ---
 
 The three-part drama from Russell T Davies about Noele "Nolly" Gordon (Helena Bonham Carter), who was fired in 1981 after 18 years on the British soap, Crossroads.
 
 [Premiered originally in the UK on ITVX on 2 Feb 2023 and in the US as a part of PBS's Masterpiece on 17 Mar 2024]
+Image poster gotten from themoviedb.org

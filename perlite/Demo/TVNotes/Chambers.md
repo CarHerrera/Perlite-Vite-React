@@ -10,7 +10,8 @@ User Score: 55
 User Count: 28
 Director: nan
 Creator: Leah Rachel
-image: 
+image: https://image.tmdb.org/t/p/w500/h6jgj9zwwdyxIEsmWwkQHHdfEJ6.jpg
 ---
 
 17-year-old Sasha Yazzie (Sivan Alyra Rose) looks into the circumstances behind the donor heart she received, only to start developing characteristics of the deceased in this supernatural drama created and written by Leah Rachel.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 63
 User Count: 190
 Director: nan
 Creator: Alena Smith
-image: 
+image: https://image.tmdb.org/t/p/w500/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg
 ---
 
 The coming-of-age comedy set in the 1850s from Alena Smith about poet Emily Dickinson (Hailee Steinfeld) includes modern music and takes artistic license on aspects of her life.
+Image poster gotten from themoviedb.org

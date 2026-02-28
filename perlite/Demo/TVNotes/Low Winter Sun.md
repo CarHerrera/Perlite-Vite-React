@@ -10,7 +10,8 @@ User Score: 71
 User Count: 85
 Director: Ernest R. Dickerson,Sam Miller,Stefan Schwartz
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/x8tTZpyHY2sTmITWxjLfsYs4Ydj.jpg
 ---
 
 In the American adaption of the British miniseries of the same name, Detroit detectives Frank Agnew (Mark Strong) and Joe Geddes (Lennie James) kill a corrupt cop as IA investigator Simon Boyd (David Costabile) tries to uncover the truth.
+Image poster gotten from themoviedb.org

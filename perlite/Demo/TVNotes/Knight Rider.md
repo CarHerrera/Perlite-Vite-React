@@ -10,7 +10,8 @@ User Score: 59
 User Count: 27
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg
 ---
 
 Mike Traceur is tracked down by his ex-girlfriend, Sarah Graiman after her father, Dr. Charles Graiman, is kidnapped. Mike and Sarah rescue her father and Mike discovers that his father is Michael Knight. Mike decides to stick with Sarah and Dr. Graiman and together with KITT, an artificially intelligent Ford Shelby GT500KR, they fight crime. Also partnered with this trio is Carrie Rivai and Alex Torres, FBI consultants and Billy Morgan and Zoe Chae providing technical support. During their first mission, Mike's past comes back to haunt him and Carrie and Alex decide to fake his death. Mike Traceur ceases to exist and Michael Knight is reborn. 
+Image poster gotten from themoviedb.org

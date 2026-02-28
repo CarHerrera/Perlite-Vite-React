@@ -10,7 +10,8 @@ User Score: 58
 User Count: 8
 Director: Miguel Alexandre
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/aJZF8UweljPpUOdedfHttBGK0nU.jpg
 ---
 
 Set in Berlin 1961, British spy Fielding Scott (Dominic Cooper) seeks to uncover a traitor in this limited series created by William Boyd.
+Image poster gotten from themoviedb.org

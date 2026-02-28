@@ -10,7 +10,8 @@ User Score: 81
 User Count: 89
 Director: nan
 Creator: David Jenkins
-image: 
+image: https://image.tmdb.org/t/p/w500/8xZoGQAwj0Qq1PVZBdd35gJWxij.jpg
 ---
 
 Journalist Ozzie Graham (Wyatt Cenac) investigates a group who claim to be  alien abductees.
+Image poster gotten from themoviedb.org

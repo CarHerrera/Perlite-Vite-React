@@ -10,7 +10,8 @@ User Score: 41
 User Count: 706
 Director: nan
 Creator: G. Willow Wilson
-image: 
+image: https://image.tmdb.org/t/p/w500/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg
 ---
 
 16-year-old Pakistani-American Kamala Khan is struggling to find her place at her Jersey City school and at home when she suddenly gets superpowers like her favorite superhero, Captain Marvel.
+Image poster gotten from themoviedb.org

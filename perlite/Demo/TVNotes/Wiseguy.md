@@ -10,7 +10,7 @@ User Score: 58
 User Count: 4
 Director: nan
 Creator: Stephen J. Cannell,Frank Lupo
-image: 
+image: https://image.tmdb.org/t/p/w500/pDKRxvfp5vB3FrHZ0g3oHvnHQKG.jpg
 ---
 
 How does a deep-cover operative keep his sanity and morality intact when the criminal lifestyle he’s sworn to bring down from within is more compelling than his own? Federal Agent Vincent Terranova (Ken Wahl) is plagued by the question in this innovative take on 80’s cop dramas. Created by veteran hit producer Steven J Cannell, Wiseguy veers from traditional ‘bad guy of the week’ police procedural by breaking the drama into multi-episode story arcs that followed an Organized Crimes Bureau case—and its charismatic criminal suspects—to its logical conclusion. No matter the cost to criminal, victim, or cop.
@@ -20,3 +20,4 @@ In the end, Vinnie may have got his man, but the emotional toll of the lies and 
 Personal problems and injuries caused Wahl to back out of a fourth season and be replaced by Steven Bauer, thereby giving the show a new slant and hastening its cancellation. Still, Wiseguy is referenced by many critics and fans as one of the most literate, stylish, audacious, and fun cop shows of the late 80’s.
 
 Selected story arcs are currently available on DVD.
+Image poster gotten from themoviedb.org

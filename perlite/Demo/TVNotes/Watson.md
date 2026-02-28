@@ -10,7 +10,8 @@ User Score: 40
 User Count: 35
 Director: nan
 Creator: Craig Sweeny
-image: 
+image: https://image.tmdb.org/t/p/w500/budWBUBPXWlsGWxRPdkWIsBlbqu.jpg
 ---
 
 Dr. John Watson (Morris Chestnut) returns to medicine after Sherlock Holmes is killed by Moriarty in the medical drama from Elementary executive producer Craig Sweeny.
+Image poster gotten from themoviedb.org

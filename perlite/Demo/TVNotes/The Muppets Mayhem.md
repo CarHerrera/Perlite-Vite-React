@@ -10,7 +10,8 @@ User Score: 45
 User Count: 15
 Director: Matt Sohn,Kimmy Gatewood
 Creator: Jim Henson
-image: 
+image: https://image.tmdb.org/t/p/w500/fxJrS7cXn5hK09xDuqp7isQOFXX.jpg
 ---
 
 The latest Disney+ Muppet series follows The Electric Mayhem Band - Dr. Teeth, Animal, Floyd Pepper, Janice, Lips, and Zoot as they set out to record their first studio album.
+Image poster gotten from themoviedb.org

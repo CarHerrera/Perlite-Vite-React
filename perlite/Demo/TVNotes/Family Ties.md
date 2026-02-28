@@ -10,7 +10,7 @@ User Score: 82
 User Count: 10
 Director: Sam Weisman,Will Mackenzie,Matthew Diamond,Andrew McCullough
 Creator: Gary David Goldberg
-image: 
+image: https://image.tmdb.org/t/p/w500/vxERANdozlMKgl7VqGxbAvZ6u1O.jpg
 ---
 
 Family Ties first aired in September of 1982 on NBC and was one of the first of a wave of family comedies that emerged in the 1980's.  With a rocky start in the ratings, Family Ties rose to number 2 after it was placed in the prized time-slot right after The Cosby Show and remained there from 1984 until 1987.
@@ -54,3 +54,4 @@ Nielsen Ratings:
 #2 in the 1985-1986 Season
 #2 in the 1986-1987 Season
 #17 in the 1987-1988 Season
+Image poster gotten from themoviedb.org

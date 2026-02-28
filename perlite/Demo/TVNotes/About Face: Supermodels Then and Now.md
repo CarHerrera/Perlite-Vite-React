@@ -14,3 +14,4 @@ image:
 ---
 
 The Timothy Greenfield-Sanders documentary interviewed former supermodels such as Carmen Dell'Orefice, Jerry Hall, Beverly Johnson, and Isabella Rossellini about the modeling industry and the idea of beauty.
+Image poster gotten from themoviedb.org

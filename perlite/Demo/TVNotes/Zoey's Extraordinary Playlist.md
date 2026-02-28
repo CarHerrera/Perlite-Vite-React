@@ -10,7 +10,8 @@ User Score: 77
 User Count: 61
 Director: nan
 Creator: Austin Winsberg
-image: 
+image: https://image.tmdb.org/t/p/w500/xhF6IXlq4HjEqoAqoPTq4YkgHB1.jpg
 ---
 
 San Francisco computer coder Zoey Clarke (Jane Levy) suddenly begins to hear people's inner thoughts and feelings through songs she can only hear and see. 
+Image poster gotten from themoviedb.org

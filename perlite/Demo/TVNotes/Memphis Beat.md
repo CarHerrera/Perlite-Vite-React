@@ -10,7 +10,8 @@ User Score: 81
 User Count: 29
 Director: nan
 Creator: Liz W. Garcia,Joshua Harto
-image: 
+image: https://image.tmdb.org/t/p/w500/8jPfHUUdMNzO4qtmDuafeAb1O1p.jpg
 ---
 
 Set against a blues backdrop, Memphis Beat focuses on a police detective played by Jason Lee. This TNT series hails from George Clooney's Smokehouse Pictures.
+Image poster gotten from themoviedb.org

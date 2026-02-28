@@ -10,7 +10,8 @@ User Score: 51
 User Count: 74
 Director: Bryan Andrews
 Creator: Jim Starlin,Steve Englehart,Joe Simon,Jack Kirby
-image: 
+image: https://image.tmdb.org/t/p/w500/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg
 ---
 
 The animated four-part series follows the survivors battling zombified heroes and villains in the zombie apocalypse alternate timeline introduced in the What If...? episode "What If... Zombies?!".
+Image poster gotten from themoviedb.org

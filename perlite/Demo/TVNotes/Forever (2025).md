@@ -14,3 +14,4 @@ image:
 ---
 
 Keisha Clark (Lovie Simone) and Justin Edwards (Michael Cooper Jr.) navigate the complexities of identity, high school and first love in Mara Brock Akil's series adaptation of Judy Blume's novel of the same name.
+Image poster gotten from themoviedb.org

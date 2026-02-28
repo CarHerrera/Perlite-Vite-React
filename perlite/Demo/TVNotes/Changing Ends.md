@@ -10,9 +10,10 @@ User Score: 60
 User Count: 18
 Director: Dave Lambert
 Creator: Simon Carlyle,Alan Carr
-image: 
+image: https://image.tmdb.org/t/p/w500/d04ukJpos6Nf3iRAEhaOG43YZBO.jpg
 ---
 
 The semi-autobiographical British sitcom based on comedian Alan Carr's childhood in 1980s Northampton was co-written with Simon Carlyle.
 
 [Premiered originally in the UK on ITVX on 1 Jun 2023 and on ITV1 on 16 Apr 2024 and in the US on BritBox on 6 Jun 2024]
+Image poster gotten from themoviedb.org

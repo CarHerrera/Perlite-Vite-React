@@ -14,3 +14,4 @@ image:
 ---
 
 The second holiday Toy Story special finds the gang facing off against action figures.
+Image poster gotten from themoviedb.org

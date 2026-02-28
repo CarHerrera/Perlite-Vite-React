@@ -10,7 +10,8 @@ User Score: 39
 User Count: 7
 Director: Jesse Peretz,Haifaa Al-Mansour,Liz Garbus
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/lGzN8SgwlQMYn5uUI0pzG9EfXSD.jpg
 ---
 
 A wealthy real estate family, the music scene and a series of fires are all connected to the shooting of NYU student named Samantha Cicciaro (Chase Sui Wonders) in this drama series inspired by the novel of the same name by Garth Risk Hallberg.
+Image poster gotten from themoviedb.org

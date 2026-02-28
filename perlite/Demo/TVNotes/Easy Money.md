@@ -10,9 +10,10 @@ User Score: 0
 User Count: 1
 Director: Alik Sakharov,Rob Thompson,Max Tash,Nick Marck,Kenneth Johnson,Stephen Cragg,Rick Wallace
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/27yzGQ6LMFi34booKzF8KnVTGSa.jpg
 ---
 
 This CW drama gets in the middle of a family of loan sharks and spotlights the mother who heads up the company. Her middle son is uneasy about the line of work, but very good at it.
 
 Easy Money is produced by Media Rights Capital. 13 episodes have been ordered for the first season.
+Image poster gotten from themoviedb.org

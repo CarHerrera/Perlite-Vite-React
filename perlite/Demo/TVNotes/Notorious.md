@@ -10,7 +10,8 @@ User Score: 43
 User Count: 46
 Director: nan
 Creator: Josh Berman,Allie Hagan
-image: 
+image: https://image.tmdb.org/t/p/w500/tj1PiPPCp01NhBdYVAnoOQAv2U4.jpg
 ---
 
 The professional and personal lives of Attorney Jake Gregorian (Daniel Sunjata) and TV news producer Julia George (Piper Perabo) are the focus of this drama series based on the real lives of criminal defense attorney Mark Geragos and cable news producer Wendy Walker.
+Image poster gotten from themoviedb.org

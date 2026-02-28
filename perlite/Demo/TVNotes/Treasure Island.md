@@ -10,7 +10,8 @@ User Score: 46
 User Count: 5
 Director: Steve Barron
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/94HhCCbzl3ZVVUVZGlUNYKkzoW4.jpg
 ---
 
 Robert Louis Stevenson's classic story is retold in the two-part movie on Syfy with Eddie Izzard as Long John Silver, Elijah Wood as Ben Gunn, and Donald Sutherland as Captain Flint.
+Image poster gotten from themoviedb.org

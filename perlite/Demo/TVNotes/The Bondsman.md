@@ -10,7 +10,8 @@ User Score: 63
 User Count: 49
 Director: nan
 Creator: Grainger David
-image: 
+image: https://image.tmdb.org/t/p/w500/gwd2HpY2ymvmASUP3zMYF59IIr7.jpg
 ---
 
 Bounty hunter Hub Halloran (Kevin Bacon) is back from the dead thanks to Devil who wants him to catch the demons who escaped from Hell in the supernatural series from Blumhouse.
+Image poster gotten from themoviedb.org

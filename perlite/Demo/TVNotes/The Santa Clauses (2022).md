@@ -14,3 +14,4 @@ image:
 ---
 
 After more than 25 years as Santa, Scott Calvin (Tim Allen) decides it's time to retire and begins looking for a possible successor in this sequel series to The Santa Clause movies.
+Image poster gotten from themoviedb.org

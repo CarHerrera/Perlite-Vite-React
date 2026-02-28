@@ -10,7 +10,8 @@ User Score: 58
 User Count: 8
 Director: Mikael Salomon
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/sYzdFLCXOtJDZuMcdjR2SSwpYZA.jpg
 ---
 
 Ridley Scott and the late Tony Scott produced this miniseries adaptation of Robin Cook's novel, Coma. Susan Wheeler (Lauren Ambrose) is a medical student who becomes suspicious of the number of patients falling into comas at her Atlanta hospital.
+Image poster gotten from themoviedb.org

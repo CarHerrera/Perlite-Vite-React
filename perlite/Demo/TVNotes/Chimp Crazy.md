@@ -10,7 +10,8 @@ User Score: 69
 User Count: 27
 Director: Eric Goode
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/kdiqhuYK7WDCSihybbBsXBII0Zq.jpg
 ---
 
 Ex-nurse Tonia Haddix, who calls herself the "Dolly Parton of chimps" battles with PETA over custody of a chimpanzee named Tonka in this four-part documentary from Eric Goode.
+Image poster gotten from themoviedb.org

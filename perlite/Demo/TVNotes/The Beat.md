@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Ed Bianchi,Jay Tobias,Goran Gajic,Jason Priestley
 Creator: Tom Fontana
-image: 
+image: https://image.tmdb.org/t/p/w500/pS49rEj0XIKxKLDEHelW0YH63vZ.jpg
 ---
 
 A gritty drama about life for two young cops on New York's Lower East Side. Executive produced by Barry Levinson and Tom Fontana (`Homicide: Life on the Street').
+Image poster gotten from themoviedb.org

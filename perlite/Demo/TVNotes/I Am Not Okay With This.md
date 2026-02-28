@@ -10,7 +10,8 @@ User Score: 75
 User Count: 132
 Director: Jonathan Entwistle
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/kf3yX0ILNlLJ42X3lX2iYJ3QRp6.jpg
 ---
 
 Sydney (Sophia Lillis) was already trying to manage issues with her family, high school, and her friendships, when she starts to manifest superpowers in this adaptation of the Charles Forsman graphic novel from Jonathan Entwistle.
+Image poster gotten from themoviedb.org

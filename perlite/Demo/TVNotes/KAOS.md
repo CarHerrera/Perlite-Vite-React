@@ -10,7 +10,8 @@ User Score: 66
 User Count: 127
 Director: Georgi Banks-Davies
 Creator: Charlie Covell
-image: 
+image: https://image.tmdb.org/t/p/w500/dDBTUSl3tRsOeKC1jZugBSFHy9I.jpg
 ---
 
 A paranoid Zeus (Jeff Goldblum) must face his dysfunctional family that includes wife Hera (Janet McTeer) and unhappy humans on Earth in the dark comedy created by Charlie Covell.
+Image poster gotten from themoviedb.org

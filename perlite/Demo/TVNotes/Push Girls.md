@@ -10,7 +10,8 @@ User Score: 42
 User Count: 6
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6Ip8xm9MDCxhksWN06HYItMN6hE.jpg
 ---
 
 The Sundance reality show takes a look at the lives of Angela, Auti, Mia, and Tiphany, who pursue their dreams in Los Angeles despite the challenges of life in a wheelchair.
+Image poster gotten from themoviedb.org

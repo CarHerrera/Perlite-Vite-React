@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Tony Croll
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/8wglNuOByUKm53DjANgnbYqGl3h.jpg
 ---
 
 Christian and pop music star Amy Grant joins forces with helpers from the many TLC home improvement shows, to help out many deserving people all across America. 
+Image poster gotten from themoviedb.org

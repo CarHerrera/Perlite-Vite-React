@@ -14,3 +14,4 @@ image:
 ---
 
 Paris Hilton joins the celebrity home cooking reality crowd with her own series with guest appearances from Nikki Glaser, Kim Kardashian West, Demi Lovato, Lele Pons, Saweetie, plus her mother Kathy Hilton and sister Nicky Hilton.
+Image poster gotten from themoviedb.org

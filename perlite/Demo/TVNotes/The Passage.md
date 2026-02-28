@@ -10,7 +10,8 @@ User Score: 67
 User Count: 55
 Director: nan
 Creator: Liz Heldens
-image: 
+image: https://image.tmdb.org/t/p/w500/np1jcUOCjTGpoIzKwCnV35zxu5B.jpg
 ---
 
 Based on author Justin Cronin's trilogy of books about a secret government-funded medical facility has created a new virus that could end all diseases but could also end mankind. FBI Agent Brad Wolgast (Mark-Paul Gosselaar) is tasked to bring in a young girl named Amy Bellafonte (Saniyya Sidney) to the facility, but he begins to get second thoughts.
+Image poster gotten from themoviedb.org

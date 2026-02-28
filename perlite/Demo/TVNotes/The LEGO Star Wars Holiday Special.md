@@ -14,3 +14,4 @@ image:
 ---
 
 After the events of Star Wars: The Rise of Skywalker, while Rey's friends prepare for the Wookiee festival of Life Day, she and BB-8 end up at a Jedi temple where meets others from the past including Luke Skywalker, Darth Vader, Obi-Wan Kenobi, and Yoda.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 42
 User Count: 10
 Director: Christopher Smith
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/7ze6V3XYVBeQe3Y9opRw3Hbyhbh.jpg
 ---
 
 Originally aired in Canada in 2012, the four-hour miniseries is an  adaptation of Kate Mosse's novel about the parallel hunt for the Holy Grail by 13th century Alaïs (Jessica Brown Findlay) and current-day Alice Tanner (Vanessa Kirby).
+Image poster gotten from themoviedb.org

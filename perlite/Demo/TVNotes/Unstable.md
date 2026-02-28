@@ -10,7 +10,8 @@ User Score: 67
 User Count: 20
 Director: nan
 Creator: Victor Fresco,John Owen Lowe,Rob Lowe
-image: 
+image: https://image.tmdb.org/t/p/w500/yiMhsbuMYygbWnsrPbdp7PiMvvP.jpg
 ---
 
 Jackson Dragon (John Owen Lowe), the son of an unstable biotech CEO Ellis Dragon (Rob Lowe), joins the company to save it and his father from ruin in the comedy created by the Lowes and Victor Fresco.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Gynecologists twins Elliot and Beverly Mantle (both played by Rachel Weisz) share everything and are willing to transcend medical ethics for women's healthcare in this television series adaptation of David Cronenberg’s 1988 thriller of the same name.
+Image poster gotten from themoviedb.org

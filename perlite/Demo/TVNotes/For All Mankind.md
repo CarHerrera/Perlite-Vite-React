@@ -10,7 +10,8 @@ User Score: 64
 User Count: 353
 Director: nan
 Creator: Ronald D. Moore,Ben Nedivi,Matt Wolpert
-image: 
+image: https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg
 ---
 
 The sci-fi series from Ronald D. Moore set in an alternate universe where the USSR had landed on the moon first and NASA continues the space race with a group of astronauts that include Edward Baldwin (Joel Kinnaman).
+Image poster gotten from themoviedb.org

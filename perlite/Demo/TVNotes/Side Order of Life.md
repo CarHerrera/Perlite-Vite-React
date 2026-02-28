@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Dan Lerner,James Frawley
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/dtnkWgDSWHpGMFYS8hPGkgRRyvU.jpg
 ---
 
 When a young photographer (Marisa Coughlan) is about to marry a handsome man (Jason Priestley), she thinks her life is going perfect. She's got great friends, a great job, and also a great fiance. But everything changes when she starts to get signs forcing her to think about her life once again. 
+Image poster gotten from themoviedb.org

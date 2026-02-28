@@ -10,7 +10,7 @@ User Score: 75
 User Count: 24
 Director: nan
 Creator: Nicolas Falacci,Cheryl Heuton
-image: 
+image: https://image.tmdb.org/t/p/w500/wOzbxJmpccPA5MYvBSGbor3WKh3.jpg
 ---
 
 We all use math every day...
@@ -20,3 +20,4 @@ Inspired by actual cases and experiences, Numb3rs depicts the confluence of poli
 Numb3rs stars David Krumholtz as Charlie Eppes, Rob Morrow as Don Eppes, Judd Hirsch as Alan Eppes, Alimi Ballard as David Sinclair, Navi Rawat as Amita Ramajuan, Peter MacNicol as Larry Fleinhardt, Dylan Bruno as Colby Granger, Aya Sumika as Liz Warner, and Sophina Brown as Nikki Betancourt.
 
 Created by Cheryl Heuton and Nicolas Falacci, Ridley Scott, Tony Scott, David W. Zucker, Cheryl Heuton, Nicolas Falacci, Andrew Dettmann, Don McGill, Ken Sanzel, and Lewis Abel are executive producers. Numb3rs is produced for CBS by Scott Free Productions in association with CBS Television Studios and Post 109.
+Image poster gotten from themoviedb.org

@@ -10,9 +10,10 @@ User Score: 59
 User Count: 36
 Director: Scott Frank
 Creator: Tom Fontana,Scott Frank,Dashiell Hammett
-image: 
+image: https://image.tmdb.org/t/p/w500/5B0fvoxRPT7mhZMgMSAM27j6QZb.jpg
 ---
 
 Set in 1963, private detective Sam Spade (Clive Owen) is retired in the South of France when six nuns at a convent are murdered in this limited series co-created and written by Scott Frank and Tom Fontana.
 
 [Premieres on AMC, AMC+ and Acorn TV]
+Image poster gotten from themoviedb.org

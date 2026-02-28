@@ -10,7 +10,8 @@ User Score: 62
 User Count: 316
 Director: nan
 Creator: Kelly Marcel
-image: 
+image: https://image.tmdb.org/t/p/w500/y8dFONeUSXhMHiFecqFoaGI7S6y.jpg
 ---
 
 In the year 2149, humankind seeks escape from the polluted Earth by traveling to the past to establish a new colony. 
+Image poster gotten from themoviedb.org

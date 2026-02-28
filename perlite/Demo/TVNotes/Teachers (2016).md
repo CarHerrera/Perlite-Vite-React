@@ -14,3 +14,4 @@ image:
 ---
 
 Based on a web series created by the Katydids, the comedy series follows the lives of six elementary school teachers (Caitlin Barlow, Katy Colloton, Cate Freedman, Kate Lambert, Katie O'Brien and Kathryn Renée Thomas).
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 75
 User Count: 79
 Director: nan
 Creator: Dean Georgaris
-image: 
+image: https://image.tmdb.org/t/p/w500/lkc4PkMhxsQUTs9NnM8hmYNP4M1.jpg
 ---
 
 Originally called For God and Country, the military drama focuses on a Special Ops group led by Commander Michael Dalton (Mike Vogel) while Patricia Campbell (Anne Heche), Deputy Director of the Defense Intelligence Agency and her analysts support Dalton's team with intelligence.
+Image poster gotten from themoviedb.org

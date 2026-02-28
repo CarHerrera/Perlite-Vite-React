@@ -10,7 +10,8 @@ User Score: 64
 User Count: 15
 Director: Renuka Jeyapalan,Jude Weng,Tiffany Johnson
 Creator: Natasha Rothwell
-image: 
+image: https://image.tmdb.org/t/p/w500/161kiFeNwUQVPyXOzBDrlnphKM0.jpg
 ---
 
 After a near-death experience, Mel (Natasha Rothwell), a JFK airport employee decides to start living life to the fullest in this comedy series created by Rothwell.
+Image poster gotten from themoviedb.org

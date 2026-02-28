@@ -10,7 +10,8 @@ User Score: 37
 User Count: 21
 Director: Alice Mathias
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6PlHUsScubMx3VADGRh1kIylML2.jpg
 ---
 
 The sequel to the 1981 Mel Brooks film, "History of the World Part I" features eight episodes of comedic sketches about historic events and people over four nights.
+Image poster gotten from themoviedb.org

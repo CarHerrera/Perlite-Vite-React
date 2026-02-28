@@ -10,7 +10,8 @@ User Score: 38
 User Count: 20
 Director: nan
 Creator: Owen Ellickson
-image: 
+image: https://image.tmdb.org/t/p/w500/no3mOvCfuyLrEEWLi16pbHCIqQZ.jpg
 ---
 
 By night Craig (Craig Robinson) is the lead singer and keyboardist for the funk band Nasty Delicious, but to pay the bills, he works as a substitute high school music teacher.
+Image poster gotten from themoviedb.org

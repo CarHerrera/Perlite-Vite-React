@@ -10,7 +10,8 @@ User Score: 55
 User Count: 11
 Director: Simon Godwin
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/qlol0RBxKvs6b8FnH8k256OuPsm.jpg
 ---
 
 Simon Godwin's version of Shakespeare's Romeo and Juliet filmed at London's National Theatre with Jessie Buckley and Josh O'Connor as the doomed young lovers airs as a part of PBS's Great Performances. 
+Image poster gotten from themoviedb.org

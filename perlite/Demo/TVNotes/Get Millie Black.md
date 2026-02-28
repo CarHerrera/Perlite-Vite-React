@@ -10,7 +10,8 @@ User Score: 61
 User Count: 34
 Director: Tanya Hamilton,Annetta Laufer,Jean Luc Herbulot
 Creator: Marlon James
-image: 
+image: https://image.tmdb.org/t/p/w500/ytXuD2ZP9Q82OzalMaGYoKUUPCG.jpg
 ---
 
 Former Scotland Yard detective Millie-Jean Black (Tamara Lawrance) returns to her native Jamaica to investigate missing persons cases in the five-part drama series created by Marlon James.
+Image poster gotten from themoviedb.org

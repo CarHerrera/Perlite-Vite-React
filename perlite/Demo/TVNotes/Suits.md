@@ -10,7 +10,8 @@ User Score: 84
 User Count: 1306
 Director: nan
 Creator: Aaron Korsh
-image: 
+image: https://image.tmdb.org/t/p/w500/vQiryp6LioFxQThywxbC6TuoDjy.jpg
 ---
 
 Suits is a new legal drama from the USA Network staring Patrick J. Adams and Gabriel Macht. It follows collage drop-out Mike Ross who accidentally lands a job with one of New Yorks best legal closers, Harvey Specter. They soon become a winning team with Mike's raw talent and photographic memory, and he soon reminds Harvey of why he went into the field of law in the first place.
+Image poster gotten from themoviedb.org

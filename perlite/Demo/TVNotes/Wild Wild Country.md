@@ -10,7 +10,8 @@ User Score: 77
 User Count: 70
 Director: Chapman Way,Maclain Way
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/kprB5Jj2LYQAYlqVQMEucT2vGt.jpg
 ---
 
 The Duplass brothers-produced six-part documentary series about an Indian guru who wanted to build a 64,000-acre utopia from Chapman and Maclain Way features archival footage and interviews with the people and followers in the small Oregon town.
+Image poster gotten from themoviedb.org

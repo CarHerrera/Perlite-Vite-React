@@ -10,7 +10,7 @@ User Score: 73
 User Count: 66
 Director: nan
 Creator: Kevin Williamson
-image: 
+image: https://image.tmdb.org/t/p/w500/arT93dBemanftfWTcf9I0JRIlxU.jpg
 ---
 
 It's the end of something simple. And the beginning of everything else.
@@ -37,3 +37,4 @@ Young Americans.
 
 
 
+Image poster gotten from themoviedb.org

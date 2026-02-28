@@ -10,7 +10,8 @@ User Score: 69
 User Count: 71
 Director: Park Chan-wook
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/8Y137iEKnlBtfBWHRi7aAODdD9Z.jpg
 ---
 
 Airing on consecutive nights, the three-part miniseries based on John le Carré's novel of the same name is set in the 1970s where a chance encounter in Greece between Charlie (Florence Pugh), an actress on vacation and a mysterious man named Becker (Alexander Skarsgård), soon becomes much more as she becomes part of high stakes spy plot masterminded by mastermind Kurtz (Michael Shannon).
+Image poster gotten from themoviedb.org

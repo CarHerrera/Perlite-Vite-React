@@ -10,7 +10,8 @@ User Score: 87
 User Count: 129
 Director: nan
 Creator: Dick Wolf
-image: 
+image: https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg
 ---
 
 Created by Dick Wolf, Law & Order splits its television hour into two parts - the law, a police procedural, and order, a legal drama.
+Image poster gotten from themoviedb.org

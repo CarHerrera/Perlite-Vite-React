@@ -10,7 +10,8 @@ User Score: 41
 User Count: 44
 Director: nan
 Creator: David Appelbaum
-image: 
+image: https://image.tmdb.org/t/p/w500/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg
 ---
 
 A gigantic sinkhole takes a group of Los Angeles residents, including a Eve Harris (Natalie Zea) and her son Josh (Jack Martin) into a primeval world where they must work together to find a way home in this drama series written by David Applebaum.
+Image poster gotten from themoviedb.org

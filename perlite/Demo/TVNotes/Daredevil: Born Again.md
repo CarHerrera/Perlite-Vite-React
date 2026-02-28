@@ -10,7 +10,8 @@ User Score: 74
 User Count: 326
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg
 ---
 
 Matt Murdock/Daredevil (Charlie Cox) and Wilson Fisk/Kingpin (Vincent D'Onofrio) will face off again in the Disney+ series revival that will also feature Frank Castle/The Punisher (Jon Bernthal).
+Image poster gotten from themoviedb.org

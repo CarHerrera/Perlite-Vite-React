@@ -14,3 +14,4 @@ image:
 ---
 
 The 1995 film is remade as a TV show with James Cole (Aaron Stanford) time-traveling from 2043 to the present time to stop a virus before it can decimate the population.
+Image poster gotten from themoviedb.org

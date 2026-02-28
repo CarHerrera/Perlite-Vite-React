@@ -10,7 +10,8 @@ User Score: 79
 User Count: 51
 Director: Rebecca Asher
 Creator: Kathleen Jordan
-image: 
+image: https://image.tmdb.org/t/p/w500/gFtJaWcLAJJsSzfuWcLSeAS8aVl.jpg
 ---
 
 Fraternal twins Sterling and Blair (Maddie Phillips and Anjelica Bette Fellini) join bounty hunter Bowser Jenkins (Kadeem Hardison) on the job while juggling high school and relationships in this comedy created by Kathleen Jordan.
+Image poster gotten from themoviedb.org

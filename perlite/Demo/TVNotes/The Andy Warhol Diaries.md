@@ -10,7 +10,8 @@ User Score: 76
 User Count: 7
 Director: Andrew Rossi
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ls3Ek39IKSiAYJES1CZHPj90TEZ.jpg
 ---
 
 The six-part documentary series from Ryan Murphy and director Andrew Rossi looks at Andy Warhol's life based on the diaries he kept.
+Image poster gotten from themoviedb.org

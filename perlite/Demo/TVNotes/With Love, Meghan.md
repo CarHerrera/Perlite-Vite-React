@@ -10,7 +10,8 @@ User Score: 36
 User Count: 47
 Director: Michael Steed
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gE6phsPPgV8hvEi2rq5Zoz6va9H.jpg
 ---
 
 Meghan, The Duchess of Sussex's cooking and gardening reality series features guest appearances by her husband Prince Harry, Roy Choi, Mindy Kaling, and Alice Waters.
+Image poster gotten from themoviedb.org

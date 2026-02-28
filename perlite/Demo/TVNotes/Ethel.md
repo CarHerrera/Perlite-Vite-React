@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Rory Kennedy
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6mTiLfIeF5dIyZXoeydeDrPGmto.jpg
 ---
 
 Rory Kennedy chronicles the life of her mother, Ethel Kennedy through family pictures, home movies, news footage, and interviews.
+Image poster gotten from themoviedb.org

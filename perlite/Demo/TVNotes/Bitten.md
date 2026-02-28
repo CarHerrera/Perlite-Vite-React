@@ -10,7 +10,8 @@ User Score: 69
 User Count: 144
 Director: James Dunnison
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/guhxl5I8J1WVEA3yeDt8hwgpYWx.jpg
 ---
 
 Based on the Women of the Otherworld novels by Kelley Armstrong,  werewolf Elena Michaels (Laura Vandervoort) has a new life as a photographer and a new boyfriend (Paul Greene) who knows nothing of her secret, but when dead bodies start appearing at her hometown in upstate New York, she is pulled back to her former life and ex-boyfriend, Clayton Danvers (Greyston Holt).
+Image poster gotten from themoviedb.org

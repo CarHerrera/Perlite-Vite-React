@@ -10,7 +10,8 @@ User Score: 73
 User Count: 39
 Director: Gandja Monteiro,Jake Schreier
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/cX4acZbi2l4v051NJZfonqY0E3X.jpg
 ---
 
 Aspiring filmmaker Lisa N. Nova (Rosa Salazar) wants revenge after producer Lou Burke (Eric Lange) breaks a promise in 1990s Hollywood in the horror/thriller limited series based on Todd Grimson's novel of the same name.
+Image poster gotten from themoviedb.org

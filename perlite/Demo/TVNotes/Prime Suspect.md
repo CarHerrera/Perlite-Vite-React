@@ -10,7 +10,8 @@ User Score: 75
 User Count: 50
 Director: nan
 Creator: Lynda La Plante
-image: 
+image: https://image.tmdb.org/t/p/w500/vhlbnMgz9hBouXWmxBS2RjFC03S.jpg
 ---
 
 Maria Bello is New York detective Jane Timoney in this reimagined version of the critically acclaimed British series.
+Image poster gotten from themoviedb.org

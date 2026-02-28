@@ -14,3 +14,4 @@ image:
 ---
 
 Another freak storm, this time off the coast of New York City, sets Fin (Ian Ziering) and April (Tara Reid) back into battle with hundreds of sharks in Manhattan.
+Image poster gotten from themoviedb.org

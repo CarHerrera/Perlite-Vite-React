@@ -10,7 +10,8 @@ User Score: 64
 User Count: 33
 Director: John Requa,Glenn Ficarra
 Creator: Glenn Ficarra,John Requa
-image: 
+image: https://image.tmdb.org/t/p/w500/zb5MArsrMxK4mSSLzUmbfcXAc60.jpg
 ---
 
 Corporate spy John Weir (Kiefer Sutherland) is framed for murder in this espionage thriller from writer-directors John Requa and Glenn Ficarra.
+Image poster gotten from themoviedb.org

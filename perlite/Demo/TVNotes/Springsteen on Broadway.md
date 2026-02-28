@@ -14,3 +14,4 @@ image:
 ---
 
 The Boss tells personal stories and plays acoustic versions of some of his songs in his one-man show at Broadway's Walter Kerr Theatre filmed July 17 and 18, 2018.
+Image poster gotten from themoviedb.org

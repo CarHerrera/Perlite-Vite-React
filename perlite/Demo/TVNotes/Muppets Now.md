@@ -10,7 +10,8 @@ User Score: 59
 User Count: 10
 Director: Bill Barretta,Kirk R. Thatcher
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vLVG99uRkETkMQkh5tN82S1CByI.jpg
 ---
 
 Kermit the Frog and the rest of the Muppet gang go unscripted in this short-form series that will also feature celebrity guests.
+Image poster gotten from themoviedb.org

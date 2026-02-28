@@ -10,7 +10,8 @@ User Score: 54
 User Count: 25
 Director: John Pasquin,Ted Wass
 Creator: Cristela Alonzo,Kevin Hench
-image: 
+image: https://image.tmdb.org/t/p/w500/qmvHnL6TP5XoUJB9pUDMaz95tOz.jpg
 ---
 
 Cristela (Cristela Alonzo) juggles law school, a job, and her skeptical family that includes her mother (Terri Hoyos), sister (Roxana Ortega), her brother-in-law (Carlos Ponce), and cousin (Gabrielle Iglesias).  
+Image poster gotten from themoviedb.org

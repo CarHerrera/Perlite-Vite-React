@@ -10,7 +10,7 @@ User Score: 87
 User Count: 19
 Director: nan
 Creator: Christopher Keyser,Amy Lippman
-image: 
+image: https://image.tmdb.org/t/p/w500/5LZgFeMynMeeKX8Bn9s1RWe9n9S.jpg
 ---
 
 Nothing could be worse than the sudden death of parents. One day Nick and Diana Salinger were killed in a terrible car crash, and left their five children all alone. Charlie (Matthew Fox), the oldest, will have to step in and take care of the family, serving both as father and brother. Bailey (Scott Wolf), the middle brother, tries to keep everything under control but undergoes an alcoholism problem when he realizes he can't do it all. Julia (Neve Campbell), a young girl who keeps jumping from one bad relationship to another. Claudia (Lacey Chabert), the youngest girl that plays the violin, who has to enter adolescence without any help of parents, and little baby Owen, who was only 6 months old when his parents died and thus will never know how it feels like to have a mother and a father. Together, they go through all sorts of problems, from handling their parents restaurant and trying to keep it running to disastrous relationships and school problems. Soon they realize that in order to survive, no one can be selfish and they all have to help each other. They're a family and have to stick together.
@@ -44,3 +44,4 @@ Awards and Nominations:
 • 1995 - Nominated - Young Artist Award (Lacey Chabert)
 • 1995 - Nominated - by the Casting Society of America for Best Casting for TV (Pilot)
 • 1995 - Won! - the Humanitas Prize
+Image poster gotten from themoviedb.org

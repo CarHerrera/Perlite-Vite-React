@@ -10,7 +10,8 @@ User Score: 67
 User Count: 54
 Director: Adamma Ebo,Ibra Ake
 Creator: Donald Glover,Janine Nabers
-image: 
+image: https://image.tmdb.org/t/p/w500/5Byf0mciDQU8sMtw0pjsV3veKaq.jpg
 ---
 
 Dre (Dominique Fishback) becomes obsessed with a pop star in this series co-created by Donald Glover and Janine Nabers.
+Image poster gotten from themoviedb.org

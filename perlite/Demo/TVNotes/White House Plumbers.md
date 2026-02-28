@@ -10,7 +10,8 @@ User Score: 74
 User Count: 37
 Director: nan
 Creator: Alex Gregory,Peter Huyck
-image: 
+image: https://image.tmdb.org/t/p/w500/z3OTxrOz0LdalxN62ejpeQfxWNN.jpg
 ---
 
 First hired in 1971, E. Howard Hunt (Woody Harrelson) and G. Gordon Liddy (Justin Theroux) end up causing the Watergate scandal the led to the end of Richard Nixon's presidency in this satirical drama miniseries from David Mandel, Peter Huyck, and Alex Gregory.
+Image poster gotten from themoviedb.org

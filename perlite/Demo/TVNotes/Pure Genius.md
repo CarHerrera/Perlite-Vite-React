@@ -10,7 +10,8 @@ User Score: 67
 User Count: 42
 Director: Norberto Barba,Dylan K. Massin
 Creator: Jason Katims,Sarah Watson
-image: 
+image: https://image.tmdb.org/t/p/w500/iMHokrKVOI7KDCQhXe6NyPkuPw8.jpg
 ---
 
 The medical drama created by Jason Katims about a Silicon Valley tech genius James Bell (Augustus Prew) who recruits surgeon  Walter Wallace (Mulroney) to start a new hospital which uses cutting-edge ideas.
+Image poster gotten from themoviedb.org

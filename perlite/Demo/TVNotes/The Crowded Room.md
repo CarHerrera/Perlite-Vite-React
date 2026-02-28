@@ -10,7 +10,8 @@ User Score: 70
 User Count: 62
 Director: nan
 Creator: Akiva Goldsman,Todd Graff
-image: 
+image: https://image.tmdb.org/t/p/w500/vRmopCFp0j1eJGbILLsYsYzxmL8.jpg
 ---
 
 Interrogator Rya Goodwin (Amanda Seyfried) learns how Danny Sullivan's (Tom Holland) past played a part in his involvement in a shooting in New York City in this miniseries inspired by Daniel Keyes' 1981 nonfiction book The Minds of Billy Milligan.
+Image poster gotten from themoviedb.org

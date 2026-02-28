@@ -14,3 +14,4 @@ image:
 ---
 
 This classic story comes to the small screen equipped with an all-star cast that includes Phylicia Rashad, Audra McDonald, John Stamos, Sean Combs, Sanaa Lathan and more.
+Image poster gotten from themoviedb.org

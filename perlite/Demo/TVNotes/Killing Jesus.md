@@ -14,3 +14,4 @@ image:
 ---
 
 The TV movie based on the book by Bill O'Reilly and Martin Dugard chronicles the life and death of Jesus of Nazareth (Haaz Sleiman) through political and social issues in the Roman Empire during the reign of King Herod (Kelsey Grammer) that led to his crucifixion.
+Image poster gotten from themoviedb.org

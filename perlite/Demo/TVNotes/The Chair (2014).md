@@ -14,3 +14,4 @@ image:
 ---
 
 Two first-time directors, Shane Dawson and Anna Martemucci, work on the same script by Dan Schoffer in the documentary series from Project Greenlight's Chris Moore. Ticket sales and digital voting will determine the winner of the $250,0000 prize.
+Image poster gotten from themoviedb.org

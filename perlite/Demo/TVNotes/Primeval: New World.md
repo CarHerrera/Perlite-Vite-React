@@ -10,7 +10,8 @@ User Score: 60
 User Count: 21
 Director: Andy Mikita,Martin Wood
 Creator: Garfield Reeves-Stevens,Judith Reeves-Stevens,Adrian Hodges,Tim Haines
-image: 
+image: https://image.tmdb.org/t/p/w500/732SPoxEdZT1fEqJSL2b59Dn7Oa.jpg
 ---
 
 The spinoff of the British sci-fi series “Primeval" finds anomalies in Vancouver, where creatures from the past threaten earth once again.
+Image poster gotten from themoviedb.org

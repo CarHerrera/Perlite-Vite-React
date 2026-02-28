@@ -10,7 +10,8 @@ User Score: 74
 User Count: 25
 Director: Laurent Bouzereau
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/lQI1J0MvFmB6pREOyyBaAQpuSAE.jpg
 ---
 
 Narrated by Meryl Streep, the three-part documentary based on Mark Harris's 2014 book about filmmakers experiences in and after World War II focuses on Frank Capra, John Ford, John Huston, George Stevens and William Wyler with interviews from Steven Spielberg, Francis Ford Coppola, Guillermo del Toro, Paul Greengrass and Lawrence Kasdan.
+Image poster gotten from themoviedb.org

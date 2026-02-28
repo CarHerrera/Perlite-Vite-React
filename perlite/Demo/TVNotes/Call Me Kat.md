@@ -10,7 +10,8 @@ User Score: 37
 User Count: 36
 Director: nan
 Creator: Miranda Hart
-image: 
+image: https://image.tmdb.org/t/p/w500/eEwTV4Z397UgMlbJN3FQDdTOMpO.jpg
 ---
 
 39-year-old Kat (Mayim Bialik) opens a cat café in Louisville with her wedding money and strives to prove to her mother (Swoosie Kurtz) you can't have everything you want in this comedy based on the British series, Miranda.
+Image poster gotten from themoviedb.org

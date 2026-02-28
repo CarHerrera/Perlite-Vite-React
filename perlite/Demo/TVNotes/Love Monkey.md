@@ -10,7 +10,7 @@ User Score: 0
 User Count: 0
 Director: Tamra Davis
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/v7LxXX1mEK26dAJP15ASyUmIynb.jpg
 ---
 
 The series is about four male friends at different stages of life and love as told through the eyes of a single, thirtysomething record executive.  
@@ -29,3 +29,4 @@ Apr 06 - present = Tue 9:00pm VH1
 =============================
 
 Since only 3 episodes aired on CBS, this guide is now going to list the VH1 airdates.
+Image poster gotten from themoviedb.org

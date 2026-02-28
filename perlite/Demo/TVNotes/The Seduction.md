@@ -10,9 +10,10 @@ User Score: 0
 User Count: 3
 Director: Jessica Palud
 Creator: Jean-Baptiste Delafon
-image: 
+image: https://image.tmdb.org/t/p/w500/vknbnvegsTrzjqa8fsPyXN4wCHI.jpg
 ---
 
 The French reimagining of Pierre Choderlos de Laclos's novel Les Liaisons Dangereuses (Dangerous Liasions) centers on Isabelle de Merteuil, the Marquise de Merteuil (Anamaria Vartolomei).
 
 [Known as Merteuil in France]
+Image poster gotten from themoviedb.org

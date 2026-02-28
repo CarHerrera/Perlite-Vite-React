@@ -14,3 +14,4 @@ image:
 ---
 
 A 2004 American two-part television miniseries which first ran on TNT. It is the second television version of Stephen King's 1975 vampire novel of the same name.
+Image poster gotten from themoviedb.org

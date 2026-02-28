@@ -10,7 +10,8 @@ User Score: 69
 User Count: 17
 Director: Christopher Menaul
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gdsjYtMBiHLIajWrqyQPO0x4mWl.jpg
 ---
 
 This new medical drama is about a military hospital in Afghanistan and the doctors who work there.
+Image poster gotten from themoviedb.org

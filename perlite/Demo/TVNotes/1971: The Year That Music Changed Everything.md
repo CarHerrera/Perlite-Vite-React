@@ -10,7 +10,8 @@ User Score: 73
 User Count: 12
 Director: Asif Kapadia,James Rogan,Danielle Peck
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tmq56JYUMh5xik1FHMgtbhjwHOP.jpg
 ---
 
 The eight-part documentary features archival footage and interviews about how musicians such as The Rolling Stones, Aretha Franklin, Marvin Gaye, Bob Marley, Joni Mitchell, Lou Reed and The Who influenced changes in culture and politics.
+Image poster gotten from themoviedb.org

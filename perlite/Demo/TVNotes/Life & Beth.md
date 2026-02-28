@@ -10,7 +10,8 @@ User Score: 53
 User Count: 38
 Director: nan
 Creator: Amy Schumer
-image: 
+image: https://image.tmdb.org/t/p/w500/6PuIZmC5NBvUskjV4i24gdXr8AM.jpg
 ---
 
 An incident causes Beth (Amy Schumer) to look back into her past and reassess who she is in this comedy series written, directed and produced by Schumer.
+Image poster gotten from themoviedb.org

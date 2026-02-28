@@ -10,7 +10,8 @@ User Score: 84
 User Count: 32
 Director: David Barrett,Fred Gerber,Terry McDonough,David Solomon
 Creator: Grant Scharbo
-image: 
+image: https://image.tmdb.org/t/p/w500/23cbKVCDdzufFYxmlUIQcHZzwv4.jpg
 ---
 
 The Gates follows Nick Monohan, a cop who has been hired as the police chief of a seemingly harmless planned community. Nick soon discovers there is much more to its residents than meets the eye.
+Image poster gotten from themoviedb.org

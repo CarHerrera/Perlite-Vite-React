@@ -10,7 +10,8 @@ User Score: 70
 User Count: 6
 Director: nan
 Creator: David E. Kelley
-image: 
+image: https://image.tmdb.org/t/p/w500/x8ic33t4NurJul1oXmvKwKtWH28.jpg
 ---
 
 This medical drama focuses on the personal and professional trials and tribulations of the medical staff of Chicago Hope Hospital.
+Image poster gotten from themoviedb.org

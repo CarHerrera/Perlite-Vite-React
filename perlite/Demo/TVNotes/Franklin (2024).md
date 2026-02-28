@@ -14,3 +14,4 @@ image:
 ---
 
 In 1776, Benjamin Franklin (Michael Douglas) begins a secret mission to get money and military aid from France in the eight-part series based on Stacy Schiff's book, "A Great Improvisation: Franklin, France, and the Birth of America."
+Image poster gotten from themoviedb.org

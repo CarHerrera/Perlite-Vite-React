@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Jace Alexander,Timothy Busfield
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/dw949gFDjrXZflWANNzfPKr7wXv.jpg
 ---
 
 Canterbury's Law follows a passionate female defense attorney, Elizabeth Canterbury, who pushes the envelope to protect her innocent clients.
+Image poster gotten from themoviedb.org

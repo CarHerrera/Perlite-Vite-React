@@ -14,3 +14,4 @@ image:
 ---
 
 Based on Andrew Sorkin's best-selling book of the same name published in 2008. It follows the financial crisis of that year and Wall Street's struggle with Washington. 
+Image poster gotten from themoviedb.org

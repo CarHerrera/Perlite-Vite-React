@@ -14,3 +14,4 @@ image:
 ---
 
 The web series created by Katja Blichfeld & Ben Sinclair about a marijuana dealer (Ben Sinclair) in New York City moves to HBO.
+Image poster gotten from themoviedb.org

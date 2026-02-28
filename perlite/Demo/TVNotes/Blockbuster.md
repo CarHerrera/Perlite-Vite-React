@@ -10,7 +10,8 @@ User Score: 40
 User Count: 32
 Director: Payman Benz,Jackie Clarke,Aleysa Young
 Creator: Vanessa Ramos
-image: 
+image: https://image.tmdb.org/t/p/w500/1seIJ8wIKo3KXp7hnwS5wj69U8M.jpg
 ---
 
 Timmy Yoon (Randall Park) and the staff at the last Blockbuster store in America seek to keep it open in this comedy series created by Vanessa Ramos.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 81
 User Count: 36
 Director: Dave Grohl
 Creator: Dave Grohl
-image: 
+image: https://image.tmdb.org/t/p/w500/g6OKf4gfojZg5Npfx6RPzVz8c8T.jpg
 ---
 
 The documentary series directed by Dave Grohl follows his rock band as they recorded their eighth studio album in eight cities: Austin, Chicago, Los Angeles, Nashville, New Orleans, New York, Seattle, and Washington, D.C.
+Image poster gotten from themoviedb.org

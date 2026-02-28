@@ -14,3 +14,4 @@ image:
 ---
 
 The life and career of the Washington Post editor Ben Bradley is illustrated by archival footage, interviews, home movies, and photos in this documentary directed by John Maggio.
+Image poster gotten from themoviedb.org

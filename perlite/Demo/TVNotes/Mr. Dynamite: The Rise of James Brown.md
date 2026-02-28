@@ -14,3 +14,4 @@ image:
 ---
 
 Produced by Mick Jagger and directed by Alex Gibney, the documentary about the Godfather of Soul features footage from the 1964 concert film, "T.A.M.I Show," as well as interviews from former band members. 
+Image poster gotten from themoviedb.org

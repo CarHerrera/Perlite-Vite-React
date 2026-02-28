@@ -10,7 +10,7 @@ User Score: 50
 User Count: 25
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/s5R2Ge8f5i0cx5vwOCllxzPWVJp.jpg
 ---
 
 The biggest winner is "The Biggest Loser" in this compelling new weight-loss reality drama in which two celebrity fitness trainers join with top health experts to help overweight contestants transform their bodies, health and ultimately, their lives. Alison Sweeney ("Days of Our Lives") hosts the unscripted, two-hour series in which two competing teams follow comprehensive diet and exercise plans to undergo radical physical makeovers. Unique physical challenges, surprising alliances and irresistible temptations make the competition even tougher for the contestants, who ultimately have to decide which player gets eliminated each week. In the end, "The Biggest Loser" becomes the biggest winner, walking away with a healthier body - and $250,000. "The Biggest Loser" is a production of NBC Universal Television Studio, Reveille, 25/7 Productions and 3 Ball Productions. Ben Silverman (NBC's "The Restaurant," "The Office (US)"), David Broome ("Jingle Ball Rock"), J.D. Roth ("NBC's "For Love or Money," "Endurance"), John Foy ("For Love or Money," "Endurance") and Todd A. Nelson ("For Love or Money," "Endurance") are the executive producers.
@@ -35,3 +35,4 @@ October 2004 - Present: Tuesdays @ 8:00pm EST/PST.
 January 2005 - February 2005: Wednesdays @ 9:00pm EST/PST (Special Edition version)
 
 The Theme Song for the first season of The Biggest Loser is called "Looking Good, Feeling Gorgeous," by RuPaul. Seasons two through five featured "Proud" by Heather Small.
+Image poster gotten from themoviedb.org

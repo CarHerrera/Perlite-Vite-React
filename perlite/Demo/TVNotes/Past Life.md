@@ -10,9 +10,10 @@ User Score: 0
 User Count: 1
 Director: Dean White,Deran Sarafian
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vUEX0UjqxeC4Jc7pqQKCLSB1fqn.jpg
 ---
 
 Inspired from the book Reincarnationist, Past Life is about investigators taking clients back to their previous lives to resolve issues in the present. Dr. Kate Mcginn is confident and highly educated. She tries to understand the science behind the soul at The Talmadge Center for Behavioral Health in New York City. Her partner Price Whatley is the total opposite a real cynic as he battles his grief over the accidental death of his wife. Kate is mentored by Dr. Malachi Talmadge who is a legend in the field of cognitive research.  Deran Sarafian, director of K-Ville is set to direct.
 
 Past Life is produced by Bonanza Productions Inc., Warner Bros. Television.
+Image poster gotten from themoviedb.org

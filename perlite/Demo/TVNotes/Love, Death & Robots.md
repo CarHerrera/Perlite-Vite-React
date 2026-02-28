@@ -10,7 +10,8 @@ User Score: 78
 User Count: 674
 Director: Gabriele Pennacchioli,Jennifer Yuh Nelson,Jerome Denjean,Tim Miller,Franck Balson,Patrick Osborne
 Creator: Tim Miller
-image: 
+image: https://image.tmdb.org/t/p/w500/vL5BQvXH96cJzmNK5n7QliQxy90.jpg
 ---
 
 The animated anthology series from David Fincher and Tim Miller features episodes that range from five to 15 minutes long.
+Image poster gotten from themoviedb.org

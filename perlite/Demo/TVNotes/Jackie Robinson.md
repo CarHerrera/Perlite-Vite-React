@@ -10,7 +10,8 @@ User Score: 54
 User Count: 17
 Director: Ken Burns,Sarah Burns,David McMahon
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/zv8MyjEzChP4KAHQRqHBdPIKl9n.jpg
 ---
 
 The latest documentary from Ken Burns is about the life and impact of African-American baseball player Jackie Robinson.
+Image poster gotten from themoviedb.org

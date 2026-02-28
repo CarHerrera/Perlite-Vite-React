@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: Amanda Marsalis,David McWhirter
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vp6A0mthGwZmnowmLxqNPF0lVRN.jpg
 ---
 
 Staten Kirkland (Josh Duhamel) and Davis Collins (Eoin Macken) fight over land, water and Quinn O'Grady (Minka Kelly), who returns home after living in New York City. While Cap Fuller (James Brolin) tries to hold on to his ranch with help from a new foreman (Jack Schumacher) in April Blair's adaptation of the Jodi Thomas' romance book series of the same name.
+Image poster gotten from themoviedb.org

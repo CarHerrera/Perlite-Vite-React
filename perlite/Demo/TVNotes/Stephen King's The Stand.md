@@ -10,7 +10,8 @@ User Score: 74
 User Count: 22
 Director: Mick Garris
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/o4Gb63aXRh5mMqGifYACixnxGkQ.jpg
 ---
 
 A government-run lab accidentally lets loose a deadly superflu and the world's population is decimated. However, there are some survivors, who begin having dreams about two figures: a mystical old woman, or a scary man. Stephen King's terrifying adaptation of post-apocalyptic America is a mini-series that hooks you in and imprints itself in your mind for a long time. In a battle between good and evil set on Stephen King's stage, which will prevail?
+Image poster gotten from themoviedb.org

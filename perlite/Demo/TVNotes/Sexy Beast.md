@@ -10,7 +10,8 @@ User Score: 32
 User Count: 5
 Director: Michael Caleo,Stephen Moyer,Alex Eslam
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2JmAIoadGdOYtYmxaIR0repbbgm.jpg
 ---
 
 Set in 1990s East London, the series prequel to Jonathan Glazer's 2000 film of the same name focuses on the relationships between Gal Dove (James McArdle), Don Logan (Emun Elliott), Teddy Bass (Stephen Moyer) and Deedee (Sarah Greene).
+Image poster gotten from themoviedb.org

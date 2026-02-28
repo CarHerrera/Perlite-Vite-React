@@ -14,3 +14,4 @@ image:
 ---
 
 The documentary series from Alex Gibney focuses on cases of fraudulence and misconduct by businesses including Volkswagen, TRUMP Inc., HSBC, the pharmaceutical industry, payday lenders, and the Canadian maple syrup industry.
+Image poster gotten from themoviedb.org

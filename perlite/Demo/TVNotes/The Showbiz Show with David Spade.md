@@ -14,3 +14,4 @@ image:
 ---
 
 The Showbiz Show with David Spade , hosted by television and movie funnyman David Spade, cuts past the glitz of Tinseltown and gets to the heart of the industry.  David Spade’s irreverent brand of comedy puts a fresh spin on entertainment journalism, featuring interviews with guest stars and comedian correspondents.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 69
 User Count: 55
 Director: Marcela Said,Jonathan van Tulleken,Ridley Scott,Tanya Hamilton
 Creator: Peter Craig
-image: 
+image: https://image.tmdb.org/t/p/w500/fB0LKIEagglaJcNYzFPkYAEWON.jpg
 ---
 
 Ray (Brian Tyree Henry) and Manny (Wagner Moura) act as DEA agents to rob a house in rural Pennsylvania but have instead exposed a secret drug trafficking hub in the crime drama series from Peter Craig and Ridley Scott based on the book of the same name by Dennis Tafoya.
+Image poster gotten from themoviedb.org

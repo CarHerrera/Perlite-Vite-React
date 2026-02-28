@@ -10,7 +10,8 @@ User Score: 40
 User Count: 10
 Director: Ernest R. Dickerson,Ava DuVernay
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/wnug9DhsenurS5dWCypjZSRFnH6.jpg
 ---
 
 Alma (Rosario Dawson) searches for son in the near future where a second civil war has caused Manhattan to become a demilitarized zone in The limited series based on the comic series of the same name and executive produced by Ava DuVernay and Roberto Patino.
+Image poster gotten from themoviedb.org

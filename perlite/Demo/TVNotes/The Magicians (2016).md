@@ -14,3 +14,4 @@ image:
 ---
 
 High school senior Quentin Coldwater (Jason Ralph) secretly loves the  fantasy novels about the adventures of five children in a magical land called Fillory. He soon is accepted into an exclusive, secret magicians university called Brakebills in upstate New York and discovers Fillory is a real place in this adaptation of Lev Grossman's trilogy of books.
+Image poster gotten from themoviedb.org

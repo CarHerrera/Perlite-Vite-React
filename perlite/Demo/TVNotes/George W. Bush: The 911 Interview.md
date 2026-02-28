@@ -14,3 +14,4 @@ image:
 ---
 
 Get an exclusive, first-person insight into the former president's experience following the terrorist attacks of Sept. 11, 2001. President Bush recalls what he was thinking and feeling and what fueled his decisions that he had to make in the time following the attacks. 
+Image poster gotten from themoviedb.org

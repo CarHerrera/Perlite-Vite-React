@@ -10,7 +10,8 @@ User Score: 68
 User Count: 11
 Director: Matthew Hamachek,Matthew Heineman
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/AkOkkrcDhgaLgfSwKH8fsVwMtH1.jpg
 ---
 
 The two-part documentary series directed by Matthew Heineman and Matthew Hamachek chronicles the career of golfer Tiger Woods and features interviews and previously unseen footage.
+Image poster gotten from themoviedb.org

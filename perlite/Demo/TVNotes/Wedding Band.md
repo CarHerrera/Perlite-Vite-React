@@ -10,8 +10,9 @@ User Score: 68
 User Count: 19
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/vDQRzYIcq4ItgQL7KEfiAB766Ex.jpg
 ---
 
 After years of playing at bachelorette parties, bar mitzvahs, high-school reunions, and weddings, Tommy (Brian Austin Green), Eddie (Peter Cambor), Barry (Derek Miller), and Stevie (Harold Perrineau) want something more than being just the "wedding band."
 
+Image poster gotten from themoviedb.org

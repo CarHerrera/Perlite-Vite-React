@@ -10,7 +10,8 @@ User Score: 32
 User Count: 103
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jm95V8XjfvqmEhw0MN09wbg9Mi3.jpg
 ---
 
 Seth Meyers takes over Late Night with Jimmy Fallon's move over to the Tonight Show.
+Image poster gotten from themoviedb.org

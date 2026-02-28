@@ -14,3 +14,4 @@ image:
 ---
 
 The first of two specials on Netflix from the comedian features a return to the Comic Strip Live (where he had his professional debut) stage interspersed with old audio clips, photos and home movies.
+Image poster gotten from themoviedb.org

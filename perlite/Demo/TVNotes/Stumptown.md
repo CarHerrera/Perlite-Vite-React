@@ -10,7 +10,8 @@ User Score: 68
 User Count: 50
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/3KphzAbThulphwHGCu22RzFlhqR.jpg
 ---
 
 Army veteran Dex Parios (Cobie Smulders) works as a P.I. in Portland, Oregon in this drama series based on the graphic novel of the same name.
+Image poster gotten from themoviedb.org

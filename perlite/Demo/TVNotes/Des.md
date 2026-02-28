@@ -10,9 +10,10 @@ User Score: 78
 User Count: 23
 Director: Lewis Arnold
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9llAQpT74W2fajazgRvgN5Z5fyG.jpg
 ---
 
 The three-part miniseries about the investigation and trial of British serial killer, Dennis Nilsen (David Tennant).
 
 [Premiered originally in the UK on ITV on 14 Sep 2020]
+Image poster gotten from themoviedb.org

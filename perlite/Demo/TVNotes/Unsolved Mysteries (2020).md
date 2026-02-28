@@ -14,3 +14,4 @@ image:
 ---
 
 The revival of the mystery documentary series will be hostless and each episode will be a self-contained case.
+Image poster gotten from themoviedb.org

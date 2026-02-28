@@ -14,3 +14,4 @@ image:
 ---
 
 Newly sober journalist Danny Tate (Jamie Dornan) finds himself spending one rollicking night in Los Angeles with Fantasy Island actor Hervé Villechaize (Peter Dinklage) in this movie inspired by real events directed and co-written by Sacha Gervasi.
+Image poster gotten from themoviedb.org

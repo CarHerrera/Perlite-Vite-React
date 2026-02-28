@@ -10,7 +10,8 @@ User Score: 49
 User Count: 82
 Director: Alex Rudzinski
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/5ropLAggzraCNoT6QPltb9lxeP3.jpg
 ---
 
 The American version of the UK's Strictly Come Dancing features celebrities dancing with professional ballroom dancers. Bruno Tonioli, Carrie Ann Inaba, and Len Goodman give their opinions on the contestants and viewers at home vote on who should go or stay.
+Image poster gotten from themoviedb.org

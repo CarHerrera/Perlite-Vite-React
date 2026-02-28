@@ -10,7 +10,8 @@ User Score: 73
 User Count: 23
 Director: Mat Whitecross
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/Ap2RdhXi8mEGsGrgfPpsVF01mSZ.jpg
 ---
 
 During World War II, James Bond author Ian Fleming (Dominic Cooper) was a rich playboy who failed as a stockbroker and army soldier before finding his calling with a position with British Naval Intelligence that would later influence his future writings.
+Image poster gotten from themoviedb.org

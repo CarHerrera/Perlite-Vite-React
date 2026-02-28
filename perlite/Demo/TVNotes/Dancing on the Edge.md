@@ -10,7 +10,8 @@ User Score: 71
 User Count: 8
 Director: Stephen Poliakoff
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/jRV8FH1Hh2ciHcuYSjfWm6uuBNB.jpg
 ---
 
 The five-part miniseries focuses on the black jazz band led by Louis Lester (Chiwetel Ejiofor) as they find success with the help of music journalist Stanley Mitchell (Matthew Goode), Prince George (John Hopkins), and rich patrons such as Pamela Luscombe (Joanna Vanderham), her brother, Julian (Tom Hughes), Lady Cremone (Jacqueline Bisset), Donaldson (Anthony Head) and American industrialist Walter Masterson (John Goodman), before a murder threatens their progress.
+Image poster gotten from themoviedb.org

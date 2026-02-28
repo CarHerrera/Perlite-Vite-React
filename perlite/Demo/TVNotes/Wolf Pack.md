@@ -10,7 +10,8 @@ User Score: 76
 User Count: 14
 Director: Joseph P. Genier,Christian Taylor
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rbCANmS1ogweUkIBghP03EHtdHB.jpg
 ---
 
 Teens Everett Lang (Armani Jackson) and Blake Navarro (Bella Shepard) are attacked by a supernatural creature during a wildfire and discover a connection to twins Luna (Chloe Rose Robertson) and Harlan (Tyler Lawrence Gray) Briggs in this series based on the novels by Edo Van Belkom.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 79
 User Count: 144
 Director: Geir Henning Hopland,Simen Alsvik,Øystein Karlsen,Ole Endresen
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/o5I2D5oeIEafpyFw30v11AwkhnB.jpg
 ---
 
 Streamed exclusively on Netflix, the Norwegian black comedy series is about a New York mobster (Steven Van Zandt) who moves to Lillehammer, Norway, under the witness protection program.
+Image poster gotten from themoviedb.org

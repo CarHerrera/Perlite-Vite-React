@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: Heidi Ewing,Rachel Grady
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/84rb7mTBR3eVyozP5sOg4BTUIyE.jpg
 ---
 
 The four-part documentary series from Rachel Grady and Heidi Ewing follows the victims defrauded by conman Richard Scott Smith as they band together to seek justice by finding him before he steals another woman's money and disappears again.
+Image poster gotten from themoviedb.org

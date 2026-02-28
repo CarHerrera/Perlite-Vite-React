@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Ron de Moraes
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/gRefMfwOzVAHJS4uBsJ5KPOyE6m.jpg
 ---
 
 Thank God You're Here is an improv competition in which various comedic performers act in scenes without a script. The performers' comedy skills, improvisational fortitude and acting talents are then judged by Dave Foley. The winner receives a 'Thank God You're Here' trophy and 'Hollywood street cred.' This show is derived from the Australian show of the same name.
+Image poster gotten from themoviedb.org

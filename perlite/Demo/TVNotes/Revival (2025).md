@@ -14,3 +14,4 @@ image:
 ---
 
 Officer Dana Cypress (Melanie Scrofano) is ready to leave town when the dead suddenly return to life in the series based on the Image Comics series from Tim Seeley and Mike Norton.
+Image poster gotten from themoviedb.org

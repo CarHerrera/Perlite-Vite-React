@@ -14,3 +14,4 @@ image:
 ---
 
 The second Netflix stand-up special for comedian Chris Rock is Netflix's first live-streamed show and features a pre-show hosted by Ronny Chieng and an aftershow hosted by Dana Carvey and David Spade after Rock's set.
+Image poster gotten from themoviedb.org

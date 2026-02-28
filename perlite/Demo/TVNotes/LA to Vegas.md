@@ -10,7 +10,8 @@ User Score: 60
 User Count: 30
 Director: nan
 Creator: Lon Zimmet
-image: 
+image: https://image.tmdb.org/t/p/w500/qrHza40GGG8Xt2CWuynMiA4aV27.jpg
 ---
 
 Captain Dave (Dylan McDermott) and his flight crew fly every weekend from Burbank to Vegas in this workplace comedy produced by Will Ferrell and Adam McKay. 
+Image poster gotten from themoviedb.org

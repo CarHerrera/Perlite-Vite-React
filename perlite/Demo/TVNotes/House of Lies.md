@@ -10,7 +10,8 @@ User Score: 62
 User Count: 178
 Director: Stephen Hopkins
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/xrrNWeMC9p2J0fEUCYYsyA67EdB.jpg
 ---
 
 Based on the book by Martin Kihn, the dark comedy series focuses on Marty Kaan (Don Cheadle), a management consultant, and his team, which includes Jeannie (Kristen Bell), Clyde (Ben Swartz), and Doug (Josh Lawson).
+Image poster gotten from themoviedb.org

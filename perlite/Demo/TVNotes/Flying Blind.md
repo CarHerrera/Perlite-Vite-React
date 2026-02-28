@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Michael Lembeck,Peter Bonerz,Ellen Gittelsohn,Jeff Melman
 Creator: Richard Rosenstock
-image: 
+image: https://image.tmdb.org/t/p/w500/1dCvISBnhkin6aO4WzsVgqMm0bR.jpg
 ---
 
 College grad Neil takes a job in his father's food comglomerate and proceeds with his dull, by-the-book life.  There, he meets and falls in love with the attractive Alicia, an eccentric free spirit who tempts him out of his bland and boring ways.
+Image poster gotten from themoviedb.org

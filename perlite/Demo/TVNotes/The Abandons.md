@@ -10,7 +10,8 @@ User Score: 36
 User Count: 32
 Director: Guy Ferland
 Creator: Kurt Sutter
-image: 
+image: https://image.tmdb.org/t/p/w500/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg
 ---
 
 Fiona Nolan (Lena Headey) and her found family battle the wealthy Constance Van Ness (Gillian Anderson) over ownership of land containing silver in the Pacific Northwest in the 1850s in the western drama created by Kurt Sutter.
+Image poster gotten from themoviedb.org

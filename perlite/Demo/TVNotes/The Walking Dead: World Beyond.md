@@ -10,7 +10,8 @@ User Score: 35
 User Count: 93
 Director: nan
 Creator: Scott M. Gimple,Matthew Negrete
-image: 
+image: https://image.tmdb.org/t/p/w500/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg
 ---
 
 The latest Walking Dead spin-off is set after the zombie apocalypse and the first generation born are coming-of-age including Hope (Alexa Mansour) and Iris (Aliyah Royale).
+Image poster gotten from themoviedb.org

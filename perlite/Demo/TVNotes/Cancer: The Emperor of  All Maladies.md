@@ -10,7 +10,8 @@ User Score: 72
 User Count: 5
 Director: Barak Goodman
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/wCibBsLRpLUwSMfYAjimn1HdULf.jpg
 ---
 
 Based on the Pulitzer Prize-winning book by Siddhartha Mukherjee, the six-hour documentary directed by Barak Goodman (and executive produced by Ken Burns) explores the history of cancer and the latest medical advances with stories of real-life patients.
+Image poster gotten from themoviedb.org

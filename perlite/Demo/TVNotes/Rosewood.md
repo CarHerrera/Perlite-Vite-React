@@ -10,7 +10,8 @@ User Score: 51
 User Count: 77
 Director: nan
 Creator: Todd Harthan
-image: 
+image: https://image.tmdb.org/t/p/w500/zjrfQbFzmOaOrgEbJHG2eIwjKbv.jpg
 ---
 
 Miami private pathologist Dr. Beaumont Rosewood Jr. (Morris Chestnut) teams up with Miami police detective Villa (Jaina Lee Ortiz). 
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 56
 User Count: 13
 Director: Brandon Dermer
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ltT3zIyrMQobjSwpc21WCFy61Tq.jpg
 ---
 
 The comedy series executive produced by Diplo features James Van Der Beek as a fictionalized version of the electronic/dance music DJ.
+Image poster gotten from themoviedb.org

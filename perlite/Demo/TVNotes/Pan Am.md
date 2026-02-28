@@ -10,7 +10,8 @@ User Score: 74
 User Count: 89
 Director: nan
 Creator: Jack Orman
-image: 
+image: https://image.tmdb.org/t/p/w500/fmWRWH4CEXzxuMtImHzepWqqfkf.jpg
 ---
 
 The lives of the flight attendants and pilots of the airline Pan Am is the focus of this 1960s-set drama.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 78
 User Count: 105
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/t5KJXooBqJLKUClpvYuSKNrcYGy.jpg
 ---
 
 "Get ready to get even."
@@ -20,3 +20,4 @@ Meet Nathan Ford, a former insurance investigator who spent his professional car
 Unemployed and teetering on the edge, Nate is approached about a Robin Hood-like scheme. He enlists the help of the best thieves and grifters in the business, and with their help, he steals from the rich and gives to the poor to help balance the crooks in high power positions. He and his team help provide...leverage.
 
 Leverage is produced by Electric Entertainment.
+Image poster gotten from themoviedb.org

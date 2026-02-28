@@ -10,7 +10,8 @@ User Score: 63
 User Count: 34
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/wtvWGPbS52DWLbtXvwbH2xpoaeN.jpg
 ---
 
 After the truth that her husband cheated on her comes out, country singer Reba Gallagher (Reba McEntire) leaves for California with her mother (Lily Tomlin) and two children.
+Image poster gotten from themoviedb.org

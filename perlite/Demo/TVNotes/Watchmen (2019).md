@@ -14,3 +14,4 @@ image:
 ---
 
 The Damon Lindelof series based on Alan Moore and Dave Gibbons' graphic novel of the same name is set in an alternative 2019, where there is no Internet, Robert Redford is president (28 years and counting), and the police wear masks to protect their identities.
+Image poster gotten from themoviedb.org

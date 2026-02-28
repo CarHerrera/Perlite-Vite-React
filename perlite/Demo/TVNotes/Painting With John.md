@@ -10,7 +10,8 @@ User Score: 62
 User Count: 16
 Director: John Lurie
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/g142eT0rWlKw7NRMfS0zbBlorCm.jpg
 ---
 
 John Lurie reflects on life and the lessons he's learned as he paints at his home in the Caribbean.
+Image poster gotten from themoviedb.org

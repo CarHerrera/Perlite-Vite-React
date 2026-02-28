@@ -10,7 +10,8 @@ User Score: 67
 User Count: 6
 Director: Ken Burns
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/5FEnmVarGMYobtnaG8jlqnh66Lt.jpg
 ---
 
 The life of Benjamin Franklin, one of the founding fathers of the US, is explored in the two-part documentary written by Dayton Duncan and directed by Ken Burns.
+Image poster gotten from themoviedb.org

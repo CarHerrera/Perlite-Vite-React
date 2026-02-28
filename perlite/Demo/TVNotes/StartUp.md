@@ -10,7 +10,8 @@ User Score: 73
 User Count: 96
 Director: Ben Ketai
 Creator: Ben Ketai
-image: 
+image: https://image.tmdb.org/t/p/w500/mXiB1e0x3iaRaaPPVhC1c7rgwPr.jpg
 ---
 
 In Miami, FBI agent Phil Rask (Martin Freeman) has been investigating Nick Talman's (Adam Brody) father, who asks his son to hide the dirty money. Nick invests the cash in a digital currency start up run Izzy Morales (Otmara Marrero), which also brings the interest of Ronald Dacey (Edi Gathegi), a local Haitian gang leader.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Nine contestants compete for the chance to be named the Hero and win a million dollars in this reality series hosted by Dwayne "The Rock" Johnson.
+Image poster gotten from themoviedb.org

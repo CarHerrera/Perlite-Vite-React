@@ -10,7 +10,8 @@ User Score: 77
 User Count: 441
 Director: Lucia Aniello
 Creator: Ilana Glazer,Abbi Jacobson
-image: 
+image: https://image.tmdb.org/t/p/w500/fRu9zQFdWHjEVyHwnIYqm0LRoKA.jpg
 ---
 
 Produced by Amy Poehler, the web comedy about two twenty-something best friends (Abbi Jacobson and Ilana Glazer) in New York City comes to television.
+Image poster gotten from themoviedb.org

@@ -16,3 +16,4 @@ image:
 The latest adaptation of Henry Fielding's novel from Gwyneth Hughes about the relationship between Tom Jones (Solly McLeod), who was born out of wedlock and heiress Sophia Western (Sophie Wilde).
 
 [Premiered originally in the US as a part of PBS's Masterpiece on 30 Apr 2023 and in the UK on ITVX on 4 May 2023]
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 51
 User Count: 50
 Director: Euros Lyn,John Fawcett,Renuka Jeyapalan
 Creator: Mae Martin
-image: 
+image: https://image.tmdb.org/t/p/w500/t6bk8g9DsITWZXwnw9jrA9RDdCB.jpg
 ---
 
 New local police officer Alex Dempsey (Mae Martin) begins investigating Tall Pines Academy and its leader, Evelyn (Toni Collette), after meeting two students (Sydney Topliffe and Alyvia Alyn Lind) desperate to leave it in the horror-thriller series from Martin.
+Image poster gotten from themoviedb.org

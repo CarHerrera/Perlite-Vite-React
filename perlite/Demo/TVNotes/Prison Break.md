@@ -10,9 +10,10 @@ User Score: 78
 User Count: 1456
 Director: nan
 Creator: Paul T. Scheuring
-image: 
+image: https://image.tmdb.org/t/p/w500/wnmNPaLvhnMeOqnWlhNkYCZxtda.jpg
 ---
 
 Prison Break is a drama from executive producers Brett Ratner, Paul Scheuring, Matt Olmstead, Marty Adelstein, Dawn Parouse and Neal Moritz.
 
 After getting himself incarcerated in Fox River State Penitentiary to free his wrongly accused brother, Lincoln Burrows, Michael Scofield is now on the loose–along with his brother.  Tasked by a government agent to take down The Company, the brothers work along side former correctional officer Brad Bellick, former federal agent Alexander Mahone and other odd characters.
+Image poster gotten from themoviedb.org

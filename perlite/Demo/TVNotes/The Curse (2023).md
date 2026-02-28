@@ -18,3 +18,4 @@ A newly married couple (Emma Stone and Nathan Fielder) are dealing with a possib
 [Premieres on Paramount+ with Showtime on 10 Nov 2023 and on Showtime on 12 Nov 2023]
 
  
+Image poster gotten from themoviedb.org

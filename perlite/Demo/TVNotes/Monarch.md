@@ -10,7 +10,8 @@ User Score: 50
 User Count: 6
 Director: nan
 Creator: Melissa London Hilfers
-image: 
+image: https://image.tmdb.org/t/p/w500/gwF3jnxoRhnp0D1alh5UgopnlW2.jpg
 ---
 
 The legacy of country music legends Dottie Cantrell Roman (Susan Sarandon) and Albie Roman (Trace Adkins) is threatened and their daughter (Anna Friel) will do everything to protect it in this drama series created by Melissa London Hilfers.
+Image poster gotten from themoviedb.org

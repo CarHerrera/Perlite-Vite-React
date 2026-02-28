@@ -10,7 +10,8 @@ User Score: 74
 User Count: 38
 Director: nan
 Creator: Chris Brancato,Paul Eckstein
-image: 
+image: https://image.tmdb.org/t/p/w500/avhyzJycLNi3nXov2lREhDkP3ik.jpg
 ---
 
 In the 1960s, crime boss Bumpy Johnson (Forest Whitaker) returns to Harlem after a decade in prison to find it under the control of the Italian mob and becomes friends with Malcolm X (Nigél Thatch) in this drama from Chris Brancato and Paul Eckstein.
+Image poster gotten from themoviedb.org

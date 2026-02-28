@@ -14,3 +14,4 @@ image:
 ---
 
 Alyvia Alyn Lind as a young Dolly returns in this sequel to 2015's Dolly Parton’s Coat of Many Colors.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Jewel and Kara DioGuardi are set to host. Twelve undiscovered singers and songwriters compete in songwriting challenges. The episode's winning song will be performed by a popular artist.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 70
 User Count: 85
 Director: Rebecca Thomas,Haifaa Al-Mansour,Aaron Moorhead,Justin Benson
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/l1jeSEm6a88GFcLzlHQr60D0dOi.jpg
 ---
 
 Archivist Dan Turner (Mamoudou Athie) becomes obsessed with the subject of the old videotapes he was hired to restore: documentary filmmaker Melody Pendras (Dina Shihabi) and her investigation into a cult in this supernatural horror series loosely based on the podcast of the same name.
+Image poster gotten from themoviedb.org

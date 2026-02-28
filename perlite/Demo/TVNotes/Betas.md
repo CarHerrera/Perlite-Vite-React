@@ -10,7 +10,8 @@ User Score: 73
 User Count: 24
 Director: Michael Lehmann,Todd Strauss-Schulson
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6iJ5GFBXwjvH5i1Uuquv1gSvqL7.jpg
 ---
 
 Standford students Trey Barrett (Joe Dinicol) and Avinash "Nash" Dagavi (Karan Soni) dropout of college to work on their beta social network app BRB when they find a potential investor in "The Murch,"  George Murchison Jr. (Ed Begley Jr.).
+Image poster gotten from themoviedb.org

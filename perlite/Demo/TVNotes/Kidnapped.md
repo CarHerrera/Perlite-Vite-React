@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: Michael Dinner
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/7B1Yp0lMGjyWmuFRI6Qb4DxfozV.jpg
 ---
 
 Timothy Hutton and Dana Delaney star in this thrilling drama as a wealthy and powerful New York couple whose teenage son has been kidnapped. With local law enforcement, the FBI, and a private negotiating team all working on the case, one might think the boy would be rescued in no time...but as the series unfolds, it becomes clear that this "perfect" family may be hiding a few dark secrets of their own. 
+Image poster gotten from themoviedb.org

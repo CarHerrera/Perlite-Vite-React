@@ -14,3 +14,4 @@ image:
 ---
 
 Julie Walters plays TV campaigner Mary Whitehouse in this television movie. The story follows the formation of Whitehouse's campaign groups and chronicles how she took on BBC Director General Sir Hugh Green.
+Image poster gotten from themoviedb.org

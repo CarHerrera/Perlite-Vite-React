@@ -10,7 +10,8 @@ User Score: 75
 User Count: 102
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/3MwvNMhD9xpf1exlSfWgVm4sOF5.jpg
 ---
 
 Cassie (Britt Robertson) moves to Chance Harbor, Washington, after her mother dies and discovers she is one of several high school girls who descend from powerful witches, in the drama based on the books by L.J. Smith (who also penned the Vampire Diaries books).
+Image poster gotten from themoviedb.org

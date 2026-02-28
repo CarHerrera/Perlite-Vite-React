@@ -10,9 +10,10 @@ User Score: 40
 User Count: 6
 Director: China Moo-Young,Julia Ford
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/wxR3Yskt1Lc2lXRmxMK8YrzmbKs.jpg
 ---
 
 Set in 2012, best friends Maggie (Emma Appleton) and Birdy (Bel Powley) have moved to London where they juggle work and relationships post-university with with friends Amara and Nell in this fictional adaptation of Dolly Alderton's memoir of the same name.
 
 [Premiered originally in the UK on BBC Three on 7 Jun 2022 and in the US on Peacock on 25 Aug 2022]
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 50
 User Count: 96
 Director: Lesli Linka Glatter
 Creator: Eric Newman,Noah Oppenheim,Michael Schmidt
-image: 
+image: https://image.tmdb.org/t/p/w500/odIyR46aAX59dvQ1ON4P53ow1aE.jpg
 ---
 
 Former U.S. President George Mullen (Robert De Niro) is asked by the current President Evelyn Mitchell (Angela Bassett) to head up the Zero Day Commission after a cyberattack in the limited series co-created by Eric Newman, Noah Oppenheim and the New York Times' Michael S. Schmidt.
+Image poster gotten from themoviedb.org

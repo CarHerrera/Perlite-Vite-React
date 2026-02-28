@@ -10,7 +10,8 @@ User Score: 89
 User Count: 102
 Director: Hugh Pearson,Adam Chapman,Toby Nowlan,Jeff Wilson,Mandi Stark,Sophie Lanfear,Huw Cordey
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/wRSnArnQBmeUYb5GWDU595bGsBr.jpg
 ---
 
 The eight-part series from Planet Earth and Blue Planet director Alastair Fothergill was filmed over four years with 4k cameras and narrated by David Attenborough.
+Image poster gotten from themoviedb.org

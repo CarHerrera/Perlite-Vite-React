@@ -10,7 +10,8 @@ User Score: 73
 User Count: 102
 Director: nan
 Creator: James Duff
-image: 
+image: https://image.tmdb.org/t/p/w500/fZ502JXujnxVtprmigTO2jA205P.jpg
 ---
 
 Captain Sharon Raydor (Mary McDonnell) discovers the Major Crimes division is not thrilled with her taking over from Brenda Leigh Johnson (Kyra Sedgwick).
+Image poster gotten from themoviedb.org

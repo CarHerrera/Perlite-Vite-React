@@ -10,7 +10,8 @@ User Score: 81
 User Count: 907
 Director: nan
 Creator: Noah Hawley
-image: 
+image: https://image.tmdb.org/t/p/w500/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg
 ---
 
 Diagnosed as schizophrenic and now institutionalized, David Haller's (Dan Stevens) routine at a a psychiatric hospital is changed with the arrival of a new patient named Syd (Rachel Keller) and the discovery that the voices and visions may be real.
+Image poster gotten from themoviedb.org

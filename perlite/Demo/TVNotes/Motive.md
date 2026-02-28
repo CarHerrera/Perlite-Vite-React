@@ -10,7 +10,8 @@ User Score: 69
 User Count: 28
 Director: nan
 Creator: Daniel Cerone
-image: 
+image: https://image.tmdb.org/t/p/w500/gA5mK6VO1tJ4DCGhmXEcsYetvqH.jpg
 ---
 
 The Canadian mystery series lets the viewers see the killers and victims as Detective Angie Flynn (Kristin Lehman) and her partner Detective Oscar Vega (Louis Ferreira) try to discover who and why the killers did it.
+Image poster gotten from themoviedb.org

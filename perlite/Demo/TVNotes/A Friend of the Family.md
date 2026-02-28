@@ -10,7 +10,8 @@ User Score: 66
 User Count: 11
 Director: Rachel Goldberg,Eliza Hittman
 Creator: Nick Antosca
-image: 
+image: https://image.tmdb.org/t/p/w500/bmJkzDE6s0QYBGtpA4i2JLBco0j.jpg
 ---
 
 Nick Antosca's limited series based on the true story of the Broberg family centers on how Jan Broberg (Mckenna Grace) was kidnapped multiple times over several years by family friend Robert "B" Berchtold (Jake Lacy).
+Image poster gotten from themoviedb.org

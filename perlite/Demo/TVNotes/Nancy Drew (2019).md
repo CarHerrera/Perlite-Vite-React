@@ -14,3 +14,4 @@ image:
 ---
 
 18-year-old Nancy Drew (Kennedy McMann) was ready to leave for college when the death of her mother delays things and she becomes involved in a murder investigation in the series based on the classic mystery novels.
+Image poster gotten from themoviedb.org

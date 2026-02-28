@@ -14,3 +14,4 @@ image:
 ---
 
 Clint Barton (Jeremy Renner) mentors 22-year-old archer Kate Bishop (Hailee Steinfeld).
+Image poster gotten from themoviedb.org

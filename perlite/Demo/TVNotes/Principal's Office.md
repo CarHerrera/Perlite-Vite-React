@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/i2wOnt2i0NBoSqVHnfmviVJMYAK.jpg
 ---
 
 The challenges of being a school administrator are center stage in this truTV series.
+Image poster gotten from themoviedb.org

@@ -10,9 +10,10 @@ User Score: 67
 User Count: 17
 Director: Cooper Raiff
 Creator: Cooper Raiff
-image: 
+image: https://image.tmdb.org/t/p/w500/qqM46MePDr9BTU3qoNBFTBIZcqb.jpg
 ---
 
 Hal (Cooper Raiff) and Harper (Lili Reinhart) grow up too fast because of their father (Mark Ruffalo) in the dramedy from Raiff.
 
 [Premiered at the Sundance Film Festival on 26 Jan 2025 and in the US on MUBI on 19 Oct 2025]
+Image poster gotten from themoviedb.org

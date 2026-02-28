@@ -14,3 +14,4 @@ image:
 ---
 
 The Lifetime TV movie follows the love affair between Elizabeth Taylor (Lindsay Lohan) and Richard Burton (Grant Bowler) that began during the filming of Cleopatra to their two marriages and divorces. 
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 77
 User Count: 139
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/f2l5hUk63hPqYTucnFy2HmElFV0.jpg
 ---
 
 Small town. Big secret.
@@ -18,3 +18,4 @@ Small town. Big secret.
 A car accident leads U.S. Marshal Jack Carter into the top-secret Pacific Northwest town of Eureka. For decades, the United States government has relocated the world's geniuses to Eureka, a town where innovation and chaos have lived hand in hand.
 
 Eureka is produced by NBC Universal Cable Studio and filmed in the province of British Columbia, Canada.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 The staff at Miami's Maguire Medical Center juggle fallout from the relationship between third-year resident Dr. Danny Simms (Willa Fitzgerald) and Chief Resident Dr. Xander Phillips (Colin Woodell) just as a hurricane forces the hospital int lockdown in the medical drama from Zoe Robyn.
+Image poster gotten from themoviedb.org

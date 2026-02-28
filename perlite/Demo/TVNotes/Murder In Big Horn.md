@@ -10,7 +10,8 @@ User Score: 0
 User Count: 2
 Director: Razelle Benally,Matthew Galkin
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/dgzzWyEVtxGXM1hwQ67BsJDKsoK.jpg
 ---
 
 The three-part documentary series directed by Razelle Benally and Matthew Galkin focuses on three cases of murdered and missing Indigenous women in Montana.
+Image poster gotten from themoviedb.org

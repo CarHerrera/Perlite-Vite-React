@@ -10,7 +10,8 @@ User Score: 65
 User Count: 35
 Director: Matthew Penn
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/yTHaFClgAktpHwlAJzZGftep2ok.jpg
 ---
 
 Walter Clark (Theo James), the youngest police commissioner in New York City, tells a reporter of his rise from beat cop to his current position.
+Image poster gotten from themoviedb.org

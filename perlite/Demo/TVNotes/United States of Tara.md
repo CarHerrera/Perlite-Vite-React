@@ -10,9 +10,10 @@ User Score: 78
 User Count: 138
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/m0bJSiptKCPQkpY8Tse038AUjID.jpg
 ---
 
 Another twisted comedy about the unexpected nature of American families, this single-camera Showtime offering examines a wife and mother of two teens who suffers from dissociative identity disorder, which means she suffers from multiple personalities. Coping with it all is never easy, but it's always funny.
 
 Toni Collette has signed on to play the lead role.
+Image poster gotten from themoviedb.org

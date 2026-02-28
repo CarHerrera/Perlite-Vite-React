@@ -10,7 +10,8 @@ User Score: 47
 User Count: 19
 Director: Gary Ye
 Creator: John Eddie,Priscilla Presley
-image: 
+image: https://image.tmdb.org/t/p/w500/9iFMG4zyAkLnvfEwNqIiiEEQ342.jpg
 ---
 
 Elvis (voiced by Matthew McConaughey) joins a secret spy program in this animated series co-created by Priscilla Presley and John Eddie.
+Image poster gotten from themoviedb.org

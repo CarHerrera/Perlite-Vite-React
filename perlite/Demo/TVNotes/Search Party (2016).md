@@ -14,3 +14,4 @@ image:
 ---
 
 Dory (Alia Shawkat) becomes obsessed with finding a missing girl she barely knew in college with reluctant help from her boyfriend Drew (John Reynolds), her narcissist friend Elliott (John Early), and actress friend Portia (Meredith Hagner). TBS will air all 10 episodes over one week, with two episodes per night.
+Image poster gotten from themoviedb.org

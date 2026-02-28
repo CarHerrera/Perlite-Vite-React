@@ -14,3 +14,4 @@ image:
 ---
 
 The documentary film about Beyoncé's 2018 Coachella performance promises interviews, behind-the-scenes footage and information about the creation of her concept.
+Image poster gotten from themoviedb.org

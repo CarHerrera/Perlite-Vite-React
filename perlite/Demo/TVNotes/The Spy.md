@@ -10,7 +10,8 @@ User Score: 70
 User Count: 63
 Director: Gideon Raff
 Creator: Gideon Raff
-image: 
+image: https://image.tmdb.org/t/p/w500/bCGC6cAEKzm45J7SPsApAnp9mNx.jpg
 ---
 
 In the 1960s, Mossad agent Eli Cohen (Sacha Baron Cohen) infiltrates Syrian society and becomes friends with military leaders in this six-part limited series based on the real life of the Israeli spy written by Gideon Raff and Max Perry.
+Image poster gotten from themoviedb.org

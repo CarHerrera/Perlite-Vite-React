@@ -10,7 +10,8 @@ User Score: 65
 User Count: 23
 Director: Lesley Chilcott
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg
 ---
 
 The three-part documentary series directed by Lesley Chilcott looks at Arnold Schwarzenegger's rise from Austria to professional bodybuilder, actor and politician. 
+Image poster gotten from themoviedb.org

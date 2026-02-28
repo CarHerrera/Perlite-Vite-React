@@ -10,7 +10,8 @@ User Score: 82
 User Count: 6
 Director: Todd Holland,Peter Lauer
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/uby1dF8qZQLMnxiwXPCpANq81yL.jpg
 ---
 
 Three wealthy young brothers hire Ron Snuffkin to pose as their father when their real one goes to prison for committing a white collar crime. Ron is forced to step into the patriarch role of the Gunderson family and display different skills and tricks to keep the family going. Sons of Tucson is produced by 20th Century Fox Television and and J2TV.
+Image poster gotten from themoviedb.org

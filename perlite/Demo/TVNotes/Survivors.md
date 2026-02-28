@@ -10,7 +10,8 @@ User Score: 73
 User Count: 15
 Director: Jamie Payne,Andrew Gunn,Iain B. MacDonald,Farren Blackburn,David Evans,John Alexander
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/djYiHmLuom48ja9g712ZIiHgRbP.jpg
 ---
 
 An unknown virus pandemic kills more than 90% of the world's population. Those immune must strive to survive and overcome the difficulties of this new world order, hoping that the virus will not mutate.
+Image poster gotten from themoviedb.org

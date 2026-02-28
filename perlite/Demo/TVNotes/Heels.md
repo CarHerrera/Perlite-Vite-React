@@ -10,7 +10,8 @@ User Score: 67
 User Count: 35
 Director: Peter Segal
 Creator: Michael Waldron
-image: 
+image: https://image.tmdb.org/t/p/w500/69kPJaCFMXuZfbCrbDaYfMZbtJt.jpg
 ---
 
 Set in Georgia, wrestler Jack Spade (Stephen Amell) acts as the villainous antagonist to the hero played by younger brother Ace (Alexander Ludwig) as they seek to continue their late father's dream of an independent wrestling league in this drama series created by Michael Waldron.
+Image poster gotten from themoviedb.org

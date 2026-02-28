@@ -10,7 +10,8 @@ User Score: 73
 User Count: 276
 Director: Allan Cubitt,Jakob Verbruggen
 Creator: Allan Cubitt
-image: 
+image: https://image.tmdb.org/t/p/w500/fm7nN3nUADA7JGgnFNlOWpXn1tf.jpg
 ---
 
 Paul Spector (Jamie Dornan), a married man with two kids, the killer, plans his next kill as Detective Superintendent Stella Gibson (Gillian Anderson) is brought in from London to help solve the Belfast murder.
+Image poster gotten from themoviedb.org

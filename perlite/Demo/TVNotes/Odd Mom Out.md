@@ -10,7 +10,8 @@ User Score: 56
 User Count: 25
 Director: nan
 Creator: Jill Kargman
-image: 
+image: https://image.tmdb.org/t/p/w500/k2mh5mjEhr5LpWHA39WB1jpignp.jpg
 ---
 
 Author Jill Weber (Jill Kargman) struggles with fitting in the world of New York City's Upper East Side mothers in Bravo's first scripted comedy series.
+Image poster gotten from themoviedb.org

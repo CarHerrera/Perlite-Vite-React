@@ -10,7 +10,8 @@ User Score: 83
 User Count: 929
 Director: Harry Bradbeer,Tim Kirkby
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/27vEYsRKa3eAniwmoccOoluEXQ1.jpg
 ---
 
 Based on the play by Phoebe Waller-Bridge, the BBC3 comedy series focuses on an angry, self-loathing 20-something nicknamed Fleabag who struggles with running her cafe and the memory of the death of her best friend.
+Image poster gotten from themoviedb.org

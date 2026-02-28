@@ -10,7 +10,8 @@ User Score: 0
 User Count: 3
 Director: Justin Tipping,Natalie Bailey
 Creator: Etan Frankel
-image: 
+image: https://image.tmdb.org/t/p/w500/cmqA84Zgb698myAgzbtKq8IdYJH.jpg
 ---
 
 The limited series based on the Wondery podcast "Joe Exotic" focuses on Carole Baskin (Kate McKinnon) and how her rivalry with Joe "Exotic" Schreibvogel (John Cameron Mitchell) grew.
+Image poster gotten from themoviedb.org

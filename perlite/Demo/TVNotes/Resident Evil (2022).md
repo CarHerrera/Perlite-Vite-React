@@ -14,3 +14,4 @@ image:
 ---
 
 The sci-fi/horror series inspired by the video game franchise features the story of Jade Wesker (Ella Balinska), her father Albert (Lance Reddick), the Umbrella Corporation, and how New Raccoon City became the origin of a deadly virus that led to a global apocalypse in 2036.
+Image poster gotten from themoviedb.org

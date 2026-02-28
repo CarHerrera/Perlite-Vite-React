@@ -10,7 +10,8 @@ User Score: 72
 User Count: 25
 Director: Fred Savage,Cat Solen
 Creator: Riki Lindhome,Kate Micucci
-image: 
+image: https://image.tmdb.org/t/p/w500/ssli1RoRtD81vuHPj86OtKJSnBJ.jpg
 ---
 
 The comedy series follows the adventures of comedy-folk duo of Riki Lindhome (Garfunkel) and Kate Micucci (Oates).
+Image poster gotten from themoviedb.org

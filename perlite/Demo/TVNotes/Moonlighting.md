@@ -10,7 +10,7 @@ User Score: 80
 User Count: 12
 Director: Allan Arkush,Peter Werner
 Creator: Glenn Gordon Caron
-image: 
+image: https://image.tmdb.org/t/p/w500/yOetTNRQLPmlfO0k5377yhHZyC3.jpg
 ---
 
 When former fashion model Maddie Hayes goes broke and finds that one of her few remaining assets is ownership of the Blue Moon Detective Agency, she is tempted to liquidate it until she meets the quirky employees and gets involved in their even quirkier cases. 
@@ -24,3 +24,4 @@ March 1985 - February 1989: Tuesdays 9:00 PM
 
 April 1989 - May 1989: Sundays 8:00 PM
 
+Image poster gotten from themoviedb.org

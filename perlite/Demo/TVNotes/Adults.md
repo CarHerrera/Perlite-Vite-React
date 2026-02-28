@@ -10,7 +10,8 @@ User Score: 74
 User Count: 59
 Director: Anu Valia,Jason Woliner
 Creator: Ben Kronengold,Rebecca Shaw
-image: 
+image: https://image.tmdb.org/t/p/w500/lypznNe82xNRw6O9580JvpnUkN6.jpg
 ---
 
 Five 20-somethings friends juggle jobs, relationships and life in general while living together in the comedy series created by Ben Kronengold & Rebecca Shaw.
+Image poster gotten from themoviedb.org

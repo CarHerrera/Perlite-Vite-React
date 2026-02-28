@@ -14,3 +14,4 @@ image:
 ---
 
 Queen Latifah, Phylicia Rashad, Jill Scott, &nbsp;and Alfre Woodard star in this remake of the 1989 film (and the 1987 play).
+Image poster gotten from themoviedb.org

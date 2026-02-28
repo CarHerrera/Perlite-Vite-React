@@ -14,3 +14,4 @@ image:
 ---
 
 Ned Weeks (Mark Ruffalo) faces conflicts with his brother (Alfred Molina), his lover Felix (Matt Bomer), and Bruce Niles (Taylor Kitsch), a closeted investment banker, as he tries to organize awareness about a new disease killing gay men. While Ned's doctor and friend, Dr. Emma Brookner (Julia Roberts) does her best to council her patients in this adaptation of Larry Kramer's Tony-winning play about the early days of the AIDS crisis.
+Image poster gotten from themoviedb.org

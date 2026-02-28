@@ -10,7 +10,8 @@ User Score: 84
 User Count: 160
 Director: Louis C.K.
 Creator: Louis C.K.
-image: 
+image: https://image.tmdb.org/t/p/w500/vMLW6dhKcAzTweIuxl1iL0Ogbda.jpg
 ---
 
 Louis C.K. drops a surprise dramedy show on his website.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 65
 User Count: 19
 Director: nan
 Creator: Dan Futterman
-image: 
+image: https://image.tmdb.org/t/p/w500/aYtFBWV6KzDg5t1NgthsxvNnFPt.jpg
 ---
 
 Del Harris (Jeff Daniels), the chief of police in a small Pennsylvania Rust Belt town is tested on how far would he go to protect the son (Alex Neustaedter) of a woman (Maura Tierney) he loves from murder charges in this drama series based on Philipp Meyer's novel of the same name.
+Image poster gotten from themoviedb.org

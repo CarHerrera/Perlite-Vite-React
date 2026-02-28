@@ -14,3 +14,4 @@ image:
 ---
 
 The infamous murder trial of Lizzie Borden (Christina Ricci) for the killing of her father and stepmother in 1892 is dramatized in this TV movie.
+Image poster gotten from themoviedb.org

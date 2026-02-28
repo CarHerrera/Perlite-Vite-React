@@ -14,3 +14,4 @@ image:
 ---
 
 The newest adaptation of Edith Wharton's unfinished novel of the same name from Katherine Jakeways follows a group of wealthy young American heiresses (Alisha Boe, Kristine Frøseth, Aubi Ibrag, Josie Totah, and Imogen Waterhouse) as they seek husbands at London's debutante season during the 1870s.
+Image poster gotten from themoviedb.org

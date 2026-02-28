@@ -10,7 +10,8 @@ User Score: 68
 User Count: 19
 Director: nan
 Creator: Lesley Wake
-image: 
+image: https://image.tmdb.org/t/p/w500/mhs4Wx9KKNK92bGcACGVzK5nd3z.jpg
 ---
 
 Ex-Princeton music professor Arthur Cochran (Bradley Whitford) and a small-town church choir come together in this comedy from Lesley Wake Webster and Jason Winer.
+Image poster gotten from themoviedb.org

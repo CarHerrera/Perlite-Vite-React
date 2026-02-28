@@ -14,3 +14,4 @@ image:
 ---
 
 A successful comedian's (Kevin Hart) night out in Philadelphia with his troubled older brother (Wesley Snipes) causes major problems for him in this limited drama series from Eric Newman.
+Image poster gotten from themoviedb.org

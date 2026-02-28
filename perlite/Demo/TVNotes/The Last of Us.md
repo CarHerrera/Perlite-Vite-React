@@ -10,7 +10,8 @@ User Score: 59
 User Count: 5190
 Director: Neil Druckmann
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg
 ---
 
 Set 20 years after the destruction of civilization, Joel (Pedro Pascal) is hired to smuggle 14-year-old Ellie (Bella Ramsey) out of a quarantine zone in this drama series based on the PlayStation video game of the same name. 
+Image poster gotten from themoviedb.org

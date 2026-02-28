@@ -10,7 +10,8 @@ User Score: 55
 User Count: 81
 Director: Phil Abraham
 Creator: Nick Santora
-image: 
+image: https://image.tmdb.org/t/p/w500/6fM34tcGFp3A0csyxJJomknZB4b.jpg
 ---
 
 CIA operative Luke Brunner (Arnold Schwarzenegger) is just about to retire when he discovers his daughter (Monica Barbaro) is also working for the CIA in this spy comedy from Nick Santora.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Martin Scorsese's two-part documentary about legendary singer-songwriter Bob Dylan's rise to fame (and conversion from folk singer to rocker) in the period from 1961-66 aired as part of the PBS series American Masters.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 63
 User Count: 28
 Director: nan
 Creator: Reggie Rock Bythewood
-image: 
+image: https://image.tmdb.org/t/p/w500/nASkt8izgpR4toMYgiAnxfjWcE2.jpg
 ---
 
 Coach Ike (O'Shea Jackson Jr.) mentors top player Jace Carson (Isaiah Hill) and the rest of the team in this sport drama inspired by Kevin Durant's experiences with youth basketball.
+Image poster gotten from themoviedb.org

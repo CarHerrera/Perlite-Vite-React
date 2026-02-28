@@ -14,3 +14,4 @@ image:
 ---
 
 Robert Redford narrates the two-hour documentary about the 1976 film "All The President's Men" and the Watergate scandal it was based on.
+Image poster gotten from themoviedb.org

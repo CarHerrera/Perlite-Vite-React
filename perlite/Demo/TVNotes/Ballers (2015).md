@@ -14,3 +14,4 @@ image:
 ---
 
 The sports dramedy explores the lives and families of former and current football players, including retired football star Spencer Strasmore (Dwayne 'The Rock' Johnson), who is struggling to adjust to life as a financial advisor.
+Image poster gotten from themoviedb.org

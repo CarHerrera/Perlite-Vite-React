@@ -10,7 +10,8 @@ User Score: 72
 User Count: 100
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/JJxVsQPPiuLcArALotMHsCubeo.jpg
 ---
 
 High schooler Courtney Whitmore (Bassinger) discovers the Cosmic Staff and brings together a new group of heroes to fight villains seeking to destroy the world.
+Image poster gotten from themoviedb.org

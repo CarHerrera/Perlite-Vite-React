@@ -10,7 +10,8 @@ User Score: 78
 User Count: 27
 Director: Jeffrey Walker,Todd Strauss-Schulson,Joe Nussbaum,Stuart McDonald
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/hKanycHEsO40jxDnFeCCEytnTW4.jpg
 ---
 
 Zach Stone (Bo Burnham) decides against college to pursues his goal to become an overnight celebrity with a camera crew documenting his every move.
+Image poster gotten from themoviedb.org

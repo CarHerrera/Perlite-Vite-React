@@ -10,7 +10,8 @@ User Score: 68
 User Count: 55
 Director: nan
 Creator: Benito Skinner
-image: 
+image: https://image.tmdb.org/t/p/w500/9g5QRUSPBK4ABLzhO9D8ooir6tS.jpg
 ---
 
 Closeted football player Benny (Benito Skinner) and his new friend Carmen (Wally Baram) seek to fit in during their freshman year in college in the comedy series created and written by Skinner. 
+Image poster gotten from themoviedb.org

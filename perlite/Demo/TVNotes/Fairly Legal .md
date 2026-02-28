@@ -10,7 +10,8 @@ User Score: 60
 User Count: 46
 Director: Anton Cropper
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/4jf5y1BMpINEay9zy6omhqx2Kfc.jpg
 ---
 
 Sarah Shahi stars in this USA project as Kate Reed, a formidable litigator-turned-mediator. Fed up with the bureaucracy and injustice in the legal system, Kate Reed seeks a life of balance, not of winners and losers.
+Image poster gotten from themoviedb.org

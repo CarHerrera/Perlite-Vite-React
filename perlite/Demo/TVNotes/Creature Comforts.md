@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Richard Starzak
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/lf8rJiMiOhc4Ay9bjkhguFchrz3.jpg
 ---
 
 The makers of Wallace & Gromit bring you this collection of animated film shorts, which takes audio interviews of people on the street and uses them as voice tracks for stop-motion animals. Based on the hit British series of the same name, Creature Comforts will be the first animated series on CBS in thirteen years.The British series began airing on cable network BBC America in December of 2005, introducing U.S. audiences to the Annecy Award-winning plasticine comedy.CBS will initially air seven half-hour episodes for Creature Comforts.
+Image poster gotten from themoviedb.org

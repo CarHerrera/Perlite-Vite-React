@@ -14,3 +14,4 @@ image:
 ---
 
 In contrast to Project Runway, this Bravo reality project sees teams of fashion designers working together to create an entire line. Teams will both live and work together, thus creating a mini fashion business within the walls of a fashion-focused house.
+Image poster gotten from themoviedb.org

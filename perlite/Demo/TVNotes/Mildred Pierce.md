@@ -10,7 +10,8 @@ User Score: 74
 User Count: 50
 Director: Todd Haynes
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/eZ7TUocetldADAXZfnMSEVl7SbJ.jpg
 ---
 
 Based on the James M. Cain novel "Mildred Place," this miniseries will star Kate Winslet, who will play a single mother who goes into the restaurant business and gets involved in a murder. Joan Crawford starred in this film in 1945. 
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 Spike Lee's 1986 film is updated into a 10-episodes series where Brooklyn artist Nola Darling (DeWanda Wise) deals with work, friends and three lovers: model Greer Childs (Cleo Anthony), investment banker Jamie Overstreet (Lyriq Bent) and “Da Original B-Boy Sneakerhead” Mars Blackmon (Anthony Ramos).
+Image poster gotten from themoviedb.org

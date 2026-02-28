@@ -14,3 +14,4 @@ image:
 ---
 
 Charlotte (Finn Atkins), Emily (Chloe Pirrie) and Anne Brontë (Charlie Murphy) seek to publish their writings after the scandalous behavior of their brother Branwell (Adam Nagaitis) is discovered in this drama written by Sally Wainwright and based largely on Charlotte's letters.
+Image poster gotten from themoviedb.org

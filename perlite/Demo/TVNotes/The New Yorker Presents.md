@@ -10,7 +10,8 @@ User Score: 33
 User Count: 11
 Director: Ryan Miller
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/uk1Ad96fKQdEuSfDInoiDojcKi1.jpg
 ---
 
 The newsmagazine series produced by Alex Gibney features short films, comedy, poetry, animation, documentaries, and interviews.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 69
 User Count: 44
 Director: Andy Ackerman
 Creator: Jon Pollack,Scott Silveri
-image: 
+image: https://image.tmdb.org/t/p/w500/aY80mEg9vGfeuH8rkoJalzNQnCs.jpg
 ---
 
 Need to gauge how good your relationship is? Don't miss this romantic comedy project from NBC that spotlights three solid unions.
+Image poster gotten from themoviedb.org

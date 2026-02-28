@@ -10,7 +10,8 @@ User Score: 99
 User Count: 7
 Director: nan
 Creator: David Hollander
-image: 
+image: https://image.tmdb.org/t/p/w500/5USMJz2qw9QBd8yHpguYSz7RzKA.jpg
 ---
 
 The theme song to The Guardian is The Empire In My Mind as performed by Jakob Dylan of The Wallflowers.
+Image poster gotten from themoviedb.org

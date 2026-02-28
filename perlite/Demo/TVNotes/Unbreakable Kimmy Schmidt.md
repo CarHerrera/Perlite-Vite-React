@@ -10,7 +10,8 @@ User Score: 77
 User Count: 642
 Director: nan
 Creator: Robert Carlock,Tina Fey
-image: 
+image: https://image.tmdb.org/t/p/w500/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg
 ---
 
 Kimmy Schmidt (Ellie Kemper) moves to New York to start over after escaping from a doomsday cult in this comedy originally created by Tina Fey and Robert Carlock for NBC.
+Image poster gotten from themoviedb.org

@@ -10,9 +10,10 @@ User Score: 57
 User Count: 59
 Director: nan
 Creator: Steven Knight
-image: 
+image: https://image.tmdb.org/t/p/w500/598wQ3wr0fxpGemkR7ZVFTuHPXg.jpg
 ---
 
 The latest series from Peaky Blinders creator Steven Knight is set in 1880s London where Hezekiah (Malachi Kirby) meets the all-female criminal gang leader Mary Carr (Erin Doherty) and finds a rival in boxer Sugar Goodson (Stephen Graham).
 
 [Airs on Hulu in the US and on Disney+ in the UK]
+Image poster gotten from themoviedb.org

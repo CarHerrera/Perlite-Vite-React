@@ -14,3 +14,4 @@ image:
 ---
 
 The reboot of the 1970s show is hosted by a British comic named Tommy Maitland (reportedly Mike Meyers) with a rotating panel of celebrity judges that include Jack Black, Dana Carvey, Will Forte and Zach Galifianakis.
+Image poster gotten from themoviedb.org

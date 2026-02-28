@@ -10,7 +10,8 @@ User Score: 65
 User Count: 8
 Director: John Morton
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/5O9uEXosgtvNmZyOYYh0DCdiHGY.jpg
 ---
 
 The British mockumentary focuses on the people working to organize the 2012 London Olympics.
+Image poster gotten from themoviedb.org

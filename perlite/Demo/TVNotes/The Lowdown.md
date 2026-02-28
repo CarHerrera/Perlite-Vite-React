@@ -10,7 +10,8 @@ User Score: 69
 User Count: 58
 Director: nan
 Creator: Sterlin Harjo
-image: 
+image: https://image.tmdb.org/t/p/w500/aPd3Zn6c3iAMwhr79TPTtb6ovzF.jpg
 ---
 
 Tulsa journalist Lee Raybon's (Ethan Hawke) relentless pursuit of the truth is in danger after he publishes an expose on a powerful family in the series created and written by Sterlin Harjo.
+Image poster gotten from themoviedb.org

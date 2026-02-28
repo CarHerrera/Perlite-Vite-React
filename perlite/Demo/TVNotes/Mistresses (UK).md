@@ -14,3 +14,4 @@ image:
 ---
 
 BBC 1 presents a part-drama, part-thriller that focuses on the lives of four 30-something women and their relationships. 
+Image poster gotten from themoviedb.org

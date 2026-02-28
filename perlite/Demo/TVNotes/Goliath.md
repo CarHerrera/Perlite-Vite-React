@@ -10,7 +10,8 @@ User Score: 66
 User Count: 196
 Director: Lawrence Trilling
 Creator: David E. Kelley,Jonathan Shapiro
-image: 
+image: https://image.tmdb.org/t/p/w500/b7ygC3GRaq4xc0nkWdGnydtMfvD.jpg
 ---
 
 The David E. Kelley legal drama co-written with Jonathan Shapiro focuses on alcoholic, down-and-out attorney Billy McBride (Billy Bob Thornton) who sees a chance for redemption with a wrongful death case against an aerospace company represented by his former law partner (William Hurt) and the law firm he co-founded (and was fired from).
+Image poster gotten from themoviedb.org

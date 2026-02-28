@@ -10,7 +10,8 @@ User Score: 75
 User Count: 13
 Director: David Dryden
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/wYFSZd03aLh9xXR9nHwXeBHCO8E.jpg
 ---
 
 Prospective couples are placed in exotic locations and put to the test with multiple challenges in order to see if a romance can bloom.
+Image poster gotten from themoviedb.org

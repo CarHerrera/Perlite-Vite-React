@@ -14,3 +14,4 @@ image:
 ---
 
 After being mistaken as lesbians, best friends Karma Ashcroft (Katie Stevens) and Amy Raudenfeld (Rita Volk) continue the rouse as they become popular.
+Image poster gotten from themoviedb.org

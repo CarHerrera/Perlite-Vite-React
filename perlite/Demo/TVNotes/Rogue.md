@@ -10,7 +10,8 @@ User Score: 65
 User Count: 11
 Director: nan
 Creator: Matthew Parkhill
-image: 
+image: https://image.tmdb.org/t/p/w500/fiGa4VkDw9lb2AqKUbZvNd4K1Jw.jpg
 ---
 
 Grace Travis (Thandie Newton), an undercover detective seeks answers  to her son's murder, even as she develops feelings for the mob boss (Marton Csokas) who may have had a hand in it.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 61
 User Count: 577
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/yxMpoHO0CXP5o9gB7IfsciilQS4.jpg
 ---
 
 Sabrina (Kiernan Shipka) juggles life as a sophomore at Baxter High and as a witch with her Aunts Hilda (Lucy Davis) and Zelda (Miranda Otto) in this darker coming-of-age series based on the comic book series of the same name.
+Image poster gotten from themoviedb.org

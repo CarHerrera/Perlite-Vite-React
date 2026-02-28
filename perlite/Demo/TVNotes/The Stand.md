@@ -10,7 +10,8 @@ User Score: 24
 User Count: 124
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/o4Gb63aXRh5mMqGifYACixnxGkQ.jpg
 ---
 
 A deadly superflu leaves the few survivors with dreams of either of a friendly older woman named Mother Abagail (Whoopi Goldberg) or a more darker figure: Randall Flagg (Alexander Skarsgård) in this new adaptation of Stephen King's novel (that includes a new coda).
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 89
 User Count: 34
 Director: Charles S. Dubin,Alan Alda,Burt Metcalfe
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg
 ---
 
 M*A*S*H was a true ensemble series. Whilst characters such as Kellye, Igor, Rizzo, Goldman and Ginger are listed where they appear as specific characters central to the plot, they also appeared regularly as non-speaking cast members. This is also true of many of the nurses, corpsmen, orderlies and drivers listed as guest stars.
@@ -60,3 +60,4 @@ Jan 1978 - Sep 1983, CBS Mon 9:00-9:30
 251 Episodes In Color On Film
 
 Repeats air on Hallmark Channel.
+Image poster gotten from themoviedb.org

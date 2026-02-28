@@ -10,7 +10,8 @@ User Score: 72
 User Count: 33
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/aT5ZfaKJUx9gSTF4ygSZYNlsuqW.jpg
 ---
 
 Chozen (Bobby Moynihan) is a gay rapper fresh out of jail seeking to rebuild his career.
+Image poster gotten from themoviedb.org

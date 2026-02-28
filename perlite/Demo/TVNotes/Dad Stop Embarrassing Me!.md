@@ -10,7 +10,8 @@ User Score: 62
 User Count: 6
 Director: Ken Whittingham
 Creator: Jamie Foxx,Jim Patterson
-image: 
+image: https://image.tmdb.org/t/p/w500/6uyHcbsxmJRUsFYL9qsbN3QwA7J.jpg
 ---
 
 Single dad Brian Dixon (Jamie Foxx) wants to be the best father to his teenage daughter Sasha (Kyla-Drew) with the help of his own father (David Alan Grier) and sister (Porscha Coleman) in this comedy inspired by Foxx's relationship with his daughter.
+Image poster gotten from themoviedb.org

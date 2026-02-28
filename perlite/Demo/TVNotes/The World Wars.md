@@ -10,7 +10,8 @@ User Score: 41
 User Count: 24
 Director: nan
 Creator: Christie McConnell
-image: 
+image: https://image.tmdb.org/t/p/w500/y3KL7tlWsaLpB7zL1yAO5BZhoXG.jpg
 ---
 
 Narrated by Jeremy Renner, this three-part, six-hour miniseries covers World War I and World War II by utilizing reinactments, commentary from Sen. John McCain, British Prime Minister John Major, and Gen. Colin Powell, to illustrate the experiences and decisions that went into the wars.
+Image poster gotten from themoviedb.org

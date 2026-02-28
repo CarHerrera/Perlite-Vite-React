@@ -10,7 +10,8 @@ User Score: 67
 User Count: 418
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg
 ---
 
 Based on the 2013 South Korean series of the name, Dr. Shaun Murphy (Freddie Highmore) is a surgeon who has autism and savant syndrome who begins working at San Jose St. Bonaventure Hospital with the support of his mentor Dr. Ira Glassman (Richard Schiff) in this medical drama from David Shore and Daniel Dae Kim.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: M.J. Delaney
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9TN1ZA6VMz1hBGiIHVj2F3dR69R.jpg
 ---
 
 The agents and assistants at a small London talent agency juggle their personal and professional lives in this comedy series based on the French series Call My Agent!
+Image poster gotten from themoviedb.org

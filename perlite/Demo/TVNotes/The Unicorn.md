@@ -10,7 +10,8 @@ User Score: 54
 User Count: 26
 Director: nan
 Creator: Grady Cooper,Bill Martin,Mike Schiff
-image: 
+image: https://image.tmdb.org/t/p/w500/464MyJvlG2Po8J1ObAwRljf2Exf.jpg
 ---
 
 Wade (Walton Goggins), a widower with two daughters reluctantly begins dating and discovers he is very popular in this comedy from Bill Martin and Mike Schiff.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 43
 User Count: 7
 Director: Lisa Brühlmann
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/11FAvHhce6xrMqgumguAVZWmvSI.jpg
 ---
 
 Jane (Gugu Mbatha-Raw) moves into a house designed by architect (David Oyelowo), but there are very specific rules she must follow in this adaptation of JP Delaney’s novel of the same name.
+Image poster gotten from themoviedb.org

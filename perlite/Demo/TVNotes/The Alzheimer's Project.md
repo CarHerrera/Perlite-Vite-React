@@ -10,7 +10,8 @@ User Score: 0
 User Count: 0
 Director: Shari Cookson,Bill Couturié
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/dS08n9htr6FTfhg4Ma02bWkhDEu.jpg
 ---
 
 This series explores the devastation of Alzheimer's disease and the more than five million Americans that live with it everyday.A close look at groundbreaking discoveries made by top scientists, as well as the effects of this fatal disease, will also be presented. 
+Image poster gotten from themoviedb.org

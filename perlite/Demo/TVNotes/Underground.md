@@ -10,7 +10,8 @@ User Score: 68
 User Count: 42
 Director: nan
 Creator: Misha Green,Joe Pokaski
-image: 
+image: https://image.tmdb.org/t/p/w500/hBgYiAHqZBY0ypGKMd8NzYbEwnq.jpg
 ---
 
 A group of slaves from Georgia led by blacksmith Noah (Aldis Hodge) travel with the help of the underground railroad more than 600 miles towards freedom.
+Image poster gotten from themoviedb.org

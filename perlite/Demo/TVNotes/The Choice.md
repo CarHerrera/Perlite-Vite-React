@@ -14,3 +14,4 @@ image:
 ---
 
 Celebrity bachelors including rapper Romeo Miller; Jersey Shore's Mike Sorrentino (The Situation) and Pauly D; Joe Jonas of the Jonas Brothers; Rob Kardashian; Olympian skier Jeremy Bloom; soap actor Jason Cook; and chef Rocco DiSpirito select contestants based only on what they hear. The contestants in turn, after being revealed, select which bachelor they would like to date in this dating show hosted by Cat Deeley.
+Image poster gotten from themoviedb.org

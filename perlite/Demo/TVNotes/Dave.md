@@ -10,7 +10,8 @@ User Score: 76
 User Count: 112
 Director: nan
 Creator: Dave Burd,Jeff Schaffer
-image: 
+image: https://image.tmdb.org/t/p/w500/iorStu3DHuscNfQiIyQomvMyO0h.jpg
 ---
 
 20-year-old Dave (Dave Burd) seeks to convince everyone he is the all-time best rapper in this comedy series based on the life of rapper-comedian Dave Burd (aka Lil Dicky).
+Image poster gotten from themoviedb.org

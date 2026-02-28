@@ -10,7 +10,8 @@ User Score: 62
 User Count: 658
 Director: Greg Beeman
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg
 ---
 
 Written and produced by Robert Rodat and Steven Spielberg, this show takes place after an alien race has wiped out the majority of the human population. A group of soldiers ban together to try to stand up against the alien force.
+Image poster gotten from themoviedb.org

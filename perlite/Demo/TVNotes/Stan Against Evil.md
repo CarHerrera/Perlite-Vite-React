@@ -10,7 +10,8 @@ User Score: 62
 User Count: 48
 Director: Jack Bishop,Robert Cohen,Justin Nijm
 Creator: Dana Gould
-image: 
+image: https://image.tmdb.org/t/p/w500/4l6BIYxGdAhffh2KT16C6yAJzRn.jpg
 ---
 
 Former sheriff Stan Miller (John C. McGinley), who was forced into retirement, must work with his replacement Evie Barret (Janet Varney) after they discover demons in their small New England town in this horror comedy series from Dana Gould.
+Image poster gotten from themoviedb.org

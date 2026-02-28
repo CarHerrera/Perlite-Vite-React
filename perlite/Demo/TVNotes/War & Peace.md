@@ -10,7 +10,8 @@ User Score: 79
 User Count: 78
 Director: Tom Harper
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/ApMLjogoZFI8EHMEk8RwCyQzePT.jpg
 ---
 
 Countess Natasha Rostova (Lily James) becomes engaged to Prince Andrei Bolkonsky (James Norton) but eventually falls in love with Pierre Bezukhov (Paul Dano) in this adaptation of Leo Tolstoy's epic novel by Andrew Davies.
+Image poster gotten from themoviedb.org

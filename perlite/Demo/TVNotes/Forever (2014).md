@@ -10,7 +10,8 @@ User Score: 86
 User Count: 298
 Director: nan
 Creator: Matthew Miller
-image: 
+image: https://image.tmdb.org/t/p/w500/4OnnU4j2tQEOnsPnRZswW91v9vr.jpg
 ---
 
 New York City medical examiner Dr. Henry Morgan (Ioan Gruffudd) seeks the answers to his immortality as he helps Detective Jo Martinez (Alana de la Garza) solve cases.
+Image poster gotten from themoviedb.org

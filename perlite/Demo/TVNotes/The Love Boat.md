@@ -10,7 +10,7 @@ User Score: 68
 User Count: 5
 Director: Richard Kinon
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/fnsnazlj2bt3Fuj0pJ7wBPmuMLO.jpg
 ---
 
 This lighthearted anthology series came from the mind of successful producer Aaron Spelling. A new set of passengers would work through their problems with love every week aboard the Pacific Princess, which would make its way south from California to Mexico and back.
@@ -30,3 +30,4 @@ Nielsen Ranking:
 #56 in the 1985-1986 Season
 
 The memorable theme song was ranked the #32 greatest TV theme by TV Land in 2002.
+Image poster gotten from themoviedb.org

@@ -14,3 +14,4 @@ image:
 ---
 
 In the fall of 1942, U-612 begins its first voyage with a crew of 40 men led by Captain Klaus Hoffmann (Rick Okon). In the port of La Rochelle, translator Simone Strasser (Vicky Krieps) soon finds life complicated when she becomes involved with the French Resistance in this sequel to the 1981 film of the same name.
+Image poster gotten from themoviedb.org

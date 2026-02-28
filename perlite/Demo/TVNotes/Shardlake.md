@@ -10,7 +10,8 @@ User Score: 69
 User Count: 20
 Director: Justin Chadwick
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/2sGolleKPiX4gCAuFWR2Yp7KZ1L.jpg
 ---
 
 Set in Tudor England, Thomas Cromwell (Sean Bean) sends Matthew Shardlake (Arthur Hughes) and Jack Barak (Anthony Boyle) to investigate a murder in this series adaptation of the novels by CJ Sansom. 
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 82
 User Count: 47
 Director: Jay Roach
 Creator: Nancy Fichman,Katie Ford,Jennifer Hoppe
-image: 
+image: https://image.tmdb.org/t/p/w500/kj4XQzhszyu4YFQ9HgN3iQOCp4A.jpg
 ---
 
 Recovering addict Peggy (Patricia Arquette) becomes a private investigator in her small desert hometown after the death of her mother in this dark comedy created and written by Nancy Fichman, Katie Ford and Jennifer Hoppe.
+Image poster gotten from themoviedb.org

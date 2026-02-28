@@ -14,3 +14,4 @@ image:
 ---
 
 The series based on the Librarian films finds Librarian Flynn Carsen (Noah Wyle) teaming up with counter-terrorism agent Eve Baird (Rebecca Romijn) and her team that includes Jake (Christian Kane), Cassandra (Lindy Booth), and Ezekiel (John Kim). John Larroquette also stars as Jenkins, a long time expert of ancient lores.
+Image poster gotten from themoviedb.org

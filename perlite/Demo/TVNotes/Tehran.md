@@ -10,9 +10,10 @@ User Score: 68
 User Count: 69
 Director: Daniel Syrkin
 Creator: Dana Eden,Maor Kohn,Moshe Zonder
-image: 
+image: https://image.tmdb.org/t/p/w500/2KWsTNaKpzxuxUnRFU3cZ1WleQC.jpg
 ---
 
 Mossad agent Tamar Rabinyan (Niv Sultan) goes undercover in Tehran in this series created by Moshe Zonder, Dana Eden, and Maor Kohn.
 
 [Premiered originally in Israel on Kan 11 on 22 Jun 2020]
+Image poster gotten from themoviedb.org

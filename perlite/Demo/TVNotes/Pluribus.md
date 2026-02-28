@@ -10,7 +10,8 @@ User Score: 70
 User Count: 448
 Director: Gordon Smith,Vince Gilligan
 Creator: Vince Gilligan
-image: 
+image: https://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg
 ---
 
 Saving the world from happiness is down to one miserable person in Vince Gilligan's sci-fi series.
+Image poster gotten from themoviedb.org

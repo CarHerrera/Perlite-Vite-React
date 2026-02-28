@@ -10,7 +10,8 @@ User Score: 68
 User Count: 6
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/cRXl99OqcxBNBi7EinzUlPq3U0d.jpg
 ---
 
 Stanley Tucci travels across Italy to explore some of the regions signature dishes in this series partially filmed in 2019 and the summer of 2020. 
+Image poster gotten from themoviedb.org

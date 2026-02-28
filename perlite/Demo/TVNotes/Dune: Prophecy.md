@@ -10,7 +10,8 @@ User Score: 56
 User Count: 238
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg
 ---
 
 10,000 years before Paul Atreides, Valya (Emily Watson) and her sister, Tula Harkonnen (Olivia Williams) fight threats and establish what will be Bene Gesserit in the series inspired by the Dune prequel novel "Sisterhood of Dune". 
+Image poster gotten from themoviedb.org

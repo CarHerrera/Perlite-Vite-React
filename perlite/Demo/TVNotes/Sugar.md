@@ -10,7 +10,8 @@ User Score: 68
 User Count: 83
 Director: nan
 Creator: Mark Protosevich
-image: 
+image: https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg
 ---
 
 L.A. private detective John Sugar (Colin Farrell) investigates the disappearance of the granddaughter of a Hollywood producer in the drama series created by Mark Protosevich.
+Image poster gotten from themoviedb.org

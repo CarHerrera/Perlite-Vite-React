@@ -10,7 +10,8 @@ User Score: 81
 User Count: 809
 Director: Ed Bianchi
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/3yiwAUNGn1rsPSVmFgVwPVJFtYf.jpg
 ---
 
 Based on a popular Danish series called Forbrydelsen, this AMC crime drama project follows three different subplots all linked to a single murder.
+Image poster gotten from themoviedb.org

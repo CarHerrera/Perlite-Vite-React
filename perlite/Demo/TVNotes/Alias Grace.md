@@ -10,7 +10,8 @@ User Score: 71
 User Count: 112
 Director: Mary Harron
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/m6ChYjCPMpzAPzR7jm0omLbu9hS.jpg
 ---
 
 The second television series adaptation in 2017 from a Margaret Atwood novel is based on the true story of Irish immigrant in Canada named Grace Marks (Sarah Gadon), who in 1843 was convicted of murdering her employer and the housekeeper with the help of a stable hand named James McDermott (Kerr Logan).
+Image poster gotten from themoviedb.org

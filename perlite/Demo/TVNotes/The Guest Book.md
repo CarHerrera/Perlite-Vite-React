@@ -10,7 +10,8 @@ User Score: 66
 User Count: 26
 Director: Gregory Thomas Garcia,Samir Rehem,Michael Engler,Michael Fresco,Eyal Gordin,Rebecca Asher
 Creator: Gregory Thomas Garcia
-image: 
+image: https://image.tmdb.org/t/p/w500/7fHjNrwB0qWZ9FsCVivQuAd8H2g.jpg
 ---
 
 Guests staying at a mountain vacation home is at the center of this anthology comedy series from Greg Garcia.
+Image poster gotten from themoviedb.org

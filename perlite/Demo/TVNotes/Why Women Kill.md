@@ -10,7 +10,8 @@ User Score: 66
 User Count: 62
 Director: nan
 Creator: Marc Cherry
-image: 
+image: https://image.tmdb.org/t/p/w500/fI3E1G5N8oimMeyYn5UzWRT2cST.jpg
 ---
 
 Beth Ann, a 1960s housewife (Ginnifer Goodwin); Simone, a socialite in the '80s (Lucy Liu); and in 2019, lawyer Taylor (Kirby Howell-Baptiste) discover they each have been cheated on by their respective partners in the Marc Cherry dark comedy-drama.
+Image poster gotten from themoviedb.org

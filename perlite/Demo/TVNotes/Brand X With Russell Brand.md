@@ -14,3 +14,4 @@ image:
 ---
 
 Russell Brand talks about current events in politics and pop culture with a live audience.
+Image poster gotten from themoviedb.org

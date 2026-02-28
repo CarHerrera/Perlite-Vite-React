@@ -10,7 +10,8 @@ User Score: 53
 User Count: 27
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/rRv6Lji53tXnP1h6UGYDQVx4FGg.jpg
 ---
 
 A Jewish family's journey to be reunited after World War II separates them from each other is at the center of the adaptation of Georgia Hunter's novel that itself was inspired by the real history of her own relatives.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,8 @@ User Score: 78
 User Count: 83
 Director: Nigel Walk,Andrew R. Jones
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/9yjWMmYWQSDY2eelHECQcwSL816.jpg
 ---
 
 The nature documentary narrated by David Attenborough in the first two seasons and scored by Hans Zimmer, explores how dinosaurs lived in different environments 66 million years ago. Tom Hiddleston narrates the third season subtitled Ice Age.
+Image poster gotten from themoviedb.org

@@ -10,7 +10,7 @@ User Score: 0
 User Count: 3
 Director: Gary Fleder,Nelson McCormick,Lesli Linka Glatter
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/tpnE18Wn13lwIlhJQqWzyjCtEBI.jpg
 ---
 
 All the evidence of a crime is presented at the beginning of each episode in a videotaped evidence log. The story then goes back in time and shows each clue as the crime is committed.
@@ -25,3 +25,4 @@ The show was cancelled during it's evaluation break after the first four episode
 Broadcasting details:
 The first four episodes were aired on Wednesday 10pm, before the show went into a break where it got cancelled.
 The next four episodes aired on Saturday at 10pm.
+Image poster gotten from themoviedb.org

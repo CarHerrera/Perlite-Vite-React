@@ -10,7 +10,7 @@ User Score: 79
 User Count: 9
 Director: James Burrows
 Creator: James L. Brooks,Stan Daniels,David Davis,Ed. Weinberger
-image: 
+image: https://image.tmdb.org/t/p/w500/pua3A2XSaO6bP6WhVDBRbcyRTAS.jpg
 ---
 
 Taxi's television history is filled with contradictions. Produced by some of television comedy's most well-regarded talent, the show was canceled by two different networks. Despite winning fourteen Emmy Awards in only five seasons, the program's ratings were rock-bottom for its final seasons. Although it thrives in syndication and is still well-loved by many viewers, Taxi will be best remembered as the ancestral bridge between two of the most successful sit-coms of all time: The Mary Tyler Moore Show and Cheers. 
@@ -27,3 +27,4 @@ Taxi lives on in syndication, but its most significant place in television histo
 
 --Jason Mittel 
 The Museum of Broadcast Communications
+Image poster gotten from themoviedb.org

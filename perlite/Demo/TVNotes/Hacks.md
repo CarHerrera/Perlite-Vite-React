@@ -10,7 +10,8 @@ User Score: 77
 User Count: 264
 Director: Lucia Aniello
 Creator: Lucia Aniello,Paul W. Downs,Jen Statsky
-image: 
+image: https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg
 ---
 
 Deborah Vance (Jean Smart), a Las Vegas comedian, mentors Ava (Hannah Einbinder), a 25-year-old writer in this dark comedy from Paul W. Downs, Lucia Aniello and Jen Statsky.
+Image poster gotten from themoviedb.org

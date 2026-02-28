@@ -10,7 +10,8 @@ User Score: 47
 User Count: 18
 Director: Dan Clifton
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/w1ZBbL7JfFHHuKegbvwFheyKO5m.jpg
 ---
 
 Narrated by Josh Brolin, the 12-hour documentary miniseries traces the beginnings of humanity from hunter-gathers to the modern civilizations we have created.
+Image poster gotten from themoviedb.org

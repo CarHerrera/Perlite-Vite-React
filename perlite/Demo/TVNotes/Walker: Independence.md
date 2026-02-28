@@ -10,7 +10,8 @@ User Score: 39
 User Count: 7
 Director: nan
 Creator: Seamus Kevin Fahey,Anna Fricke
-image: 
+image: https://image.tmdb.org/t/p/w500/n0sgBHsLs0dgC1uYXtxvbZ8eywP.jpg
 ---
 
 Set in late 1800s, Bostonian Abby Walker (Katherine McNamara) seeks the killer of her husband in Independence, Texas, where she meets con artist Hoyt Rawlins (Matt Barr), Apache tracker Calian (Justin Johnson Cortez), dancer Kate Carver (Katie Findlay), Chinese immigrant Kai (Lawrence Kao), deputy sheriff Augustus (Philemon Chambers), and Sheriff Tom Davidson (Greg Hovanessian) in this "Walker" prequel series.
+Image poster gotten from themoviedb.org

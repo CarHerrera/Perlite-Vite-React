@@ -14,3 +14,4 @@ image:
 ---
 
 In this new sequel to the 1990s sitcom, Governor Zack Morris' (Mark-Paul Gosselaar) education plan transfers several students from recently closed schools to Bayside High, where Jessie Spano (Elizabeth Berkley Lauren) and A.C. Slater (Mario Lopez) now work.
+Image poster gotten from themoviedb.org

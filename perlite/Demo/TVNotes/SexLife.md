@@ -10,7 +10,8 @@ User Score: 59
 User Count: 34
 Director: Jessika Borsiczky,Sheree Folkson,Patricia Rozema,Samira Radsi
 Creator: Stacy Rukeyser
-image: 
+image: https://image.tmdb.org/t/p/w500/kfcJl5e8CRWDU7e4vX6uNABPRbS.jpg
 ---
 
 Billie Connelly (Sarah Shahi), a married mother of two fantasies about her more wild past are discovered by her husband in this dramedy based on B.B. Easton’s book named 44 Chapters About 4 Men.
+Image poster gotten from themoviedb.org

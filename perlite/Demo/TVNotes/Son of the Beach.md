@@ -10,7 +10,8 @@ User Score: 0
 User Count: 1
 Director: Scott McAboy,Tim Andrew,George Verschoor
 Creator: David Morgasen,Timothy Stack,James R. Stein
-image: 
+image: https://image.tmdb.org/t/p/w500/ssFB61XwVABxRZ0vcBHruqpK45Z.jpg
 ---
 
 A parody of "Baywatch" featuring Malibu Adjacent's world-famous lifeguard, Notch Johnson.
+Image poster gotten from themoviedb.org

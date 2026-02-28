@@ -10,7 +10,8 @@ User Score: 81
 User Count: 1292
 Director: nan
 Creator: Paul Abbott
-image: 
+image: https://image.tmdb.org/t/p/w500/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg
 ---
 
 Set in working-class Chicago, the Gallagher family, a working class family of eight, must survive the ups and downs of today's recession. With a mother who is out of her element and an alcoholic father who usually ends up passed out on the living room floor, 18-year-old daughter Fiona is left with the task of keeping her five younger brothers and sisters on the straight and narrow. This series is based on the UK series of the same name.
+Image poster gotten from themoviedb.org

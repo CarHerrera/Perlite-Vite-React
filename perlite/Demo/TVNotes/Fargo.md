@@ -10,7 +10,8 @@ User Score: 87
 User Count: 3141
 Director: nan
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg
 ---
 
 The series based on the Coen brothers’ Oscar-winning film begins with the arrival of Lorne Malvo (Billy Bob Thornton) to Minnesota. Lorne's actions brings major changes to the lives of insurance salesman Lester Nygaard (Martin Freeman); Officer Molly Solverson (Alison Tolman), the daughter of former chief (Keith Carradine); and Duluth Deputy Gus Grimly (Colin Hanks). Other people in town include grocery chain owner Stavros Milos (Oliver Platt), widow Gina Hess (Kate Walsh), and Deputy Bill Oswalt (Bob Odenkirk).
+Image poster gotten from themoviedb.org

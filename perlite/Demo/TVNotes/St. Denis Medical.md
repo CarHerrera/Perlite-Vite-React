@@ -10,7 +10,8 @@ User Score: 63
 User Count: 15
 Director: nan
 Creator: Eric Ledgin,Justin Spitzer
-image: 
+image: https://image.tmdb.org/t/p/w500/8tUjI21ZcfSynLCk3Zr0Gs5BQwz.jpg
 ---
 
 The staff at Oregon's understaffed St. Denis Medical hospital are at the center of the mockumentary-styled sitcom created by Justin Spitzer and Eric Ledgin.
+Image poster gotten from themoviedb.org

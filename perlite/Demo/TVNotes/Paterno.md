@@ -14,3 +14,4 @@ image:
 ---
 
 Directed by Barry Levinson, the film focuses on Penn State's football coach Joe Paterno (Al Pacino) as the story of the Jerry Sandusky sexual abuse scandal breaks and ultimately leads to Paterno's termination.
+Image poster gotten from themoviedb.org

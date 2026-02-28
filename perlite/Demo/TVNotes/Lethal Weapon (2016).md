@@ -14,3 +14,4 @@ image:
 ---
 
 The 1987 movie is adapted into a television show where former Texan and Navy SEAL Martin Riggs (Clayne Crawford) moves to Los Angeles and is partnered with Roger Murtaugh (Damon Wayans Sr.)
+Image poster gotten from themoviedb.org

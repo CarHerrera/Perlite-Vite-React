@@ -14,3 +14,4 @@ image:
 ---
 
 Directed and narrated by Oliver Stone, the filmmaker behind "JFK," "Nixon," and "W" examines the history of the United States beginning with World War II.
+Image poster gotten from themoviedb.org

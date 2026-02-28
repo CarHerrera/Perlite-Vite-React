@@ -10,7 +10,8 @@ User Score: 35
 User Count: 10
 Director: Nikki Lorre
 Creator: Chuck Lorre,Susan McMartin,Leanne Morgan
-image: 
+image: https://image.tmdb.org/t/p/w500/sILKrYhFK6bedXgDggQD3GmGUUV.jpg
 ---
 
 Leanne (Leanne Morgan) restarts her life after her husband leaves her for another woman after 33 years of marriage with help from her family in the comedy series co-created by Susan McMartin, Chuck Lorre and Morgan.
+Image poster gotten from themoviedb.org

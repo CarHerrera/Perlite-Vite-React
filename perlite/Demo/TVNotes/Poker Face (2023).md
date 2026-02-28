@@ -14,3 +14,4 @@ image:
 ---
 
 With the gift of telling when someone is lying, Charlie (Natasha Lyonne) travels across the country and helps solve crimes in this drama series created by Rian Johnson.
+Image poster gotten from themoviedb.org

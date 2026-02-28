@@ -14,3 +14,4 @@ image:
 ---
 
 The US remake of the 1990s British political miniseries moves the shenanigans to Washington DC. After learning he won't be appointed to a coveted Cabinet position, House Majority Whip Francis Underwood (Kevin Spacey) and his wife Claire plan revenge on the administration he helped elect.
+Image poster gotten from themoviedb.org

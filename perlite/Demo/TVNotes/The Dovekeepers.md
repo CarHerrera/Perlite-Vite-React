@@ -10,7 +10,8 @@ User Score: 43
 User Count: 8
 Director: Yves Simoneau
 Creator: nan
-image: 
+image: https://image.tmdb.org/t/p/w500/s55x7Q0Yp8jSMWfNlO7XpLK6d0k.jpg
 ---
 
 The adaptation of Alice Hoffman's historical novel focuses on the lives of four women (Cote de Pablo, Rachel Brosnahan and Kathryn Prescott) who took care of doves at the mountain fortress of Masada where 900 Jews who were forced out out of Jerusalem by the Romans took refuge in 70 C.E.
+Image poster gotten from themoviedb.org

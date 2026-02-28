@@ -10,7 +10,8 @@ User Score: 68
 User Count: 449
 Director: Dwayne Carey-Hill
 Creator: Matt Groening
-image: 
+image: https://image.tmdb.org/t/p/w500/1WynayCqKRzrl4cFZR8NOfiDwd6.jpg
 ---
 
 The Matt Groening animated comedy follows the adventures of hard-drinking Princess Bean (voiced by Abbi Jacobson), her elf Elfo (voiced by Nat Faxon), and her personal demon Luci (voiced by Eric Andre).
+Image poster gotten from themoviedb.org

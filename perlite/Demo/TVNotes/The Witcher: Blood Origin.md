@@ -10,7 +10,8 @@ User Score: 13
 User Count: 550
 Director: nan
 Creator: Declan De Barra,Andrzej Sapkowski
-image: 
+image: https://image.tmdb.org/t/p/w500/vpfJK9F0UJNcAIIeC42oJyKMnZQ.jpg
 ---
 
 The six-part prequel to The Witcher set 1200 years before Geralt of Rivia tells the story of the first Witcher and the events that led to the conjunction of the spheres.
+Image poster gotten from themoviedb.org

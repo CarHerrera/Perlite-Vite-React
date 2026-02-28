@@ -10,7 +10,8 @@ User Score: 65
 User Count: 22
 Director: nan
 Creator: Matthew Federman,Stephen Scaia
-image: 
+image: https://image.tmdb.org/t/p/w500/xbWqfPKBhqOZQEGq7HdDkX0Bjib.jpg
 ---
 
 Former FBI agent Danny McNamara (Matt Barr) recruits art thief Lexi Vaziri (Sofia Pernas) to help locate his mentor who was kidnapped by a terrorist in this action and adventure drama.
+Image poster gotten from themoviedb.org
