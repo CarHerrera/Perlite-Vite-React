@@ -127,11 +127,27 @@ if(isset($_GET['base'])){
 	}
 	if($globalFilter === ""){
 		$globalFilterCheck = [];
-	} 
+	}
+	$col_names_and_types =  $db->query("PRAGMA table_info(notes)");
+	
+	$column_types = [];
+	while($row = $col_names_and_types->fetchArray($mode = SQLITE3_ASSOC)){
+		$t = [];
+		foreach($row as $key => $val){
+			if($val == null){
+				continue;
+			}
+			$t[$key] = $val;
+		}
+		// array_push($column_types, $t);
+		$column_types[$t['name']] = $t['type'];
+	 }
+
 	$resp = array(
 		"status" => "success",
 		"notes" => $out,
-		"global_filter" => $globalFilterCheck
+		"global_filter" => $globalFilterCheck,
+		"column_types" => $column_types
 	);
 	echo (json_encode($resp));
 } else {

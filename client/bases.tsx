@@ -6,6 +6,7 @@ interface phpOut {
     status: string,
     notes: Record<string, baseJSON>;
     global_filter: string[];
+    column_types: Record<string, string>;
 }
 
 interface baseJSON {
@@ -60,6 +61,8 @@ function Bases({props}: {props:SiteSettings}){
         showSort: false, showFilter: false
     });
     const [getGlobalFilter, setGlobalFilter] = useState<string[]>([]);
+    // let x = new Record<string, string>;
+    const [getColumnInfo, setColumnInfo] = useState<Record<string, string>>({});
     async function getBase(){
         if (pageCheck !== null && pageCheck.includes("base")) {
             document.getElementById("middlePane")!.style.display = "none";
@@ -90,6 +93,7 @@ function Bases({props}: {props:SiteSettings}){
         async function fetchData() {
             const json:phpOut = await getBase();
             if (!ignore) {
+                // console.log(json);
                 setQueryRes(json.notes);
                 setGlobalFilter(json.global_filter);
                 if(json.notes !== undefined && json.status === "success"){
@@ -104,6 +108,7 @@ function Bases({props}: {props:SiteSettings}){
                                 filterType: 1,
                                 query: [["","",""]]
                             }, showSort: false, showFilter: false});
+                            setColumnInfo(json.column_types);
                             
                             
                     }
@@ -143,7 +148,7 @@ function Bases({props}: {props:SiteSettings}){
                     });
             }}>
 
-                <Header notes={getQueryRes} getView={getView} setView={setView} globalFilter={getGlobalFilter} ></Header>
+                <Header notes={getQueryRes} getView={getView} setView={setView} globalFilter={getGlobalFilter} columnInfo={getColumnInfo} ></Header>
                 <BaseItems notes={getQueryRes} props={props} currView={getView}></BaseItems>
             </div>
                 
@@ -346,26 +351,46 @@ function BaseItems({notes, props, currView}:{
         );
     } else {
         // This includes the image and will also make the card clickable to go to the note
-        const img = arr[1]['image']!.slice(3, -3);
-        const title = arr[1]['title']!.split('/');
-        title.pop();    
-        title.shift();
-        const imgSrc= `${props.uriPath}${props.vaultName}/${title.join("/")}/${img}`;
-        card = (
-            <div key={i} className='bases-item' onClick={() => {
-                let encodedURI = decodeURIComponent(arr[1]['title'].slice(2,-3));
-                encodedURI = encodedURI.replaceAll('~', '%80');
-                encodedURI = encodedURI.replaceAll('-', '~');
-                encodedURI = encodedURI.replaceAll(' ', '-');
-                window.location.href = props.uriPath +encodedURI;
-            }}>
-                
-                <img className="bases-img" src={imgSrc}></img>
-                <div className="bases-properties">
-                    {properties}
+        // console.log(arr[1]['image']);
+        if(arr[1]['image']!.includes("[[")){
+            const img = arr[1]['image']!.slice(3, -3);
+            const title = arr[1]['title']!.split('/');
+            title.pop();    
+            title.shift();
+            const imgSrc= `${props.uriPath}${props.vaultName}/${title.join("/")}/${img}`;
+            card = (
+                <div key={i} className='bases-item' onClick={() => {
+                    let encodedURI = decodeURIComponent(arr[1]['title'].slice(2,-3));
+                    encodedURI = encodedURI.replaceAll('~', '%80');
+                    encodedURI = encodedURI.replaceAll('-', '~');
+                    encodedURI = encodedURI.replaceAll(' ', '-');
+                    window.location.href = props.uriPath +encodedURI;
+                }}>
+                    
+                    <img className="bases-img" src={imgSrc}></img>
+                    <div className="bases-properties">
+                        {properties}
+                    </div>
                 </div>
-            </div>
-        );
+            ); 
+        } else {
+            card = (
+                <div key={i} className='bases-item' onClick={() => {
+                    let encodedURI = decodeURIComponent(arr[1]['title'].slice(2,-3));
+                    encodedURI = encodedURI.replaceAll('~', '%80');
+                    encodedURI = encodedURI.replaceAll('-', '~');
+                    encodedURI = encodedURI.replaceAll(' ', '-');
+                    window.location.href = props.uriPath +encodedURI;
+                }}>
+                    
+                    <img className="bases-img" src={arr[1]['image']}></img>
+                    <div className="bases-properties">
+                        {properties}
+                    </div>
+                </div>
+            ); 
+        }
+
     }
     return card;
     })
@@ -373,12 +398,13 @@ function BaseItems({notes, props, currView}:{
     return (<div className="bases-result-container">{html}</div>);
     
 }
-function Header({notes, getView, setView, globalFilter}: 
+function Header({notes, getView, setView, globalFilter, columnInfo}: 
     {
         notes: Record<string, baseJSON> | undefined, 
         getView:view, 
         setView:React.Dispatch<React.SetStateAction<view>>,
-        globalFilter: string[]
+        globalFilter: string[],
+        columnInfo: Record<string, string>
     }){
     
     if(notes == undefined || !getView || !globalFilter){
@@ -391,16 +417,14 @@ function Header({notes, getView, setView, globalFilter}:
             const firstViewName = Object.keys(notes)[0];
             if(firstViewName){
                 setView({
+                    ...getView,
                     viewName: firstViewName,
                     viewType: notes[firstViewName].type,
-                    allViews: false, sortView:false, filterView:false,
                     sortBy:notes[firstViewName].sort, 
                     filterBy: {
                                 filterType: 1,
                                 query: [["", "",""]]
-                    },
-                    addingSort:false, addingFilter:false,
-                    showSort: false, showFilter: false,
+                    }   
             
                 });
             }
@@ -422,16 +446,9 @@ function Header({notes, getView, setView, globalFilter}:
             <div style={{zIndex:"9999"}} key={i} onClick={(e) => {
                 e.stopPropagation();
                 setView({
+                    ...getView,
                     viewName: arr[0],
                     viewType: arr[1].type,
-                    allViews: false, 
-                    sortView:false, 
-                    filterView:false,
-                    sortBy:sort, 
-                    filterBy: getView.filterBy,
-                    addingSort:false, addingFilter:false,
-                    showSort: false, showFilter: false,
-            
                 })
                 
             }}><div className="bases-toolbar-item bases-toolbar-views" >
@@ -446,16 +463,8 @@ function Header({notes, getView, setView, globalFilter}:
             <div style={{zIndex:"9999"}} key={i} onClick={(e) => {
                 e.stopPropagation();
                 setView({
-                    viewName: arr[0],
-                    viewType: arr[1].type,
-                    allViews: false, 
-                    sortView:false, 
-                    filterView:false,
-                    sortBy:sort, 
-                    filterBy: getView.filterBy,
-                    addingSort:false, addingFilter:false,
-                    showSort: false, showFilter: false,
-            
+                    ...getView,
+                    viewName: arr[0], viewType: arr[1].type
                 })
                 
             }}><div className="bases-toolbar-item bases-toolbar-views">
@@ -469,16 +478,23 @@ function Header({notes, getView, setView, globalFilter}:
 
     // This grabs every possible value for each property
     const possibleValues = new Map<string, Set<string>>();
+    // Turn all the notes into an Key, Value pairing
     Array.from(Object.entries(rest)).map((entry) => {
-        
+        // This is just the property names
         const row = Object.keys(entry[1]);
+        // This will go through each property 
         row.forEach((x) => {
+            // Check if it is in poss values already. 
             if(possibleValues.has(x)){
+                // Add the entry to the set 
                 possibleValues.get(x)?.add(entry[1][x]);
+                
             } else {
+                // Not in the poss values. Grab the value and then add it to a set.
                 const data = entry[1][x];
                 const set = new Set<string>;
                 set.add(data);
+                // Once in a set we can add it to poss vals
                 possibleValues.set(x, set);
             }
         })
@@ -510,13 +526,7 @@ function Header({notes, getView, setView, globalFilter}:
         return (<div key={i} style={{display:"flex"}} onClick={(e) =>{
                 e.stopPropagation();
                 setView({
-                            viewName: getView.viewName,
-                            viewType: getView.viewType,
-                            allViews: false, sortView:false, filterView:false,
-                            sortBy: getView.sortBy, filterBy: getView.filterBy,
-                            addingSort:false, addingFilter:false,
-                            showSort: false, showFilter: false,
-                    
+                            ...getView
                         })
             }}>
             <div style={{margin:"10px"}}>
@@ -527,13 +537,8 @@ function Header({notes, getView, setView, globalFilter}:
                 let temp = getView.sortBy; 
                 temp[i].direction = getView.sortBy[i].direction === "ASC" ? "DESC" : "ASC";
                 setView({
-                            viewName: getView.viewName,
-                            viewType: getView.viewType,
-                            allViews: false, sortView:false, filterView:false,
-                            sortBy: temp, filterBy: getView.filterBy,
-                            addingSort:false, addingFilter:false,
-                            showSort: false, showFilter: false,
-                    
+                            ...getView,
+                            sortBy: temp
                         })
             }}>
                 {x.direction}
@@ -542,13 +547,8 @@ function Header({notes, getView, setView, globalFilter}:
                 e.stopPropagation();
                 const filt = getView.sortBy.filter((s) => s.property !== x.property);
                 setView({
-                            viewName: getView.viewName,
-                            viewType: getView.viewType,
-                            allViews: false, sortView:false, filterView:false,
-                            sortBy: filt, filterBy: getView.filterBy,
-                            addingSort:false, addingFilter:false,
-                            showSort: false, showFilter: false,
-                    
+                            ...getView,
+                            sortBy: filt, filterBy: getView.filterBy,                    
                         })
             }}>del</div>
         </div>)
@@ -585,7 +585,12 @@ function Header({notes, getView, setView, globalFilter}:
             
         }
     });
-    const queryConditions = (<>
+    const queryConds: Record<string, string[]> = {
+        "TEXT" : ["is", "is not"],
+        "REAL": ["<", ">"]
+    }
+    console.log(columnInfo);
+    let queryConditions = (<>
         <option value=""></option>
         <option value="is">is</option>
         <option value="is not">is not</option>
@@ -605,9 +610,8 @@ function Header({notes, getView, setView, globalFilter}:
                     getView.filterBy.query[i][0] = e.target.value;
                     getView.filterBy.query[i][2] = [...possibleValues.get(e.target.value)?.values() || []][0];
                     setView({
-                       viewName: getView.viewName, viewType: getView.viewType, allViews: false, 
-                       sortView:false, filterView:true, sortBy:getView.sortBy, filterBy: getView.filterBy,
-                       addingSort:false, addingFilter:false, showSort: false, showFilter: false, 
+                       ...getView,
+                       sortView:false, filterView:true
                     });
                     
                 }}
@@ -618,9 +622,8 @@ function Header({notes, getView, setView, globalFilter}:
                     e.stopPropagation();
                     getView.filterBy.query[i][1] = e.target.value;
                     setView({
-                       viewName: getView.viewName, viewType: getView.viewType, allViews: false, 
-                       sortView:false, filterView:true, sortBy:getView.sortBy, filterBy: getView.filterBy,
-                       addingSort:false, addingFilter:false, showSort: false, showFilter: false, 
+                       ...getView,
+                       sortView:false, filterView:true,   
                     });
                 }} key={i+1} value={q[1]}>
                     {queryConditions}
@@ -629,9 +632,7 @@ function Header({notes, getView, setView, globalFilter}:
                     e.stopPropagation();
                     getView.filterBy.query[i][2] = e.target.value;
                     setView({
-                       viewName: getView.viewName, viewType: getView.viewType, allViews: false, 
-                       sortView:false, filterView:true, sortBy:getView.sortBy, filterBy: getView.filterBy,
-                       addingSort:false, addingFilter:false, showSort: false, showFilter: false, 
+                       ...getView, allViews: false, filterView:true
                     });
                 }} key={i+2} value={q[2]}>
                     {allOptions}
@@ -650,14 +651,7 @@ function Header({notes, getView, setView, globalFilter}:
                     <div className="text-button-label" onClick={(e) => {
                         e.stopPropagation();
                         setView({
-                            viewName: getView.viewName,
-                            viewType: type,
-                            allViews: true, sortView:false, filterView:false,
-                            sortBy:getView.sortBy, filterBy: getView.filterBy,
-                            addingSort:false, addingFilter:false,
-                            showSort: false, showFilter: false,
-                    
-                        })
+                            ...getView, viewType: type, allViews: true, })
                     }}>
                         { getView.viewType === "table" ? 
                             (<><span className="text-button-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="svg-icon lucide-table"><path d="M12 3v18"></path><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M3 9h18"></path><path d="M3 15h18"></path></svg></span>
@@ -678,15 +672,7 @@ function Header({notes, getView, setView, globalFilter}:
                 <div style={{paddingLeft: "10px"}} id="count" className="bases-toolbar-item bases-toolbar-res">Results: {count}</div>
                 <div style={{paddingRight: "10px"}} className="text-button-label" onClick={(e) =>{
                     e.stopPropagation();
-                    setView({
-                            viewName: getView.viewName,
-                            viewType: type,
-                            allViews: false, sortView:true, filterView:false,
-                            sortBy:getView.sortBy, filterBy: getView.filterBy,
-                            addingSort:false, addingFilter:false,
-                            showSort: false, showFilter: false,
-                    
-                        })
+                    setView({ ...getView, viewType: type, sortView:true, })
                     }
                 }>Sort
                 {getView.sortView && (
@@ -699,16 +685,9 @@ function Header({notes, getView, setView, globalFilter}:
                             <div style={{marginInlineStart:"auto", paddingRight: "10px",backgroundColor:"#000"}} onClick={(e) => {
                             e.stopPropagation();
                             setView({
-                                viewName: getView.viewName,
-                                viewType: type,
-                                allViews: false, sortView:false, filterView:false,
-                                sortBy: [], filterBy: getView.filterBy,
-                                addingSort:false, addingFilter:false,
-                                showSort: false, showFilter: false,
-                        
-                            });
-                        }}>
-                            Reset Sort</div>
+                                ...getView, viewType: type, sortView:false, sortBy: []});
+                            }}>
+                                Reset Sort</div>
                         </div>
                         
                         
@@ -737,15 +716,9 @@ function Header({notes, getView, setView, globalFilter}:
                                     direction: "ASC"
                                 }
                                 setView({
-                                    viewName: getView.viewName,
-                                    viewType: type,
-                                    allViews: false, sortView:true, filterView:false,
-                                    sortBy:getView.sortBy === undefined ? [newSort] : [newSort, ...getView.sortBy],  filterBy: getView.filterBy,
-                                    addingSort:false, addingFilter:false,
-                                    showSort: false, showFilter: false,
-                            
+                                    ...getView, viewType: type, sortView:true, 
+                                    sortBy:getView.sortBy === undefined ? [newSort] : [newSort, ...getView.sortBy]
                                 });
-                                
                             }}>
                                 {possSorts}
                             </select>
@@ -760,16 +733,8 @@ function Header({notes, getView, setView, globalFilter}:
                 </div>
                 
                 <div style={{paddingRight: "10px"}} className="text-button-label"  onClick={(e) =>{
-                    e.stopPropagation();
-                    setView({
-                            viewName: getView.viewName,
-                            viewType: type,
-                            allViews: false, sortView:false, filterView:true,
-                            sortBy:getView.sortBy, filterBy: getView.filterBy,
-                            addingSort:false, addingFilter:false,
-                            showSort: false, showFilter: false,
-                    
-                        })
+                        e.stopPropagation();
+                        setView({ ...getView, viewType: type, filterView:true})
                     }
                 }>Filter
                 {
@@ -783,20 +748,14 @@ function Header({notes, getView, setView, globalFilter}:
                             <div style={{marginInlineStart:"auto", paddingRight: "10px",backgroundColor:"#000"}} onClick={(e) => {
                                 e.stopPropagation();
                                 setView({
-                                        viewName: getView.viewName,
-                                        viewType: type,
-                                        allViews: false, sortView:false, filterView:true,
-                                        sortBy: getView.sortBy, 
+                                        ...getView, viewType: type, filterView:true,
                                         filterBy: {
                                             filterType: 1,
                                             query: [["","",""]]
                                         },
-                                        addingSort:false, addingFilter:false,
-                                        showSort: false, showFilter: false
                                     });
                                 }}>
                                 Reset Filters</div>
-
                                 { !getView.addingFilter ? (
                                     <>
                                         <div style={{margin:"10px"}} >This View</div>  
@@ -817,12 +776,7 @@ function Header({notes, getView, setView, globalFilter}:
                                                         }
                                                     }
                                                     setView({
-                                                            viewName: getView.viewName,
-                                                            viewType: type,
-                                                            allViews: false, sortView:false, filterView:true,
-                                                            sortBy: getView.sortBy, filterBy: filter,
-                                                            addingSort:false, addingFilter:false,
-                                                            showSort: false, showFilter: true
+                                                            ...getView, viewType: type, filterView:true, filterBy: filter, showFilter: true
                                                         });
                                                 }}>
                                                     <option value={1}>All of the following are true </option>
@@ -830,11 +784,7 @@ function Header({notes, getView, setView, globalFilter}:
                                                     <option value={3}>None of the following are true    </option>
                                                 </select> 
                                         <div>
-
-                                            
                                             <div>
-                                                
-                                                
                                                 {getView.filterBy.query.length > 1 ? (
                                                     <div>
                                                         Custom Set Filters:
@@ -842,10 +792,7 @@ function Header({notes, getView, setView, globalFilter}:
                                                         <hr style={{margin:"10px", width:"100%"}}></hr>
                                                     </div>) : <>&nbsp;</>}
                                                 Add new filters:
-
-                                            </div>
-                                            
-                                            
+                                            </div> 
                                             <div>
                                                 <br></br>
                                                 <select key={3}  value={getView.filterBy.query[0][0]} onChange={(e) =>{
@@ -871,11 +818,7 @@ function Header({notes, getView, setView, globalFilter}:
                                                         };
                                                     }
                                                     setView({
-                                                            viewName: getView.viewName, viewType: type,
-                                                            allViews: false, sortView:false, filterView:true,
-                                                            sortBy: getView.sortBy, filterBy: filter,
-                                                            addingSort:false, addingFilter:false,
-                                                            showSort: false, showFilter: true
+                                                            ...getView, viewType: type, filterView:true, filterBy: filter, showFilter: true
                                                     });
                                                 }}>
                                                     <option value=""></option>
@@ -903,15 +846,20 @@ function Header({notes, getView, setView, globalFilter}:
                                                                 query: getView.filterBy.query
                                                             };
                                                         }
+                                                        // console.log(queryConds[getView.filterBy.query[0][0]]);
+                                                        console.log(`Fuck: ${queries[0]}`);
+                                                        console.log(queryConds[columnInfo[queries[0]]]);
                                                         setView({
-                                                                viewName: getView.viewName,
-                                                                viewType: type,
-                                                                allViews: false, sortView:false, filterView:true,
-                                                                sortBy: getView.sortBy, filterBy: filter,
-                                                                addingSort:false, addingFilter:false,
-                                                                showSort: false, showFilter: true
+                                                                ...getView, viewType: type, filterView:true, filterBy: filter, showFilter: true
                                                         });
+                                                        console.log(getView.filterBy)
+                                                        queryConditions = queryConds[columnInfo[queries[0]]].map((x,i) => {
+                                                            <option key={i} value={x}>{x}</option>
+                                                        })
                                                     }}>
+                                                    {/* {queryConds[columnInfo[getView.filterBy.query[0][0]]].map((x,i)=> 
+                                                        <option key={i} value={x}>{x}</option>
+                                                    )} */}
                                                     {queryConditions}
                                                 </select>
 
@@ -926,14 +874,8 @@ function Header({notes, getView, setView, globalFilter}:
                                                             ...getView.filterBy.query
                                                             ]
                                                         };
-                                                        
                                                         setView({
-                                                                viewName: getView.viewName,
-                                                                viewType: type,
-                                                                allViews: false, sortView:false, filterView:true,
-                                                                sortBy: getView.sortBy, filterBy: filter,
-                                                                addingSort:false, addingFilter:false,
-                                                                showSort: false, showFilter: true
+                                                                ...getView, viewType: type, filterView:true, filterBy: filter, showFilter: true
                                                         });
                                                         e.target.value = "";
                                                     }}>
@@ -947,10 +889,7 @@ function Header({notes, getView, setView, globalFilter}:
                                         </div>
                                     </>
                                 ) 
-                                :
-                                 (
-                                    <div></div>
-                                    )
+                                : ( <div></div>)
 
                                 }
                             </div>
