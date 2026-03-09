@@ -40,6 +40,7 @@ type view = {
     filterBy: {
         filterType: number,
         query: Query[],
+        compType: string[]
     },
     showFilter: boolean
 }
@@ -56,7 +57,8 @@ function Bases({props}: {props:SiteSettings}){
         }], addingSort:false, addingFilter:false, 
         filterBy: {
             filterType: 1,
-            query: [["", "",""]]
+            query: [["", "",""]],
+            compType: [""]
         },
         showSort: false, showFilter: false
     });
@@ -106,7 +108,8 @@ function Bases({props}: {props:SiteSettings}){
                             sortBy:json.notes[name].sort, addingSort:false, addingFilter:false, 
                             filterBy: {
                                 filterType: 1,
-                                query: [["","",""]]
+                                query: [["","",""]],
+                                compType: [""]
                             }, showSort: false, showFilter: false});
                             setColumnInfo(json.column_types);
                             
@@ -221,6 +224,44 @@ function BaseItems({notes, props, currView}:{
                     case "is not":
                         // Cases where Prop != X
                         if(row[1][prop] !== val){
+                            if(currView.filterBy.filterType === 1){
+                                include.push(true);
+                            } else if(currView.filterBy.filterType === 2){
+                                include.push(true);
+                            } else if (currView.filterBy.filterType === 3) {
+                                include.push(false);
+                            }
+                        } else {
+                            if(currView.filterBy.filterType === 1){
+                                include.push(false);
+                            } else if(currView.filterBy.filterType === 2){
+                                include.push(false);
+                            } else if (currView.filterBy.filterType === 3) {
+                                include.push(true);
+                            }
+                        }
+                        break;
+                    case "<":
+                        if(row[1][prop] < val){
+                            if(currView.filterBy.filterType === 1){
+                                include.push(true);
+                            } else if(currView.filterBy.filterType === 2){
+                                include.push(true);
+                            } else if (currView.filterBy.filterType === 3) {
+                                include.push(false);
+                            }
+                        } else {
+                            if(currView.filterBy.filterType === 1){
+                                include.push(false);
+                            } else if(currView.filterBy.filterType === 2){
+                                include.push(false);
+                            } else if (currView.filterBy.filterType === 3) {
+                                include.push(true);
+                            }
+                        }
+                        break;
+                    case ">":
+                        if(row[1][prop] > val){
                             if(currView.filterBy.filterType === 1){
                                 include.push(true);
                             } else if(currView.filterBy.filterType === 2){
@@ -423,7 +464,8 @@ function Header({notes, getView, setView, globalFilter, columnInfo}:
                     sortBy:notes[firstViewName].sort, 
                     filterBy: {
                                 filterType: 1,
-                                query: [["", "",""]]
+                                query: [["", "",""]],
+                                compType: [""]
                     }   
             
                 });
@@ -586,16 +628,11 @@ function Header({notes, getView, setView, globalFilter, columnInfo}:
         }
     });
     const queryConds: Record<string, string[]> = {
-        "TEXT" : ["is", "is not"],
-        "REAL": ["<", ">"]
+        "":[""],
+        "TEXT" : ["","is", "is not"],
+        "REAL": ["","<", ">"]
     }
-    console.log(columnInfo);
-    let queryConditions = (<>
-        <option value=""></option>
-        <option value="is">is</option>
-        <option value="is not">is not</option>
-        </>
-    );
+    console.log(queryConds[getView.filterBy.compType]);
     const userFilters = getView.filterBy.query.map((q,i) => {
         if(q[0] !== "" && q[1] !== "" && q[2] !== ""){
             
@@ -626,7 +663,7 @@ function Header({notes, getView, setView, globalFilter, columnInfo}:
                        sortView:false, filterView:true,   
                     });
                 }} key={i+1} value={q[1]}>
-                    {queryConditions}
+                    {queryConds[getView.filterBy.compType[i]].map((x,i)=> <option key={i} value={x}>{x}</option>)}
                 </select>
                 <select style={{overflow:"hidden"}} onChange={(e) => {
                     e.stopPropagation();
@@ -696,13 +733,7 @@ function Header({notes, getView, setView, globalFilter, columnInfo}:
                         (<div onClick={(e) => {
                             e.stopPropagation();
                             setView({
-                                viewName: getView.viewName,
-                                viewType: type,
-                                allViews: false, sortView:true, filterView:false,
-                                sortBy: getView.sortBy, filterBy: getView.filterBy,
-                                addingSort:true, addingFilter:false,
-                                showSort: false, showFilter: false,
-                        
+                                ...getView, viewType: type, sortView:true, addingSort:true                        
                             });
                         }}>Add Sort</div >)
                         :
@@ -751,7 +782,8 @@ function Header({notes, getView, setView, globalFilter, columnInfo}:
                                         ...getView, viewType: type, filterView:true,
                                         filterBy: {
                                             filterType: 1,
-                                            query: [["","",""]]
+                                            query: [["","",""]],
+                                            compType: [""]
                                         },
                                     });
                                 }}>
@@ -762,17 +794,19 @@ function Header({notes, getView, setView, globalFilter, columnInfo}:
                                             {activeLocal}
                                             <select style={{margin:"10px"}}  key={2} defaultValue="" onChange={(e) =>{
                                                     e.stopPropagation();
-                                                    let q: Query = ["", "", ""];
+                                                    const q: Query = ["", "", ""];
                                                     let filter;
                                                     if(getView.filterBy === undefined){
                                                         filter = {
                                                             filterType: parseInt(e.target.value),
-                                                            query:[q]
+                                                            query:[q],
+                                                            compType: [""]
                                                         };
                                                     } else {
                                                         filter = {
                                                             filterType: parseInt(e.target.value),
-                                                            query: [q, ...getView.filterBy.query]
+                                                            query: [q, ...getView.filterBy.query],
+                                                            compType: [""]
                                                         }
                                                     }
                                                     setView({
@@ -801,22 +835,29 @@ function Header({notes, getView, setView, globalFilter, columnInfo}:
                                                     let filter: {
                                                         filterType:number,
                                                         query: Query[],
+                                                        compType: string[]
                                                     };
+                                                    // In case there is no query (which shouldn't happen)
                                                     if(getView.filterBy.query.length === 0) {
                                                         queries = [e.target.value, "", ""];
                                                         getView.filterBy.query.push(queries)
+                                                        getView.filterBy.compType.push(columnInfo[queries[0]])
                                                          filter = {
                                                             filterType: getView.filterBy.filterType,
-                                                            query: getView.filterBy.query
+                                                            query: getView.filterBy.query,
+                                                            compType: getView.filterBy.compType
                                                         };
                                                     } else {
+                                                        // Since the queries are a stack, we grab the one on the top and modify it.
                                                         queries = getView.filterBy.query[0];
                                                         queries[0] = e.target.value;
+                                                        getView.filterBy.compType[0] = columnInfo[queries[0]];
                                                         filter = {
                                                             filterType: getView.filterBy.filterType,
-                                                            query: getView.filterBy.query
+                                                            query: getView.filterBy.query,
+                                                            compType: getView.filterBy.compType
                                                         };
-                                                    }
+                                                    }                                                        
                                                     setView({
                                                             ...getView, viewType: type, filterView:true, filterBy: filter, showFilter: true
                                                     });
@@ -830,37 +871,29 @@ function Header({notes, getView, setView, globalFilter, columnInfo}:
                                                         let filter: {
                                                             filterType:number,
                                                             query: Query[],
+                                                            compType: string[]
                                                         };
                                                         if(getView.filterBy.query.length === 0) {
                                                             queries = ["",e.target.value, ""];
                                                             getView.filterBy.query.push(queries)
-                                                            filter = {
-                                                                filterType: getView.filterBy.filterType,
-                                                                query: getView.filterBy.query
-                                                            };
+                                                            filter = {...getView.filterBy};
                                                         } else {
                                                             queries = getView.filterBy.query[0];
                                                             queries[1] = e.target.value;
-                                                            filter = {
-                                                                filterType: getView.filterBy.filterType,
-                                                                query: getView.filterBy.query
-                                                            };
+                                                            filter = {...getView.filterBy};
                                                         }
                                                         // console.log(queryConds[getView.filterBy.query[0][0]]);
-                                                        console.log(`Fuck: ${queries[0]}`);
-                                                        console.log(queryConds[columnInfo[queries[0]]]);
+
                                                         setView({
                                                                 ...getView, viewType: type, filterView:true, filterBy: filter, showFilter: true
                                                         });
-                                                        console.log(getView.filterBy)
-                                                        queryConditions = queryConds[columnInfo[queries[0]]].map((x,i) => {
-                                                            <option key={i} value={x}>{x}</option>
-                                                        })
+
+                                                        
                                                     }}>
                                                     {/* {queryConds[columnInfo[getView.filterBy.query[0][0]]].map((x,i)=> 
                                                         <option key={i} value={x}>{x}</option>
                                                     )} */}
-                                                    {queryConditions}
+                                                    {queryConds[getView.filterBy.compType[0 ]].map((x,i)=> <option key={i} value={x}>{x}</option>)}
                                                 </select>
 
                                                 {(getView.filterBy.query[getView.filterBy.query.length-1][1] !== "" 
@@ -872,7 +905,8 @@ function Header({notes, getView, setView, globalFilter, columnInfo}:
                                                             filterType: getView.filterBy.filterType,
                                                             query: [ ["", "",""] as Query,
                                                             ...getView.filterBy.query
-                                                            ]
+                                                            ],
+                                                            compType: ["", ...getView.filterBy.compType]
                                                         };
                                                         setView({
                                                                 ...getView, viewType: type, filterView:true, filterBy: filter, showFilter: true
