@@ -163,7 +163,7 @@ function Bases({props}: {props:SiteSettings}){
     </>
 }
 
-
+// TODO: Must Error Check the < > and make sure that they are adjustable because they break when you try to change already applied filters. 
 function BaseItems({notes, props, currView}:{
     notes: Record<string, baseJSON> | undefined,
     props:SiteSettings, currView:view | undefined
